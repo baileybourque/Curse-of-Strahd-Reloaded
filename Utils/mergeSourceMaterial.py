@@ -87,7 +87,13 @@ def patch_sentence(sent: str, index) -> str:
     for pat in PATTERNS:
         m = pat.search(sent)
         if m:
-            chapter, scene = m.group(1).split(':', 1)
+            if ":" in m.group(1):
+                split_by = ":"
+            elif "," in m.group(1):
+                split_by = ","
+            else:
+                split_by = " "
+            chapter, scene = m.group(1).split(split_by, 1)
             chapter = chapter.strip()
             scene = scene.strip()
             logger.info(f'Looking up citation for Chapter: {chapter}, Scene: {scene}')
@@ -134,8 +140,6 @@ def patch_files(prefixes, canon_index):
     for reloaded_directory in process_dirs:
         logger.info(f'Processing directory: {reloaded_directory}')
         for infile in reloaded_directory.rglob('*.md'):
-            if not "Escape From Death House" in infile.name:
-                continue
             fullpath = infile.resolve()
             logger.info(f'Processing file: {fullpath}')
             outfile = Path('Patched') / infile.relative_to('.')
