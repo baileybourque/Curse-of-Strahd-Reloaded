@@ -361,6 +361,11 @@ details[open] > summary h3 {
     --background: var(--custom-background-neutral);
   }
 
+  .callout[data-callout="source"] {
+    --highlight: var(--highlight-neutral);
+    --background: var(--custom-background-neutral);
+  }
+
   .callout[data-callout="tip"] {
     --highlight: var(--highlight-friendly);
     --background: var(--custom-background-friendly);
