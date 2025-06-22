@@ -194,6 +194,7 @@ Whether Vargas is present or not, and whether he dies or flees, continue:^[Dialo
 <p>"When last we met, I informed you that I could be a gracious host—but a far less gracious enemy." His frown cuts the corners of his mouth like a knife, his dark brows furrowing his forehead into a deep, cold scowl. "It appears, however, that my words failed to take root. Allow me, then, to reintroduce myself.</p>
 <p>"I am Strahd—lord of Barovia, and master of Ravenloft." His claws tighten around the hilt of his sword, and his eyes burn like fiery coals. "You have stolen items that are <em>not</em> yours to possess. Though you shall wish otherwise, you now have my <em>full and complete attention.</em>"</p>
 </div>
+
 ### Strahd’s Challenge
 As the conversation unfolds, Strahd warns the players that they have "invaded his home, attacked his servants, and stolen his possessions," noting with a growl, that they "have spilled blood on the stones of Castle Ravenloft itself." "Tell me," he adds, his fist tightening around his longsword’s hilt, "whether I would not be justified in spilling blood today to right this wrong."
 
@@ -267,7 +268,7 @@ If any of the players attack him or attempt to stop him from enacting his penalt
 Before departing, whether the players name sufficient penalties or not, Strahd informs them that they have "worn his patience thin." "I once found your boldness amusing," he adds, "but the thread of your lives grows thin." He informs the players that he will need new servants to replenish those he lost in the players’ raid; to this end, he shall visit them nightly to see which among them are worthy of a place in his court and which "are worthy only of a place among my legions—or the worms that writhe in the earth." His form then bursts into a swarm of thousands of bats, which ascend into the sky and fly for Castle Ravenloft to the east.
 
 > [!info]+ **The Tyrant’s Trials**
-> From this point on, until the end of [[Arc T - A Sword of Sunlight]], Strahd visits the players nightly to torment them, as described in [[#R3b. The Tyrant’s First Trial]] and beyond. While most players will struggle to resist Strahd’s machinations—and will prove unable to prevent them until they have obtained the *Sunsword* at the end of [[Arc T - A Sword of Sunlight]]—clever, resourceful, and (occasionally) ruthless players may be able to prevent Strahd from entering their place of rest—or, better yet, from tracking them at all. (See [[#R3b. The Tyrant’s First Trial]] for more information on how Strahd attempts to do so.)
+> From this point on, until the end of [[Arc S - A Sword of Sunlight]], Strahd visits the players nightly to torment them, as described in [[#R3b. The Tyrant’s First Trial]] and beyond. While most players will struggle to resist Strahd’s machinations—and will prove unable to prevent them until they have obtained the *Sunsword* at the end of [[Arc S - A Sword of Sunlight]]—clever, resourceful, and (occasionally) ruthless players may be able to prevent Strahd from entering their place of rest—or, better yet, from tracking them at all. (See [[#R3b. The Tyrant’s First Trial]] for more information on how Strahd attempts to do so.)
 # R3. Town of Vallaki
 ## R3a. Purchasing Cold-Weather Clothing
 The players can purchase cold-weather clothing from <span class="citation">N5. Arasek Stockyard (p. 115)</span> at a price of 10gp per set. If they do, Gunther Arasek asks curiously if the players are "planning a trip to Krezk," adding offhandedly that winter is "a month off yet." (Gunther is just curious, and is trying to make smalltalk. If told that the players expect to journey to Mt. Ghakis, he scoffs and warns them that "there’s nothing on those mountain slopes but barbarians, ice, and death.")
@@ -907,11 +908,11 @@ The players’ arrival at the gatehouse is largely as described in <span class="
 <p>The tower perches upon the lip of an overhanging cliff, which juts out across the churning fog far below.</p>
 </div>
 
-In addition, increase the number of petrified vrocks to four. (If present, Kasimir can identify the demon statues as guardians that attacked him the last time he came here, animating and pursuing him when he tried to bypas the gatehouse by means of a *fly* spell.)
+In addition, increase the number of petrified vrocks to four. (If present, Kasimir can identify the demon statues as guardians that attacked him the last time he came here, animating and pursuing him when he tried to bypass the gatehouse by means of a *fly* spell.)
 
 A player who thinks to present the *amulet of knight’s passage* while within 30 feet of the portcullis can suppress the curtain of flame for 1 minute, as described in [[Arc M - The Dragon's Manor#Argynvost’s Study|Arc M - The Dragon's Manor]].
 
-The guard tower of the gatehouse is as described in <span class="citation">T4. Guard Tower, Ground Floor (p. 157)</span>, <span class="citation">T4. Guard Tower, Upper Floor (p. 159)</span>, and <span class="citation">T6. Guard Tower Rooftop (p. 159)</span>.
+The guard tower of the gatehouse is as described in <span class="citation">T4. Guard Tower, Ground Floor (p. 157)</span>, <span class="citation">T5. Guard Tower, Upper Floor (p. 159)</span>, and <span class="citation">T6. Guard Tower Rooftop (p. 159)</span>.
 ## R4f. The Tyrant’s Second Trial
 No matter where the players choose to rest, the blizzard comes to an end shortly after they begin their long rest. Read:
 
@@ -919,6 +920,7 @@ No matter where the players choose to rest, the blizzard comes to an end shortly
 <p>Gradually, the howling wind fades. The torrent of snow, too, diminishes to mere flurries, then even those settle softly upon the landscape, forming a pristine, untouched expanse beneath the darkened sky above.</p>
 <p>Snow-covered trees stand still, their pale, white-laden boughs almost ethereal as they reflect a faint glimmer of moonlight. In the distance, the mountain’s slopes loom far above them, its tallest peaks vanishing into the low-lying clouds overhead. Though the bitter cold continues to gnaw through the layers of your clothing, a deep, unbroken silence hangs over the world, as though the mountain itself is holding its breath.</p>
 </div>
+
 ### Strahd’s Arrival
 One hour after the players have begun their long rest, Strahd again scries and visits them as described in [[#R3b. The Tyrant’s First Trial]].
 
@@ -1352,7 +1354,7 @@ If the players enter the cave, read:
 > *Ragged, filthy robes cloak this creature’s hunched, skeletal frame. Its arms and legs are long, thin, and bony, ending in elongated, claw-like fingers and twisted, knobbly feet. Its head is a hollow, mask-like visage, its mouth a gaping black maw and its eyes a pair of voidlike sockets.*
 
 > [!info]+ **Disturbing the Bodaks**
-> If the players declare an intention to move quietly down the corridor and succeed on a DC 15 group Dexterity (Stealth) check, the two **bodaks** in [[#The Black Maze]] are dormant when the players first enter. If the players don’t declare such an intention, or if the players fail the check, the bodaks are active when the players first enter.
+> If the players declare an intention to move quietly down the corridor and succeed on a DC 15 group Dexterity (Stealth) check, the two **bodaks** are dormant when the players first enter. If the players don’t declare such an intention, or if the players fail the check, the bodaks are active when the players first enter.
 
 > [!info]+ **The Stalking Bodaks**
 > When dormant, the bodak that was once Cassius dwells in [[#The Western Nest]], while the bodak that was once Deirdre dwells in [[#The Room of Regret]].
@@ -1488,13 +1490,14 @@ Otherwise, if the players entered it via [[#The Room of Regret]], add:
 
 This tunnel leads to [[#The Trash Heap]].
 
-***Treasure.*** A player who investigates the nest finds an old *adventurer’s pack* containing, in addition to its ordinary contents, 12 bloodstained platinum pieces and 56 gold pieces. The pack also contains an old, torn parchment letter. It reads:
+***Treasure.*** A player who investigates the nest finds an old *explorer’s pack* containing, in addition to its ordinary contents, 12 bloodstained platinum pieces and 56 gold pieces. The pack also contains an old, torn parchment letter. It reads:
 
 <div class="description">
 <p>Cassius,</p>
 <p>I know I’m breaking my promise, but I can’t ignore these visions any longer. If there is a way to bring Mother back, I must take it—no matter the risk.</p>
 <p>Deirdre</p>
 </div>
+
 ### The Eastern Nest
 When the players enter this chamber, read:
 
@@ -1546,6 +1549,7 @@ If a player enters this chamber, read:
 <p>The opening leads to a small stone cavern no more than twelve feet across and approximately ten feet high. Its walls, sheathed in ice, form a natural mirror, reflecting your blurry, fractured silhouette across every angle as you pass inside. Every sound here seems amplified, bouncing off the frozen surfaces with an eerie, echoing clarity.</p>
 <p>An enormous, lone icicle hangs from the center of the ceiling, easily three feet tall and ten inches wide at the base. A deep, pulsating red light flickers from something frozen inside of it.</p>
 </div>
+
 ![[Frozen-Vault.png]]
 <span class="credit">"The Frozen Vault" by DM Andy Maps. High resolution versions available <a href="https://www.patreon.com/posts/124574173">here!</a></span>
 
@@ -1603,7 +1607,9 @@ The gap in [[#R4k. The Ice Caves]] bends around the western wall of the entry ca
 <p>The rocky, frost-coated crack broadens into a long, rounded tunnel. Rippled, wave-like ice sheets cover the walls, forming a near-perfect circular passage through the mountain. The ice glimmers faintly, shimmering as if filled with thousands of distant stars.</p>
 <p>The tunnel continues long into the distance ahead, soon vanishing into darkness.</p>
 </div>
+
 ![[The-Cave-of-Daggers.png]]
+
 <span class="credit">"The Cave of Daggers" by DM Andy Maps. High resolution versions available <a href="https://www.patreon.com/posts/124574173">here!</a></span>
 
 If the players follow the tunnel, read:
@@ -1683,7 +1689,7 @@ The den contains 3 pp, 107 gp, 389 sp, 780 cp, seven 10-gp azurites, three 50-gp
 >
 > <hr>
 > 
-> *Ahead, you see a pile of black rags strewn admist a snow bank.*
+> *Ahead, you see a pile of black rags strewn amidst a snow bank.*
 > 
 > <hr>
 >
@@ -1716,7 +1722,7 @@ The shadows are thirteen **forsaken warriors** (see below), and are placed as de
 ![[The Frozen Lake.png]]
 
 > [!info]+ **Slippery Ice**
-> A creature that crawls across slippery ice automatically succeeds on its saving throw against falling prone. 
+> A creature that crawls across doesn't need to make a saving throw to avoid falling prone. 
 >
 > To jump from a square covered in slippery ice, a creature must make a DC 10 Dexterity (Acrobatics) check. On a failure, the creature jumps only half the distance and lands prone. (A creature or object that lands on thin ice in this way is treated as though its weight is five times as heavy. A creature or object that breaks through thin ice generates a loud noise, as described in **icicle cascade** above.)
 
@@ -1797,6 +1803,9 @@ Pause for a moment to allow the players an opportunity to interject. If no playe
 A player who investigates the rectangular foundation of the main hall finds a crumbling hearth set into the sole remaining wall, as well as an assortment of collapsed timber beams rotted into long mounds, a number of rusted iron fittings and hinges, and an assortment of stones that have fallen from the wall where the snow and wind eroded the mortar connecting them.
 
 Investigation of the row of stonework reveals a few post holes where the stable’s main supports once stood. Nothing further remains of the storage shed.
+
+![[The-Twin-Falls_4k_NoGrid_40x50_82PPI_Frozen_Snow.jpg]]
+<span class="credit">"Twin Falls" by DM Andy Maps. High resolution versions available <a href="https://ko-fi.com/s/901b225d88">here!</a></span>
 ### The Shrine
 When a player approaches the shrine, read:
 
@@ -1998,7 +2007,7 @@ As the players enter Soldav, read:
 
 <div class="description">
 <p>The tunnel opens into a mountain crater perhaps a thousand feet across, its walls rising steeply around you like a giant bowl. Snow blankets the ground here in soft layers, broken by a rocky central avenue that splits off into dozens of smaller paths and trails crisscrossed by footprints and animal tracks.</p>
-<p>Nearly two-dozen wooden huts rise from the snow along the crater's edges, their pitched roofs heavy with frost. Elevated stone and wooden terraces, accessible by narrow ledges or wooden ladders, provide access to additional structures hewn from the stone of the crater itself. Other terraces, sown with soil and carefully cleared of any snow, host hardy crops and herbs that sprout defiantly from the frozen earth.</p>
+<p>Nearly two-dozen wooden huts rise from the snow along the crater's edges, their pitched roofs heavy with frost. Elevated stone and wooden terraces, accessible by narrow ledges or wooden ladders, provide access to additional structures hewn from the stone of the crater itself. Other terraces, their recently sown soil carefully cleared of snow, host hardy crops and herbs that sprout defiantly from the frozen earth.</p>
 <p>Across the crater, wooden palisades encircle small pens where handfuls of goats bleat softly. The rocky, muddy central "road" winds between them, ending at a larger longhouse built against the far side of the crater. Smoke curls lazily from its chimney, vanishing amidst a thick layer of white fog that covers the crater's top like a lid.</p>
 <p>The village hums with quiet activity—but at your approach, the rhythm of daily life slows, then falters. A young girl leading a pair of goats toward one of the pens freezes, clutching the animals' ropes with wide eyes, while a trio of men splitting logs lower their axes, murmuring to one another in hushed tones. A group of playing children atop a wooden terrace pause, then stare at you with rapt fascination, while an elderly man sharpening an iron blade stop his hut's wooden step spares only a quiet, wary scowl. Above you, a pair of adolescent sentries peer down curiously from a set of ramshackle wooden scaffolding, a shortbow slung loosely over each teen's shoulder.</p>
 </div>
@@ -2104,6 +2113,7 @@ At nightfall, the Mountain Folk gather in Chief Diegia’s longhouse to celebrat
 <p>It’s not long before laughter and conversation fills the longhouse’s central hall, with well over a hundred Mountain Folk filling the tables around the hearth’s warm glow. The savory aroma of roasted meat mingles with the sweet scene of honeyed mead as villagers pass wooden platters piled high with food. Children dart between tables, their shrill laughter mingling with the melodies of panpipes, flutes, and pounding drums.</p>
 <p>Chief Diegia’s wooden throne is moved aside, making room for a long, low wooden table surrounded by a dozen woolen cushions. You find yourselves beckoned toward it, joining Diegia’s family as they take their places atop the dais overlooking the hall.</p>
 </div>
+
 ### The Keeper of Voices
 As the feast unfolds, Oroles stands from his seat at Diegia’s side, excuses himself, and vanishes past the heavy woolen curtain into the family’s private quarters. (If asked, Diegia or her family share only that Oroles—the tribe’s Keeper of Voices—is "preparing" for his part in the festivities.) A few minutes later, Oroles returns to the main hall. Read:
 
@@ -2135,7 +2145,7 @@ Following the story, Oroles returns to Chief Diegia’s table, removing his head
 Oroles and Diegia can share the following information about Oroles’ story if asked:
 
 * Millenia ago, the Tauta were a group of nomadic tribes seeking sanctuary amidst a world torn by war and conflict. According to legend, the Ladies Three guided them to the valley—Girvisa, now called Barovia—where the Tauta found a home of peace and plenty.
-* According to the story, the valley held a hidden darkness: the Devourer , an entity of dark fog and endless hunger. Enraged by the arrival of the Tauta, the Devourer rose up and blotted out the skies, threatening to extinguish all light in the valley. Only the Ladies
+* According to the story, the valley held a hidden darkness: the Devourer , an entity of dark fog and endless hunger. Enraged by the arrival of the Tauta, the Devourer rose up and blotted out the skies, threatening to extinguish all light in the valley. Only the Ladies held the power to stop it; together, they rose up to destroy it, thereby returning life and light to the valley.
 * None among the Tauta fully know the Ladies’ true nature, be it fey, divine, primordial, or something else altogether. However, for as long as the Tauta have dwelled in the valley or amidst the surrounding mountains, they have placed their faith in the Ladies to guide them—"even now," Diegia says solemnly, "centuries after we have last heard their voices."
 * No one knows what the Devourer was, where it came from, or where its endless hunger came from. However, according to the legend, the Whispering Wall that has long towered above the west side of Yester Hill rose from—or is all that remains of—the Devourer’s corpse. (Oroles proceeds to ask, offhandedly, whether the players have seen Yester Hill and the Whispering Wall.)
 
@@ -2326,7 +2336,7 @@ When the players are ready to depart, Diegia and her family wish them farewell. 
 ## R6a. Sangzor's Test
 Upon departing Soldav, Kasimir can guide the players to the hidden trail that leads from the plateau to the Amber Temple.
 
-This hidden path is largely as described in <span class="citation">Bloodhorn's Charge (p. 160)</span>. However, a half-miled down the path, they automatically notice Sangzor on a crag above them. 
+This hidden path is largely as described in <span class="citation">Bloodhorn's Charge (p. 160)</span>. However, three miles down the path, the players automatically notice Sangzor on a crag above them. 
 
 Modify Sangzor's stats as follows:
 
@@ -2350,8 +2360,3 @@ If Sangzor does not detect any intent to seek the vestiges' power in the players
 Past Sangzor's crag, the narrow road continues another half-mile before passing between two tall, looming cliffs. As the players pass between the cliffs, they arrive at the Amber Temple, whose exterior is as described in <span class="citation">X1. Temple Facade (p. 183)</span>. The players then begin [[Arc S - A Sword of Sunlight]].
 
 ***Milestone.*** Reaching the Amber Temple achieves a story milestone. When the players arrive outside the Amber Temple, award each player 5,000 XP.
-
-> [!tip] **You've Reached the End of the Mists**
-> You’ve reached the end of the current public release of the _Curse of Strahd: Reloaded_ guide.
-> 
-> To get a sneak peek at drafts for [[Arc S - A Sword of Sunlight]], as well as additional outlines and notes for _**Act IV: Secrets of the Ancient**_ and the remainder of the adventure, support the guide by joining the author’s [Patreon](https://www.patreon.com/DragnaCarta).

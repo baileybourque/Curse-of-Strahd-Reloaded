@@ -304,7 +304,7 @@ Whether Ludmilla successfully steals the symbol or not, she then retreats up <sp
 <hr>
 <strong>Armor Class</strong> 15<br>
 <strong>Hit Points</strong> 120 (16d8 + 48)<br>
-<strong>Speed</strong> 30 ft., climb 20 ft.
+<strong>Speed</strong> 30 ft.
 <hr>
 <table class="ability-table">
   <thead>
@@ -411,7 +411,7 @@ Whether Ludmilla successfully steals the symbol or not, she then retreats up <sp
 <p><strong><em>Multiattack.</em></strong> Ludmilla makes two attacks with her claws. She can replace one attack with a mist shards or bite attack.</p>
 <p><strong><em>Claws.</em></strong> <em>Melee Weapon Attack:</em> +6 to hit, reach 5 ft., one target. <em>Hit:</em> 8 (2d4 + 3) slashing damage plus 2 (1d4) necrotic damage. Instead of dealing the slashing damage, Ludmilla can grapple the target (escape DC 14).</p>
 <p><strong><em>Mist Shards.</em></strong> <em>Ranged Weapon Attack:</em> +6 to hit, range 30 ft., one target. <em>Hit:</em> 6 (1d6 + 3) slashing damage plus 3 (1d6) necrotic damage.</p>
-<p><strong><em>Bite.</em></strong> <em>Melee Weapon Attack:</em> +6 to hit, reach 5 ft., one target. <em>Hit:</em> 6 (1d6 + 3) piercing damage plus 7 (2d6) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and Ludmilla regains hit points equal to that amount. The target dies if this effect reduces its hit point maximum to 0. Each time the target finishes a long rest without being bitten again, it can roll one of its hit dice and add its Constitution modifier. The target’s maximum hit points increase by an amount equal to the result. (This increase can’t raise the target’s hit points above its original maximum.)</p>
+<p><strong><em>Bite.</em></strong> <em>Melee Weapon Attack:</em> +6 to hit, reach 5 ft., one willing creature, or a creature that is grappled by Ludmilla, incapacitated, or restrained. <em>Hit:</em> 6 (1d6 + 3) piercing damage plus 7 (2d6) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and Ludmilla regains hit points equal to that amount. The target dies if this effect reduces its hit point maximum to 0. Each time the target finishes a long rest without being bitten again, it can roll one of its hit dice and add its Constitution modifier. The target’s maximum hit points increase by an amount equal to the result. (This increase can’t raise the target’s hit points above its original maximum.)</p>
 <h3>Bonus Actions</h3>
 <p><strong><em>Dissipate.</em></strong> If Ludmilla is heavily obscured by mist or fog, she takes the Hide action.
 <p><strong><em>Asphyxiate.</em></strong> One creature within 30 feet must make a <span class="highlight">DC 14 Constitution saving throw</span>. On a failure, the target's head is surrounded by a vacuum of air for 1 minute, or while Ludmilla maintains her concentration (as if concentrating on a spell). While surrounded by this vacuum, the target is deafened, can't speak, can't breathe (but can hold its breath), and has a number of levels of exhaustion equal to three minus the number of minutes of air it has left (minimum 0). In addition, a target surrounded by this vacuum must succeed on a DC 14 Constitution saving throw at the end of each of its turns or lose 1 minute of air on a failure.<br>&nbsp;&nbsp;&nbsp;&nbsp;The target loses all levels of exhaustion gained in this way if it falls unconscious or the vacuum disappears. The vacuum disappears if Ludmilla takes the Hide action or if the target is ever behind full cover or more than 30 feet away from her.</p>
@@ -739,7 +739,7 @@ The vampire attacks if noticed, or if any player enters this area alone.
 ### Butler’s Quarters
 <span class="citation"><em>This scene takes place in Chapter 4, Area K66.</em></span>
 
-This area is largely as described in <span class="citation">K66. Butler’s Quarters (p. 78)</span>. However, a hungry **vampire spawn** lurks hidden in the shadowed corners of the ceiling. A player with a passive Wisdom (Perception) score of 16 or higher notices a silhouette stirring in the southwest corner.
+This area is largely as described in <span class="citation">K66. Butler’s Quarters (p. 78)</span>. However, the clutter in the room was not collected by Cyrus, and a hungry **vampire spawn** lurks hidden in the shadowed corners of the ceiling. A player with a passive Wisdom (Perception) score of 16 or higher notices a silhouette stirring in the southwest corner.
 
 The vampire attacks if noticed, or if any player enters this area alone.
 # P6. King’s Apartments
@@ -1289,7 +1289,7 @@ The wooden spoon belongs to Cyrus Belview. If the players are visible to the zom
 <p>The figures swivel their heads and eyes toward you, but make no move to attack.</p>
 </div>
 
-Each alcove is occupied by four **zombies**, except for the back-left alcove. In each of the four central alcoves, one of the four zombies is a **zombie plague spreader** (<span class="citation">Van Richten’s Guide to Ravenloft, p. 255</span>) with the following modifications:
+Each alcove is occupied by four **zombies**, except for the back-left alcove. In the second and fourth rows, one of the four zombies in each alcove is a **zombie plague spreader** (<span class="citation">Van Richten’s Guide to Ravenloft, p. 255</span>) with the following modifications:
 
 * Increase each plague spreader's hit points to 130
 * Decrease the necrotic damage dealt by a plague spreader’s ***slam*** to 5 (1d8), and decrease the damage dealt by its ***virulent miasma*** to 7 (2d6) poison damage per creature.
@@ -1452,12 +1452,29 @@ This area is largely as described in <span class="citation">K20. Heart of Sorrow
 ### North Tower Stair
 <span class="citation"><em>This scene takes place in Chapter 4, Area K20.</em></span>
 
-This area is largely as described in <span class="citation">K20. Heart of Sorrow (p. 59)</span>.
+This area is largely as described in <span class="citation">K20. Heart of Sorrow (p. 59)</span>. In addition, when the players arrive at this level, read:
+
+<div class="description">
+<p>The landing is flanked by spiral stone stairs, one vanishing into the tower’s peak above, the other descending into the darkness far below. Ten tarnished halberds hang from mounts above the stairs, their rusted steel glinting wickedly with each flash of lightning.</p>
+<p>The flickering red glow seems to emanate from a large, misshapen object hovering at the tower’s hollow center—and as you step foot upon the landing, the light suddenly flares to life. Floating ten feet above the landing is a ten-foot-diameter human heart forged of red crystal, its depths thrumming with a deep, scarlet light. A sliver of utter darkness, no more than a few inches long, swirls slowly within its depths.</p>
+</div>
+
 
 > [!info]+ **The Heart of Sorrow**
 > The Heart of Sorrow is largely as described in  <span class="citation">K20. Heart of Sorrow (p. 59)</span>. However, it is immune to all damage, and no **vampire spawn** attack characters that attack it. In addition, rather than shaking the tower on initiative count 10 each round, the Heart shakes the tower each time the players attempt to ascend an additional story toward the Heart.
 >
 > A character who fails the Dexterity saving throw against the shaking tower and falls as a result can catch themselves on the edge of the stairs by succeeding on a DC 20 Dexterity saving throw. A character adjacent to a falling character can catch them by succeeding on a DC 10 Dexterity saving throw.
+
+ > [!info]+ **The Sliver of Darkness**
+> The sliver of darkness is the vestige of the Devourer, the fourth sister of the three Ladies of the Fanes. Once known as the Dreamer, she grew envious of the love the First Folk bore for her sisters and forsook her place among them, becoming the Devourer. 
+>
+> The Ladies—the Seeker, the Weaver, and the Huntress—mournfully struck their youngest sister down to protect the people of the valley. The Devourer’s corpse became the Whispering Wall at Yester Hill, but a god cannot fully die. Many years later, the wizards of the Amber Temple came upon the Devourer’s divine spark and sealed it in an amber sarcophagus at the Amber Temple.
+>
+> The Devourer was a master of the magic of souls—and so when Strahd first learned of the Grand Conjunction, he realized he could use her knowledge to construct his scheme to escape the Mists. He extracted the vestige of the Devourer from her amber prison in <span class="citation">X33d. Breached Vault (p. 192)</span> and forcefully resealed her in the Heart of Sorrow, where he could call upon her power and knowledge at will. 
+>
+> The Devourer is no willing participant in Strahd’s schemes. However, while entrapped in the Heart of Sorrow, she is powerless to resist his torments.
+
+
 ## P10g. Garrison, Sixth Floor
 ### General’s Landing
 <span class="citation"><em>This scene takes place in Chapter 4, Area K20.</em></span>
@@ -1782,12 +1799,13 @@ On initiative count 20 of each subsequent round, the oil spreads an additional f
 <p><strong><em>Blood Frenzy.</em></strong> Volenta has advantage on melee attack rolls against any creature that doesn't have all its hit points.</p>
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> Volenta makes two attacks, only one of which can be a bite attack. If both attacks hit, she can immediately make one additional attack.</p>
-<p><strong><em>Bite.</em></strong> <em>Melee Weapon Attack:</em> +6 to hit, reach 5 ft., one willing creature, or a creature that is grappled by Volenta, incapacitated, or restrained. <em>Hit:</em> 6 (1d6 + 3) piercing damage plus 7 (2d6) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and Volenta regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.</p>
+<p><strong><em>Bite.</em></strong> <em>Melee Weapon Attack:</em> +6 to hit, reach 5 ft., one willing creature, or a creature that is grappled by Volenta, incapacitated, or restrained. <em>Hit:</em> 6 (1d6 + 3) piercing damage plus 7 (2d6) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and Volenta regains hit points equal to that amount. The target dies if this effect reduces its hit point maximum to 0. Each time the target finishes a long rest without being bitten again, it can roll one of its hit dice and add its Constitution modifier. The target’s maximum hit points increase by an amount equal to the result. (This increase can’t raise the target’s hit points above its original maximum.</p>
 <p><strong><em>Claws.</em></strong> <em>Melee Weapon Attack:</em> +6 to hit, reach 5 ft., one creature. <em>Hit:</em> 8 (2d4 + 3) slashing damage. Instead of dealing damage, Volenta can grapple the target (escape DC 13).</p>
 <h3>Bonus Actions</h3>
 <p><strong><em>Leap.</em></strong> Volenta moves up to her speed without provoking opportunity attacks. As she does, she can replace 10 feet of movement with a 10-foot high jump.</p>
 <p><strong><em>Dislocate.</em></strong> Volenta dislocates her joints, automatically escaping any nonmagical restraints, such as manacles or a creature that has her grappled.</p>
 <h3>Reactions</h3>
+<p>Volenta can take up to three reactions per round, but only one per turn. If Volenta would lose her reactions and isn't incapacitated, she loses one reaction instead.</p>
 <p><strong><em>Spit Blood.</em></strong> In response to taking damage from a melee attack, Volenta spits a wad of blood at the attacking creature's eyes, forcing it to make a DC 15 Dexterity saving throw. On a failure, the creature is blinded until the end of its next turn.</p>
 <p><strong><em>Aggress.</em></strong> In response to taking damage from an attack or spell, Volenta moves up to her speed toward a hostile creature she can see without provoking opportunity attacks.</p>
 <p><strong><em>Abscond.</em></strong> In response to escaping a grapple, Volenta uses her <strong><em>leap</em></strong> feature.</p>
@@ -1891,7 +1909,7 @@ This row of crypts is largely as described in <span class="citation">Crypt 1 (p.
 
 Players who exit <span class="citation">K81. Tunnel (p. 84)</span> via Crypt 1, or who approach the intersection between Crypts 2, 7, and 8 observe a human corpse lying on the stone floor just south of <span class="citation">Crypt 2 (p. 87)</span>. (The corpse is a **zombie. See below for more information.**)
 #### North Crypts, Second Row
-This row of crypts is largely as described in <span class="citation">Crypt 7 (p. 87)</span>, <span class="citation">Crypt 8 (p. 87)</span>, <span class="citation">Crypt 9 (p. 87)</span>, <span class="citation">Crypt 10 (p. 87)</span>, and <span class="citation">Crypt 11 (p. 87)</span>. However, a player who picks up Tasha Petrovna’s holy symbol in <span class="citation">Crypt 11 (p. 87)</span> does not hear a message.
+This row of crypts is largely as described in <span class="citation">Crypt 7 (p. 87)</span>, <span class="citation">Crypt 8 (p. 87)</span>, <span class="citation">Crypt 9 (p. 87)</span>, <span class="citation">Crypt 10 (p. 87)</span>, and <span class="citation">Crypt 11 (p. 87)</span>. However, Tasha Petrovna’s holy symbol in <span class="citation">Crypt 11 (p. 87)</span> is not present; instead, it is currently worn by Father Lucian in Vallaki.
 
 In addition, a human corpse lies sprawled across the floor immediately south of <span class="citation">Crypt 2 (p. 87)</span>. If approached, the corpse rises as a **zombie** and attacks.
 
@@ -2058,7 +2076,6 @@ This row of crypts is largely as described in <span class="citation">Crypt 35 (p
 <hr>
 <p><strong><em>Screams of the Dead.</em></strong> Any creature within 10 feet of Rahadin that isn't protected by a <em>mind blank</em> spell hears in its mind the screams of the thousands of people Rahadin has killed.</p>
 <p><strong><em>Fey Ancestry.</em></strong> Rahadin has advantage on saving throws against being charmed, and magic can't put him to sleep.</p>
-<p><strong><em>Indomitable.</em></strong> If Rahadin would fail a saving throw, he can choose to succeed instead. If he does so, he is hindered until the end of his next turn. While hindered, he is slowed, can use one less reaction per round, and can't use his multiattack. (A creature can be hindered multiple times. Each additional time a creature is hindered, it loses an additional reaction (minimum zero). Other effects of being hindered don't stack.)
 <p><strong><em>Innate Spellcasting.</em></strong> Rahadin's innate spellcasting ability is Intelligence. He can innately cast the following spells, requiring no components:<br>
 - 3/day: phantom steed<br>
 - 1/day: nondetection</p>
@@ -2073,6 +2090,7 @@ This row of crypts is largely as described in <span class="citation">Crypt 35 (p
 <p><strong><em>Whirling Blades.</em></strong> Each creature within 10 feet of Rahadin must make a DC 19 Dexterity saving throw, taking 7 (2d6) slashing damage on a failed save, or half as much damage on a successful one.</p>
 <h3>Reactions</h3>
 <p>Rahadin can take up to three reactions per round, though no more than one per turn. If Rahadin would lose his reactions and isn't incapacitated, he loses one reaction instead.</p>
+<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Rahadin can repeat the saving throw against one effect or condition currently affecting it. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
 <p><strong><em>Punishing Strike.</em></strong> When Rahadin is hit by a melee or ranged attack, he can use his reaction to move up to his speed toward the attacker and make an attack with his saber. This movement doesn't trigger opportunity attacks.</p>
 <p><strong><em>Disarm.</em></strong> When an enemy misses Rahadin with a melee attack while wielding a weapon, he can use his reaction to force that enemy to make a DC 19 Strength saving throw, with advantage if the enemy is holding the weapon with two hands. On a failure, the enemy drops the item, which is knocked 10 feet away.</p>
 <p><strong><em>Misty Step (1/round).</em></strong> When an enemy misses Rahadin with an attack or deals damage to him, he can use his reaction to cast <em>misty step</em>. He can then immediately take the Hide action. Rahadin doesn't need to see his destination when casting <em>misty step</em> in this way.</p>
@@ -2126,7 +2144,6 @@ This row of crypts is largely as described in <span class="citation">Crypt 35 (p
 <hr>
 <p><strong><em>Screams of the Dead.</em></strong> Any creature within 10 feet of Rahadin that isn't protected by a <em>mind blank</em> spell hears in its mind the screams of the thousands of people Rahadin has killed.</p>
 <p><strong><em>Fey Ancestry.</em></strong> Rahadin has advantage on saving throws against being charmed, and magic can't put him to sleep.</p>
-<p><strong><em>Indomitable.</em></strong> If Rahadin would fail a saving throw, he can choose to succeed instead. If he does so, he is hindered until the end of his next turn. While hindered, he is slowed, can use one less reaction per round, and can't use his multiattack. (A creature can be hindered multiple times. Each additional time a creature is hindered, it loses an additional reaction (minimum zero). Other effects of being hindered don't stack.)
 <p><strong><em>Mask of the Wild.</em></strong> Rahadin can attempt to hide even when he is only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.</p>
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> Rahadin makes three attacks with his scimitars <strong><em>Thorn</em></strong> and/or <strong><em>Chain</em></strong>. He can replace one attack with his <strong><em>haunt</em></strong> feature.
@@ -2138,6 +2155,7 @@ This row of crypts is largely as described in <span class="citation">Crypt 35 (p
 <p><strong><em>Swift Step.</em></strong> Rahadin takes the Dash or Disengage action.
 <h3>Reactions</h3>
 <p>Rahadin can take up to three reactions per round, though no more than one per turn. If Rahadin would lose his reactions and isn't incapacitated, he loses one reaction instead.</p>
+<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Rahadin can repeat the saving throw against one effect or condition currently affecting it. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
 <p><strong><em>Parry.</em></strong> Rahadin adds +5 to his Armor Class against one melee or ranged attack that would hit him or to the result of a failed Dexterity saving throw, or takes no damage from <em>magic missile</em> this turn. If he causes a melee attack to miss in this way, he can then immediately use an additional reaction, if available, to use his Riposte against the attacker.</p>
 <p><strong><em>Riposte.</em></strong> When an enemy misses Rahadin with a melee attack, he can use his reaction to move up to his speed to an unoccupied space within 5 feet of that enemy without triggering opportunity attacks. He can then immediately make an attack with <strong><em>Thorn</em></strong> or <strong><em>Chain</em></strong> attack against that enemy with advantage.</p>
 <p><strong><em>Amulet of Ravenloft (1/day).</em></strong> When Rahadin is reduced to 50 hit points or fewer, he can use his reaction to end all effects currently affecting him, and use the <em>Amulet of Ravenloft</em> (see below). If he was reduced to 0 hit points, he drops to 1 hit point instead and suffers an internal injury as described in <span class="citation">Lingering Injuries (Dungeon Master's Guide, p. 272)</span>. He can then move up to his speed without triggering opportunity attacks.</p>
