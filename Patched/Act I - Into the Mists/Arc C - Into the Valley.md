@@ -60,6 +60,32 @@ The players can attempt to lure the zombies away from the clearing; given the zo
 If the players reach the oak tree, they can find Van Richten’s weapons cache where Doru told them: in a hollow nestled beneath the tree’s roots. The cache itself is a small, unlocked wooden chest containing 20 silvered crossbow bolts, a light crossbow, two *healer’s kits*, two vials of *holy water*, and one *potion of healing.*
 # C2. River Ivlis Crossroads
 <span class="citation"><em>This scene takes place in Chapter 2: Area F.</em></span>
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/the-lands-of-barovia#FRiverIvlisCrossroads
+> 
+> 
+> Check for a [random encounter](https://www.dndbeyond.com/sources/dnd/cos/the-lands-of-barovia#RandomEncounters "random encounter") whenever the characters reach [area F](https://www.dndbeyond.com/sources/dnd/cos/the-lands-of-barovia#FRiverIvlisCrossroads "area F"), unless they are accompanied by Vistani.
+> 
+> An old wooden gallows creaks in a chill wind that blows down from the high ground to the west. A frayed length of rope dances from its beam. The well-worn road splits here, and a signpost opposite the gallows points off in three directions: Barovia Village to the east, Tser Pool to the northwest, and Ravenloft/Vallaki to the southwest. The northwest fork slants down and disappears into the trees, while the southwest fork clings to an upward slope. Across from the gallows, a low wall, crumbling in places, partially encloses a small plot of graves shrouded in fog.
+> 
+> The northwest fork leads down to the river and [area G](https://www.dndbeyond.com/sources/dnd/cos/the-lands-of-barovia#GTserPoolEncampment "area G"). The road southwest leads to [area H](https://www.dndbeyond.com/sources/dnd/cos/the-lands-of-barovia#HTserFalls "area H"). The east road leads to an arching stone bridge and continues on to the village of Barovia ([area E](https://www.dndbeyond.com/sources/dnd/cos/the-lands-of-barovia#EVillageofBarovia "area E")). If the characters are traveling with Vistani, the Vistani lead them along the northwest road to the Vistani encampment.
+> 
+> The gallows stand atop a rotting platform 5 feet high, with wooden stairs leading up to it.
+> 
+> Eleven graves are here with blank gravestones. The forgotten people buried here were hanged from the gallows. Characters who dig up the graves find rotted coffins containing moldy bones.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-lands-of-barovia#TheHangedOne)The Hanged One
+> 
+> As the characters leave the area, read:
+> 
+> You hear a creaking noise behind you, coming from the gallows. Where there was nothing before now hangs a lifeless, gray body. The breeze turns the hanged figure slowly, so that it can fix its dead eyes upon you.
+> 
+> One random character sees him- or herself hanging from the gallows. The other characters see an unfamiliar Barovian. The corpse looks and smells real, and it rapidly melts away into nothing if touched or moved.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-lands-of-barovia#FortunesofRavenloft)Fortunes of Ravenloft
+> 
+> If your card reading reveals that a treasure is here, it is buried in one of the graves. For each grave the characters dig up, there’s a cumulative 10 percent chance of finding the treasure.
+> 
+
 
 As the players approach this area, the drizzling rain stops. Read:
 
@@ -323,6 +349,66 @@ If she learns that the players plan to travel to Vallaki, Muriel travels with th
 
 # C4. Tser Pool
 <span class="citation"><em>This scene takes place in Chapter 2: Area G.</em></span>
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/the-lands-of-barovia#GTserPoolEncampment
+> 
+> 
+> The road gradually disappears and is replaced by a twisted, muddy path through the trees. Deep ruts in the earth are evidence of the comings and goings of wagons.
+> 
+> The canopy of mist and branches suddenly gives way to black clouds boiling far above. There is a clearing here, next to a river that widens to form a small lake several hundred feet across. Five colorful round tents, each ten feet in diameter, are pitched outside a ring of four barrel-topped wagons. A much larger tent stands near the shore of the lake, its sagging form lit from within. Near this tent, eight unbridled horses drink from the river.
+> 
+> The mournful strains of an accordion clash with the singing of several brightly clad figures around bonfire. A footpath continues beyond this encampment, meandering north between the river and the forest’s edge.
+> 
+> The eight [draft horses](https://www.dndbeyond.com/monsters/16844-draft-horse) drinking from the river are used to pull the Vistani wagons and aren’t easily startled.
+> 
+> If the characters are brought to this camp by the Vistani, their escorts remain at the camp and don’t accompany the adventuring party any farther.
+> 
+> Twelve Vistani (male and female human [bandits](https://www.dndbeyond.com/monsters/16798-bandit)) are standing and sitting around the fire, telling stories and guzzling wine. They are intoxicated and have disadvantage on attack rolls and ability checks. Three sober Vistani (male and female human [bandit captains](https://www.dndbeyond.com/monsters/16799-bandit-captain)) are resting in three of the four wagons but leap quickly into action if an alarm is raised.
+> 
+> Although the Vistani in this camp are in league with Strahd, they attack only if the characters provoke them with threats or insults. Otherwise, the characters are offered flasks of wine and invited to join the reverie.
+> 
+> If the characters linger at the camp, continue with “A Vistana’s Tale” below. If they seem in a hurry to leave, one of the Vistani tells them, “It was fated that you would visit our humble camp. Madam Eva foretold your coming. She awaits you.” The Vistana then points to the largest tent. If the characters head that way, continue with “Madam Eva’s Tent.”
+> 
+> [![](https://www.dndbeyond.com/attachments/thumbnails/1/716/850/522/cos02-06.jpg)](https://www.dndbeyond.com/attachments/1/716/cos02-06.jpg)
+> 
+> Map 2.2: Tser Pool Encampment [View Player Version](https://media-waterdeep.cursecdn.com/attachments/2/766/cos202.jpg)
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-lands-of-barovia#AVistanasTale)A Vistana’s Tale
+> 
+> If the characters linger by the fire, one of the Vistani recounts the following tale:
+> 
+> A mighty wizard came to this land over a year ago. I remember him like it was yesterday. He stood exactly where you’re standing. A very charismatic man, he was. He thought he could rally the people of Barovia against the devil Strahd. He stirred them with thoughts of revolt and bore them to the castle en masse. “When the vampire appeared, the wizard’s peasant army fled in terror. A few stood their ground and were never seen again.
+> 
+> “The wizard and the vampire cast spells at each other. Their battle flew from the courtyards of Ravenloft to a precipice overlooking the falls. I saw the battle with my own eyes. Thunder shook the mountainside, and great rocks tumbled down upon the wizard, yet by his magic he survived. Lightning from the heavens struck the wizard, and again he stood his ground. But when the devil Strahd fell upon him, the wizard’s magic couldn’t save him. I saw him thrown a thousand feet to his death. I climbed down to the river to search for the wizard’s body, to see if, you know, he had anything of value, but the River Ivlis had already spirited him away.”
+> 
+> The Vistana storyteller doesn’t remember the wizard’s name, but recalls that it sounded important. If the characters haven’t spoken with Madam Eva, the storyteller urges them to do so.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-lands-of-barovia#MadamEvasTent)Madam Eva’s Tent
+> 
+> If the characters decide to see Madam Eva, read:
+> 
+> Magic flames cast a reddish glow over the interior of this tent, revealing a low table covered in a black velvet cloth. Glints of light seem to flash from a crystal ball on the table as a hunched figure peers into its depths. As the crone speaks, her voice crackles like dry weeds. “At last you have arrived!” Cackling laughter bursts like mad lightning from her withered lips.
+> 
+> [Madam Eva](https://www.dndbeyond.com/monsters/17366-madam-eva) (see [appendix D](https://www.dndbeyond.com/sources/cos/appendix-d-monsters-and-npcs#MadamEva "appendix D")) speaks the name of each party member and makes some reference to that individual’s past deeds. She then asks the characters if they want their fortunes read. If they say yes, Madam Eva produces a worn deck of cards and proceeds with the sequence outlined in [chapter 1](https://www.dndbeyond.com/sources/cos/into-the-mists#CardReading "chapter 1"). (If the characters don’t want a reading of their fates, continue play using the card reading you performed before starting the adventure.)
+> 
+> Madam Eva might seem mad, but she is, in fact, cunning and sharp of mind. She has met a good many adventurers in her time and knows they can’t be fully trusted. She wants to free the land of Barovia from its curse, and her fate is interwoven with Strahd’s (see [appendix D](https://www.dndbeyond.com/sources/cos/appendix-d-monsters-and-npcs#MadamEva "appendix D") for details). She does the vampire’s bidding when called upon and does nothing to anger Strahd or bring harm to the Vistani. She never gives aid and never asks for any.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-lands-of-barovia#Treasure)Treasure
+> 
+> For each Vistani tent or wagon that the characters search, roll once on the following table to determine what treasure is found:
+> 
+> |d20|Treasure|
+> |---|---|
+> |1–10|None|
+> |11–13|Sack of 100 ep (each coin stamped with Strahd’s visage in profile)|
+> |14–16|Pouch containing 4d6 gemstones worth 100 gp each|
+> |17–19|Sack containing 3d6 pieces of cheap jewelry worth 25 gp total and 1d6 pieces of fine jewelry worth 250 gp each|
+> |20|One magic item (roll once on [Magic Item Table B](https://www.dndbeyond.com/sources/dmg/treasure#MagicItemTableB "Magic Item Table B") in the [Dungeon Master’s Guide](https://www.dndbeyond.com/sources/dmg "Dungeon Master’s Guide"))|
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-lands-of-barovia#FortunesofRavenloft2)Fortunes of Ravenloft
+> 
+> If your card reading reveals that a treasure is here, it is hidden in one of the Vistani wagons. Madam Eva grants the characters permission to search the wagons if they ask, and any such search yields the treasure.
+> 
+
 
 The journey from the River Ivlis Crossroads to the Tser Pool Encampment is one-and-a-half miles long and takes thirty minutes.
 
@@ -757,6 +843,24 @@ As the players depart this area, a player with a passive Wisdom (Perception) sco
 > The two wolves are **werewolves** in wolf form. Bloodthirsty brutes loyal to Kiril Stoyanovich and Strahd von Zarovich, they will reappear to stalk the players in [[#C11. The Werewolves' Hunt]].
 ## C7b. Tser Falls
 <span class="citation"><em>This scene takes place in Chapter 2: Area H.</em></span>
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/the-lands-of-barovia#HTserFalls
+> 
+> 
+> If the characters reach area H by following the footpath from the Vistani encampment ([area G](https://www.dndbeyond.com/sources/dnd/cos/the-lands-of-barovia#GTserPoolEncampment "area G")), read:
+> 
+> You follow the river to the base of a canyon, at the far end of which a great waterfall spills into a pool, billowing forth clouds of cold mist. A great stone bridge spans the canyon nearly one thousand feet overhead.
+> 
+> If the characters are on the high road instead, read:
+> 
+> You follow the dirt road as it clings to the side of a mountain and ends before an arching bridge of mold-encrusted stone that spans a natural chasm. Gargoyles cloaked in black moss perch on the corners of the bridge, their frowns weatherworn. On the mountainous side of the bridge, a waterfall spills into a misty pool nearly a thousand feet below. The pool feeds a river that meanders into the fog-shrouded pines that blanket the valley.
+> 
+> The chasm’s walls are slippery and sheer, and can’t be scaled without the aid of magic or a climber’s kit.
+> 
+> The bridge is slick with moisture but safe to cross. The road south of the bridge leads down the mountainside to [area F](https://www.dndbeyond.com/sources/dnd/cos/the-lands-of-barovia#FRiverIvlisCrossroads "area F"); the road north cuts through the mountains to [area I](https://www.dndbeyond.com/sources/dnd/cos/the-lands-of-barovia#IBlackCarriage "area I").
+> 
+> The gargoyles on the bridge are harmless sculptures.
+> 
+
 
 This area is largely as described in <span class="citation">Tser Falls (p. 37)</span>. Additionally, when the players arrive, they can see a <span class="citation">revenant (p. 31)</span> standing alone at the midpoint of the bridge with its hands resting on the pommel of its sword, the blade of which is planted firmly on the ground. 
 
@@ -806,6 +910,20 @@ Before the players depart, the revenant warns them to beware "those who walk in 
 The revenant will not leave its post on the bridge under any circumstances.
 # C8. Black Carriage
 <span class="citation"><em>This scene takes place in Chapter 2: Area I.</em></span>
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/the-lands-of-barovia#IBlackCarriage
+> 
+> 
+> Even here, in the mountains, the forest and the fog are inescapable. Ahead, the dirt road splits in two, widening toward the east. There you see patches of cobblestone, suggesting that the eastern branch was once an important thoroughfare.
+> 
+> If Strahd has invited the characters to Castle Ravenloft or otherwise wants to steer them in his direction, add:
+> 
+> Parked at the fork in the road, pointed east, is a large black carriage drawn by two black horses. The horses snort puffs of steamy breath into the chill mountain air. The side door of the carriage swings open silently.
+> 
+> The two black [draft horses](https://www.dndbeyond.com/monsters/16844-draft-horse) are under Strahd’s control. The horses wait for the characters to pile into the carriage if they so desire. There is room inside for eight of them. If they get into the carriage, the horses draw it down the road to [area J](https://www.dndbeyond.com/sources/dnd/cos/the-lands-of-barovia#JGatesofRavenloft "area J"). The horses can’t be discouraged from their course, not even by a skilled teamster.
+> 
+> Characters who don’t want to travel east in the carriage can follow the road northwest through a set of iron gates ([area B](https://www.dndbeyond.com/sources/dnd/cos/the-lands-of-barovia#BGatesofBarovia "area B")) that open as they approach and close behind them, or the characters can travel south along the winding road to the bridge at Tser Falls ([area H](https://www.dndbeyond.com/sources/dnd/cos/the-lands-of-barovia#HTserFalls "area H")).
+> 
+
 
 The journey from Tser Falls to the <span class="citation">Black Carriage (p. 37)</span> is one-and-a-half miles and takes thirty minutes. As the players make this journey, read:
 
@@ -821,6 +939,20 @@ The journey from the Black Carriage to the western **Gates of Barovia** is a qua
 > If the players decide to visit Castle Ravenloft (e.g., to investigate Gertruda's disappearance), the journey from the crossroads is two-and-one-half miles long and takes fifty minutes. When the players arrive, the exterior of the castle is as described in [[Arc P - Ravenloft Heist#P2b. Approaching the Castle|Arc P - Ravenloft Heist]].
 # C9. Old Bonegrinder
 <span class="citation"><em>This scene takes place in Chapter 6: Area O.</em></span>
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/old-bonegrinder#O4DomedAttic
+> 
+> 
+> You’ve reached the windmill’s peak — a domed chamber filled with old machinery. There’s not much room to move around. Light slips into this attic through small holes in the walls.
+> 
+> Characters searching this space find a few old, abandoned bird’s nests.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/old-bonegrinder#FortunesofRavenloft)Fortunes of Ravenloft
+> 
+> If your card reading reveals that a treasure is here, it’s easy to find, either tucked in a bird’s nest or buried under some dirt in a corner.
+> 
+> [![](https://www.dndbeyond.com/attachments/thumbnails/1/768/850/635/cos06-04.png)](https://www.dndbeyond.com/attachments/1/768/cos06-04.png)
+> 
+
 
 The journey from the Gates of Barovia to **Old Bonegrinder** is two-and-a-half miles long and takes forty-five minutes. As the players make this journey, read:
 
@@ -1063,6 +1195,228 @@ The cloaked figure is Willemina Rikalova, as described in <span class="citation"
 As the characters pass through the streets, they are noticed by Ernst Larnak, who intently watches them—though doesn't follow them—as described in <span class="citation">Lady Wachter's Wish (p. 124)</span>. (Ernst does not yet deliver an invitation to dine with Lady Wachter, though he does return to <span class="citation">N4. Wachterhaus (p. 110)</span> to report back to Lady Wachter when the players leave his sight.)
 ## C12b. The Blue Water Inn
 <span class="citation"><em>This scene takes place in Chapter 5: Area N2.</em></span>
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2BlueWaterInn
+> 
+> 
+> Gray smoke issues from the chimney of this large, two-story wooden building with a stone foundation and sagging tile roof, upon which several ravens have perched. A painted wooden sign hanging above the main entrance depicts a blue waterfall.
+> 
+> The Blue Water Inn is Vallaki’s main gathering place for locals, especially at night. The innkeeper, Urwin Martikov, considers the inn a sanctuary from the evils of this land. In the event of trouble, the windows and doors can all be barred shut from within.
+> 
+> A bed for the night costs 1 ep. Characters looking for something to eat are fed hot beet soup and fresh bread at no additional charge. A cooked wolf steak costs 1 ep.
+> 
+> The inn offers a pint of Purple Grapemash No. 3 wine for 3 cp, or a pint of the superior Red Dragon Crush wine for 1 sp. Urwin is hurt if the characters complain about the wines, for his family makes them.
+> 
+> The inn’s wine supply is almost depleted, and the latest delivery from the Wizard of Wines winery is overdue. If the characters claim to be adventurers, Urwin asks them if they would be so kind as to find out what’s holding up the latest shipment, promising them free room and board if they return with the wine.
+> 
+> [![](https://www.dndbeyond.com/attachments/thumbnails/2/683/600/825/014.jpg)](https://www.dndbeyond.com/attachments/2/683/014.jpg)
+> 
+> Map 5.2: Blue Water Inn (Area N2)[View Player Version](https://www.dndbeyond.com/attachments/2/770/cos501.jpg)
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#KeepersoftheFeather)Keepers of the Feather
+> 
+> Urwin Martikov (LG male human) is a [wereraven](https://www.dndbeyond.com/monsters/17377-wereraven) (see [appendix D](https://www.dndbeyond.com/sources/cos/appendix-d-monsters-and-npcs#Wereraven "appendix D")) and a high-ranking member of the Keepers of the Feather, a secret society of wereravens that opposes Strahd. Urwin’s wife and business partner, Danika Dorakova (LG female human), is also a [wereraven](https://www.dndbeyond.com/monsters/17377-wereraven), as are their two sons, Brom and Bray. The boys have only 7 hit points each and, at ages eleven and nine, are too young to be effective combatants.
+> 
+> At any given time, another 1d4 [wereravens](https://www.dndbeyond.com/monsters/17377-wereraven) (members of the Keepers of the Feather) are present at the inn, either perched on the rooftop in raven form or huddled inside in human form. These wereravens are loyal friends of the Martikovs and help protect the inn.
+> 
+> If the characters earn the trust of the wereravens in Vallaki, the Keepers of the Feather will watch their backs. The next time the characters get themselves in serious trouble, you can have a group of 1d4 [wereravens](https://www.dndbeyond.com/monsters/17377-wereraven) show up to rescue or otherwise help them.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#FortunesofRavenloft)Fortunes of Ravenloft
+> 
+> If your card reading reveals that a treasure is hidden at the inn, the Keepers of the Feather don’t reveal where the treasure is until they know the characters are capable of protecting it. As a way of testing their abilities, Urwin gives the characters the following quest:
+> 
+> Urwin takes you aside and keeps his voice low. “My supply of wine is nearly gone, and the next shipment is overdue. I’ll give you what you seek if you bring me my wine. The vineyard and winery is a few miles west of here. Just follow the Old Svalich Road and the signs.”
+> 
+> Urwin fails to mention that his cantankerous father, Davian Martikov, owns the local winery and vineyard, the Wizard of Wines ([chapter 12](https://www.dndbeyond.com/sources/cos/the-wizard-of-wines "chapter 12")). There’s bad blood between Urwin and his father (whom Urwin and Danika refer to as “the old crow”). Although Urwin could easily visit the winery himself, he considers dealing with his father to be a worthy test of the characters’ competence, and he makes good on his promise if they complete the quest and return with his wine shipment.
+> 
+> Urwin sends a [wereraven](https://www.dndbeyond.com/monsters/17377-wereraven) in raven form to observe the party’s progress from a distance. If the characters get in trouble, the wereraven reports to Urwin at once.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2aWell)N2a. Well
+> 
+> A 3-foot-high stone rim surrounds the mouth of this 40-foot-deep, moss-lined well. The inn draws fresh water from this well.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2bOutsideStaircase)N2b. Outside Staircase
+> 
+> A wooden staircase hugs the outer wall of the inn and leads up to guest quarters on the upper floor ([areas N2l](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2lGuestRooms "areas N2l") and [N2m](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2mGuestRoom "N2m")). The sturdy wooden door at the top of the stairs can be barred from the inside.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2cTaproom)N2c. Taproom
+> 
+> Damp cloaks hang from pegs in the entrance portico. The tavern is packed with tables and chairs, with narrow paths meandering between them. A bar stretches along one wall, under a balcony that can be reached by a wooden staircase that hugs the north wall. Another balcony overhangs an entrance to the east. All the windows are fitted with thick shutters and crossbars. Lanterns hanging above the bar and resting on the tables bathe the room in dull orange light and cast shadows upon the walls, most of which are adorned with wolf heads mounted on wooden plaques.
+> 
+> The double doors leading into the taproom can be barred shut from within.
+> 
+> Mounted on braces and tucked into alcoves behind the bar are three wine barrels, each one three-quarters empty. Two of the barrels contain Purple Grapemash No. 3 (a cheap wine), and the third contains Red Dragon Crush (a fine wine). A brass spigot is hammered into each barrel.
+> 
+> Danika Martikov usually tends bar while her husband busies himself in the kitchen ([area N2e](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2eKitchen "area N2e")). Their boys, Brom and Bray, scamper about and easily get underfoot.
+> 
+> Between dawn and noon, there are no patrons here, and the Martikovs are upstairs in their bedrooms ([areas N2o](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2oBoysBedroom "areas N2o") and [N2p](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2pMasterBedroom "N2p")) or in the attic ([area N2q](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2qSecretAttic "area N2q")).
+> 
+> From noon to dusk, the taproom holds 2d4 local patrons (male and female [commoners](https://www.dndbeyond.com/monsters/16829-commoner)). Between dusk and midnight, 2d8 Vallakians are here. In addition, one or more of the following people might be present during this time.
+> 
+> _**Wolf Hunters.**_ Szoldar Szoldarovich and Yevgeni Krushkin (N male human [scouts](https://www.dndbeyond.com/monsters/17007-scout)) are local hunters who frequent the Blue Water Inn. They kill wolves and sell the meat for a living, and their work is dangerous and bloody. Both men are grim and have haunted looks in their eyes.
+> 
+> These two are dour fellows, but they seldom pass up an opportunity to earn coin. If the characters are looking for guides or information about the land of Barovia, Szoldar and Yevgeni can be of service. They aren’t afraid to venture beyond Vallaki’s walls during the day, and they know the woods and valley well. They’re willing to serve as guides for 5 gp per day, or to provide directions to important landmarks in exchange for free drinks. They think it’s foolish to travel “this cursed realm” at night and won’t do so unless their payment is exorbitant (100 gp or more).
+> 
+> On rare occasions when he has something to say, Szoldar speaks brusquely, while Yevgeni usually parrots his friend in not so many words. Szoldar has a notch in his bow for every wolf he’s killed, while Yevgeni adds a new swatch to his wolfskin cloak every time he makes a kill. Both men have families but spend most of their time together, either drowning their sorrows or hunting in the woods. Most of the wolf heads that adorn the tavern walls are the result of their handiwork.
+> 
+> [![](https://www.dndbeyond.com/attachments/thumbnails/1/751/280/401/cos05-05.png)](https://www.dndbeyond.com/attachments/1/751/cos05-05.png)
+> 
+> Szoldar Szoldarovich
+> 
+> [![](https://www.dndbeyond.com/attachments/thumbnails/1/752/310/400/cos05-06.png)](https://www.dndbeyond.com/attachments/1/752/cos05-06.png)
+> 
+> Yevgeni Krushkin
+> 
+> _**Wachter Brothers.**_ Nikolai and Karl Wachter (N male human [nobles](https://www.dndbeyond.com/monsters/16966-noble)) are brothers of noble birth. They are brash drunkards always looking for trouble, though they are smart enough not to pick fights with well-armed strangers. Their mother, Fiona Wachter (see [area N4](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N4Wachterhaus "area N4")), is an influential figure in town, but her sons never talk about her. They’d rather listen to tales of the characters’ harrowing adventures or hear about how the characters plan to free Vallaki from the burgomaster’s madness.
+> 
+> _**Rictavio.**_ The lone guest of the Blue Water Inn at present is a colorfully dressed half-elf bard who goes by the name [Rictavio](https://www.dndbeyond.com/monsters/17371-rictavio)—a false identity adopted by the legendary vampire hunter Rudolph van Richten (see [appendix D](https://www.dndbeyond.com/sources/cos/appendix-d-monsters-and-npcs#RudolphvanRichten "appendix D")). He regales tavern patrons with stories so outrageous as to be hardly believable, yet he asserts they are true indeed. Rictavio claims to be a carnival ringmaster from a distant land. He’s been staying at the inn for almost a month, taking advantage of Urwin Martikov’s generosity and good nature. When he arrived, he was accompanied by a monkey named Piccolo. The monkey wasn’t welcome at the inn, so Rictavio gave it to the local toymaker (see [area N7](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N7BlinskyToys "area N7")).
+> 
+> Rictavio admits to having no musical talent but manages to entertain locals nonetheless with his stories of faraway places. Twice each day, at dawn and again at dusk, he leaves the inn with a couple of apples and a cooked wolf steak wrapped in a handkerchief. He claims the food is for his portly friend, “the destitute toymaker” ([area N7](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N7BlinskyToys "area N7")) and his pet monkey. In fact, the apples are for his horse Drusilla ([area N2f](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2fStable "area N2f")), and the steak is for his captured saber-toothed tiger ([area N5](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N5ArasekStockyard "area N5")).
+> 
+> During his stay at the inn, Rictavio is quietly gathering information on the Keepers of the Feather, trying to figure out the identities of all the wereravens in town. He’s also trying to learn as much as he can about the Vistani, particularly the ones living in the camp just outside town ([area N9](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N9VistaniCamp "area N9")). Once he concludes that they are in league with Strahd, Rictavio plans to unleash his trained saber-toothed tiger upon them, with or without the support of the wereravens.
+> 
+> Rictavio wears a [hat of disguise](https://www.dndbeyond.com/magic-items/4651-hat-of-disguise) and a [ring of mind shielding](https://www.dndbeyond.com/magic-items/4725-ring-of-mind-shielding) to conceal his identity. He carries an iron key that unlocks the door to his carnival wagon ([area N5](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N5ArasekStockyard "area N5")).
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2dWineStorage)N2d. Wine Storage
+> 
+> This hallway contains three curtained alcoves as well as a larger area stuffed with wine barrels.
+> 
+> The Martikovs store their wine here. Tucked behind red curtains are three alcoves, each one containing a half-emptied wine barrel lying on its side in a wooden brace. Twelve empty wine barrels are piled two high near the door to the kitchen ([area N2e](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2eKitchen "area N2e")). All the barrels have the Wizard of Wines name burned into them.
+> 
+> Nine of the fifteen barrels, including two of the barrels in the curtained alcoves, have the following label burned into their sides, under the winery’s name: Purple Grapemash No. 3. Six of the fifteen barrels, including one of the barrels in the curtained alcoves, have a different label: Red Dragon Crush.
+> 
+> The double doors that lead outside can be barred shut from within.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2eKitchen)N2e. Kitchen
+> 
+> This room looks like the kitchen of someone who loves to cook. It has piles of pots, walls lined with utensils and shelves of ingredients, and all manner of pleasant odors. Two lanterns hang above a sturdy pine worktable in the middle of the clutter. A pot of soup bubbles on the hearth.
+> 
+> Urwin Martikov, who prepares most of the meals, is found here throughout the day. He occasionally receives help from his two boys, but they are easily distracted. A cupboard against the east wall holds most of the inn’s supply of cutlery and dishware, none of it valuable. A door in the west wall leads outside and is usually barred from the inside.
+> 
+> A secret door at the west end of the south wall can be pushed open to reveal a wooden staircase that leads up to [area N2i](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2iSecretStairsandHall "area N2i").
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2fStable)N2f. Stable
+> 
+> The sliding wooden doors on the west wall of this room are held shut by an iron lock and chain. Urwin carries the key to the lock. The doors to the north and south can be barred shut from the inside but are usually unlocked.
+> 
+> You hear the squawking of birds and the plaintive whinny of a horse as you peer inside this stable. The stalls are clean and well maintained. One of them contains a gray mare. A small door is set into the east wall, and a wooden ladder gives access to a loft overhead. Perched on the wooden railing that encloses the loft are dozens of ravens.
+> 
+> Any character who has a horse can keep it here for 1 sp per night. The gray mare is a [draft horse](https://www.dndbeyond.com/monsters/16844-draft-horse) named Drusilla, and she likes apples. The horse belongs to Rictavio (see [area N2c](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2cTaproom "area N2c")).
+> 
+> The small door in the east wall can be pulled open to reveal [area N2g](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2gStorage "area N2g"). The loft is described in [area N2h](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2hRavensLoft "area N2h").
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2gStorage)N2g. Storage
+> 
+> This small room lies under a wooden staircase ([area N2i](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2iSecretStairsandHall "area N2i")). Hanging from wooden pegs are saddles and barding to equip two horses. In an unlocked wooden chest are a dozen horseshoes, a wooden mallet, and a mound of horseshoe nails.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2hRavensLoft)N2h. Ravens’ Loft
+> 
+> Dim light spilling in through a pair of dirt-encrusted windows reveals piles of hay with pitchforks sticking out of them. Ravens rule this roost—you can see hundreds of them.
+> 
+> Characters who search the loft thoroughly find three pitchforks and a locked wooden chest buried under a pile of hay (see “Treasure” below), next to a secret door. If the characters tamper with the chest, the ravens gather into four [swarms of ravens](https://www.dndbeyond.com/monsters/17033-swarm-of-ravens) and attack. If two swarms are killed, the others flee. Otherwise, they cease their attacks if the characters leave the chest alone. If the fighting continues for more than 3 rounds, Urwin Martikov and two other wereravens hear the ruckus and investigate (in human form).
+> 
+> A secret door in the back of the loft can be pushed open to reveal a bedchamber ([area N2p](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2pMasterBedroom "area N2p")) beyond. No ability check is required to spot the secret door, because light in the room beyond slips through the door’s cracks.
+> 
+> _**Treasure.**_ Inside the locked chest are 140 ep, 70 pp, two [elixirs of health](https://www.dndbeyond.com/magic-items/5351-elixir-of-health), three [potions of healing](https://www.dndbeyond.com/equipment/71-potion-of-healing), and a [gray bag of tricks](https://www.dndbeyond.com/magic-items/2965260-gray-bag-of-tricks). The coins are embossed with the profiled likeness of Strahd von Zarovich.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2iSecretStairsandHall)N2i. Secret Stairs and Hall
+> 
+> A wooden staircase to the north descends fifteen feet to a landing. A window dimly illuminates a short, wood-paneled hallway that runs west to east.
+> 
+> Guests aren’t told about the inn’s secret hallway. Rictavio knows of its existence because he has heard the Martikov boys opening and closing the secret door closest to his room ([area N2n](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2nPrivateGuestRoom "area N2n")).
+> 
+> At each end of this area is a secret door, each of which is easy to spot from inside the hallway (no ability check required). The northern secret door, at the bottom of the staircase, can be pulled open to reveal the kitchen ([area N2e](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2eKitchen "area N2e")) beyond. The eastern secret door can be pulled open to reveal a balcony ([area N2j](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2jGreatBalcony "area N2j")) that overlooks the taproom.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2jGreatBalcony)N2j. Great Balcony
+> 
+> A wooden balcony stretches the full length of the taproom, enclosed by a wooden railing carved with raven motifs. The taproom’s many lanterns illuminate the rafters and cast ominous shadows on the peaked ceiling.
+> 
+> The balcony floor is 15 feet above the taproom floor.
+> 
+> A secret door at the south end of the western wall can be pushed open to reveal a wood-paneled hallway ([area N2i](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2iSecretStairsandHall "area N2i")) beyond.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2kGuestBalcony)N2k. Guest Balcony
+> 
+> This twenty-foot-long balcony provides a clear view of the bar and has a wooden railing carved with raven motifs. The taproom’s many lanterns illuminate the rafters and cast ominous shadows on the peaked ceiling.
+> 
+> The balcony floor is 15 feet above the taproom floor.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2lGuestRooms)N2l. Guest Rooms
+> 
+> These two rooms have identical furnishings.
+> 
+> Two cozy beds with matching footlockers rest in the far corners of this fifteen-foot-square room. Wolf furs are heaped atop each bed. Between the beds, a lamp sits on a table under a shuttered window. Two tall black wardrobes stand against the wall by the door.
+> 
+> The door to this room can be locked from the inside, and each guest gets a key. Urwin and Danika carry spare keys. The footlockers and wardrobes are empty and are for the use of guests.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2mGuestRoom)N2m. Guest Room
+> 
+> Four plain beds with straw mattresses line the north wall of this well-lit room. Each bed comes with a matching footlocker to store clothing and other belongings. A table and four chairs occupy the corner across from the door. An oil lamp resting on the table casts a bright yellow flame.
+> 
+> The door to this room can be locked from the inside, and each guest receives a key. Urwin and Danika carry spare keys. The footlockers are empty and are for the use of guests.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2nPrivateGuestRoom)N2n. Private Guest Room
+> 
+> Rictavio has a key to this room, which is locked at all times. Urwin and Danika carry spare keys. The door’s lock can be picked, but discretion is called for because the door is in plain view of the taproom below.
+> 
+> This small guest room contains a bed heaped with wolf furs, a footlocker, a tall wardrobe, and a writing desk with matching chair. An oil lamp rests atop the desk near a journal bound in a red leather jacket.
+> 
+> Rictavio sleeps here between midnight and dawn. At dawn, he leaves to check on his horse ([area N2f](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2fStable "area N2f")) and his wagon ([area N5](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N5ArasekStockyard "area N5")), returning to the inn around noon. Between noon and dusk, there’s a 40 percent chance he is here; otherwise, he’s in the taproom ([area N2c](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2cTaproom "area N2c")). At dusk, he leaves the inn to tend to his horse and his wagon again, then returns to his room to retire for the night.
+> 
+> Rictavio is too clever to leave anything valuable or incriminating in his room. The footlocker and the wardrobe contain nothing but common clothes and travel wear.
+> 
+> _**Rictavio’s Journal.**_ The journal on the desk is a bit of artifice that Rictavio created to perpetuate the illusion that he is an entertainer in search of new acts for his traveling carnival. His writing makes frequent mention of conversations with Drusilla (which the journal fails to mention is the name of Rictavio’s horse) and recounts many long and tedious journeys by wagon. Rictavio has also written about various “oddities” he has seen in his travels, including the following:
+> 
+> - A “werehare” child (a boy who transforms into a rabbit on nights of the full moon)
+> - A half-orc woman named Gorabacha who could chew through iron chains
+> - A giant, man-eating plant that had the most remarkable singing voice
+> - A pair of conjoined goblins
+> - A small man with no legs named Filmore Stunk, who could drink whole casks of wine without getting drunk
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2oBoysBedroom)N2o. Boys’ Bedroom
+> 
+> A large, painted toy box rests between two small, cozy beds. Murals of ravens in flight are painted on the walls above the wood paneling.
+> 
+> Brom and Bray Martikova don’t spend much time in this room. The toy box contains a pile of neglected toys, many of them etched with the slogan “Is No Fun, Is No Blinsky!” The toys include the following:
+> 
+> - A miniature puppet theater with appropriately sized marionettes of a king, a queen, a prince, a princess, an executioner, a tax collector, a dunce, a vampire, and a vampire hunter
+> - A garish toy Vistani wagon hitched to a wooden horse and filled with tiny wooden Vistani figures
+> - A pair of painted wooden clown masks, one displaying a mean scowl and the other a frightened expression
+> - A wooden top painted with images of scarecrows chasing children through the forest
+> - A stuffed (real) bat on puppet strings
+> 
+> A hidden trapdoor in the 8-foot-high ceiling opens into a secret attic ([area N2q](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2qSecretAttic "area N2q")).
+> 
+> [![](https://www.dndbeyond.com/attachments/thumbnails/1/753/600/423/cos05-07.png)](https://www.dndbeyond.com/attachments/1/753/cos05-07.png)
+> 
+> The Martikov Family
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2pMasterBedroom)N2p. Master Bedroom
+> 
+> Matching end tables flank a large wood-framed bed with a red silk canopy. Across from the bed hangs a tapestry depicting a beautiful mountain valley. The other walls are dominated by a fireplace and a wardrobe.
+> 
+> Urwin and Danika retire to this room every night before heading to the attic ([area N2q](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2qSecretAttic "area N2q")) to sleep. This room is for appearances only and contains no valuables.
+> 
+> A secret door at the west end of the south wall can be pulled open to reveal the loft beyond ([area N2h](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2hRavensLoft "area N2h")).
+> 
+> A hidden trapdoor in the 8-foot-high ceiling opens into a secret attic ([area N2q](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2qSecretAttic "area N2q")).
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2qSecretAttic)N2q. Secret Attic
+> 
+> This ten-foot-wide, thirty-five-foot-long attic has a ceiling that slants down toward the west, dropping from a height of eight feet to a height of five feet. Four straw nestscover the floor, and a locked iron strongbox sits against the north wall. A small square opening in the south wall leads outside. Two trapdoors with iron hinges are set into the floor.
+> 
+> The Martikovs sleep here at night in hybrid form. The opening in the south wall is just big enough for a raven or other Tiny creature to pass through. The wereravens can use this opening as an escape route.
+> 
+> The strongbox is described in “Treasure” below.
+> 
+> Two trapdoors, clearly visible on the floor, can be pulled open to reveal the bedchambers ([areas N2o](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2oBoysBedroom "areas N2o") and [N2p](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2pMasterBedroom "N2p")) that lie directly beneath them.
+> 
+> _**Treasure.**_ Urwin carries the key to the locked iron strongbox. The lock can be picked with thieves’ tools and a successful DC 20 Dexterity check. The box contains a sack of 150 ep (each coin bearing the profiled visage of Strahd von Zarovich), six pieces of jewelry (worth 250 gp each), and three [potions of healing](https://www.dndbeyond.com/equipment/71-potion-of-healing).
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#FortunesofRavenloft2)Fortunes of Ravenloft
+> 
+> If your card reading reveals that a treasure is here, it is in the iron strongbox.
+> 
+
 
 This area is largely as described in <span class="citation">N2. Blue Water Inn (p. 98)</span>. If Muriel is present, she bids the players farewell with a soft, sentimental trill, then departs to join the other ravens resting atop the roof. (If the players later return to the inn to look for her, she is not present.)
 

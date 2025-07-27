@@ -57,6 +57,38 @@ If the players return to Vallaki, confront Rictavio, and persuade him that they�
 > Both Van Richten and Arabelle know that this is a temporary solution at best. Van Richten, who first heard of the mysterious [[Lore of Barovia#Keepers of the Feather|Keepers of the Feather]] during Doru’s rebellion, is quietly investigating the members as described in <span class="citation">N2c. Taproom (p. 100)</span>. He hopes to determine whether the secret society is friend or foe—and, if friend, whether its agents can be trusted.
 # E1. Blinsky Toys
 <span class="citation"><em>This scene takes place in Chapter 5: Area N7.</em></span>
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N7BlinskyToys
+> 
+> 
+> This cramped shop has a dark entrance portico, above which hangs a wooden sign shaped like a rocking horse, with a “B” engraved on both sides. Flanking the entrance are two arched, lead-framed windows. Through the dirty glass, you see jumbled displays of toys and hanging placards bearing the slogan “Is No Fun, Is No Blinsky!”
+> 
+> Vallaki’s toymaker, Gadof Blinsky (CG male human [commoner](https://www.dndbeyond.com/monsters/16829-commoner)), calls himself “a wizard of tiny wonders,” but he has been consumed by despair lately because no one seems to like him or want his toys. His fascination for eerie playthings causes most other locals to avoid him. The burgomaster enables Blinsky to stay in business by giving him a couple of gold pieces a month to make festival decorations.
+> 
+> [![](https://www.dndbeyond.com/attachments/thumbnails/1/761/350/380/cos05-15.png)](https://www.dndbeyond.com/attachments/1/761/cos05-15.png)
+> 
+> Gadof Blinsky and Piccolo
+> 
+> Blinsky is a heavyset man who wears a moth-eaten jester’s cap during store hours, more out of habit than to humor visitors. In the past six months, the only paying customer who has set foot in the store is a visitor from a faraway land named Rictavio (see [area N2](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2BlueWaterInn "area N2")), who came in two weeks ago and bought a stuffed Vistana doll. Realizing that the toymaker was lonely, Rictavio gave Blinsky his pet monkey, Piccolo (use the [baboon](https://www.dndbeyond.com/monsters/16795-baboon) stat block in the [Monster Manual](https://www.dndbeyond.com/sources/mm "Monster Manual")). Overjoyed, Blinsky has begun training the monkey to fetch toys from hard-to-reach shelves. The toymaker has also fitted Piccolo with a custom-tailored ballerina tutu.
+> 
+> When he meets new customers, Blinsky recites a well-rehearsed greeting: “Wyelcome, friends, to the House of Blinsky, where hyappiness and smiles can be bought at bargain prices. Perhaps you know a leetle child in need of joy? A leetle toy for a girl or boy?”
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#CreepyToys)Creepy Toys
+> 
+> Blinsky believes the burgomaster is right—that the only way to escape from Barovia is to make everyone in town “hyappy.” Blinsky would like to do his part by making sure that all the children in Barovia have fun toys. On display are a few of his creations:
+> 
+> - A headless doll that comes with a sack of attachable heads, including one with its eyes and mouth stitched shut (price 9 cp)
+> - A miniature gallows, complete with trapdoor and a weighted “hanged man” (price 9 cp)
+> - A set of wooden nesting dolls; the smaller each one gets, the older it gets, until the innermost doll is a mummified corpse (price 9 cp)
+> - A wood-and-string mobile of hanging bats with flapping wings (price 9 cp)
+> - A wind-up musical merry-go-round with figures of snarling wolves chasing children in place of prancing horses (price 9 sp)
+> - A ventriloquist’s dummy that looks like Strahd von Zarovich (price 9 sp)
+> - A doll that looks remarkably like Ireena Kolyana (not for sale; see below)
+> 
+> _**Ireena Kolyana Dolls.**_ Blinsky makes special dolls for the burgomaster’s henchman, [Izek Strazni](https://www.dndbeyond.com/monsters/17365-izek-strazni) (see [area N3](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3BurgomastersMansion "area N3") and [appendix D](https://www.dndbeyond.com/sources/cos/appendix-d-monsters-and-npcs#IzekStrazni "appendix D")). Izek doesn’t pay for the dolls but instead threatens to burn down Blinsky’s shop unless the toymaker delivers a new doll every month. Every doll is modeled on a description given to Blinsky by Izek, and each doll has been closer to capturing Ireena’s likeness than the last. Blinsky doesn’t know that the doll is meant to be modeled after anyone in particular. If Ireena is with the party, however, Blinsky realizes that she is the inspiration for Izek’s dolls.
+> 
+> _**Von Weerg’s Masterpiece.**_ Blinsky considers himself a student of a great inventor and toymaker named Fritz von Weerg. Blinsky has heard rumors that von Weerg’s greatest invention—a clockwork man—lies somewhere in Castle Ravenloft. If the characters seem intent on going there, Blinsky asks if they would be so kind as to find the clockwork “myasterpiece” and “dyeliver” it to him, in exchange for which Blinsky offers to make them any toy they desire. Because “byusiness” has not been good, he says, he has no other reward to offer except, perhaps, his new monkey companion.
+> 
+
 
 After receiving Madam Eva’s request in [[Act I - Into the Mists/Arc C - Into the Valley]] to purchase and deliver a toy for her great grand-niece, Arabelle, the players can get directions to Vallaki’s local toy shop, Blinsky Toys, by asking Urwin Martikov, Danika Dorakova, or most native Vallakians for directions. Blinsky Toys can now be found on the northern edge of Vallaki's town square, which is as described in <span class="citation">N8. Town Square (p. 119)</span>.
 
@@ -93,6 +125,153 @@ If the players ask Blinsky about Piccolo, he can inform them that he received th
 As the characters exit Blinsky Toys, they can see Izek Strazni and two **guards** arrive to post new proclamations, as described in <span class="citation">N8. Town Square (p. 119)</span>.
 # E2. Vistani Camp
 <span class="citation"><em>This scene takes place in Chapter 5: Area N9.</em></span>
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N9VistaniCamp
+> 
+> 
+> Several footpaths and horse trails lead to this location in the woods southwest of Vallaki.
+> 
+> The woods part to reveal an expansive clearing: a small, grass-covered hill with low houses built into its sides. Fog obscures the details, but you can see that these buildings feature elegantly carved woodwork and have decorative lanterns hanging from their sculpted eaves. Atop the hill, above the fog, is a ring of barrel-topped wagons that surround a large tent with a column of smoke pouring out through a hole in the top. The tent is brightly lit from within. Even at this distance, you can smell the odors of wine and horses that emanate from this central area.
+> 
+> This natural clearing serves as a permanent campsite for the Vistani and their dusk elf allies.
+> 
+> [![](https://www.dndbeyond.com/attachments/thumbnails/2/687/600/825/018.jpg)](https://www.dndbeyond.com/attachments/2/687/018.jpg)
+> 
+> Map 5.6: Vistani Camp (Area N9)[View Player Version](https://www.dndbeyond.com/attachments/2/774/cos505.jpg)
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#RoleplayingtheVistaniandtheElves)Roleplaying the Vistani and the Elves
+> 
+> Use the following information to roleplay the Vistani and the dusk elves that occupy the camp.
+> 
+> _**Vistani.**_ The Vistani in this camp all serve Strahd. The elders have died, leaving a pair of brothers named Luvash and Arrigal in charge. Both men are evil and willing to do whatever Strahd demands of them.
+> 
+> These Vistani have two problems. First, Luvash’s seven-year-old daughter, Arabelle, recently disappeared from the camp. Consequently, half of the Vistani are out searching for her when the characters arrive. Second, the Vistani have exhausted their supply of wine and are eager to obtain more. Characters who help them with either problem earn the Vistani’s respect.
+> 
+> _**Dusk Elves.**_ The dusk elf race is all but forgotten, and the few survivors live in secret places such as this. They have dark skin and hair, but otherwise they are similar to [wood elves](https://www.dndbeyond.com/sources/phb/races#WoodElf "wood elves") (as described in the [Player’s Handbook](https://www.dndbeyond.com/sources/phb "Player’s Handbook")). One of Strahd’s old brides, Patrina Velikovna, used to live here. Her brother, Kasimir Velikov, still does.
+> 
+> The dusk elves reside in small homes built into the hillside and are mostly self-sufficient. They are skilled trackers, and many of them are away from camp when the characters arrive, helping the Vistani search for Arabelle. Strahd has tasked the Vistani with keeping an eye on the dusk elves, and the dusk elves know they aren’t safe in Barovia without the Vistani’s “protection.” Strahd has also forbidden the Vistani from helping the dusk elves escape his domain.
+> 
+> There are no women or children among the dusk elves. Strahd had all the female dusk elves put to death around four centuries ago as a punishment for Patrina’s murder. Thus, the remaining elves can’t procreate. A broken people, they are aware of the vampire’s absolute hold over the land of Barovia. They keep a low profile and have no desire to incur Strahd’s wrath again.
+> 
+> [![](https://www.dndbeyond.com/attachments/thumbnails/1/764/300/353/cos05-18.png)](https://www.dndbeyond.com/attachments/1/764/cos05-18.png)
+> 
+> Luvash
+> 
+> [![](https://www.dndbeyond.com/attachments/thumbnails/1/763/290/356/cos05-17.png)](https://www.dndbeyond.com/attachments/1/763/cos05-17.png)
+> 
+> Arrigal
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N9aKasimirsHovel)N9a. Kasimir’s Hovel
+> 
+> If the characters approach the house at the base of the hill on the eastern perimeter of the camp, read the following text:
+> 
+> Standing quietly in front of this house, bathed in the warm light of its lanterns, are three sullen, gray-cloaked figures, their angular features and black, flowing hair half-hidden under their cowls.
+> 
+> The cloaked figures are three [guards](https://www.dndbeyond.com/monsters/16915-guard) (N male dusk elves). If the characters seem friendly and are looking for someone to talk to, the guards direct them inside to Kasimir or point them toward the Vistani camp on the hilltop.
+> 
+> [Kasimir Velikov](https://www.dndbeyond.com/monsters/299546-kasimir-velikov) (see [appendix D](https://www.dndbeyond.com/sources/cos/appendix-d-monsters-and-npcs#KasimirVelikov "appendix D")) is the leader of the dusk elves. His hovel has a decorated vestibule and a comfortable room beyond with a fireplace. Wooden statuettes of elven deities stand in cubbyholes along one wall. A tapestry of a forest hangs on the opposite wall.
+> 
+> Kasimir confesses that he is burdened by dreams sent to him by his dead sister, Patrina Velikovna, whose spirit has languished in the catacombs below Castle Ravenloft for centuries. Kasimir believes that Patrina has repented for her many sins, and he yearns not only to free her but also to restore her to life.
+> 
+> If the characters seem intent on destroying Strahd, Kasimir tells them about the Amber Temple. Without divulging too much of the dreams sent to him by Patrina, Kasimir informs the characters that the secret to breaking Strahd’s pact and freeing Barovia from its curse might be hidden there. Kasimir doesn’t know whether this claim is true or not, but he states it as a way of persuading the characters to accompany him to the temple; his main objective, he says, is to find something there that he can use to bring Patrina back from the dead.
+> 
+> _**Treasure.**_ Kasimir wears a [ring of warmth](https://www.dndbeyond.com/magic-items/4736-ring-of-warmth) and has a leather-bound spellbook containing all the spells he has prepared (see [appendix D](https://www.dndbeyond.com/sources/cos/appendix-d-monsters-and-npcs#KasimirVelikov "appendix D")) plus the following spells: [arcane lock](https://www.dndbeyond.com/spells/2003-arcane-lock), [comprehend languages](https://www.dndbeyond.com/spells/2035-comprehend-languages), [hold person](https://www.dndbeyond.com/spells/2147-hold-person), [identify](https://www.dndbeyond.com/spells/2152-identify), [locate object](https://www.dndbeyond.com/spells/2170-locate-object), [nondetection](https://www.dndbeyond.com/spells/2199-nondetection), [polymorph](https://www.dndbeyond.com/spells/2209-polymorph), [protection from evil and good](https://www.dndbeyond.com/spells/2221-protection-from-evil-and-good), and [wall of stone](https://www.dndbeyond.com/spells/2294-wall-of-stone).
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#FortunesofRavenloft6)Fortunes of Ravenloft
+> 
+> If your card reading reveals that a treasure is here, it is in Kasimir’s possession. He relinquishes it if the characters promise to accompany him to the Amber Temple and help him find a way to bring his sister Patrina back from the dead.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N9bDuskElfHovels)N9b. Dusk Elf Hovels
+> 
+> Six simple houses ring the base of the hill, three protruding from the north side and three from the south side.
+> 
+> A grim, gray-cloaked figure stands in front of the door to this house.
+> 
+> The cloaked figure is a [guard](https://www.dndbeyond.com/monsters/16915-guard) (N male dusk elf). If the characters appear friendly and are looking for someone to talk to, the guard directs them to Kasimir’s hovel ([area N9a](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N9aKasimirsHovel "area N9a")). Under no circumstances does the guard willingly allow strangers to enter the house he protects.
+> 
+> Each hovel is configured similarly to Kasimir’s hovel. All are currently unoccupied. (Except for the nine guards left behind to watch the homes, the dusk elves are out searching for Arabelle.)
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N9cVistaniTent)N9c. Vistani Tent
+> 
+> Piled outside the wagon are several empty casks of wine. From inside the tent comes the crack of a whip followed by the howls of a young man. Three sputtering campfires fill the tent with smoke, and through the haze you see six Vistani passed out in various places on the dead grass. A barely conscious and shirtless teenager hugs the central tent pole, his wrists bound with rope and his back streaked with blood. An older, larger man in studded leather armor lashes the young man with a horsewhip, causing him to scream again. Standing in the bigger man’s shadow is a third man also clad in studded leather. “Easy, brother,” he says to the whip-wielding brute. “I think Alexei has learned his lesson.”
+> 
+> The two men in studded leather armor are the leaders of the Vistani camp—the brothers Luvash (CE male human [bandit captain](https://www.dndbeyond.com/monsters/16799-bandit-captain)) and Arrigal (NE male human [assassin](https://www.dndbeyond.com/monsters/16790-assassin)). If you used the “[Plea for Help](https://www.dndbeyond.com/sources/cos/into-the-mists#PleaforHelp "Plea for Help")” adventure hook, the characters have already met Arrigal. Luvash is the older of the two and the brother whom the other Vistani fear most. Each brother carries a key that unlocks one of the padlocks of the treasure wagon ([area N9i](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N9iVistaniTreasureWagon "area N9i")).
+> 
+> Luvash is punishing a Vistana named Alexei (CN male human [bandit](https://www.dndbeyond.com/monsters/16798-bandit) with 3 hit points remaining) for failing to keep a watchful eye on his daughter. The characters’ arrival distracts Luvash, and he forgets about Alexei long enough to play the role of host—until such time as the characters become tiresome or threatening. Alexei blames himself for not watching the little brat more closely and has accepted his punishment. If the characters try to rescue him, he screams at them to stop, not wanting to appear weak in front of Luvash and Arrigal.
+> 
+> In addition to Luvash, Arrigal, and Alexei, there are six intoxicated Vistani (CN male and female human [bandits](https://www.dndbeyond.com/monsters/16798-bandit)) lying [unconscious](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#UnconsciousCondition) in the tent. A drunk Vistana awakens only if the Vistana takes 5 damage or more and has at least 1 hit point remaining afterward.
+> 
+> _**Dealing with Luvash.**_ Luvash is unhappy because his seven-year-old daughter, Arabelle, has vanished. She’s been gone for a little more than a day. Because everyone in the camp was drunk and Arrigal was away, no one remembers seeing or hearing anything strange. Luvash is determined to find her, no matter what the cost, and most of his camp is out scouring the woods when the characters arrive. (Missing from the camp are twelve [bandits](https://www.dndbeyond.com/monsters/16798-bandit). Each hour that passes, 1d4 of them return to camp with no news on Arabelle’s whereabouts.)
+> 
+> If an alarm is sounded, nine Vistani [bandits](https://www.dndbeyond.com/monsters/16798-bandit) (NE male and female humans) emerge from three of the surrounding wagons ([area N9g](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N9gWagonofGamblingVistani "area N9g")) and arrive at the tent with weapons drawn in 2 rounds.
+> 
+> Luvash won’t meddle in the characters’ affairs without Strahd’s consent, and he is quite content to let the vampire deal with them. For a hefty price, he offers to sell the characters potions that allow safe passage through the deadly fog that surrounds the valley; he keeps them in the treasure wagon ([area N9i](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N9iVistaniTreasureWagon "area N9i")). The potions don’t work, of course.
+> 
+> If the characters rescue Arabelle from Lake Zarovich ([chapter 2](https://www.dndbeyond.com/sources/cos/the-lands-of-barovia "chapter 2"), [area L](https://www.dndbeyond.com/sources/cos/the-lands-of-barovia#LLakeZarovich "area L")) and see her safely returned to camp, Luvash is overjoyed and offers to repay the favor. He doesn’t sell them the fake potions. (“Um, they aren’t as potent as they could be.”) Instead, he lets them choose a treasure from the Vistani treasure wagon ([area N9i](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N9iVistaniTreasureWagon "area N9i")).
+> 
+> If the characters ask something of the Vistani but have not earned Luvash’s goodwill, he agrees to do business with them if they accomplish one of two tasks: either find his missing daughter or procure six barrels of wine and bring them to the camp. Luvash suggests they can get the wine in Vallaki, or go straight to the source—the Wizard of Wines winery. He isn’t picky when it comes to the quality of the wine.
+> 
+> _**Dealing with Arrigal.**_ Arrigal is a much more dangerous creature than his brute of a brother. If the characters have something in their possession that is either useful or harmful to Strahd and Arrigal becomes aware of it, he tries to deprive the characters of this item, stalking them if necessary and going as far as to kill one or more of them if he thinks he can escape with the item in his possession. If he succeeds, he takes one of the riding horses ([area N9d](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N9dHorses "area N9d")) and delivers the item to Strahd at Castle Ravenloft.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N9dHorses)N9d. Horses
+> 
+> The hilltop is covered with steaming piles of horse dung. More than two dozen horses are tethered to stone blocks inside the circle of wagons but outside the tent. Most of the animals are draft horses, but a few of them are riding horses equipped with saddles.
+> 
+> Twenty-four [draft horses](https://www.dndbeyond.com/monsters/16844-draft-horse) and six [riding horses](https://www.dndbeyond.com/monsters/16997-riding-horse) are tethered here.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N9eLuvashsWagon)N9e. Luvash’s Wagon
+> 
+> This barrel-topped wagon is nicer that the others. Drapes of golden silk hang in the windows, and the wheels have gold, sun-shaped hubcaps. An iron chimney pipe protrudes from the roof.
+> 
+> Luvash’s wagon is a mess inside. Empty wineskins, dirty clothes, and mangy furs are strewn about. A small hammock strung across the width of the wagon under the driver’s seat serves as Arabelle’s bed. A burlap doll with button eyes lies in the hammock; Arabelle has no other possessions.
+> 
+> A small iron stove in the middle of the wagon keeps the interior warm.
+> 
+> _**Treasure.**_ The wagon’s “golden sun” hubcaps are worth 125 gp apiece (500 gp total).
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N9fWagonofSleepingVistani)N9f. Wagon of Sleeping Vistani
+> 
+> There are four of these wagons at the camp.
+> 
+> You hear heavy snores from within this barrel-topped wagon.
+> 
+> Each of these wagons contains 1d4 sleeping Vistani (CN male and female human [bandits](https://www.dndbeyond.com/monsters/16798-bandit)). These Vistani wake up if their wagon is shaken or if they take damage and have at least 1 hit point remaining.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N9gWagonofGamblingVistani)N9g. Wagon of Gambling Vistani
+> 
+> There are three of these wagons at the camp.
+> 
+> Loud voices and laughter spill from this barrel-topped wagon.
+> 
+> Each of these wagons contains three Vistani (CN male and female human [bandits](https://www.dndbeyond.com/monsters/16798-bandit)). The Vistani are playing a dice game for favors, since they have no money. They respond to sounds of alarm by drawing their weapons and heading to the tent ([area N9c](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N9cVistaniTent "area N9c")).
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N9hVistaniFamilyWagon)N9h. Vistani Family Wagon
+> 
+> There are three of these wagons at the camp.
+> 
+> This barrel-topped wagon is filled with the raucous screams and laughter of children.
+> 
+> Each of these wagons contains one Vistani adult (male or female human [commoner](https://www.dndbeyond.com/monsters/16829-commoner)) and 1d4 + 1 Vistani children (male and female human noncombatants). The adult is watching the children playing games, teaching the children about their heritage, or telling a scary story to frighten the children.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N9iVistaniTreasureWagon)N9i. Vistani Treasure Wagon
+> 
+> Two iron padlocks secure the door of this barrel-topped wagon.
+> 
+> The Vistani keep all their treasure in this wagon. The door to the wagon has two locks, each of which requires a different key. Luvash carries one key, Arrigal the other. Each lock is rigged with a poison needle trap (see “[Sample Traps](https://www.dndbeyond.com/sources/dmg/adventure-environments#SampleTraps "Sample Traps")” in chapter 5, “Adventure Environments,” of the [Dungeon Master’s Guide](https://www.dndbeyond.com/sources/dmg "Dungeon Master’s Guide")).
+> 
+> _**Treasure.**_ The wagon contains the following items:
+> 
+> - A wooden chest containing 1,200 ep (each coin stamped with the profiled visage of Strahd)
+> - An iron chest containing 650 gp
+> - An onyx jewelry box with gold filigree (worth 250 gp) containing six pieces of cheap jewelry (worth 50 gp each) and a [potion of poison](https://www.dndbeyond.com/magic-items/4712-potion-of-poison) in an unlabeled crystal vial (worth 100 gp)
+> - A wooden throne with gold inlay and decorative stones (worth 750 gp)
+> - A rolled-up 10-foot-square rug with an exquisite unicorn motif (worth 750 gp)
+> - A small wooden box containing twelve fake potions in stoppered gourds (the Vistani sell these nonmagical elixirs to naive strangers, claiming that they protect against the deadly fog surrounding Barovia)
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#FortunesofRavenloft7)Fortunes of Ravenloft
+> 
+> If your card reading reveals that a treasure is here, it is lying amid the other items in the wagon.
+> 
+
 
 The path from Vallaki to the Vistani Camp is as described in <span class="citation">N9. Vistani Camp (p. 119)</span>. The journey is one-half mile long and takes approximately ten minutes.
 
@@ -180,6 +359,153 @@ The dusk elf hovels are as described in <span class="citation">N9b. Dusk Elf Hov
 If the players inquire about Luvash’s mission, the guard directs them to Kasimir's hovel. The guard notes, however, that Kasimir has recently returned from a long and arduous journey and that the players must not disturb him beyond what is reasonably necessary.
 ## E2c. Kasimir’s Hovel
 <span class="citation"><em>This scene takes place in Chapter 5: Area N9a.</em></span>
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N9VistaniCamp
+> 
+> 
+> Several footpaths and horse trails lead to this location in the woods southwest of Vallaki.
+> 
+> The woods part to reveal an expansive clearing: a small, grass-covered hill with low houses built into its sides. Fog obscures the details, but you can see that these buildings feature elegantly carved woodwork and have decorative lanterns hanging from their sculpted eaves. Atop the hill, above the fog, is a ring of barrel-topped wagons that surround a large tent with a column of smoke pouring out through a hole in the top. The tent is brightly lit from within. Even at this distance, you can smell the odors of wine and horses that emanate from this central area.
+> 
+> This natural clearing serves as a permanent campsite for the Vistani and their dusk elf allies.
+> 
+> [![](https://www.dndbeyond.com/attachments/thumbnails/2/687/600/825/018.jpg)](https://www.dndbeyond.com/attachments/2/687/018.jpg)
+> 
+> Map 5.6: Vistani Camp (Area N9)[View Player Version](https://www.dndbeyond.com/attachments/2/774/cos505.jpg)
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#RoleplayingtheVistaniandtheElves)Roleplaying the Vistani and the Elves
+> 
+> Use the following information to roleplay the Vistani and the dusk elves that occupy the camp.
+> 
+> _**Vistani.**_ The Vistani in this camp all serve Strahd. The elders have died, leaving a pair of brothers named Luvash and Arrigal in charge. Both men are evil and willing to do whatever Strahd demands of them.
+> 
+> These Vistani have two problems. First, Luvash’s seven-year-old daughter, Arabelle, recently disappeared from the camp. Consequently, half of the Vistani are out searching for her when the characters arrive. Second, the Vistani have exhausted their supply of wine and are eager to obtain more. Characters who help them with either problem earn the Vistani’s respect.
+> 
+> _**Dusk Elves.**_ The dusk elf race is all but forgotten, and the few survivors live in secret places such as this. They have dark skin and hair, but otherwise they are similar to [wood elves](https://www.dndbeyond.com/sources/phb/races#WoodElf "wood elves") (as described in the [Player’s Handbook](https://www.dndbeyond.com/sources/phb "Player’s Handbook")). One of Strahd’s old brides, Patrina Velikovna, used to live here. Her brother, Kasimir Velikov, still does.
+> 
+> The dusk elves reside in small homes built into the hillside and are mostly self-sufficient. They are skilled trackers, and many of them are away from camp when the characters arrive, helping the Vistani search for Arabelle. Strahd has tasked the Vistani with keeping an eye on the dusk elves, and the dusk elves know they aren’t safe in Barovia without the Vistani’s “protection.” Strahd has also forbidden the Vistani from helping the dusk elves escape his domain.
+> 
+> There are no women or children among the dusk elves. Strahd had all the female dusk elves put to death around four centuries ago as a punishment for Patrina’s murder. Thus, the remaining elves can’t procreate. A broken people, they are aware of the vampire’s absolute hold over the land of Barovia. They keep a low profile and have no desire to incur Strahd’s wrath again.
+> 
+> [![](https://www.dndbeyond.com/attachments/thumbnails/1/764/300/353/cos05-18.png)](https://www.dndbeyond.com/attachments/1/764/cos05-18.png)
+> 
+> Luvash
+> 
+> [![](https://www.dndbeyond.com/attachments/thumbnails/1/763/290/356/cos05-17.png)](https://www.dndbeyond.com/attachments/1/763/cos05-17.png)
+> 
+> Arrigal
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N9aKasimirsHovel)N9a. Kasimir’s Hovel
+> 
+> If the characters approach the house at the base of the hill on the eastern perimeter of the camp, read the following text:
+> 
+> Standing quietly in front of this house, bathed in the warm light of its lanterns, are three sullen, gray-cloaked figures, their angular features and black, flowing hair half-hidden under their cowls.
+> 
+> The cloaked figures are three [guards](https://www.dndbeyond.com/monsters/16915-guard) (N male dusk elves). If the characters seem friendly and are looking for someone to talk to, the guards direct them inside to Kasimir or point them toward the Vistani camp on the hilltop.
+> 
+> [Kasimir Velikov](https://www.dndbeyond.com/monsters/299546-kasimir-velikov) (see [appendix D](https://www.dndbeyond.com/sources/cos/appendix-d-monsters-and-npcs#KasimirVelikov "appendix D")) is the leader of the dusk elves. His hovel has a decorated vestibule and a comfortable room beyond with a fireplace. Wooden statuettes of elven deities stand in cubbyholes along one wall. A tapestry of a forest hangs on the opposite wall.
+> 
+> Kasimir confesses that he is burdened by dreams sent to him by his dead sister, Patrina Velikovna, whose spirit has languished in the catacombs below Castle Ravenloft for centuries. Kasimir believes that Patrina has repented for her many sins, and he yearns not only to free her but also to restore her to life.
+> 
+> If the characters seem intent on destroying Strahd, Kasimir tells them about the Amber Temple. Without divulging too much of the dreams sent to him by Patrina, Kasimir informs the characters that the secret to breaking Strahd’s pact and freeing Barovia from its curse might be hidden there. Kasimir doesn’t know whether this claim is true or not, but he states it as a way of persuading the characters to accompany him to the temple; his main objective, he says, is to find something there that he can use to bring Patrina back from the dead.
+> 
+> _**Treasure.**_ Kasimir wears a [ring of warmth](https://www.dndbeyond.com/magic-items/4736-ring-of-warmth) and has a leather-bound spellbook containing all the spells he has prepared (see [appendix D](https://www.dndbeyond.com/sources/cos/appendix-d-monsters-and-npcs#KasimirVelikov "appendix D")) plus the following spells: [arcane lock](https://www.dndbeyond.com/spells/2003-arcane-lock), [comprehend languages](https://www.dndbeyond.com/spells/2035-comprehend-languages), [hold person](https://www.dndbeyond.com/spells/2147-hold-person), [identify](https://www.dndbeyond.com/spells/2152-identify), [locate object](https://www.dndbeyond.com/spells/2170-locate-object), [nondetection](https://www.dndbeyond.com/spells/2199-nondetection), [polymorph](https://www.dndbeyond.com/spells/2209-polymorph), [protection from evil and good](https://www.dndbeyond.com/spells/2221-protection-from-evil-and-good), and [wall of stone](https://www.dndbeyond.com/spells/2294-wall-of-stone).
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#FortunesofRavenloft6)Fortunes of Ravenloft
+> 
+> If your card reading reveals that a treasure is here, it is in Kasimir’s possession. He relinquishes it if the characters promise to accompany him to the Amber Temple and help him find a way to bring his sister Patrina back from the dead.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N9bDuskElfHovels)N9b. Dusk Elf Hovels
+> 
+> Six simple houses ring the base of the hill, three protruding from the north side and three from the south side.
+> 
+> A grim, gray-cloaked figure stands in front of the door to this house.
+> 
+> The cloaked figure is a [guard](https://www.dndbeyond.com/monsters/16915-guard) (N male dusk elf). If the characters appear friendly and are looking for someone to talk to, the guard directs them to Kasimir’s hovel ([area N9a](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N9aKasimirsHovel "area N9a")). Under no circumstances does the guard willingly allow strangers to enter the house he protects.
+> 
+> Each hovel is configured similarly to Kasimir’s hovel. All are currently unoccupied. (Except for the nine guards left behind to watch the homes, the dusk elves are out searching for Arabelle.)
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N9cVistaniTent)N9c. Vistani Tent
+> 
+> Piled outside the wagon are several empty casks of wine. From inside the tent comes the crack of a whip followed by the howls of a young man. Three sputtering campfires fill the tent with smoke, and through the haze you see six Vistani passed out in various places on the dead grass. A barely conscious and shirtless teenager hugs the central tent pole, his wrists bound with rope and his back streaked with blood. An older, larger man in studded leather armor lashes the young man with a horsewhip, causing him to scream again. Standing in the bigger man’s shadow is a third man also clad in studded leather. “Easy, brother,” he says to the whip-wielding brute. “I think Alexei has learned his lesson.”
+> 
+> The two men in studded leather armor are the leaders of the Vistani camp—the brothers Luvash (CE male human [bandit captain](https://www.dndbeyond.com/monsters/16799-bandit-captain)) and Arrigal (NE male human [assassin](https://www.dndbeyond.com/monsters/16790-assassin)). If you used the “[Plea for Help](https://www.dndbeyond.com/sources/cos/into-the-mists#PleaforHelp "Plea for Help")” adventure hook, the characters have already met Arrigal. Luvash is the older of the two and the brother whom the other Vistani fear most. Each brother carries a key that unlocks one of the padlocks of the treasure wagon ([area N9i](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N9iVistaniTreasureWagon "area N9i")).
+> 
+> Luvash is punishing a Vistana named Alexei (CN male human [bandit](https://www.dndbeyond.com/monsters/16798-bandit) with 3 hit points remaining) for failing to keep a watchful eye on his daughter. The characters’ arrival distracts Luvash, and he forgets about Alexei long enough to play the role of host—until such time as the characters become tiresome or threatening. Alexei blames himself for not watching the little brat more closely and has accepted his punishment. If the characters try to rescue him, he screams at them to stop, not wanting to appear weak in front of Luvash and Arrigal.
+> 
+> In addition to Luvash, Arrigal, and Alexei, there are six intoxicated Vistani (CN male and female human [bandits](https://www.dndbeyond.com/monsters/16798-bandit)) lying [unconscious](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#UnconsciousCondition) in the tent. A drunk Vistana awakens only if the Vistana takes 5 damage or more and has at least 1 hit point remaining afterward.
+> 
+> _**Dealing with Luvash.**_ Luvash is unhappy because his seven-year-old daughter, Arabelle, has vanished. She’s been gone for a little more than a day. Because everyone in the camp was drunk and Arrigal was away, no one remembers seeing or hearing anything strange. Luvash is determined to find her, no matter what the cost, and most of his camp is out scouring the woods when the characters arrive. (Missing from the camp are twelve [bandits](https://www.dndbeyond.com/monsters/16798-bandit). Each hour that passes, 1d4 of them return to camp with no news on Arabelle’s whereabouts.)
+> 
+> If an alarm is sounded, nine Vistani [bandits](https://www.dndbeyond.com/monsters/16798-bandit) (NE male and female humans) emerge from three of the surrounding wagons ([area N9g](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N9gWagonofGamblingVistani "area N9g")) and arrive at the tent with weapons drawn in 2 rounds.
+> 
+> Luvash won’t meddle in the characters’ affairs without Strahd’s consent, and he is quite content to let the vampire deal with them. For a hefty price, he offers to sell the characters potions that allow safe passage through the deadly fog that surrounds the valley; he keeps them in the treasure wagon ([area N9i](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N9iVistaniTreasureWagon "area N9i")). The potions don’t work, of course.
+> 
+> If the characters rescue Arabelle from Lake Zarovich ([chapter 2](https://www.dndbeyond.com/sources/cos/the-lands-of-barovia "chapter 2"), [area L](https://www.dndbeyond.com/sources/cos/the-lands-of-barovia#LLakeZarovich "area L")) and see her safely returned to camp, Luvash is overjoyed and offers to repay the favor. He doesn’t sell them the fake potions. (“Um, they aren’t as potent as they could be.”) Instead, he lets them choose a treasure from the Vistani treasure wagon ([area N9i](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N9iVistaniTreasureWagon "area N9i")).
+> 
+> If the characters ask something of the Vistani but have not earned Luvash’s goodwill, he agrees to do business with them if they accomplish one of two tasks: either find his missing daughter or procure six barrels of wine and bring them to the camp. Luvash suggests they can get the wine in Vallaki, or go straight to the source—the Wizard of Wines winery. He isn’t picky when it comes to the quality of the wine.
+> 
+> _**Dealing with Arrigal.**_ Arrigal is a much more dangerous creature than his brute of a brother. If the characters have something in their possession that is either useful or harmful to Strahd and Arrigal becomes aware of it, he tries to deprive the characters of this item, stalking them if necessary and going as far as to kill one or more of them if he thinks he can escape with the item in his possession. If he succeeds, he takes one of the riding horses ([area N9d](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N9dHorses "area N9d")) and delivers the item to Strahd at Castle Ravenloft.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N9dHorses)N9d. Horses
+> 
+> The hilltop is covered with steaming piles of horse dung. More than two dozen horses are tethered to stone blocks inside the circle of wagons but outside the tent. Most of the animals are draft horses, but a few of them are riding horses equipped with saddles.
+> 
+> Twenty-four [draft horses](https://www.dndbeyond.com/monsters/16844-draft-horse) and six [riding horses](https://www.dndbeyond.com/monsters/16997-riding-horse) are tethered here.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N9eLuvashsWagon)N9e. Luvash’s Wagon
+> 
+> This barrel-topped wagon is nicer that the others. Drapes of golden silk hang in the windows, and the wheels have gold, sun-shaped hubcaps. An iron chimney pipe protrudes from the roof.
+> 
+> Luvash’s wagon is a mess inside. Empty wineskins, dirty clothes, and mangy furs are strewn about. A small hammock strung across the width of the wagon under the driver’s seat serves as Arabelle’s bed. A burlap doll with button eyes lies in the hammock; Arabelle has no other possessions.
+> 
+> A small iron stove in the middle of the wagon keeps the interior warm.
+> 
+> _**Treasure.**_ The wagon’s “golden sun” hubcaps are worth 125 gp apiece (500 gp total).
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N9fWagonofSleepingVistani)N9f. Wagon of Sleeping Vistani
+> 
+> There are four of these wagons at the camp.
+> 
+> You hear heavy snores from within this barrel-topped wagon.
+> 
+> Each of these wagons contains 1d4 sleeping Vistani (CN male and female human [bandits](https://www.dndbeyond.com/monsters/16798-bandit)). These Vistani wake up if their wagon is shaken or if they take damage and have at least 1 hit point remaining.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N9gWagonofGamblingVistani)N9g. Wagon of Gambling Vistani
+> 
+> There are three of these wagons at the camp.
+> 
+> Loud voices and laughter spill from this barrel-topped wagon.
+> 
+> Each of these wagons contains three Vistani (CN male and female human [bandits](https://www.dndbeyond.com/monsters/16798-bandit)). The Vistani are playing a dice game for favors, since they have no money. They respond to sounds of alarm by drawing their weapons and heading to the tent ([area N9c](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N9cVistaniTent "area N9c")).
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N9hVistaniFamilyWagon)N9h. Vistani Family Wagon
+> 
+> There are three of these wagons at the camp.
+> 
+> This barrel-topped wagon is filled with the raucous screams and laughter of children.
+> 
+> Each of these wagons contains one Vistani adult (male or female human [commoner](https://www.dndbeyond.com/monsters/16829-commoner)) and 1d4 + 1 Vistani children (male and female human noncombatants). The adult is watching the children playing games, teaching the children about their heritage, or telling a scary story to frighten the children.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N9iVistaniTreasureWagon)N9i. Vistani Treasure Wagon
+> 
+> Two iron padlocks secure the door of this barrel-topped wagon.
+> 
+> The Vistani keep all their treasure in this wagon. The door to the wagon has two locks, each of which requires a different key. Luvash carries one key, Arrigal the other. Each lock is rigged with a poison needle trap (see “[Sample Traps](https://www.dndbeyond.com/sources/dmg/adventure-environments#SampleTraps "Sample Traps")” in chapter 5, “Adventure Environments,” of the [Dungeon Master’s Guide](https://www.dndbeyond.com/sources/dmg "Dungeon Master’s Guide")).
+> 
+> _**Treasure.**_ The wagon contains the following items:
+> 
+> - A wooden chest containing 1,200 ep (each coin stamped with the profiled visage of Strahd)
+> - An iron chest containing 650 gp
+> - An onyx jewelry box with gold filigree (worth 250 gp) containing six pieces of cheap jewelry (worth 50 gp each) and a [potion of poison](https://www.dndbeyond.com/magic-items/4712-potion-of-poison) in an unlabeled crystal vial (worth 100 gp)
+> - A wooden throne with gold inlay and decorative stones (worth 750 gp)
+> - A rolled-up 10-foot-square rug with an exquisite unicorn motif (worth 750 gp)
+> - A small wooden box containing twelve fake potions in stoppered gourds (the Vistani sell these nonmagical elixirs to naive strangers, claiming that they protect against the deadly fog surrounding Barovia)
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#FortunesofRavenloft7)Fortunes of Ravenloft
+> 
+> If your card reading reveals that a treasure is here, it is lying amid the other items in the wagon.
+> 
+
 
 Kasimir’s hovel is largely as described in <span class="citation">N9a. Kasimir's Hovel (p. 121)</span>. If the players enter it, read:
 
@@ -244,6 +570,268 @@ If the players ask Kasimir about the history of the dusk elves, Kasimir shares t
 
 # E3. Burgomaster’s Mansion
 <span class="citation"><em>This scene takes place in Chapter 5: Area N3.</em></span>
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3BurgomastersMansion
+> 
+> 
+> This mansion has walls of plastered stone that display many scars where the plaster has fallen away from age and neglect. Drapes cover every window, including a large, arched opening above the mansion’s double entrance doors.
+> 
+> People come and go from the mansion at all hours during the day. Guards bring criminals cited for “malicious unhappiness.” Men and women arrive carrying bundles of twigs, which are piled about the mansion’s grand foyer ([area N3a](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3aEntranceHallandVestibule "area N3a")) until the construction of the wicker sun for the Festival of the Blazing Sun gets under way.
+> 
+> If the characters knock on the front doors, a maid (LG female human [commoner](https://www.dndbeyond.com/monsters/16829-commoner)) lets them in, escorts them to the den ([area N3e](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3eDen "area N3e")), and leaves to fetch the baron.
+> 
+> [![](https://www.dndbeyond.com/attachments/thumbnails/2/684/600/825/015.jpg)](https://www.dndbeyond.com/attachments/2/684/015.jpg)
+> 
+> Map 5.3: Burgomaster’s Mansion (Area N3)[View Player Version](https://www.dndbeyond.com/attachments/2/771/cos502.jpg)
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#RoleplayingtheVallakovichFamily)Roleplaying the Vallakovich Family
+> 
+> Use the following information to roleplay the burgomaster and his family.
+> 
+> _**The Baron.**_ The burgomaster, Baron Vargas Vallakovich (NE male human [noble](https://www.dndbeyond.com/monsters/16966-noble)), is a ruthless heel who prides himself on his good breeding and finely honed leadership skills. He stages repeated celebrations to foster happiness, and his “All will be well!” catchphrase has become a sad and tiresome punchline. Baron Vallakovich has convinced himself that if he can make everyone in Vallaki happy, the town will slip free of Strahd’s dark grasp.
+> 
+> The baron has a brittle ego, and he lashes out at anyone who pokes fun at his festivals or treats him disrespectfully. He has two pet mastiffs that follow him everywhere, as well as a murderous and deformed henchman named [Izek Strazni](https://www.dndbeyond.com/monsters/17365-izek-strazni) (see [appendix D](https://www.dndbeyond.com/sources/cos/appendix-d-monsters-and-npcs#IzekStrazni "appendix D")). In addition to his weapons, Izek carries an iron ring of keys that unlock the stocks in the town square ([area N8](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N8TownSquare "area N8")).
+> 
+> If the characters get on his bad side, the baron accuses them of being “spies of the devil Strahd” and sends twelve [guards](https://www.dndbeyond.com/monsters/16915-guard) to arrest them, seize their weapons, and run them out of town. If the guards fail in their duty, the baron sends Izek to rally a mob of thirty [commoners](https://www.dndbeyond.com/monsters/16829-commoner) to lynch the party. If the commoners also fail, the baron summons the twelve remaining guards to defend his mansion, giving characters the run of the town.
+> 
+> If the characters get on his good side, he insists that they join him in the next festival as special guests and asks that they tell everyone that all will, indeed, be well.
+> 
+> [![](https://www.dndbeyond.com/attachments/thumbnails/1/755/450/462/cos05-09.png)](https://www.dndbeyond.com/attachments/1/755/cos05-09.png)
+> 
+> The Baroness and Baron
+> 
+> Two members of the baron’s household staff have vanished in the past week: the butler and the baroness’s lady-in-waiting. The baron has charged Izek with finding out what happened to them, but investigation isn’t Izek’s forte. Searches have been organized, to no avail.
+> 
+> _**The Baroness.**_ At the risk of sacrificing her sanity, the baron’s wife, Lydia Petrovna (LG female human [commoner](https://www.dndbeyond.com/monsters/16829-commoner)), has embraced her husband’s philosophy of happiness. She laughs at the baron’s every comment, to the extent that it has become a nervous reflex, and she tries to spread good cheer by throwing daily tea-and-sandwich parties in the parlor for her “dearest friends,” many of them poor folk who tolerate the baroness only because they crave something warm to eat and drink. Lydia is a gods-fearing woman and the younger sister of the town priest, Father Lucian Petrovich. She is a descendant of Tasha Petrovna, a priest entombed in Castle Ravenloft ([chapter 4](https://www.dndbeyond.com/sources/cos/castle-ravenloft "chapter 4"), area K84, [crypt 11](https://www.dndbeyond.com/sources/cos/castle-ravenloft#Crypt11 "crypt 11")).
+> 
+> _**The Baronet.**_ The baron’s miserable son, Victor Vallakovich (NE male human [mage](https://www.dndbeyond.com/monsters/16947-mage)), has confined himself to the attic ([area N3t](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3tVictorsWorkroom "area N3t")), where he is content to avoid the unwanted attention of his mother and the disapproving glares of his father. Years ago, Victor found an old spellbook in the mansion’s library and used it to teach himself magic. He has been busy constructing a [teleportation circle](https://www.dndbeyond.com/spells/2276-teleportation-circle) in the hope of escaping Barovia and leaving his parents to their doom.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3aEntranceHallandVestibule)N3a. Entrance Hall and Vestibule
+> 
+> Framed portraits adorn the walls of this grand foyer, which features a wide staircase with a sculpted railing. A long, carpeted hall attached to the foyer stretches almost the length of the mansion and has several doors leading away from it, including one at the far end. Bundles of twigs are heaped against the walls.
+> 
+> The twigs are being stored here until they can be fashioned into a wooden effigy of the sun (for the Festival of the Blazing Sun).
+> 
+> The stairs climb to the upstairs gallery ([area N3i](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3iUpstairsGallery "area N3i")).
+> 
+> The portraits depict the baron, his family, and their ancestors. Close inspection reveals that some of the people portrayed look very much alike.
+> 
+> Tucked in the northeast corner of the foyer is a vestibule packed with fine cloaks, coats, and boots.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3bParlor)N3b. Parlor
+> 
+> This parlor contains a fine array of furnishings and draperies, with an overall feminine touch.
+> 
+> The baroness sometimes entertains guests here.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3cDiningRoom)N3c. Dining Room
+> 
+> Characters can hear the chatter of female voices as they approach this room. The first time they peer inside, read:
+> 
+> A chandelier of wrought iron fitted with wax candles hangs above a polished wooden dining table. Around the table are seated eight women of various ages in comfortable, high-backed chairs. They wear faded clothes, drink tea, and devour cake while a ninth woman, well dressed and very pleased with herself, circles the table and talks excitedly about decorations for the impending festival.
+> 
+> The women seated at the table are eight Vallakian peasants (female [commoners](https://www.dndbeyond.com/monsters/16829-commoner)) invited to spend time with the baroness, Lydia Petrovna, who is bribing them with tea and cake. Lydia has assigned these women the task of stitching children’s costumes and weaving together a wicker sun for the Festival of the Blazing Sun.
+> 
+> Lydia assumes that the characters are here at the invitation of her husband, the burgomaster. She calls for the maid to take them to the den ([area N3e](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3eDen "area N3e")) and then to inform Baron Vallakovich (see [area N2l](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2lGuestRooms "area N2l")) that his guests have arrived.
+> 
+> A serving table stands in one corner of the dining hall.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3dPreparationRoom)N3d. Preparation Room
+> 
+> White sheets cover two plain wooden tables in the center of this room. Neatly arranged atop one table is a complete set of polished silverware. The other table is covered with wicker baskets containing turnips and beets.
+> 
+> The beets and turnips are for the Festival of the Blazing Sun (see the “[Special Events](https://www.dndbeyond.com/sources/cos/the-town-of-vallaki#FestivaloftheBlazingSun "Special Events")” section at the end of this chapter).
+> 
+> _**Treasure.**_ The silverware set is worth 150 gp.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3eDen)N3e. Den
+> 
+> Characters who ask to see the burgomaster are brought here.
+> 
+> Padded chairs and couches line the walls of this cozy, carpeted den. The room reeks of pipe smoke, and mounted on the east wall is the head of an angry-looking brown bear.
+> 
+> The mounted bear’s head is meant to unnerve visitors. It serves as a subtle warning not to antagonize the burgomaster, who spends most of his time in the library ([area N3l](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3lLibrary "area N3l")). Although the burgomaster claims that his father killed the bear, the head was actually a gift given to his family by the late Szoldar Grygorovich, father of the wolf hunter Szoldar Szoldarovich ([area N2](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2BlueWaterInn "area N2")).
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3fServantsQuarters)N3f. Servants’ Quarters
+> 
+> This room contains four simple beds and an equal number of plain wooden trunks.
+> 
+> The household staff consists of a maid (LG female human [commoner](https://www.dndbeyond.com/monsters/16829-commoner)) and a cook (LG male human [commoner](https://www.dndbeyond.com/monsters/16829-commoner)). The other two beds belonged to the butler and the baroness’s lady-in-waiting, both of whom have gone missing (see [area N3t](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3tVictorsWorkroom "area N3t")). The trunks contain the staff’s clothing and uniforms.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3gKitchen)N3g. Kitchen
+> 
+> A cook wearing a white apron over a black smock busies himself in this warm, well-appointed kitchen. A staircase in one corner climbs to the upper floor.
+> 
+> The staircase leads to the upstairs gallery ([area N3i](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3iUpstairsGallery "area N3i")). A door in the west wall leads to a garden outside. The door is usually locked, and both the cook and the burgomaster carry keys to unlock it.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3hPantry)N3h. Pantry
+> 
+> This pantry contains shelves of foodstuffs, although half of the shelves are bare. Two barrels of wine stand against the east wall.
+> 
+> The pantry has not been fully stocked for as long as anyone can remember. The two barrels contain a fine wine called Red Dragon Crush, created by the Wizard of Wines winery—facts burned into the side of each barrel.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3iUpstairsGallery)N3i. Upstairs Gallery
+> 
+> If the characters arrive here from the entrance hall ([area N3a](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3aEntranceHallandVestibule "area N3a")), read:
+> 
+> The staircase climbs twenty feet to a beautifully appointed gallery that continues toward the west, running almost the length of the mansion. Framed landscape paintings line the walls, and red silk drapes cover a ten-foot-tall arched window of leaded glass.
+> 
+> If the characters arrive here from the kitchen ([area N3g](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3gKitchen "area N3g")), read:
+> 
+> The staircase climbs to a ten-foot-wide gallery that stretches almost the length of the mansion. Breathtaking paintings of landscapes line the walls. Two separate, narrow hallways lead away from the gallery to the north.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3jIzeksBedroom)N3j. Izek’s Bedroom
+> 
+> The door to this room is locked. Izek Strazni carries the only key.
+> 
+> The following description assumes the characters have met Ireena Kolyana (see [chapter 3](https://www.dndbeyond.com/sources/cos/the-village-of-barovia "chapter 3"), [area E4](https://www.dndbeyond.com/sources/cos/the-village-of-barovia#E4BurgomastersMansion "area E4")). If the characters haven’t met her, don’t read the last sentence.
+> 
+> Dolls. This room is full of pretty little dolls with powder-white skin and auburn hair, some of them dressed beautifully, others plainly. Some of the dolls fill a long bookshelf, and others are arranged in neat rows on wall-mounted shelves. Still others are piled atop a bed and a heavy wooden chest. What’s most odd is that all of the dolls, apart from their clothing, look the same. They all look like Ireena Kolyana.
+> 
+> The burgomaster’s monstrous henchman, [Izek Strazni](https://www.dndbeyond.com/monsters/17365-izek-strazni) (see [appendix D](https://www.dndbeyond.com/sources/cos/appendix-d-monsters-and-npcs#IzekStrazni "appendix D")), sleeps here at night. During the day, he is in town taking care of his master’s business. Izek’s chest is unlocked and contains a heap of wrinkled clothes, under which is a nonmagical shortsword.
+> 
+> A thorough search of the room reveals a few empty wine bottles under the bed. The label on each bears the winery’s name, the Wizard of Wines, and wine’s name, Purple Grapemash No. 3.
+> 
+> _**Izek’s Doll Collection.**_ Each doll has a small tag stitched into its clothing that reads “Is No Fun, Is No Blinsky!” Izek had the local toymaker, Gadof Blinsky ([area N7](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N7BlinskyToys "area N7")), craft the dolls in Ireena’s likeness.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3kVictorsBedroom)N3k. Victor’s Bedroom
+> 
+> This handsomely appointed room contains a canopied bed, a low bookshelf, and a full-length mirror in a wooden frame on the wall across from the door. Set into the north wall is an arched window of leaded glass. Nothing here seems unusual.
+> 
+> Nothing about his bedroom betrays Victor’s deviant nature or magical proclivities. The books include collections of Barovian fables and tomes about mythology, heraldry, and other innocuous subjects.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3lLibrary)N3l. Library
+> 
+> Floor-to-ceiling shelves line every wall of this windowless room, and the number of books contained here is nothing short of astounding.A brass oil lamp sits atop a large desk in the center of the room. The chair behind the desk is comfortably padded and has the symbol of a roaring bear stitched into its back cushion.
+> 
+> If the burgomaster has not been drawn elsewhere, he is here. Add:
+> 
+> Standing behind the chair, holding an open book, is a bear of a man. His breastplate, rapier, silk tunic, and greasy beard glisten in the lamplight. Resting on small rugs to his left and right are a pair of black mastiffs.
+> 
+> Baron Vargas Vallakovich never goes anywhere without his two [mastiffs](https://www.dndbeyond.com/monsters/16953-mastiff). A paranoid man, he wears his breastplate and rapier even while relaxing in his library. Two of his servants, the butler and his wife’s lady-in-waiting, have vanished without a trace in the past week, so he has good cause to be worried.
+> 
+> The baron believes that everyone else is beneath him, and those who question his word or challenge his authority must be humbled. He won’t pick a fight with well-armed strangers, however. If he can’t make the characters yield to his authority, he swallows his pride until he can circle around with Izek Strazni and assemble his guards to run them out of town.
+> 
+> The baron’s desk contains three drawers stuffed with blank sheets of parchment, jars of ink, and writing quills. It also holds thick books of tax records dating back to the times of the baron’s father, grandfather, and great-grandfather.
+> 
+> The baron wears a signet ring and carries three keys: one that unlocks the outside door in [area N3g](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3gKitchen "area N3g"), and two keys for the door and the manacles in [area N3m](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3mLockedCloset "area N3m").
+> 
+> _**Treasure.**_ The Vallakovich book collection contains old, leather-bound tomes on virtually every subject. Use the Random Books table (see [chapter 4](https://www.dndbeyond.com/sources/cos/castle-ravenloft "chapter 4"), [area K37](https://www.dndbeyond.com/sources/cos/castle-ravenloft#K37Study "area K37")) to determine the subject matter of a particular book.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3mLockedCloset)N3m. Locked Closet
+> 
+> The door to this room is locked. The baron carries the key.
+> 
+> Chained to the back wall of this otherwise empty closet is a badly beaten man wearing nothing but a loincloth. The iron shackles have cut into his wrists, causing blood to trickle down his hands.
+> 
+> The man is a Vallakian shoemaker named Udo Lukovich (LN male human [commoner](https://www.dndbeyond.com/monsters/16829-commoner)). He was arrested during the Wolf’s Head Jamboree for carrying a sign that suggested that Vallakians should feed the baron to the wolves.
+> 
+> Baron Vallakovich has the key to Udo’s manacles. The manacles break if they take 10 damage or more from a single weapon attack.
+> 
+> If the characters release Udo, his first desire is to return to his home. Later, he plans to tell Father Lucian (see [area N1](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N1StAndralsChurch "area N1")) of his ill treatment in the burgomaster’s estate. If the baron discovers that Udo has escaped or been set free, he sends Izek to find the shoemaker and bring him back for further questioning. Under great duress, Udo provides the names or descriptions of those who liberated him, turning the burgomaster against the characters.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3nMasterBedroomCloset)N3n. Master Bedroom Closet
+> 
+> Cloaks, coats, gowns, and other fancy apparel hang from hooks in this closet. Arranged on low shelves are many fine shoes, slippers, and boots.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3oMasterBedroom)N3o. Master Bedroom
+> 
+> Time has faded the grandeur of this master bedroom. The furnishings have lost some of their color and splendor. A short pull-rope hangs from a wooden trapdoor in the ceiling.
+> 
+> The baron and the baroness sleep in one bed at night. Nothing of value is kept here.
+> 
+> The trapdoor in the ceiling can be pulled down to reveal an attic room ([area N3r](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3rAtticRoom "area N3r")). An unfolding wooden ladder allows easy access.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3pBridalGownandSpiritMirror)N3p. Bridal Gown and Spirit Mirror
+> 
+> This room smells of powder and fine perfume. A vanity with a mirror stands against one wall next to a faceless wooden mannequin wearing a white bridal gown. Mounted on another wall is a full-length mirror with a gilded frame. A door in one corner leads to a garderobe.
+> 
+> The baroness used to while away long hours in this room, fondling her perfume collection and searching for solace in her own reflection. Since her lady-in-waiting went missing several days ago, the baroness has spent almost no time here.
+> 
+> _**Bridal Gown.**_ The white gown stored here belongs to the baroness. It reminds her of happier times.
+> 
+> _**Magic Mirror.**_ A [detect magic](https://www.dndbeyond.com/spells/2065-detect-magic) spell reveals that the gilded mirror on the wall radiates an aura of conjuration magic. None of the mansion’s current occupants are aware of this fact, because the mirror’s magic hasn’t been used in generations. Casting an [identify](https://www.dndbeyond.com/spells/2152-identify) spell on the mirror reveals that an assassin’s ghost is magically bound to it. The spell also reveals the forgotten rhyme needed to summon the ghost:
+> 
+> _Magic mirror on the wall_,
+> 
+> _Summon forth your shade;_
+> 
+> _Night’s dark vengeance, heed my call_
+> 
+> _And wield your murderous blade._
+> 
+> The entity in the mirror is the spirit of a nameless assassin who once belonged to a secret society called the Ba’al Verzi. If a creature speaks the rhyme while standing within 5 feet of the mirror and staring at its own reflection, the assassin’s ghost appears nearby. The form that the spirit takes depends on the alignment of the one who summoned it:
+> 
+> **Non-evil Summoner.** If the summoner isn’t evil, the spirit assumes solid form, appearing as a darkly handsome thirty-year-old man with bloodshot eyes. He has the statistics of an [assassin](https://www.dndbeyond.com/monsters/16790-assassin) but doesn’t speak, and he disappears into the ether if reduced to 0 hit points. The assassin’s summoner can command him to kill one living creature within Strahd’s domain that the summoner mentions by name. The assassin automatically knows the distance and direction to the named target. The assassin attacks any other creature that tries to prevent him from completing his assignment. Once he completes his task, the assassin disappears. If commanded to attack a creature that is either dead or undead, or if he isn’t given an appropriate name within 1 round of being summoned, the assassin disappears.
+> 
+> **Evil Summoner.** If the summoner is evil, the ghost manifests as a pair of floating, bloodshot eyes and strong, spectral hands. The hands try to wrap themselves around the summoner’s neck. The spectral eyes and hands have the statistics of a [ghost](https://www.dndbeyond.com/monsters/16871-ghost), but without the Etherealness and Possession actions. The ghost attacks its summoner until one or the other drops to 0 hit points, at which point it disappears.
+> 
+> Once the power of the mirror is used, the mirror becomes dormant until the next dawn. The mirror has AC 10, 5 hit points, and immunity to poison and psychic damage. Destroying it lays the assassin’s spirit to rest, causing the manifestation to disappear if it is present.
+> 
+> The mirror corrupts those who use it to do evil. Summoning the assassin isn’t evil, but using him to commit murder is. Each time a creature uses the mirror for this purpose, there is a cumulative 25 percent chance that the creature’s alignment shifts to neutral evil.
+> 
+> If a character touches the mirror and speaks Strahd’s name, there is a 50 percent chance that Strahd takes notice and appears on the mirror’s surface. In this form, the vampire can’t be harmed. He tries to charm one humanoid he can see within 30 feet of the mirror. Whether the target resists the effect or not, Strahd’s smiling visage invites the characters to dine at Castle Ravenloft, then fades away. A creature [charmed](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#CharmedCondition) by Strahd feels compelled to accept the vampire’s invitation.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3qBathroom)N3q. Bathroom
+> 
+> An iron tub with clawed feet stands against the back wall. Neatly folded towels rest atop a table near the door.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3rAtticRoom)N3r. Attic Room
+> 
+> Characters are most likely to enter this room via a trapdoor in the ceiling of the master bedroom ([area N3o](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3oMasterBedroom "area N3o")).
+> 
+> This dusty, twenty-foot-square room has a high-pitched ceiling that reaches its peak twenty feet above. The wooden rafters are shrouded in cobwebs. Except for an old table with a lantern on it, the room is empty.
+> 
+> A door in the south wall can be pulled open to [area N3s](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3sAtticStorage "area N3s").
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3sAtticStorage)N3s. Attic Storage
+> 
+> This large attic is full of old, forgotten things draped in white sheets. Piled around them are barrels, crates, trunks, and old furnishings covered with cobwebs and dust. You see a clear footpath through the maze.
+> 
+> Characters can follow a single set of human footprints in the dust that lead to [area N3t](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3tVictorsWorkroom "area N3t").
+> 
+> Searching through the junk in this attic uncovers a few old paintings and antiques, but nothing of value.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#FortunesofRavenloft3)Fortunes of Ravenloft
+> 
+> If your card reading reveals that a treasure is here, the item is hidden in a trunk. Each character has a cumulative 20 percent chance of finding the item for every hour the character spends searching the attic.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3tVictorsWorkroom)N3t. Victor’s Workroom
+> 
+> Victor spends most of his time here, leaving only when he needs food or spell components. When the characters first set eyes on the door to this room, read:
+> 
+> Someone has carved a large skull into this door. Hanging from the doorknob is a wooden sign that reads “ALL IS NOT WELL!” You hear a young man’s voice beyond.
+> 
+> Anyone who inspects the carving and succeeds on a DC 14 Intelligence ([Investigation](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)) check notices a small, nearly [invisible](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#InvisibleCondition) glyph etched into the skull’s forehead. This is a [glyph of warding](https://www.dndbeyond.com/spells/2125-glyph-of-warding) (5d8 lightning damage) that triggers if anyone other than Victor opens the door.
+> 
+> The voice belongs to Victor. He is reading aloud from his spellbook. Anyone who listens at the door and succeeds on a DC 14 Intelligence ([Arcana](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)) check can tell he’s badly pronouncing some kind of teleportation spell.
+> 
+> If the characters open the door, read:
+> 
+> Someone has taken old, mismatched furniture and created a study is this dusty, lamplit chamber. Tables are strewn with pieces of parchment, on which strange diagrams are drawn, and a freestanding bookshelf holds a collection of bones. A dusty rug covers the floor in front of a pine box, on which lounges a skeletal cat. Several more skeletal cats skulk about. Most unnerving of all is the sight of three small children standing with their backs to you in the northeast corner of the room.
+> 
+> If the characters trigger the [glyph of warding](https://www.dndbeyond.com/spells/2125-glyph-of-warding) or otherwise announce their arrival, Victor casts a [greater invisibility](https://www.dndbeyond.com/spells/2128-greater-invisibility) spell on himself and hides in a corner. Otherwise, he’s visible. If the characters can see Victor, read:
+> 
+> In the center of the room, perched on a stool, is a thin young man with a premature streak of gray in his dark hair. He cradles an open leather-bound book in his arms.
+> 
+> Victor found a spellbook in his father’s library and is using it to teach himself the art of spellcasting. Only recently has he been able to decipher some of its high-level spells. He’s a weird, awkward, and off-putting fellow who is dangerous only if threatened.
+> 
+> For practice and for fun, Victor dug up some old cat bones behind the Wachter estate (see [area N4](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N4Wachterhaus "area N4")) and animated them, creating six cat skeletons (use the [cat](https://www.dndbeyond.com/monsters/16820-cat) stat block, but give them [darkvision](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Darkvision) out to a range of 60 feet and immunity to poison damage, [exhaustion](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#ExhaustionCondition), and the [poisoned](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#PoisonedCondition) condition). The skeletons attack only when Victor commands them to.
+> 
+> The “children” standing in the corner are painted wooden dolls dressed in clothing that Victor wore as a child. He pretends they are his disobedient pupils.
+> 
+> The sheets of parchment are covered with elaborate diagrams of teleportation circles. Victor drew them in an effort to learn the [teleportation circle](https://www.dndbeyond.com/spells/2276-teleportation-circle) spell, which he’s still trying to master (see “Teleportation Circle” below).
+> 
+> The trunk contains several bolts of silk cloth, needles and thread, and a half-finished wizard’s robe. Victor started to make the robe for himself but found the work tedious and stopped.
+> 
+> _**Teleportation Circle.**_ Victor’s spellbook contains incomplete text for a [teleportation circle](https://www.dndbeyond.com/spells/2276-teleportation-circle) spell, along with the sigil sequences of three permanent teleportation circles, the locations of which aren’t described. There’s not enough text to prepare the spell properly, but that hasn’t stopped Victor from trying to learn to cast it.
+> 
+> Victor recently inscribed his own version of a teleportation circle on the floor. It’s hidden under the rug so that his parents don’t find it. In the past couple of weeks, Victor has managed to imbue the circle with magic, but he failed to account for several factors. His circle doesn’t fade after use, nor does it function like the [teleportation circle](https://www.dndbeyond.com/spells/2276-teleportation-circle) spell. If the circle is used in the casting of a [teleportation circle](https://www.dndbeyond.com/spells/2276-teleportation-circle) spell, whether the actual spell or Victor’s version of it, any creature standing on the circle when the spell is cast takes 3d10 force damage and isn’t teleported anywhere. If this damage reduces the creature to 0 hit points, the creature is disintegrated. Any character who studies the circle and succeeds on a DC 15 Intelligence ([Arcana](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)) check realizes that Victor’s circle is horribly flawed and potentially deadly when used.
+> 
+> Victor has tested his circle on two reluctant servants (compelled by his [suggestion](https://www.dndbeyond.com/spells/2269-suggestion) spell), in both cases linking his circle to one of the other circles whose sigils are in his spellbook. Each servant was torn apart before Victor’s eyes before vanishing in a flash of purple light. Victor doesn’t know how to fix the circle but plans to make more modifications to it before testing it again.
+> 
+> _**Treasure.**_ Victor’s spellbook contains all the spells Victor has prepared (see the [mage](https://www.dndbeyond.com/monsters/16947-mage) stat block in the [Monster Manual](https://www.dndbeyond.com/sources/mm "Monster Manual")) as well as the following spells: [animate dead](https://www.dndbeyond.com/spells/1996-animate-dead), [blight](https://www.dndbeyond.com/spells/2017-blight), [cloudkill](https://www.dndbeyond.com/spells/2030-cloudkill), [darkvision](https://www.dndbeyond.com/spells/2059-darkvision), [glyph of warding](https://www.dndbeyond.com/spells/2125-glyph-of-warding), [levitate](https://www.dndbeyond.com/spells/2165-levitate), [remove curse](https://www.dndbeyond.com/spells/2229-remove-curse), and [thunderwave](https://www.dndbeyond.com/spells/2278-thunderwave).
+> 
+
 
 The burgomaster's mansion is largely as described in <span class="citation">N3. Burgomaster's Mansion (p. 103)</span>. However, the magic mirror in <span class="citation">N3p. Bridal Gown and Spirit Mirror (p. 108)</span> has been modified and moved to <span class="citation">N3t. Victor's Workroom (p. 109)</span>. See [[#E3c. Speaking with Victor]] below, or [[Arc H - The Lost Soul]] for more information about the mirror.
 
@@ -298,6 +886,268 @@ The NPCs in the mansion behave as follows:
 > To recover their possessions, the players must first sneak back into Vallaki, avoiding the twelve **guards** patrolling the walls and gates around the city. The players can find their belongings stored in <span class="citation">N3m. Locked Closet (p. 107)</span>, near the chained Udo Lukovich.
 ## E3b. Searching the Library
 <span class="citation"><em>This scene takes place in Chapter 5: Area N3l.</em></span>
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3BurgomastersMansion
+> 
+> 
+> This mansion has walls of plastered stone that display many scars where the plaster has fallen away from age and neglect. Drapes cover every window, including a large, arched opening above the mansion’s double entrance doors.
+> 
+> People come and go from the mansion at all hours during the day. Guards bring criminals cited for “malicious unhappiness.” Men and women arrive carrying bundles of twigs, which are piled about the mansion’s grand foyer ([area N3a](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3aEntranceHallandVestibule "area N3a")) until the construction of the wicker sun for the Festival of the Blazing Sun gets under way.
+> 
+> If the characters knock on the front doors, a maid (LG female human [commoner](https://www.dndbeyond.com/monsters/16829-commoner)) lets them in, escorts them to the den ([area N3e](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3eDen "area N3e")), and leaves to fetch the baron.
+> 
+> [![](https://www.dndbeyond.com/attachments/thumbnails/2/684/600/825/015.jpg)](https://www.dndbeyond.com/attachments/2/684/015.jpg)
+> 
+> Map 5.3: Burgomaster’s Mansion (Area N3)[View Player Version](https://www.dndbeyond.com/attachments/2/771/cos502.jpg)
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#RoleplayingtheVallakovichFamily)Roleplaying the Vallakovich Family
+> 
+> Use the following information to roleplay the burgomaster and his family.
+> 
+> _**The Baron.**_ The burgomaster, Baron Vargas Vallakovich (NE male human [noble](https://www.dndbeyond.com/monsters/16966-noble)), is a ruthless heel who prides himself on his good breeding and finely honed leadership skills. He stages repeated celebrations to foster happiness, and his “All will be well!” catchphrase has become a sad and tiresome punchline. Baron Vallakovich has convinced himself that if he can make everyone in Vallaki happy, the town will slip free of Strahd’s dark grasp.
+> 
+> The baron has a brittle ego, and he lashes out at anyone who pokes fun at his festivals or treats him disrespectfully. He has two pet mastiffs that follow him everywhere, as well as a murderous and deformed henchman named [Izek Strazni](https://www.dndbeyond.com/monsters/17365-izek-strazni) (see [appendix D](https://www.dndbeyond.com/sources/cos/appendix-d-monsters-and-npcs#IzekStrazni "appendix D")). In addition to his weapons, Izek carries an iron ring of keys that unlock the stocks in the town square ([area N8](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N8TownSquare "area N8")).
+> 
+> If the characters get on his bad side, the baron accuses them of being “spies of the devil Strahd” and sends twelve [guards](https://www.dndbeyond.com/monsters/16915-guard) to arrest them, seize their weapons, and run them out of town. If the guards fail in their duty, the baron sends Izek to rally a mob of thirty [commoners](https://www.dndbeyond.com/monsters/16829-commoner) to lynch the party. If the commoners also fail, the baron summons the twelve remaining guards to defend his mansion, giving characters the run of the town.
+> 
+> If the characters get on his good side, he insists that they join him in the next festival as special guests and asks that they tell everyone that all will, indeed, be well.
+> 
+> [![](https://www.dndbeyond.com/attachments/thumbnails/1/755/450/462/cos05-09.png)](https://www.dndbeyond.com/attachments/1/755/cos05-09.png)
+> 
+> The Baroness and Baron
+> 
+> Two members of the baron’s household staff have vanished in the past week: the butler and the baroness’s lady-in-waiting. The baron has charged Izek with finding out what happened to them, but investigation isn’t Izek’s forte. Searches have been organized, to no avail.
+> 
+> _**The Baroness.**_ At the risk of sacrificing her sanity, the baron’s wife, Lydia Petrovna (LG female human [commoner](https://www.dndbeyond.com/monsters/16829-commoner)), has embraced her husband’s philosophy of happiness. She laughs at the baron’s every comment, to the extent that it has become a nervous reflex, and she tries to spread good cheer by throwing daily tea-and-sandwich parties in the parlor for her “dearest friends,” many of them poor folk who tolerate the baroness only because they crave something warm to eat and drink. Lydia is a gods-fearing woman and the younger sister of the town priest, Father Lucian Petrovich. She is a descendant of Tasha Petrovna, a priest entombed in Castle Ravenloft ([chapter 4](https://www.dndbeyond.com/sources/cos/castle-ravenloft "chapter 4"), area K84, [crypt 11](https://www.dndbeyond.com/sources/cos/castle-ravenloft#Crypt11 "crypt 11")).
+> 
+> _**The Baronet.**_ The baron’s miserable son, Victor Vallakovich (NE male human [mage](https://www.dndbeyond.com/monsters/16947-mage)), has confined himself to the attic ([area N3t](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3tVictorsWorkroom "area N3t")), where he is content to avoid the unwanted attention of his mother and the disapproving glares of his father. Years ago, Victor found an old spellbook in the mansion’s library and used it to teach himself magic. He has been busy constructing a [teleportation circle](https://www.dndbeyond.com/spells/2276-teleportation-circle) in the hope of escaping Barovia and leaving his parents to their doom.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3aEntranceHallandVestibule)N3a. Entrance Hall and Vestibule
+> 
+> Framed portraits adorn the walls of this grand foyer, which features a wide staircase with a sculpted railing. A long, carpeted hall attached to the foyer stretches almost the length of the mansion and has several doors leading away from it, including one at the far end. Bundles of twigs are heaped against the walls.
+> 
+> The twigs are being stored here until they can be fashioned into a wooden effigy of the sun (for the Festival of the Blazing Sun).
+> 
+> The stairs climb to the upstairs gallery ([area N3i](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3iUpstairsGallery "area N3i")).
+> 
+> The portraits depict the baron, his family, and their ancestors. Close inspection reveals that some of the people portrayed look very much alike.
+> 
+> Tucked in the northeast corner of the foyer is a vestibule packed with fine cloaks, coats, and boots.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3bParlor)N3b. Parlor
+> 
+> This parlor contains a fine array of furnishings and draperies, with an overall feminine touch.
+> 
+> The baroness sometimes entertains guests here.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3cDiningRoom)N3c. Dining Room
+> 
+> Characters can hear the chatter of female voices as they approach this room. The first time they peer inside, read:
+> 
+> A chandelier of wrought iron fitted with wax candles hangs above a polished wooden dining table. Around the table are seated eight women of various ages in comfortable, high-backed chairs. They wear faded clothes, drink tea, and devour cake while a ninth woman, well dressed and very pleased with herself, circles the table and talks excitedly about decorations for the impending festival.
+> 
+> The women seated at the table are eight Vallakian peasants (female [commoners](https://www.dndbeyond.com/monsters/16829-commoner)) invited to spend time with the baroness, Lydia Petrovna, who is bribing them with tea and cake. Lydia has assigned these women the task of stitching children’s costumes and weaving together a wicker sun for the Festival of the Blazing Sun.
+> 
+> Lydia assumes that the characters are here at the invitation of her husband, the burgomaster. She calls for the maid to take them to the den ([area N3e](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3eDen "area N3e")) and then to inform Baron Vallakovich (see [area N2l](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2lGuestRooms "area N2l")) that his guests have arrived.
+> 
+> A serving table stands in one corner of the dining hall.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3dPreparationRoom)N3d. Preparation Room
+> 
+> White sheets cover two plain wooden tables in the center of this room. Neatly arranged atop one table is a complete set of polished silverware. The other table is covered with wicker baskets containing turnips and beets.
+> 
+> The beets and turnips are for the Festival of the Blazing Sun (see the “[Special Events](https://www.dndbeyond.com/sources/cos/the-town-of-vallaki#FestivaloftheBlazingSun "Special Events")” section at the end of this chapter).
+> 
+> _**Treasure.**_ The silverware set is worth 150 gp.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3eDen)N3e. Den
+> 
+> Characters who ask to see the burgomaster are brought here.
+> 
+> Padded chairs and couches line the walls of this cozy, carpeted den. The room reeks of pipe smoke, and mounted on the east wall is the head of an angry-looking brown bear.
+> 
+> The mounted bear’s head is meant to unnerve visitors. It serves as a subtle warning not to antagonize the burgomaster, who spends most of his time in the library ([area N3l](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3lLibrary "area N3l")). Although the burgomaster claims that his father killed the bear, the head was actually a gift given to his family by the late Szoldar Grygorovich, father of the wolf hunter Szoldar Szoldarovich ([area N2](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2BlueWaterInn "area N2")).
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3fServantsQuarters)N3f. Servants’ Quarters
+> 
+> This room contains four simple beds and an equal number of plain wooden trunks.
+> 
+> The household staff consists of a maid (LG female human [commoner](https://www.dndbeyond.com/monsters/16829-commoner)) and a cook (LG male human [commoner](https://www.dndbeyond.com/monsters/16829-commoner)). The other two beds belonged to the butler and the baroness’s lady-in-waiting, both of whom have gone missing (see [area N3t](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3tVictorsWorkroom "area N3t")). The trunks contain the staff’s clothing and uniforms.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3gKitchen)N3g. Kitchen
+> 
+> A cook wearing a white apron over a black smock busies himself in this warm, well-appointed kitchen. A staircase in one corner climbs to the upper floor.
+> 
+> The staircase leads to the upstairs gallery ([area N3i](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3iUpstairsGallery "area N3i")). A door in the west wall leads to a garden outside. The door is usually locked, and both the cook and the burgomaster carry keys to unlock it.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3hPantry)N3h. Pantry
+> 
+> This pantry contains shelves of foodstuffs, although half of the shelves are bare. Two barrels of wine stand against the east wall.
+> 
+> The pantry has not been fully stocked for as long as anyone can remember. The two barrels contain a fine wine called Red Dragon Crush, created by the Wizard of Wines winery—facts burned into the side of each barrel.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3iUpstairsGallery)N3i. Upstairs Gallery
+> 
+> If the characters arrive here from the entrance hall ([area N3a](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3aEntranceHallandVestibule "area N3a")), read:
+> 
+> The staircase climbs twenty feet to a beautifully appointed gallery that continues toward the west, running almost the length of the mansion. Framed landscape paintings line the walls, and red silk drapes cover a ten-foot-tall arched window of leaded glass.
+> 
+> If the characters arrive here from the kitchen ([area N3g](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3gKitchen "area N3g")), read:
+> 
+> The staircase climbs to a ten-foot-wide gallery that stretches almost the length of the mansion. Breathtaking paintings of landscapes line the walls. Two separate, narrow hallways lead away from the gallery to the north.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3jIzeksBedroom)N3j. Izek’s Bedroom
+> 
+> The door to this room is locked. Izek Strazni carries the only key.
+> 
+> The following description assumes the characters have met Ireena Kolyana (see [chapter 3](https://www.dndbeyond.com/sources/cos/the-village-of-barovia "chapter 3"), [area E4](https://www.dndbeyond.com/sources/cos/the-village-of-barovia#E4BurgomastersMansion "area E4")). If the characters haven’t met her, don’t read the last sentence.
+> 
+> Dolls. This room is full of pretty little dolls with powder-white skin and auburn hair, some of them dressed beautifully, others plainly. Some of the dolls fill a long bookshelf, and others are arranged in neat rows on wall-mounted shelves. Still others are piled atop a bed and a heavy wooden chest. What’s most odd is that all of the dolls, apart from their clothing, look the same. They all look like Ireena Kolyana.
+> 
+> The burgomaster’s monstrous henchman, [Izek Strazni](https://www.dndbeyond.com/monsters/17365-izek-strazni) (see [appendix D](https://www.dndbeyond.com/sources/cos/appendix-d-monsters-and-npcs#IzekStrazni "appendix D")), sleeps here at night. During the day, he is in town taking care of his master’s business. Izek’s chest is unlocked and contains a heap of wrinkled clothes, under which is a nonmagical shortsword.
+> 
+> A thorough search of the room reveals a few empty wine bottles under the bed. The label on each bears the winery’s name, the Wizard of Wines, and wine’s name, Purple Grapemash No. 3.
+> 
+> _**Izek’s Doll Collection.**_ Each doll has a small tag stitched into its clothing that reads “Is No Fun, Is No Blinsky!” Izek had the local toymaker, Gadof Blinsky ([area N7](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N7BlinskyToys "area N7")), craft the dolls in Ireena’s likeness.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3kVictorsBedroom)N3k. Victor’s Bedroom
+> 
+> This handsomely appointed room contains a canopied bed, a low bookshelf, and a full-length mirror in a wooden frame on the wall across from the door. Set into the north wall is an arched window of leaded glass. Nothing here seems unusual.
+> 
+> Nothing about his bedroom betrays Victor’s deviant nature or magical proclivities. The books include collections of Barovian fables and tomes about mythology, heraldry, and other innocuous subjects.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3lLibrary)N3l. Library
+> 
+> Floor-to-ceiling shelves line every wall of this windowless room, and the number of books contained here is nothing short of astounding.A brass oil lamp sits atop a large desk in the center of the room. The chair behind the desk is comfortably padded and has the symbol of a roaring bear stitched into its back cushion.
+> 
+> If the burgomaster has not been drawn elsewhere, he is here. Add:
+> 
+> Standing behind the chair, holding an open book, is a bear of a man. His breastplate, rapier, silk tunic, and greasy beard glisten in the lamplight. Resting on small rugs to his left and right are a pair of black mastiffs.
+> 
+> Baron Vargas Vallakovich never goes anywhere without his two [mastiffs](https://www.dndbeyond.com/monsters/16953-mastiff). A paranoid man, he wears his breastplate and rapier even while relaxing in his library. Two of his servants, the butler and his wife’s lady-in-waiting, have vanished without a trace in the past week, so he has good cause to be worried.
+> 
+> The baron believes that everyone else is beneath him, and those who question his word or challenge his authority must be humbled. He won’t pick a fight with well-armed strangers, however. If he can’t make the characters yield to his authority, he swallows his pride until he can circle around with Izek Strazni and assemble his guards to run them out of town.
+> 
+> The baron’s desk contains three drawers stuffed with blank sheets of parchment, jars of ink, and writing quills. It also holds thick books of tax records dating back to the times of the baron’s father, grandfather, and great-grandfather.
+> 
+> The baron wears a signet ring and carries three keys: one that unlocks the outside door in [area N3g](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3gKitchen "area N3g"), and two keys for the door and the manacles in [area N3m](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3mLockedCloset "area N3m").
+> 
+> _**Treasure.**_ The Vallakovich book collection contains old, leather-bound tomes on virtually every subject. Use the Random Books table (see [chapter 4](https://www.dndbeyond.com/sources/cos/castle-ravenloft "chapter 4"), [area K37](https://www.dndbeyond.com/sources/cos/castle-ravenloft#K37Study "area K37")) to determine the subject matter of a particular book.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3mLockedCloset)N3m. Locked Closet
+> 
+> The door to this room is locked. The baron carries the key.
+> 
+> Chained to the back wall of this otherwise empty closet is a badly beaten man wearing nothing but a loincloth. The iron shackles have cut into his wrists, causing blood to trickle down his hands.
+> 
+> The man is a Vallakian shoemaker named Udo Lukovich (LN male human [commoner](https://www.dndbeyond.com/monsters/16829-commoner)). He was arrested during the Wolf’s Head Jamboree for carrying a sign that suggested that Vallakians should feed the baron to the wolves.
+> 
+> Baron Vallakovich has the key to Udo’s manacles. The manacles break if they take 10 damage or more from a single weapon attack.
+> 
+> If the characters release Udo, his first desire is to return to his home. Later, he plans to tell Father Lucian (see [area N1](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N1StAndralsChurch "area N1")) of his ill treatment in the burgomaster’s estate. If the baron discovers that Udo has escaped or been set free, he sends Izek to find the shoemaker and bring him back for further questioning. Under great duress, Udo provides the names or descriptions of those who liberated him, turning the burgomaster against the characters.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3nMasterBedroomCloset)N3n. Master Bedroom Closet
+> 
+> Cloaks, coats, gowns, and other fancy apparel hang from hooks in this closet. Arranged on low shelves are many fine shoes, slippers, and boots.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3oMasterBedroom)N3o. Master Bedroom
+> 
+> Time has faded the grandeur of this master bedroom. The furnishings have lost some of their color and splendor. A short pull-rope hangs from a wooden trapdoor in the ceiling.
+> 
+> The baron and the baroness sleep in one bed at night. Nothing of value is kept here.
+> 
+> The trapdoor in the ceiling can be pulled down to reveal an attic room ([area N3r](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3rAtticRoom "area N3r")). An unfolding wooden ladder allows easy access.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3pBridalGownandSpiritMirror)N3p. Bridal Gown and Spirit Mirror
+> 
+> This room smells of powder and fine perfume. A vanity with a mirror stands against one wall next to a faceless wooden mannequin wearing a white bridal gown. Mounted on another wall is a full-length mirror with a gilded frame. A door in one corner leads to a garderobe.
+> 
+> The baroness used to while away long hours in this room, fondling her perfume collection and searching for solace in her own reflection. Since her lady-in-waiting went missing several days ago, the baroness has spent almost no time here.
+> 
+> _**Bridal Gown.**_ The white gown stored here belongs to the baroness. It reminds her of happier times.
+> 
+> _**Magic Mirror.**_ A [detect magic](https://www.dndbeyond.com/spells/2065-detect-magic) spell reveals that the gilded mirror on the wall radiates an aura of conjuration magic. None of the mansion’s current occupants are aware of this fact, because the mirror’s magic hasn’t been used in generations. Casting an [identify](https://www.dndbeyond.com/spells/2152-identify) spell on the mirror reveals that an assassin’s ghost is magically bound to it. The spell also reveals the forgotten rhyme needed to summon the ghost:
+> 
+> _Magic mirror on the wall_,
+> 
+> _Summon forth your shade;_
+> 
+> _Night’s dark vengeance, heed my call_
+> 
+> _And wield your murderous blade._
+> 
+> The entity in the mirror is the spirit of a nameless assassin who once belonged to a secret society called the Ba’al Verzi. If a creature speaks the rhyme while standing within 5 feet of the mirror and staring at its own reflection, the assassin’s ghost appears nearby. The form that the spirit takes depends on the alignment of the one who summoned it:
+> 
+> **Non-evil Summoner.** If the summoner isn’t evil, the spirit assumes solid form, appearing as a darkly handsome thirty-year-old man with bloodshot eyes. He has the statistics of an [assassin](https://www.dndbeyond.com/monsters/16790-assassin) but doesn’t speak, and he disappears into the ether if reduced to 0 hit points. The assassin’s summoner can command him to kill one living creature within Strahd’s domain that the summoner mentions by name. The assassin automatically knows the distance and direction to the named target. The assassin attacks any other creature that tries to prevent him from completing his assignment. Once he completes his task, the assassin disappears. If commanded to attack a creature that is either dead or undead, or if he isn’t given an appropriate name within 1 round of being summoned, the assassin disappears.
+> 
+> **Evil Summoner.** If the summoner is evil, the ghost manifests as a pair of floating, bloodshot eyes and strong, spectral hands. The hands try to wrap themselves around the summoner’s neck. The spectral eyes and hands have the statistics of a [ghost](https://www.dndbeyond.com/monsters/16871-ghost), but without the Etherealness and Possession actions. The ghost attacks its summoner until one or the other drops to 0 hit points, at which point it disappears.
+> 
+> Once the power of the mirror is used, the mirror becomes dormant until the next dawn. The mirror has AC 10, 5 hit points, and immunity to poison and psychic damage. Destroying it lays the assassin’s spirit to rest, causing the manifestation to disappear if it is present.
+> 
+> The mirror corrupts those who use it to do evil. Summoning the assassin isn’t evil, but using him to commit murder is. Each time a creature uses the mirror for this purpose, there is a cumulative 25 percent chance that the creature’s alignment shifts to neutral evil.
+> 
+> If a character touches the mirror and speaks Strahd’s name, there is a 50 percent chance that Strahd takes notice and appears on the mirror’s surface. In this form, the vampire can’t be harmed. He tries to charm one humanoid he can see within 30 feet of the mirror. Whether the target resists the effect or not, Strahd’s smiling visage invites the characters to dine at Castle Ravenloft, then fades away. A creature [charmed](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#CharmedCondition) by Strahd feels compelled to accept the vampire’s invitation.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3qBathroom)N3q. Bathroom
+> 
+> An iron tub with clawed feet stands against the back wall. Neatly folded towels rest atop a table near the door.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3rAtticRoom)N3r. Attic Room
+> 
+> Characters are most likely to enter this room via a trapdoor in the ceiling of the master bedroom ([area N3o](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3oMasterBedroom "area N3o")).
+> 
+> This dusty, twenty-foot-square room has a high-pitched ceiling that reaches its peak twenty feet above. The wooden rafters are shrouded in cobwebs. Except for an old table with a lantern on it, the room is empty.
+> 
+> A door in the south wall can be pulled open to [area N3s](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3sAtticStorage "area N3s").
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3sAtticStorage)N3s. Attic Storage
+> 
+> This large attic is full of old, forgotten things draped in white sheets. Piled around them are barrels, crates, trunks, and old furnishings covered with cobwebs and dust. You see a clear footpath through the maze.
+> 
+> Characters can follow a single set of human footprints in the dust that lead to [area N3t](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3tVictorsWorkroom "area N3t").
+> 
+> Searching through the junk in this attic uncovers a few old paintings and antiques, but nothing of value.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#FortunesofRavenloft3)Fortunes of Ravenloft
+> 
+> If your card reading reveals that a treasure is here, the item is hidden in a trunk. Each character has a cumulative 20 percent chance of finding the item for every hour the character spends searching the attic.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3tVictorsWorkroom)N3t. Victor’s Workroom
+> 
+> Victor spends most of his time here, leaving only when he needs food or spell components. When the characters first set eyes on the door to this room, read:
+> 
+> Someone has carved a large skull into this door. Hanging from the doorknob is a wooden sign that reads “ALL IS NOT WELL!” You hear a young man’s voice beyond.
+> 
+> Anyone who inspects the carving and succeeds on a DC 14 Intelligence ([Investigation](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)) check notices a small, nearly [invisible](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#InvisibleCondition) glyph etched into the skull’s forehead. This is a [glyph of warding](https://www.dndbeyond.com/spells/2125-glyph-of-warding) (5d8 lightning damage) that triggers if anyone other than Victor opens the door.
+> 
+> The voice belongs to Victor. He is reading aloud from his spellbook. Anyone who listens at the door and succeeds on a DC 14 Intelligence ([Arcana](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)) check can tell he’s badly pronouncing some kind of teleportation spell.
+> 
+> If the characters open the door, read:
+> 
+> Someone has taken old, mismatched furniture and created a study is this dusty, lamplit chamber. Tables are strewn with pieces of parchment, on which strange diagrams are drawn, and a freestanding bookshelf holds a collection of bones. A dusty rug covers the floor in front of a pine box, on which lounges a skeletal cat. Several more skeletal cats skulk about. Most unnerving of all is the sight of three small children standing with their backs to you in the northeast corner of the room.
+> 
+> If the characters trigger the [glyph of warding](https://www.dndbeyond.com/spells/2125-glyph-of-warding) or otherwise announce their arrival, Victor casts a [greater invisibility](https://www.dndbeyond.com/spells/2128-greater-invisibility) spell on himself and hides in a corner. Otherwise, he’s visible. If the characters can see Victor, read:
+> 
+> In the center of the room, perched on a stool, is a thin young man with a premature streak of gray in his dark hair. He cradles an open leather-bound book in his arms.
+> 
+> Victor found a spellbook in his father’s library and is using it to teach himself the art of spellcasting. Only recently has he been able to decipher some of its high-level spells. He’s a weird, awkward, and off-putting fellow who is dangerous only if threatened.
+> 
+> For practice and for fun, Victor dug up some old cat bones behind the Wachter estate (see [area N4](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N4Wachterhaus "area N4")) and animated them, creating six cat skeletons (use the [cat](https://www.dndbeyond.com/monsters/16820-cat) stat block, but give them [darkvision](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Darkvision) out to a range of 60 feet and immunity to poison damage, [exhaustion](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#ExhaustionCondition), and the [poisoned](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#PoisonedCondition) condition). The skeletons attack only when Victor commands them to.
+> 
+> The “children” standing in the corner are painted wooden dolls dressed in clothing that Victor wore as a child. He pretends they are his disobedient pupils.
+> 
+> The sheets of parchment are covered with elaborate diagrams of teleportation circles. Victor drew them in an effort to learn the [teleportation circle](https://www.dndbeyond.com/spells/2276-teleportation-circle) spell, which he’s still trying to master (see “Teleportation Circle” below).
+> 
+> The trunk contains several bolts of silk cloth, needles and thread, and a half-finished wizard’s robe. Victor started to make the robe for himself but found the work tedious and stopped.
+> 
+> _**Teleportation Circle.**_ Victor’s spellbook contains incomplete text for a [teleportation circle](https://www.dndbeyond.com/spells/2276-teleportation-circle) spell, along with the sigil sequences of three permanent teleportation circles, the locations of which aren’t described. There’s not enough text to prepare the spell properly, but that hasn’t stopped Victor from trying to learn to cast it.
+> 
+> Victor recently inscribed his own version of a teleportation circle on the floor. It’s hidden under the rug so that his parents don’t find it. In the past couple of weeks, Victor has managed to imbue the circle with magic, but he failed to account for several factors. His circle doesn’t fade after use, nor does it function like the [teleportation circle](https://www.dndbeyond.com/spells/2276-teleportation-circle) spell. If the circle is used in the casting of a [teleportation circle](https://www.dndbeyond.com/spells/2276-teleportation-circle) spell, whether the actual spell or Victor’s version of it, any creature standing on the circle when the spell is cast takes 3d10 force damage and isn’t teleported anywhere. If this damage reduces the creature to 0 hit points, the creature is disintegrated. Any character who studies the circle and succeeds on a DC 15 Intelligence ([Arcana](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)) check realizes that Victor’s circle is horribly flawed and potentially deadly when used.
+> 
+> Victor has tested his circle on two reluctant servants (compelled by his [suggestion](https://www.dndbeyond.com/spells/2269-suggestion) spell), in both cases linking his circle to one of the other circles whose sigils are in his spellbook. Each servant was torn apart before Victor’s eyes before vanishing in a flash of purple light. Victor doesn’t know how to fix the circle but plans to make more modifications to it before testing it again.
+> 
+> _**Treasure.**_ Victor’s spellbook contains all the spells Victor has prepared (see the [mage](https://www.dndbeyond.com/monsters/16947-mage) stat block in the [Monster Manual](https://www.dndbeyond.com/sources/mm "Monster Manual")) as well as the following spells: [animate dead](https://www.dndbeyond.com/spells/1996-animate-dead), [blight](https://www.dndbeyond.com/spells/2017-blight), [cloudkill](https://www.dndbeyond.com/spells/2030-cloudkill), [darkvision](https://www.dndbeyond.com/spells/2059-darkvision), [glyph of warding](https://www.dndbeyond.com/spells/2125-glyph-of-warding), [levitate](https://www.dndbeyond.com/spells/2165-levitate), [remove curse](https://www.dndbeyond.com/spells/2229-remove-curse), and [thunderwave](https://www.dndbeyond.com/spells/2278-thunderwave).
+> 
+
 
 If the players gain access to <span class="citation">N3l. Library (p. 107)</span>, they can attempt to search the shelves for information regarding the platinum signet ring. With a full hour spent searching, the players can confirm that no books contain any information about the ring. 
 
@@ -370,6 +1220,268 @@ If Victor agrees to aid the players by sharing information about his spellbook, 
 > To combat their inherently selfish natures, the hags in a coven must enter into a written contract with the others, signed by each hag's true name. The hags of a coven guard their contract jealously, often sealing it within the heart of their lair, ever-careful to keep their names from falling into enemy hands.
 ## E3c. Speaking with Victor
 <span class="citation"><em>This scene takes place in Chapter 5: Area N3t.</em></span>
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3BurgomastersMansion
+> 
+> 
+> This mansion has walls of plastered stone that display many scars where the plaster has fallen away from age and neglect. Drapes cover every window, including a large, arched opening above the mansion’s double entrance doors.
+> 
+> People come and go from the mansion at all hours during the day. Guards bring criminals cited for “malicious unhappiness.” Men and women arrive carrying bundles of twigs, which are piled about the mansion’s grand foyer ([area N3a](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3aEntranceHallandVestibule "area N3a")) until the construction of the wicker sun for the Festival of the Blazing Sun gets under way.
+> 
+> If the characters knock on the front doors, a maid (LG female human [commoner](https://www.dndbeyond.com/monsters/16829-commoner)) lets them in, escorts them to the den ([area N3e](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3eDen "area N3e")), and leaves to fetch the baron.
+> 
+> [![](https://www.dndbeyond.com/attachments/thumbnails/2/684/600/825/015.jpg)](https://www.dndbeyond.com/attachments/2/684/015.jpg)
+> 
+> Map 5.3: Burgomaster’s Mansion (Area N3)[View Player Version](https://www.dndbeyond.com/attachments/2/771/cos502.jpg)
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#RoleplayingtheVallakovichFamily)Roleplaying the Vallakovich Family
+> 
+> Use the following information to roleplay the burgomaster and his family.
+> 
+> _**The Baron.**_ The burgomaster, Baron Vargas Vallakovich (NE male human [noble](https://www.dndbeyond.com/monsters/16966-noble)), is a ruthless heel who prides himself on his good breeding and finely honed leadership skills. He stages repeated celebrations to foster happiness, and his “All will be well!” catchphrase has become a sad and tiresome punchline. Baron Vallakovich has convinced himself that if he can make everyone in Vallaki happy, the town will slip free of Strahd’s dark grasp.
+> 
+> The baron has a brittle ego, and he lashes out at anyone who pokes fun at his festivals or treats him disrespectfully. He has two pet mastiffs that follow him everywhere, as well as a murderous and deformed henchman named [Izek Strazni](https://www.dndbeyond.com/monsters/17365-izek-strazni) (see [appendix D](https://www.dndbeyond.com/sources/cos/appendix-d-monsters-and-npcs#IzekStrazni "appendix D")). In addition to his weapons, Izek carries an iron ring of keys that unlock the stocks in the town square ([area N8](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N8TownSquare "area N8")).
+> 
+> If the characters get on his bad side, the baron accuses them of being “spies of the devil Strahd” and sends twelve [guards](https://www.dndbeyond.com/monsters/16915-guard) to arrest them, seize their weapons, and run them out of town. If the guards fail in their duty, the baron sends Izek to rally a mob of thirty [commoners](https://www.dndbeyond.com/monsters/16829-commoner) to lynch the party. If the commoners also fail, the baron summons the twelve remaining guards to defend his mansion, giving characters the run of the town.
+> 
+> If the characters get on his good side, he insists that they join him in the next festival as special guests and asks that they tell everyone that all will, indeed, be well.
+> 
+> [![](https://www.dndbeyond.com/attachments/thumbnails/1/755/450/462/cos05-09.png)](https://www.dndbeyond.com/attachments/1/755/cos05-09.png)
+> 
+> The Baroness and Baron
+> 
+> Two members of the baron’s household staff have vanished in the past week: the butler and the baroness’s lady-in-waiting. The baron has charged Izek with finding out what happened to them, but investigation isn’t Izek’s forte. Searches have been organized, to no avail.
+> 
+> _**The Baroness.**_ At the risk of sacrificing her sanity, the baron’s wife, Lydia Petrovna (LG female human [commoner](https://www.dndbeyond.com/monsters/16829-commoner)), has embraced her husband’s philosophy of happiness. She laughs at the baron’s every comment, to the extent that it has become a nervous reflex, and she tries to spread good cheer by throwing daily tea-and-sandwich parties in the parlor for her “dearest friends,” many of them poor folk who tolerate the baroness only because they crave something warm to eat and drink. Lydia is a gods-fearing woman and the younger sister of the town priest, Father Lucian Petrovich. She is a descendant of Tasha Petrovna, a priest entombed in Castle Ravenloft ([chapter 4](https://www.dndbeyond.com/sources/cos/castle-ravenloft "chapter 4"), area K84, [crypt 11](https://www.dndbeyond.com/sources/cos/castle-ravenloft#Crypt11 "crypt 11")).
+> 
+> _**The Baronet.**_ The baron’s miserable son, Victor Vallakovich (NE male human [mage](https://www.dndbeyond.com/monsters/16947-mage)), has confined himself to the attic ([area N3t](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3tVictorsWorkroom "area N3t")), where he is content to avoid the unwanted attention of his mother and the disapproving glares of his father. Years ago, Victor found an old spellbook in the mansion’s library and used it to teach himself magic. He has been busy constructing a [teleportation circle](https://www.dndbeyond.com/spells/2276-teleportation-circle) in the hope of escaping Barovia and leaving his parents to their doom.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3aEntranceHallandVestibule)N3a. Entrance Hall and Vestibule
+> 
+> Framed portraits adorn the walls of this grand foyer, which features a wide staircase with a sculpted railing. A long, carpeted hall attached to the foyer stretches almost the length of the mansion and has several doors leading away from it, including one at the far end. Bundles of twigs are heaped against the walls.
+> 
+> The twigs are being stored here until they can be fashioned into a wooden effigy of the sun (for the Festival of the Blazing Sun).
+> 
+> The stairs climb to the upstairs gallery ([area N3i](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3iUpstairsGallery "area N3i")).
+> 
+> The portraits depict the baron, his family, and their ancestors. Close inspection reveals that some of the people portrayed look very much alike.
+> 
+> Tucked in the northeast corner of the foyer is a vestibule packed with fine cloaks, coats, and boots.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3bParlor)N3b. Parlor
+> 
+> This parlor contains a fine array of furnishings and draperies, with an overall feminine touch.
+> 
+> The baroness sometimes entertains guests here.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3cDiningRoom)N3c. Dining Room
+> 
+> Characters can hear the chatter of female voices as they approach this room. The first time they peer inside, read:
+> 
+> A chandelier of wrought iron fitted with wax candles hangs above a polished wooden dining table. Around the table are seated eight women of various ages in comfortable, high-backed chairs. They wear faded clothes, drink tea, and devour cake while a ninth woman, well dressed and very pleased with herself, circles the table and talks excitedly about decorations for the impending festival.
+> 
+> The women seated at the table are eight Vallakian peasants (female [commoners](https://www.dndbeyond.com/monsters/16829-commoner)) invited to spend time with the baroness, Lydia Petrovna, who is bribing them with tea and cake. Lydia has assigned these women the task of stitching children’s costumes and weaving together a wicker sun for the Festival of the Blazing Sun.
+> 
+> Lydia assumes that the characters are here at the invitation of her husband, the burgomaster. She calls for the maid to take them to the den ([area N3e](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3eDen "area N3e")) and then to inform Baron Vallakovich (see [area N2l](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2lGuestRooms "area N2l")) that his guests have arrived.
+> 
+> A serving table stands in one corner of the dining hall.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3dPreparationRoom)N3d. Preparation Room
+> 
+> White sheets cover two plain wooden tables in the center of this room. Neatly arranged atop one table is a complete set of polished silverware. The other table is covered with wicker baskets containing turnips and beets.
+> 
+> The beets and turnips are for the Festival of the Blazing Sun (see the “[Special Events](https://www.dndbeyond.com/sources/cos/the-town-of-vallaki#FestivaloftheBlazingSun "Special Events")” section at the end of this chapter).
+> 
+> _**Treasure.**_ The silverware set is worth 150 gp.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3eDen)N3e. Den
+> 
+> Characters who ask to see the burgomaster are brought here.
+> 
+> Padded chairs and couches line the walls of this cozy, carpeted den. The room reeks of pipe smoke, and mounted on the east wall is the head of an angry-looking brown bear.
+> 
+> The mounted bear’s head is meant to unnerve visitors. It serves as a subtle warning not to antagonize the burgomaster, who spends most of his time in the library ([area N3l](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3lLibrary "area N3l")). Although the burgomaster claims that his father killed the bear, the head was actually a gift given to his family by the late Szoldar Grygorovich, father of the wolf hunter Szoldar Szoldarovich ([area N2](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2BlueWaterInn "area N2")).
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3fServantsQuarters)N3f. Servants’ Quarters
+> 
+> This room contains four simple beds and an equal number of plain wooden trunks.
+> 
+> The household staff consists of a maid (LG female human [commoner](https://www.dndbeyond.com/monsters/16829-commoner)) and a cook (LG male human [commoner](https://www.dndbeyond.com/monsters/16829-commoner)). The other two beds belonged to the butler and the baroness’s lady-in-waiting, both of whom have gone missing (see [area N3t](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3tVictorsWorkroom "area N3t")). The trunks contain the staff’s clothing and uniforms.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3gKitchen)N3g. Kitchen
+> 
+> A cook wearing a white apron over a black smock busies himself in this warm, well-appointed kitchen. A staircase in one corner climbs to the upper floor.
+> 
+> The staircase leads to the upstairs gallery ([area N3i](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3iUpstairsGallery "area N3i")). A door in the west wall leads to a garden outside. The door is usually locked, and both the cook and the burgomaster carry keys to unlock it.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3hPantry)N3h. Pantry
+> 
+> This pantry contains shelves of foodstuffs, although half of the shelves are bare. Two barrels of wine stand against the east wall.
+> 
+> The pantry has not been fully stocked for as long as anyone can remember. The two barrels contain a fine wine called Red Dragon Crush, created by the Wizard of Wines winery—facts burned into the side of each barrel.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3iUpstairsGallery)N3i. Upstairs Gallery
+> 
+> If the characters arrive here from the entrance hall ([area N3a](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3aEntranceHallandVestibule "area N3a")), read:
+> 
+> The staircase climbs twenty feet to a beautifully appointed gallery that continues toward the west, running almost the length of the mansion. Framed landscape paintings line the walls, and red silk drapes cover a ten-foot-tall arched window of leaded glass.
+> 
+> If the characters arrive here from the kitchen ([area N3g](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3gKitchen "area N3g")), read:
+> 
+> The staircase climbs to a ten-foot-wide gallery that stretches almost the length of the mansion. Breathtaking paintings of landscapes line the walls. Two separate, narrow hallways lead away from the gallery to the north.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3jIzeksBedroom)N3j. Izek’s Bedroom
+> 
+> The door to this room is locked. Izek Strazni carries the only key.
+> 
+> The following description assumes the characters have met Ireena Kolyana (see [chapter 3](https://www.dndbeyond.com/sources/cos/the-village-of-barovia "chapter 3"), [area E4](https://www.dndbeyond.com/sources/cos/the-village-of-barovia#E4BurgomastersMansion "area E4")). If the characters haven’t met her, don’t read the last sentence.
+> 
+> Dolls. This room is full of pretty little dolls with powder-white skin and auburn hair, some of them dressed beautifully, others plainly. Some of the dolls fill a long bookshelf, and others are arranged in neat rows on wall-mounted shelves. Still others are piled atop a bed and a heavy wooden chest. What’s most odd is that all of the dolls, apart from their clothing, look the same. They all look like Ireena Kolyana.
+> 
+> The burgomaster’s monstrous henchman, [Izek Strazni](https://www.dndbeyond.com/monsters/17365-izek-strazni) (see [appendix D](https://www.dndbeyond.com/sources/cos/appendix-d-monsters-and-npcs#IzekStrazni "appendix D")), sleeps here at night. During the day, he is in town taking care of his master’s business. Izek’s chest is unlocked and contains a heap of wrinkled clothes, under which is a nonmagical shortsword.
+> 
+> A thorough search of the room reveals a few empty wine bottles under the bed. The label on each bears the winery’s name, the Wizard of Wines, and wine’s name, Purple Grapemash No. 3.
+> 
+> _**Izek’s Doll Collection.**_ Each doll has a small tag stitched into its clothing that reads “Is No Fun, Is No Blinsky!” Izek had the local toymaker, Gadof Blinsky ([area N7](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N7BlinskyToys "area N7")), craft the dolls in Ireena’s likeness.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3kVictorsBedroom)N3k. Victor’s Bedroom
+> 
+> This handsomely appointed room contains a canopied bed, a low bookshelf, and a full-length mirror in a wooden frame on the wall across from the door. Set into the north wall is an arched window of leaded glass. Nothing here seems unusual.
+> 
+> Nothing about his bedroom betrays Victor’s deviant nature or magical proclivities. The books include collections of Barovian fables and tomes about mythology, heraldry, and other innocuous subjects.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3lLibrary)N3l. Library
+> 
+> Floor-to-ceiling shelves line every wall of this windowless room, and the number of books contained here is nothing short of astounding.A brass oil lamp sits atop a large desk in the center of the room. The chair behind the desk is comfortably padded and has the symbol of a roaring bear stitched into its back cushion.
+> 
+> If the burgomaster has not been drawn elsewhere, he is here. Add:
+> 
+> Standing behind the chair, holding an open book, is a bear of a man. His breastplate, rapier, silk tunic, and greasy beard glisten in the lamplight. Resting on small rugs to his left and right are a pair of black mastiffs.
+> 
+> Baron Vargas Vallakovich never goes anywhere without his two [mastiffs](https://www.dndbeyond.com/monsters/16953-mastiff). A paranoid man, he wears his breastplate and rapier even while relaxing in his library. Two of his servants, the butler and his wife’s lady-in-waiting, have vanished without a trace in the past week, so he has good cause to be worried.
+> 
+> The baron believes that everyone else is beneath him, and those who question his word or challenge his authority must be humbled. He won’t pick a fight with well-armed strangers, however. If he can’t make the characters yield to his authority, he swallows his pride until he can circle around with Izek Strazni and assemble his guards to run them out of town.
+> 
+> The baron’s desk contains three drawers stuffed with blank sheets of parchment, jars of ink, and writing quills. It also holds thick books of tax records dating back to the times of the baron’s father, grandfather, and great-grandfather.
+> 
+> The baron wears a signet ring and carries three keys: one that unlocks the outside door in [area N3g](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3gKitchen "area N3g"), and two keys for the door and the manacles in [area N3m](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3mLockedCloset "area N3m").
+> 
+> _**Treasure.**_ The Vallakovich book collection contains old, leather-bound tomes on virtually every subject. Use the Random Books table (see [chapter 4](https://www.dndbeyond.com/sources/cos/castle-ravenloft "chapter 4"), [area K37](https://www.dndbeyond.com/sources/cos/castle-ravenloft#K37Study "area K37")) to determine the subject matter of a particular book.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3mLockedCloset)N3m. Locked Closet
+> 
+> The door to this room is locked. The baron carries the key.
+> 
+> Chained to the back wall of this otherwise empty closet is a badly beaten man wearing nothing but a loincloth. The iron shackles have cut into his wrists, causing blood to trickle down his hands.
+> 
+> The man is a Vallakian shoemaker named Udo Lukovich (LN male human [commoner](https://www.dndbeyond.com/monsters/16829-commoner)). He was arrested during the Wolf’s Head Jamboree for carrying a sign that suggested that Vallakians should feed the baron to the wolves.
+> 
+> Baron Vallakovich has the key to Udo’s manacles. The manacles break if they take 10 damage or more from a single weapon attack.
+> 
+> If the characters release Udo, his first desire is to return to his home. Later, he plans to tell Father Lucian (see [area N1](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N1StAndralsChurch "area N1")) of his ill treatment in the burgomaster’s estate. If the baron discovers that Udo has escaped or been set free, he sends Izek to find the shoemaker and bring him back for further questioning. Under great duress, Udo provides the names or descriptions of those who liberated him, turning the burgomaster against the characters.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3nMasterBedroomCloset)N3n. Master Bedroom Closet
+> 
+> Cloaks, coats, gowns, and other fancy apparel hang from hooks in this closet. Arranged on low shelves are many fine shoes, slippers, and boots.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3oMasterBedroom)N3o. Master Bedroom
+> 
+> Time has faded the grandeur of this master bedroom. The furnishings have lost some of their color and splendor. A short pull-rope hangs from a wooden trapdoor in the ceiling.
+> 
+> The baron and the baroness sleep in one bed at night. Nothing of value is kept here.
+> 
+> The trapdoor in the ceiling can be pulled down to reveal an attic room ([area N3r](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3rAtticRoom "area N3r")). An unfolding wooden ladder allows easy access.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3pBridalGownandSpiritMirror)N3p. Bridal Gown and Spirit Mirror
+> 
+> This room smells of powder and fine perfume. A vanity with a mirror stands against one wall next to a faceless wooden mannequin wearing a white bridal gown. Mounted on another wall is a full-length mirror with a gilded frame. A door in one corner leads to a garderobe.
+> 
+> The baroness used to while away long hours in this room, fondling her perfume collection and searching for solace in her own reflection. Since her lady-in-waiting went missing several days ago, the baroness has spent almost no time here.
+> 
+> _**Bridal Gown.**_ The white gown stored here belongs to the baroness. It reminds her of happier times.
+> 
+> _**Magic Mirror.**_ A [detect magic](https://www.dndbeyond.com/spells/2065-detect-magic) spell reveals that the gilded mirror on the wall radiates an aura of conjuration magic. None of the mansion’s current occupants are aware of this fact, because the mirror’s magic hasn’t been used in generations. Casting an [identify](https://www.dndbeyond.com/spells/2152-identify) spell on the mirror reveals that an assassin’s ghost is magically bound to it. The spell also reveals the forgotten rhyme needed to summon the ghost:
+> 
+> _Magic mirror on the wall_,
+> 
+> _Summon forth your shade;_
+> 
+> _Night’s dark vengeance, heed my call_
+> 
+> _And wield your murderous blade._
+> 
+> The entity in the mirror is the spirit of a nameless assassin who once belonged to a secret society called the Ba’al Verzi. If a creature speaks the rhyme while standing within 5 feet of the mirror and staring at its own reflection, the assassin’s ghost appears nearby. The form that the spirit takes depends on the alignment of the one who summoned it:
+> 
+> **Non-evil Summoner.** If the summoner isn’t evil, the spirit assumes solid form, appearing as a darkly handsome thirty-year-old man with bloodshot eyes. He has the statistics of an [assassin](https://www.dndbeyond.com/monsters/16790-assassin) but doesn’t speak, and he disappears into the ether if reduced to 0 hit points. The assassin’s summoner can command him to kill one living creature within Strahd’s domain that the summoner mentions by name. The assassin automatically knows the distance and direction to the named target. The assassin attacks any other creature that tries to prevent him from completing his assignment. Once he completes his task, the assassin disappears. If commanded to attack a creature that is either dead or undead, or if he isn’t given an appropriate name within 1 round of being summoned, the assassin disappears.
+> 
+> **Evil Summoner.** If the summoner is evil, the ghost manifests as a pair of floating, bloodshot eyes and strong, spectral hands. The hands try to wrap themselves around the summoner’s neck. The spectral eyes and hands have the statistics of a [ghost](https://www.dndbeyond.com/monsters/16871-ghost), but without the Etherealness and Possession actions. The ghost attacks its summoner until one or the other drops to 0 hit points, at which point it disappears.
+> 
+> Once the power of the mirror is used, the mirror becomes dormant until the next dawn. The mirror has AC 10, 5 hit points, and immunity to poison and psychic damage. Destroying it lays the assassin’s spirit to rest, causing the manifestation to disappear if it is present.
+> 
+> The mirror corrupts those who use it to do evil. Summoning the assassin isn’t evil, but using him to commit murder is. Each time a creature uses the mirror for this purpose, there is a cumulative 25 percent chance that the creature’s alignment shifts to neutral evil.
+> 
+> If a character touches the mirror and speaks Strahd’s name, there is a 50 percent chance that Strahd takes notice and appears on the mirror’s surface. In this form, the vampire can’t be harmed. He tries to charm one humanoid he can see within 30 feet of the mirror. Whether the target resists the effect or not, Strahd’s smiling visage invites the characters to dine at Castle Ravenloft, then fades away. A creature [charmed](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#CharmedCondition) by Strahd feels compelled to accept the vampire’s invitation.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3qBathroom)N3q. Bathroom
+> 
+> An iron tub with clawed feet stands against the back wall. Neatly folded towels rest atop a table near the door.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3rAtticRoom)N3r. Attic Room
+> 
+> Characters are most likely to enter this room via a trapdoor in the ceiling of the master bedroom ([area N3o](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3oMasterBedroom "area N3o")).
+> 
+> This dusty, twenty-foot-square room has a high-pitched ceiling that reaches its peak twenty feet above. The wooden rafters are shrouded in cobwebs. Except for an old table with a lantern on it, the room is empty.
+> 
+> A door in the south wall can be pulled open to [area N3s](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3sAtticStorage "area N3s").
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3sAtticStorage)N3s. Attic Storage
+> 
+> This large attic is full of old, forgotten things draped in white sheets. Piled around them are barrels, crates, trunks, and old furnishings covered with cobwebs and dust. You see a clear footpath through the maze.
+> 
+> Characters can follow a single set of human footprints in the dust that lead to [area N3t](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3tVictorsWorkroom "area N3t").
+> 
+> Searching through the junk in this attic uncovers a few old paintings and antiques, but nothing of value.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#FortunesofRavenloft3)Fortunes of Ravenloft
+> 
+> If your card reading reveals that a treasure is here, the item is hidden in a trunk. Each character has a cumulative 20 percent chance of finding the item for every hour the character spends searching the attic.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3tVictorsWorkroom)N3t. Victor’s Workroom
+> 
+> Victor spends most of his time here, leaving only when he needs food or spell components. When the characters first set eyes on the door to this room, read:
+> 
+> Someone has carved a large skull into this door. Hanging from the doorknob is a wooden sign that reads “ALL IS NOT WELL!” You hear a young man’s voice beyond.
+> 
+> Anyone who inspects the carving and succeeds on a DC 14 Intelligence ([Investigation](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)) check notices a small, nearly [invisible](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#InvisibleCondition) glyph etched into the skull’s forehead. This is a [glyph of warding](https://www.dndbeyond.com/spells/2125-glyph-of-warding) (5d8 lightning damage) that triggers if anyone other than Victor opens the door.
+> 
+> The voice belongs to Victor. He is reading aloud from his spellbook. Anyone who listens at the door and succeeds on a DC 14 Intelligence ([Arcana](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)) check can tell he’s badly pronouncing some kind of teleportation spell.
+> 
+> If the characters open the door, read:
+> 
+> Someone has taken old, mismatched furniture and created a study is this dusty, lamplit chamber. Tables are strewn with pieces of parchment, on which strange diagrams are drawn, and a freestanding bookshelf holds a collection of bones. A dusty rug covers the floor in front of a pine box, on which lounges a skeletal cat. Several more skeletal cats skulk about. Most unnerving of all is the sight of three small children standing with their backs to you in the northeast corner of the room.
+> 
+> If the characters trigger the [glyph of warding](https://www.dndbeyond.com/spells/2125-glyph-of-warding) or otherwise announce their arrival, Victor casts a [greater invisibility](https://www.dndbeyond.com/spells/2128-greater-invisibility) spell on himself and hides in a corner. Otherwise, he’s visible. If the characters can see Victor, read:
+> 
+> In the center of the room, perched on a stool, is a thin young man with a premature streak of gray in his dark hair. He cradles an open leather-bound book in his arms.
+> 
+> Victor found a spellbook in his father’s library and is using it to teach himself the art of spellcasting. Only recently has he been able to decipher some of its high-level spells. He’s a weird, awkward, and off-putting fellow who is dangerous only if threatened.
+> 
+> For practice and for fun, Victor dug up some old cat bones behind the Wachter estate (see [area N4](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N4Wachterhaus "area N4")) and animated them, creating six cat skeletons (use the [cat](https://www.dndbeyond.com/monsters/16820-cat) stat block, but give them [darkvision](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Darkvision) out to a range of 60 feet and immunity to poison damage, [exhaustion](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#ExhaustionCondition), and the [poisoned](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#PoisonedCondition) condition). The skeletons attack only when Victor commands them to.
+> 
+> The “children” standing in the corner are painted wooden dolls dressed in clothing that Victor wore as a child. He pretends they are his disobedient pupils.
+> 
+> The sheets of parchment are covered with elaborate diagrams of teleportation circles. Victor drew them in an effort to learn the [teleportation circle](https://www.dndbeyond.com/spells/2276-teleportation-circle) spell, which he’s still trying to master (see “Teleportation Circle” below).
+> 
+> The trunk contains several bolts of silk cloth, needles and thread, and a half-finished wizard’s robe. Victor started to make the robe for himself but found the work tedious and stopped.
+> 
+> _**Teleportation Circle.**_ Victor’s spellbook contains incomplete text for a [teleportation circle](https://www.dndbeyond.com/spells/2276-teleportation-circle) spell, along with the sigil sequences of three permanent teleportation circles, the locations of which aren’t described. There’s not enough text to prepare the spell properly, but that hasn’t stopped Victor from trying to learn to cast it.
+> 
+> Victor recently inscribed his own version of a teleportation circle on the floor. It’s hidden under the rug so that his parents don’t find it. In the past couple of weeks, Victor has managed to imbue the circle with magic, but he failed to account for several factors. His circle doesn’t fade after use, nor does it function like the [teleportation circle](https://www.dndbeyond.com/spells/2276-teleportation-circle) spell. If the circle is used in the casting of a [teleportation circle](https://www.dndbeyond.com/spells/2276-teleportation-circle) spell, whether the actual spell or Victor’s version of it, any creature standing on the circle when the spell is cast takes 3d10 force damage and isn’t teleported anywhere. If this damage reduces the creature to 0 hit points, the creature is disintegrated. Any character who studies the circle and succeeds on a DC 15 Intelligence ([Arcana](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)) check realizes that Victor’s circle is horribly flawed and potentially deadly when used.
+> 
+> Victor has tested his circle on two reluctant servants (compelled by his [suggestion](https://www.dndbeyond.com/spells/2269-suggestion) spell), in both cases linking his circle to one of the other circles whose sigils are in his spellbook. Each servant was torn apart before Victor’s eyes before vanishing in a flash of purple light. Victor doesn’t know how to fix the circle but plans to make more modifications to it before testing it again.
+> 
+> _**Treasure.**_ Victor’s spellbook contains all the spells Victor has prepared (see the [mage](https://www.dndbeyond.com/monsters/16947-mage) stat block in the [Monster Manual](https://www.dndbeyond.com/sources/mm "Monster Manual")) as well as the following spells: [animate dead](https://www.dndbeyond.com/spells/1996-animate-dead), [blight](https://www.dndbeyond.com/spells/2017-blight), [cloudkill](https://www.dndbeyond.com/spells/2030-cloudkill), [darkvision](https://www.dndbeyond.com/spells/2059-darkvision), [glyph of warding](https://www.dndbeyond.com/spells/2125-glyph-of-warding), [levitate](https://www.dndbeyond.com/spells/2165-levitate), [remove curse](https://www.dndbeyond.com/spells/2229-remove-curse), and [thunderwave](https://www.dndbeyond.com/spells/2278-thunderwave).
+> 
+
 
 Victor’s workroom is largely as described in <span class="citation">N3t. Victor’s Workroom (p. 109)</span>, except that the *glyph of warding* on the door, rather than dealing lightning damage, casts _fear_ in a 30-foot cone away from the door when activated. Additionally, Victor’s spellbook contains the *sending* and *fear* spells and does not contain *remove curse.*
 
@@ -422,6 +1534,34 @@ Victor can tell the players that, while Szoldar and Yevgeni spend most mornings 
 
 # E4. Lake Zarovich
 <span class="citation"><em>This scene takes place in Chapter 2: Area L.</em></span>
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/the-lands-of-barovia#LLakeZarovich
+> 
+> 
+> At the foot of a mountain, nestled in the misty forest, is a large lake. The water is perfectly still and dark, reflecting the black clouds overhead like a monstrous mirror.
+> 
+> If the characters arrive along the shore north of Vallaki in the daytime, add:
+> 
+> Pulled up along the south shore are three small rowboats. A fourth boat can be seen in the middle of the lake, with a lone figure sitting in it, fishing pole in hand.
+> 
+> Each rowboat can safely hold five people. The person fishing on the lake is Bluto Krogarov (NE male human [commoner](https://www.dndbeyond.com/monsters/16829-commoner)), a resident of Vallaki. He is in a trance and doesn’t respond to anything or anyone unless attacked. His boat is 400 feet from the nearest shore. Tied up in the boat is a seven-year-old Vistana named Arabelle (LN female human [commoner](https://www.dndbeyond.com/monsters/16829-commoner) with 2 hit points and no effective attacks). She is bound with hempen rope, wrapped in a burlap sack, and lying [prone](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#ProneCondition) so that she can’t be seen or heard from the shore.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-lands-of-barovia#RoleplayingBluto)Roleplaying Bluto
+> 
+> Bluto Krogarov is a destitute drunkard. He’s desperate to catch some fish and trade them for wine at the Blue Water Inn. After he was unable to catch a single fish for a week, he kidnapped Arabelle, believing that Vistani are lucky. He intends to sacrifice her to the lake, hoping it will give up some of its fish in return.
+> 
+> If the characters watch Bluto from the shore for several minutes, or if they row out into the lake to greet him, he tosses the burlap sack into the water, watches it sink, and waits with fishing pole in hand for his reward.
+> 
+> Bluto is a hollow shell of a man, barely able to understand his own actions. He is unarmed and does nothing to aid or thwart the characters.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-lands-of-barovia#RoleplayingArabelle)Roleplaying Arabelle
+> 
+> Characters who act quickly can save Arabelle before she drowns. A character on the shore must succeed on a DC 15 Strength ([Athletics](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)) check to reach her in time. The DC is 10 for characters who took a rowboat out onto the lake.
+> 
+> Arabelle has alabaster-white skin and raven-black hair. If rescued, she demands to be returned to her family’s camp outside Vallaki ([chapter 5](https://www.dndbeyond.com/sources/cos/the-town-of-vallaki "chapter 5"), [area N9](https://www.dndbeyond.com/sources/cos/the-town-of-vallaki#N9VistaniCamp "area N9")). She is certain that her father, Luvash, will give the characters a reward for doing so.
+> 
+> A descendant of Madam Eva with the blood of Barovian royalty in her veins, Arabelle is unaware of her connection to Strahd. She acts more like an adult than a child. Despite her recent misadventure, she believes that a great destiny awaits her.
+> 
+
 
 Lake Zarovich is largely as described in <span class="citation">L. Lake Zarovich (p. 38)</span>. However, Bluto is not present.
 
@@ -472,6 +1612,20 @@ The journey from Vallaki to the Luna River Crossroads is one mile long and takes
 If the players retrieve the scrap of material, they find it to be a small, soaked white handkerchief, monogrammed with the embroidered red initials “R.V.R.” (Arabelle left this clue while travelling to Vallaki with Van Richten.)
 ## E5b. Luna River Crossroads
 <span class="citation"><em>This scene takes place in Chapter 2: Area P.</em></span>
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/the-lands-of-barovia#PLunaRiverCrossroads
+> 
+> 
+> Always check for a random encounter when the characters reach [area P](https://www.dndbeyond.com/sources/dnd/cos/the-lands-of-barovia#PLunaRiverCrossroads "area P") in their travels.
+> 
+> The road comes to an X intersection, with branches to the northwest, northeast, southwest, and southeast. The lower half of a snapped wooden signpost thrusts upward at an angle near the eastern elbow of the intersection. The top half of the sign, featuring arms pointing in four directions, lies in the weeds nearby.
+> 
+> The characters can easily figure out how the top half of the signpost connects to the lower half. When the two parts of the sign are aligned and rejoined, the arms indicate Krezk and Tsolenka Pass to the southwest, Lake Baratok to the northwest, Vallaki and Ravenloft to the northeast, and Berez to the southeast.
+> 
+> The Old Svalich Road, which runs northeast to southwest between Vallaki ([area N](https://www.dndbeyond.com/sources/dnd/cos/the-lands-of-barovia#NTownofVallaki "area N")) and Krezk ([area S](https://www.dndbeyond.com/sources/dnd/cos/the-lands-of-barovia#SVillageofKrezk "area S")), is generally level. About a quarter mile along the northeast branch, an arching stone bridge crosses the Luna River.
+> 
+> The northwest branch of the crossroads climbs gently, becoming a dirt trail through the woods within half a mile. It merges with the Old Svalich Road again after a couple of miles, but not before sprouting a branch that leads to Van Richten’s Tower on Lake Baratok ([area V](https://www.dndbeyond.com/sources/dnd/cos/the-lands-of-barovia#VVanRichtensTower "area V")). The southeast branch wends gently downward as it follows the river into a valley. This trail eventually ends at the mostly abandoned riverside burg of Berez ([area U](https://www.dndbeyond.com/sources/dnd/cos/the-lands-of-barovia#URuinsofBerez "area U")).
+> 
+
 
 The Luna River Crossroads are largely as described in <span class="citation">P. Luna River Crossroads (p. 40)</span>. 
 
@@ -500,6 +1654,50 @@ The journey from the Luna River Crossroads to Lake Baratok via the northwestern 
 Lake Baratok is as described in <span class="citation">Approaching the Tower (p. 167)</span>. The tower itself is largely as described in <span class="citation">Chapter 11: Van Richten's Tower (p. 167)</span>.
 ## E6a. Ezmerelda’s Wagon
 <span class="citation"><em>This scene takes place in Chapter 11: Area V1.</em></span>
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/van-richtens-tower#V1EzmereldasMagicWagon
+> 
+> 
+> Ezmerelda’s wagon is parked in front of the tower. If the characters investigate the wagon, read:
+> 
+> Under layers of mud, this wagon sports a fresh coat of purple paint, and its wheels have fancy gold trim. A brass lantern hangs from each corner, and red drapes cover a tombstone-shaped window on each side. A steel padlock secures the back door, hanging from which is a cheap wooden sign that reads, “Keep out!”
+> 
+> The wagon radiates an aura of conjuration magic if it is scrutinized with a [detect magic](https://www.dndbeyond.com/spells/2065-detect-magic) spell. A character who casts an [identify](https://www.dndbeyond.com/spells/2152-identify) spell on the wagon learns the command words needed to operate it.
+> 
+> [![](https://www.dndbeyond.com/attachments/thumbnails/2/696/300/825/027.jpg)](https://www.dndbeyond.com/attachments/2/696/027.jpg)
+> 
+> Map 11.1: Van Richten’s Tower (Area V)[View Player Version](https://www.dndbeyond.com/attachments/2/784/cos1101.jpg)
+> 
+> Anyone who sits in the driver’s seat and speaks its command word (“Drovash”) summons a pair of quasi-real draft horses, which are magically tethered to the wagon and can’t be separated from it. The horses and wagon have a speed of 30 feet, and the horses heed the driver’s simple commands. The driver can dismiss the horses with a second command word (“Arvesh”). The horses can be dispelled (DC 15) but not harmed.
+> 
+> The wagon has a hidden trapdoor in its underbelly that can be detected by a character who scuttles under the wagon and succeeds on a DC 13 Wisdom ([Perception](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)) check. The trapdoor opens into the wagon and is the only safe way inside.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/van-richtens-tower#BoobyTrap)Booby Trap
+> 
+> The inside handle of the door has a wire looped around it, and the wire is connected to a flask of alchemist’s fire hanging from the wagon’s ceiling. When the door is opened, the flask falls and explodes, igniting one hundred more flasks of alchemist’s fire that dangle from wires like ornaments along the wagon’s interior walls. A creature within 30 feet of the wagon when it explodes must succeed on a DC 12 Constitution saving throw, taking 55 (10d10) fire damage on a failed save, or half as much damage on a successful one. Creatures inside the wagon or within 5 feet of it have disadvantage on the saving throw. The wagon is reduced to flinders by the explosion, and the contents of the wagon (see “Treasure” below) are destroyed as well.
+> 
+> A character inside the wagon spots the trap automatically (no ability check required) and can disable it with a successful DC 10 Dexterity check. A failed attempt to disable the trap triggers it.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/van-richtens-tower#Treasure)Treasure
+> 
+> The interior of the wagon contains the following items:
+> 
+> - A wooden trunk covered with claw marks that holds a [battleaxe](https://www.dndbeyond.com/equipment/19-battleaxe), a [flail](https://www.dndbeyond.com/equipment/20-flail), a [morningstar](https://www.dndbeyond.com/equipment/26-morningstar), a [light crossbow](https://www.dndbeyond.com/equipment/15-crossbow-light), and 10 silvered crossbow bolts
+> - A narrow wardrobe containing three sets of [fine clothes](https://www.dndbeyond.com/equipment/40-clothes-fine), two sets of [traveler’s clothes](https://www.dndbeyond.com/equipment/41-clothes-travelers), several pairs of shoes, a harlequin mask, and three wigs
+> - A [climber’s kit](https://www.dndbeyond.com/equipment/37-climbers-kit), a [disguise kit](https://www.dndbeyond.com/equipment/119-disguise-kit), a [healer’s kit](https://www.dndbeyond.com/equipment/49-healers-kit), and a [poisoner’s kit](https://www.dndbeyond.com/equipment/125-poisoners-kit)
+> - A lyre with golden strings (worth 50 gp)
+> - A sculpted wooden cage holding a chicken and a silver ewer (worth 100 gp) with five chicken eggs in it
+> - A tiny wooden box containing a deck of tarokka cards (see [appendix E](https://www.dndbeyond.com/sources/cos/appendix-e-the-tarokka-deck "appendix E")) wrapped in silk
+> - A set of copper pots and pans (worth 50 gp)
+> - Three sets of [manacles](https://www.dndbeyond.com/equipment/60-manacles)
+> - A [shovel](https://www.dndbeyond.com/equipment/82-shovel)
+> - A wooden chest containing a gold [holy symbol](https://www.dndbeyond.com/equipment/213-holy-symbol) of the Morninglord (worth 100 gp), three [vials of holy water](https://www.dndbeyond.com/equipment/50-holy-water-flask), three vials of perfume, two vials of [antitoxin](https://www.dndbeyond.com/equipment/204-antitoxin), a [50-foot coil of hempen rope](https://www.dndbeyond.com/equipment/77-rope-hempen-50-feet), a [tinderbox](https://www.dndbeyond.com/equipment/90-tinderbox), a [steel mirror](https://www.dndbeyond.com/equipment/62-mirror-steel), a [sharpened wooden stake](https://www.dndbeyond.com/equipment/206-stake-wooden), and a [spyglass](https://www.dndbeyond.com/equipment/88-spyglass)
+> - Two [spell scrolls](https://www.dndbeyond.com/magic-items/5418-spell-scroll) ([major image](https://www.dndbeyond.com/spells/2180-major-image) and [remove curse](https://www.dndbeyond.com/spells/2229-remove-curse))
+> - A map of Barovia (showing all the locations marked on this adventure’s map of Barovia)
+> - A charred page from van Richten’s journal (show the players “[Journal of Rudolph van Richten](https://www.dndbeyond.com/sources/cos/appendix-f-handouts#JournalofRudolphvanRichten "Journal of Rudolph van Richten")” in [appendix F](https://www.dndbeyond.com/sources/cos/appendix-f-handouts "appendix F")).
+> 
+> [![](https://www.dndbeyond.com/attachments/thumbnails/1/838/850/388/cos11-02.png)](https://www.dndbeyond.com/attachments/1/838/cos11-02.png)
+> 
+
 
 ### Outside the Wagon
 Ezmerelda’s wagon is largely as described in <span class="citation">V1. Ezmerelda's Magic Wagon (p. 168)</span>. However, the door is locked with a padlock, and can be opened with a successful DC 20 Dexterity (Thieves' Tools) check or a successful DC 20 Strength check. 
@@ -545,6 +1743,30 @@ If the players enter the wagon by means of the door instead of the trapdoor, Ezm
 ## E6b. The Tower
 ### 1. The Tower Door
 <span class="citation"><em>This scene takes place in Chapter 11: Area V2.</em></span>
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/van-richtens-tower#V2TowerDoor
+> 
+> 
+> The tower door is made of iron, with no visible handles or hinges. In the middle of the door is a large, embossed symbol — a connected series of lines with eight stick figures set around it. Carved into the lintel above the door is a word: Khazan.
+> 
+> Show the players the door symbol to the right. The door is magically locked and trapped, and the symbol on the door is the key to disabling the trap. Magic that would normally unlock the door is neutralized by the tower’s spell drain effect (see “[Khazan’s Spell Drain](https://www.dndbeyond.com/sources/dnd/cos/van-richtens-tower#KhazansSpellDrain "Khazan’s Spell Drain")” earlier in the chapter).
+> 
+> [![](https://www.dndbeyond.com/attachments/thumbnails/1/791/300/452/cos11-03.png)](https://www.dndbeyond.com/attachments/1/791/cos11-03.png)
+> 
+> A creature that touches the door without first disabling the trap causes lightning to envelop the tower. Any creature outside the tower and within 10 feet of it must succeed on a DC 15 Dexterity saving throw, with disadvantage if it is wearing armor made of metal, taking 22 (4d10) lightning damage on a failed save, or half damage on a successful one. As long as the effect persists, any creature that enters the lightning for the first time on a turn or starts its turn there takes 22 (4d10) lightning damage. The lightning lasts for 10 minutes.
+> 
+> The third time this trap is triggered, the magic fails and causes the tower to collapse. Each creature inside the tower when it collapses takes 132 (24d10) bludgeoning damage, while those within 20 feet of the tower must succeed on a DC 15 Dexterity saving throw or take 44 (8d10) bludgeoning damage from falling debris. The collapse not only destroys the tower but also most of its contents, including the animated armor in [area V7](https://www.dndbeyond.com/sources/dnd/cos/van-richtens-tower#V7TowerFourthFloor "area V7"). The wooden chest in area V7 (as well as the severed head inside it) remains intact but requires 1d8 + 2 hours of digging through rubble to find. The clay golems in [area V4](https://www.dndbeyond.com/sources/dnd/cos/van-richtens-tower#V4TowerFirstFloor "area V4") are undamaged but buried under piles of debris. Every hour the characters spend searching through the rubble, they have a 10 percent chance of accidentally unearthing a berserk clay golem.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/van-richtens-tower#OpeningtheDoor)Opening the Door
+> 
+> Each stick figure embossed on the door has differently positioned arms — either bent up or down at the elbow, or sticking straight out to the side. When a creature standing within 5 feet of the door uses an action to imitate the arm positions of all eight stick figures in the proper sequence, the trap is disabled and the door swings open on rusty hinges for 10 minutes. The lines of the symbol on the door reveal the proper sequence. The dance can be performed in one of two ways; a creature must trace the path of the lines, starting at either endpoint. All eight sets of arm positions must be performed, with no repeats, for the sequence to be complete.
+> 
+> If the arm positions are done out of order, a [young blue dragon](https://www.dndbeyond.com/monsters/17068-young-blue-dragon) magically appears within 30 feet of the door and attacks all creatures it can see. The characters can keep trying to open the door while the dragon is attacking them. The dragon disappears if it is reduced to 0 hit points or if the characters open the door.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/van-richtens-tower#Vestibule)Vestibule
+> 
+> Beyond the door is a 5-foot-square vestibule with a tattered curtain that conceals area V4 beyond. The iron door leading outside can be safely opened from this side. It magically closes after 1 minute unless held open.
+> 
+
 
 The tower door is largely as described in <span class="citation">V2. Tower Door (p. 169)</span>. However, modify the descriptive text as follows:
 
@@ -577,6 +1799,14 @@ If eight different symbols are pressed in an incorrect sequence, their lights br
 > * ***Six Players.*** Add a fifth gargoyle.
 ### 2. The Scaffolding
 <span class="citation"><em>This scene takes place in Chapter 11: Area V3.</em></span>
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/van-richtens-tower#V3RicketyScaffolding
+> 
+> 
+> Rotting wooden beams support the scaffolding, which groans and creaks with the slightest breeze. A series of ladders and platforms lead to a hole in the northwest wall on the third floor.
+> 
+> The scaffolding can’t support more than 200 pounds of weight. If it collapses, anyone standing on it falls 20 feet to the ground, taking 1d6 bludgeoning damage per 10 feet fallen plus an additional 2d6 piercing damage from the debris. A creature underneath the scaffolding must succeed on a DC 13 Dexterity saving throw or take 14 (4d6) bludgeoning damage from falling debris.
+> 
+
 
 The scaffolding is as described in <span class="citation">V3. Rickety Scaffolding (p. 170)</span>. If a creature climbs the scaffolding to the second floor, the four **gargoyles** on the roof come to life and attack. (Remember that the scaffolding leads to a hole in the wall on the third floor, not the second floor.) Use the statblock below for the **gargoyles**, rather than the one in the _Monster Manual._
 
@@ -636,6 +1866,58 @@ The scaffolding is as described in <span class="citation">V3. Rickety Scaffoldin
 If able, a gargoyle that has grappled a player flies 15 feet up on its turn and uses its action to ***bite*** the grappled player.
 ### 3. Inside the Tower
 <span class="citation"><em>This scene takes place in Chapter 11: Areas V4, V5, V6, V7 & V8.</em></span>
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/van-richtens-tower#V4TowerFirstFloor
+> 
+> 
+> The flagstone floor is strewn with debris, and a few old crates stand near the east wall. A torn curtain to the south partially obscures the tower vestibule.
+> 
+> A five-foot-square indentation in the center of the floor contains four pulleys attached to taut iron chains that stretch up through a similarly sized hole in the rotted wooden ceiling. Standing next to the chains are four tall clay statues.
+> 
+> The four statues are [clay golems](https://www.dndbeyond.com/monsters/16825-clay-golem) that defend themselves if attacked. Otherwise, their sole purpose is to operate the elevator, which they do by pulling on the chains. The chains attach to a 5-foot-square wooden platform that normally rests on the fourth floor.
+> 
+> If it appears that a creature wants to use the elevator, the golems lower the platform, then raise it to whichever level the creature specifies. They also heed commands issued from above. They obey only commands having to do with raising and lowering the elevator.
+> 
+> The elevator isn’t a smooth ride. The platform rises or lowers 5 feet per round, and its movements are jerky. If even one clay golem is destroyed, the remaining golems can no longer operate the elevator and remain motionless until attacked.
+> 
+> The crates in this room are all empty.
+> 
+
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/van-richtens-tower#V5TowerSecondFloor
+> 
+> 
+> Dust and cobwebs fill this otherwise empty room, the wooden floor of which is badly rotted and partially collapsed.
+> 
+> In the middle of the room is a 5-foot-square hole in the floor and ceiling, with a rusty chain near each corner. The chains are part of the tower’s elevator mechanism (see area V4). The 5-foot-square sections of floor that surround the central shaft are weak. Each 5-foot section can support 150 pounds; any more weight causes the section to collapse, and any creatures standing on that section fall 20 feet to the ground floor.
+> 
+
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/van-richtens-tower#V6TowerThirdFloor
+> 
+> 
+> Time and the elements have all but destroyed this chamber, leaving a gash in the northwest wall and slimy black mildew on the walls. The wooden floor is completely rotted and has begun to fall away in places.
+> 
+> In the middle of the room is a 5-foot-square hole in the floor and ceiling, with a rusty chain near each corner. The chains are part of the tower’s elevator mechanism (see [area V4](https://www.dndbeyond.com/sources/dnd/cos/van-richtens-tower#V4TowerFirstFloor "area V4")). The 5-foot-square sections of floor that surround the central shaft are weak. Each 5-foot section can support 50 pounds; any more weight causes the section to collapse, and any creatures standing on that section fall 40 feet to the ground floor, smashing through the second floor on the way down.
+> 
+
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/van-richtens-tower#V7TowerFourthFloor
+> 
+> 
+> Unlike the levels below, this room shows signs of recent habitation, and although the place reeks of mold and mildew, it has plenty of creature comforts, including a cozy bed, a desk with matching chair, bright tapestries, and a large iron stove with plenty of wood to feed it. Light enters through arrow slits as well as through dirt-caked windows with broken shutters. Other features of the room include a standing suit of armor and a wooden chest. Old wooden rafters bend under the weight of the tower roof, which has somehow remained intact. Mounted to the rafters are pulleys around which hang iron chains that support the tower’s elevator platform.
+> 
+> Van Richten spent several months in this room, reviewing a lifetime’s worth of research on Strahd von Zarovich — notes that, once he committed them to memory, he burned in the stove. He also burned his journals. Ezmerelda searched the room, hoping to find a clue to her mentor’s plan or whereabouts. Among the things she found here was a rolled-up map of Barovia and a burned page from van Richten’s journal, which she took and hid in her wagon ([area V1](https://www.dndbeyond.com/sources/dnd/cos/van-richtens-tower#V1EzmereldasMagicWagon "area V1")).
+> 
+> The standing armor is a suit of [animated armor](https://www.dndbeyond.com/monsters/16786-animated-armor). It is [incapacitated](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#IncapacitatedCondition) until someone speaks the command word (“Khazan”) within 10 feet of it, whereupon the armor follows the commands of the one who activated it. If 24 hours pass without its receiving a new instruction from its controller, the animated armor becomes [incapacitated](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#IncapacitatedCondition) until someone reactivates it. If it is reduced to 0 hit points, the armor falls to pieces and is destroyed.
+> 
+> A lavender aroma emanates from the wooden chest, which is unlocked and safe to open. It contains the severed head of a human Vistana named Yan. Its flesh has a waxy complexion and has been embalmed with magic oils. If a [speak with dead](https://www.dndbeyond.com/spells/2259-speak-with-dead) spell is cast on his head (which would need to be taken somewhere away from the tower’s _spell drain effect_), Yan reveals that he was banished from his clan for stealing. A half-elf bard named Rictavio offered Yan a ride in his carnival wagon. The two traveled together for several days, but their time together was tense. When it was clear that Rictavio was looking for a road to Barovia, Yan tried to steal the wagon as well as Rictavio’s pet monkey, but Rictavio got the better of him and drove a sword through his gullet.
+> 
+> The magic oils preserving Yan’s head allow it to remember conversations it has while under the effect of [speak with dead](https://www.dndbeyond.com/spells/2259-speak-with-dead). Rictavio has cast [speak with dead](https://www.dndbeyond.com/spells/2259-speak-with-dead) on the head twice to ask questions about the Vistani of Barovia. Yan believes that the half-elf plans to cause great harm to the Vistani and begs the characters to warn his people. He doesn’t know where his body is.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/van-richtens-tower#FortunesofRavenloft)Fortunes of Ravenloft
+> 
+> If your card reading reveals that a treasure is here, it’s in a narrow compartment hidden in the wall behind the suit of armor. If the armor is activated and commanded to retrieve the treasure, it pulls the stones out of the wall, revealing the treasure beyond.
+> 
+> If the characters have collapsed the tower (see [area V2](https://www.dndbeyond.com/sources/dnd/cos/van-richtens-tower#V2TowerDoor "area V2")), they find the treasure after 1d8 + 2 hours of searching through the rubble. For each hour they spend searching, they have a 10 percent chance of accidentally unearthing a [clay golem](https://www.dndbeyond.com/monsters/16825-clay-golem) (see [area V4](https://www.dndbeyond.com/sources/dnd/cos/van-richtens-tower#V4TowerFirstFloor "area V4")) that withstood the collapse. The golem, which took no damage from the collapsing tower, is berserk and attacks until destroyed.
+> 
+
 
 The interior of the tower is largely as described in <span class="citation">V4. Tower, First Floor, V5. Tower, Second Floor, V6. Tower, Third Floor, and V7. Tower, Fourth Floor (pp. 170-71)</span>. 
 
@@ -788,6 +2070,228 @@ As the players return to Vallaki’s Sunset gate, a player with a passive Wisdom
 > ***Relationships.*** Van Richten is the mentor of the Vistana monster hunter Ezmerelda d'Avenir, the father of the late and Ethereal Plane-bound Erasmus van Richten (whom he can neither communicate with nor perceive), the former owner of the monkey Piccolo now owned by the Vallakian toymaker Gadof Blinsky, the killer of the family of Arturi Radanavich, and the former ally of Doru's rebellion against Castle Ravenloft.
 ## E8a. Confronting Rictavio
 <span class="citation"><em>This scene takes place in Chapter 5: Area N2.</em></span>
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2BlueWaterInn
+> 
+> 
+> Gray smoke issues from the chimney of this large, two-story wooden building with a stone foundation and sagging tile roof, upon which several ravens have perched. A painted wooden sign hanging above the main entrance depicts a blue waterfall.
+> 
+> The Blue Water Inn is Vallaki’s main gathering place for locals, especially at night. The innkeeper, Urwin Martikov, considers the inn a sanctuary from the evils of this land. In the event of trouble, the windows and doors can all be barred shut from within.
+> 
+> A bed for the night costs 1 ep. Characters looking for something to eat are fed hot beet soup and fresh bread at no additional charge. A cooked wolf steak costs 1 ep.
+> 
+> The inn offers a pint of Purple Grapemash No. 3 wine for 3 cp, or a pint of the superior Red Dragon Crush wine for 1 sp. Urwin is hurt if the characters complain about the wines, for his family makes them.
+> 
+> The inn’s wine supply is almost depleted, and the latest delivery from the Wizard of Wines winery is overdue. If the characters claim to be adventurers, Urwin asks them if they would be so kind as to find out what’s holding up the latest shipment, promising them free room and board if they return with the wine.
+> 
+> [![](https://www.dndbeyond.com/attachments/thumbnails/2/683/600/825/014.jpg)](https://www.dndbeyond.com/attachments/2/683/014.jpg)
+> 
+> Map 5.2: Blue Water Inn (Area N2)[View Player Version](https://www.dndbeyond.com/attachments/2/770/cos501.jpg)
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#KeepersoftheFeather)Keepers of the Feather
+> 
+> Urwin Martikov (LG male human) is a [wereraven](https://www.dndbeyond.com/monsters/17377-wereraven) (see [appendix D](https://www.dndbeyond.com/sources/cos/appendix-d-monsters-and-npcs#Wereraven "appendix D")) and a high-ranking member of the Keepers of the Feather, a secret society of wereravens that opposes Strahd. Urwin’s wife and business partner, Danika Dorakova (LG female human), is also a [wereraven](https://www.dndbeyond.com/monsters/17377-wereraven), as are their two sons, Brom and Bray. The boys have only 7 hit points each and, at ages eleven and nine, are too young to be effective combatants.
+> 
+> At any given time, another 1d4 [wereravens](https://www.dndbeyond.com/monsters/17377-wereraven) (members of the Keepers of the Feather) are present at the inn, either perched on the rooftop in raven form or huddled inside in human form. These wereravens are loyal friends of the Martikovs and help protect the inn.
+> 
+> If the characters earn the trust of the wereravens in Vallaki, the Keepers of the Feather will watch their backs. The next time the characters get themselves in serious trouble, you can have a group of 1d4 [wereravens](https://www.dndbeyond.com/monsters/17377-wereraven) show up to rescue or otherwise help them.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#FortunesofRavenloft)Fortunes of Ravenloft
+> 
+> If your card reading reveals that a treasure is hidden at the inn, the Keepers of the Feather don’t reveal where the treasure is until they know the characters are capable of protecting it. As a way of testing their abilities, Urwin gives the characters the following quest:
+> 
+> Urwin takes you aside and keeps his voice low. “My supply of wine is nearly gone, and the next shipment is overdue. I’ll give you what you seek if you bring me my wine. The vineyard and winery is a few miles west of here. Just follow the Old Svalich Road and the signs.”
+> 
+> Urwin fails to mention that his cantankerous father, Davian Martikov, owns the local winery and vineyard, the Wizard of Wines ([chapter 12](https://www.dndbeyond.com/sources/cos/the-wizard-of-wines "chapter 12")). There’s bad blood between Urwin and his father (whom Urwin and Danika refer to as “the old crow”). Although Urwin could easily visit the winery himself, he considers dealing with his father to be a worthy test of the characters’ competence, and he makes good on his promise if they complete the quest and return with his wine shipment.
+> 
+> Urwin sends a [wereraven](https://www.dndbeyond.com/monsters/17377-wereraven) in raven form to observe the party’s progress from a distance. If the characters get in trouble, the wereraven reports to Urwin at once.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2aWell)N2a. Well
+> 
+> A 3-foot-high stone rim surrounds the mouth of this 40-foot-deep, moss-lined well. The inn draws fresh water from this well.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2bOutsideStaircase)N2b. Outside Staircase
+> 
+> A wooden staircase hugs the outer wall of the inn and leads up to guest quarters on the upper floor ([areas N2l](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2lGuestRooms "areas N2l") and [N2m](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2mGuestRoom "N2m")). The sturdy wooden door at the top of the stairs can be barred from the inside.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2cTaproom)N2c. Taproom
+> 
+> Damp cloaks hang from pegs in the entrance portico. The tavern is packed with tables and chairs, with narrow paths meandering between them. A bar stretches along one wall, under a balcony that can be reached by a wooden staircase that hugs the north wall. Another balcony overhangs an entrance to the east. All the windows are fitted with thick shutters and crossbars. Lanterns hanging above the bar and resting on the tables bathe the room in dull orange light and cast shadows upon the walls, most of which are adorned with wolf heads mounted on wooden plaques.
+> 
+> The double doors leading into the taproom can be barred shut from within.
+> 
+> Mounted on braces and tucked into alcoves behind the bar are three wine barrels, each one three-quarters empty. Two of the barrels contain Purple Grapemash No. 3 (a cheap wine), and the third contains Red Dragon Crush (a fine wine). A brass spigot is hammered into each barrel.
+> 
+> Danika Martikov usually tends bar while her husband busies himself in the kitchen ([area N2e](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2eKitchen "area N2e")). Their boys, Brom and Bray, scamper about and easily get underfoot.
+> 
+> Between dawn and noon, there are no patrons here, and the Martikovs are upstairs in their bedrooms ([areas N2o](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2oBoysBedroom "areas N2o") and [N2p](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2pMasterBedroom "N2p")) or in the attic ([area N2q](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2qSecretAttic "area N2q")).
+> 
+> From noon to dusk, the taproom holds 2d4 local patrons (male and female [commoners](https://www.dndbeyond.com/monsters/16829-commoner)). Between dusk and midnight, 2d8 Vallakians are here. In addition, one or more of the following people might be present during this time.
+> 
+> _**Wolf Hunters.**_ Szoldar Szoldarovich and Yevgeni Krushkin (N male human [scouts](https://www.dndbeyond.com/monsters/17007-scout)) are local hunters who frequent the Blue Water Inn. They kill wolves and sell the meat for a living, and their work is dangerous and bloody. Both men are grim and have haunted looks in their eyes.
+> 
+> These two are dour fellows, but they seldom pass up an opportunity to earn coin. If the characters are looking for guides or information about the land of Barovia, Szoldar and Yevgeni can be of service. They aren’t afraid to venture beyond Vallaki’s walls during the day, and they know the woods and valley well. They’re willing to serve as guides for 5 gp per day, or to provide directions to important landmarks in exchange for free drinks. They think it’s foolish to travel “this cursed realm” at night and won’t do so unless their payment is exorbitant (100 gp or more).
+> 
+> On rare occasions when he has something to say, Szoldar speaks brusquely, while Yevgeni usually parrots his friend in not so many words. Szoldar has a notch in his bow for every wolf he’s killed, while Yevgeni adds a new swatch to his wolfskin cloak every time he makes a kill. Both men have families but spend most of their time together, either drowning their sorrows or hunting in the woods. Most of the wolf heads that adorn the tavern walls are the result of their handiwork.
+> 
+> [![](https://www.dndbeyond.com/attachments/thumbnails/1/751/280/401/cos05-05.png)](https://www.dndbeyond.com/attachments/1/751/cos05-05.png)
+> 
+> Szoldar Szoldarovich
+> 
+> [![](https://www.dndbeyond.com/attachments/thumbnails/1/752/310/400/cos05-06.png)](https://www.dndbeyond.com/attachments/1/752/cos05-06.png)
+> 
+> Yevgeni Krushkin
+> 
+> _**Wachter Brothers.**_ Nikolai and Karl Wachter (N male human [nobles](https://www.dndbeyond.com/monsters/16966-noble)) are brothers of noble birth. They are brash drunkards always looking for trouble, though they are smart enough not to pick fights with well-armed strangers. Their mother, Fiona Wachter (see [area N4](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N4Wachterhaus "area N4")), is an influential figure in town, but her sons never talk about her. They’d rather listen to tales of the characters’ harrowing adventures or hear about how the characters plan to free Vallaki from the burgomaster’s madness.
+> 
+> _**Rictavio.**_ The lone guest of the Blue Water Inn at present is a colorfully dressed half-elf bard who goes by the name [Rictavio](https://www.dndbeyond.com/monsters/17371-rictavio)—a false identity adopted by the legendary vampire hunter Rudolph van Richten (see [appendix D](https://www.dndbeyond.com/sources/cos/appendix-d-monsters-and-npcs#RudolphvanRichten "appendix D")). He regales tavern patrons with stories so outrageous as to be hardly believable, yet he asserts they are true indeed. Rictavio claims to be a carnival ringmaster from a distant land. He’s been staying at the inn for almost a month, taking advantage of Urwin Martikov’s generosity and good nature. When he arrived, he was accompanied by a monkey named Piccolo. The monkey wasn’t welcome at the inn, so Rictavio gave it to the local toymaker (see [area N7](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N7BlinskyToys "area N7")).
+> 
+> Rictavio admits to having no musical talent but manages to entertain locals nonetheless with his stories of faraway places. Twice each day, at dawn and again at dusk, he leaves the inn with a couple of apples and a cooked wolf steak wrapped in a handkerchief. He claims the food is for his portly friend, “the destitute toymaker” ([area N7](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N7BlinskyToys "area N7")) and his pet monkey. In fact, the apples are for his horse Drusilla ([area N2f](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2fStable "area N2f")), and the steak is for his captured saber-toothed tiger ([area N5](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N5ArasekStockyard "area N5")).
+> 
+> During his stay at the inn, Rictavio is quietly gathering information on the Keepers of the Feather, trying to figure out the identities of all the wereravens in town. He’s also trying to learn as much as he can about the Vistani, particularly the ones living in the camp just outside town ([area N9](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N9VistaniCamp "area N9")). Once he concludes that they are in league with Strahd, Rictavio plans to unleash his trained saber-toothed tiger upon them, with or without the support of the wereravens.
+> 
+> Rictavio wears a [hat of disguise](https://www.dndbeyond.com/magic-items/4651-hat-of-disguise) and a [ring of mind shielding](https://www.dndbeyond.com/magic-items/4725-ring-of-mind-shielding) to conceal his identity. He carries an iron key that unlocks the door to his carnival wagon ([area N5](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N5ArasekStockyard "area N5")).
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2dWineStorage)N2d. Wine Storage
+> 
+> This hallway contains three curtained alcoves as well as a larger area stuffed with wine barrels.
+> 
+> The Martikovs store their wine here. Tucked behind red curtains are three alcoves, each one containing a half-emptied wine barrel lying on its side in a wooden brace. Twelve empty wine barrels are piled two high near the door to the kitchen ([area N2e](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2eKitchen "area N2e")). All the barrels have the Wizard of Wines name burned into them.
+> 
+> Nine of the fifteen barrels, including two of the barrels in the curtained alcoves, have the following label burned into their sides, under the winery’s name: Purple Grapemash No. 3. Six of the fifteen barrels, including one of the barrels in the curtained alcoves, have a different label: Red Dragon Crush.
+> 
+> The double doors that lead outside can be barred shut from within.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2eKitchen)N2e. Kitchen
+> 
+> This room looks like the kitchen of someone who loves to cook. It has piles of pots, walls lined with utensils and shelves of ingredients, and all manner of pleasant odors. Two lanterns hang above a sturdy pine worktable in the middle of the clutter. A pot of soup bubbles on the hearth.
+> 
+> Urwin Martikov, who prepares most of the meals, is found here throughout the day. He occasionally receives help from his two boys, but they are easily distracted. A cupboard against the east wall holds most of the inn’s supply of cutlery and dishware, none of it valuable. A door in the west wall leads outside and is usually barred from the inside.
+> 
+> A secret door at the west end of the south wall can be pushed open to reveal a wooden staircase that leads up to [area N2i](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2iSecretStairsandHall "area N2i").
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2fStable)N2f. Stable
+> 
+> The sliding wooden doors on the west wall of this room are held shut by an iron lock and chain. Urwin carries the key to the lock. The doors to the north and south can be barred shut from the inside but are usually unlocked.
+> 
+> You hear the squawking of birds and the plaintive whinny of a horse as you peer inside this stable. The stalls are clean and well maintained. One of them contains a gray mare. A small door is set into the east wall, and a wooden ladder gives access to a loft overhead. Perched on the wooden railing that encloses the loft are dozens of ravens.
+> 
+> Any character who has a horse can keep it here for 1 sp per night. The gray mare is a [draft horse](https://www.dndbeyond.com/monsters/16844-draft-horse) named Drusilla, and she likes apples. The horse belongs to Rictavio (see [area N2c](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2cTaproom "area N2c")).
+> 
+> The small door in the east wall can be pulled open to reveal [area N2g](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2gStorage "area N2g"). The loft is described in [area N2h](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2hRavensLoft "area N2h").
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2gStorage)N2g. Storage
+> 
+> This small room lies under a wooden staircase ([area N2i](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2iSecretStairsandHall "area N2i")). Hanging from wooden pegs are saddles and barding to equip two horses. In an unlocked wooden chest are a dozen horseshoes, a wooden mallet, and a mound of horseshoe nails.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2hRavensLoft)N2h. Ravens’ Loft
+> 
+> Dim light spilling in through a pair of dirt-encrusted windows reveals piles of hay with pitchforks sticking out of them. Ravens rule this roost—you can see hundreds of them.
+> 
+> Characters who search the loft thoroughly find three pitchforks and a locked wooden chest buried under a pile of hay (see “Treasure” below), next to a secret door. If the characters tamper with the chest, the ravens gather into four [swarms of ravens](https://www.dndbeyond.com/monsters/17033-swarm-of-ravens) and attack. If two swarms are killed, the others flee. Otherwise, they cease their attacks if the characters leave the chest alone. If the fighting continues for more than 3 rounds, Urwin Martikov and two other wereravens hear the ruckus and investigate (in human form).
+> 
+> A secret door in the back of the loft can be pushed open to reveal a bedchamber ([area N2p](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2pMasterBedroom "area N2p")) beyond. No ability check is required to spot the secret door, because light in the room beyond slips through the door’s cracks.
+> 
+> _**Treasure.**_ Inside the locked chest are 140 ep, 70 pp, two [elixirs of health](https://www.dndbeyond.com/magic-items/5351-elixir-of-health), three [potions of healing](https://www.dndbeyond.com/equipment/71-potion-of-healing), and a [gray bag of tricks](https://www.dndbeyond.com/magic-items/2965260-gray-bag-of-tricks). The coins are embossed with the profiled likeness of Strahd von Zarovich.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2iSecretStairsandHall)N2i. Secret Stairs and Hall
+> 
+> A wooden staircase to the north descends fifteen feet to a landing. A window dimly illuminates a short, wood-paneled hallway that runs west to east.
+> 
+> Guests aren’t told about the inn’s secret hallway. Rictavio knows of its existence because he has heard the Martikov boys opening and closing the secret door closest to his room ([area N2n](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2nPrivateGuestRoom "area N2n")).
+> 
+> At each end of this area is a secret door, each of which is easy to spot from inside the hallway (no ability check required). The northern secret door, at the bottom of the staircase, can be pulled open to reveal the kitchen ([area N2e](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2eKitchen "area N2e")) beyond. The eastern secret door can be pulled open to reveal a balcony ([area N2j](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2jGreatBalcony "area N2j")) that overlooks the taproom.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2jGreatBalcony)N2j. Great Balcony
+> 
+> A wooden balcony stretches the full length of the taproom, enclosed by a wooden railing carved with raven motifs. The taproom’s many lanterns illuminate the rafters and cast ominous shadows on the peaked ceiling.
+> 
+> The balcony floor is 15 feet above the taproom floor.
+> 
+> A secret door at the south end of the western wall can be pushed open to reveal a wood-paneled hallway ([area N2i](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2iSecretStairsandHall "area N2i")) beyond.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2kGuestBalcony)N2k. Guest Balcony
+> 
+> This twenty-foot-long balcony provides a clear view of the bar and has a wooden railing carved with raven motifs. The taproom’s many lanterns illuminate the rafters and cast ominous shadows on the peaked ceiling.
+> 
+> The balcony floor is 15 feet above the taproom floor.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2lGuestRooms)N2l. Guest Rooms
+> 
+> These two rooms have identical furnishings.
+> 
+> Two cozy beds with matching footlockers rest in the far corners of this fifteen-foot-square room. Wolf furs are heaped atop each bed. Between the beds, a lamp sits on a table under a shuttered window. Two tall black wardrobes stand against the wall by the door.
+> 
+> The door to this room can be locked from the inside, and each guest gets a key. Urwin and Danika carry spare keys. The footlockers and wardrobes are empty and are for the use of guests.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2mGuestRoom)N2m. Guest Room
+> 
+> Four plain beds with straw mattresses line the north wall of this well-lit room. Each bed comes with a matching footlocker to store clothing and other belongings. A table and four chairs occupy the corner across from the door. An oil lamp resting on the table casts a bright yellow flame.
+> 
+> The door to this room can be locked from the inside, and each guest receives a key. Urwin and Danika carry spare keys. The footlockers are empty and are for the use of guests.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2nPrivateGuestRoom)N2n. Private Guest Room
+> 
+> Rictavio has a key to this room, which is locked at all times. Urwin and Danika carry spare keys. The door’s lock can be picked, but discretion is called for because the door is in plain view of the taproom below.
+> 
+> This small guest room contains a bed heaped with wolf furs, a footlocker, a tall wardrobe, and a writing desk with matching chair. An oil lamp rests atop the desk near a journal bound in a red leather jacket.
+> 
+> Rictavio sleeps here between midnight and dawn. At dawn, he leaves to check on his horse ([area N2f](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2fStable "area N2f")) and his wagon ([area N5](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N5ArasekStockyard "area N5")), returning to the inn around noon. Between noon and dusk, there’s a 40 percent chance he is here; otherwise, he’s in the taproom ([area N2c](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2cTaproom "area N2c")). At dusk, he leaves the inn to tend to his horse and his wagon again, then returns to his room to retire for the night.
+> 
+> Rictavio is too clever to leave anything valuable or incriminating in his room. The footlocker and the wardrobe contain nothing but common clothes and travel wear.
+> 
+> _**Rictavio’s Journal.**_ The journal on the desk is a bit of artifice that Rictavio created to perpetuate the illusion that he is an entertainer in search of new acts for his traveling carnival. His writing makes frequent mention of conversations with Drusilla (which the journal fails to mention is the name of Rictavio’s horse) and recounts many long and tedious journeys by wagon. Rictavio has also written about various “oddities” he has seen in his travels, including the following:
+> 
+> - A “werehare” child (a boy who transforms into a rabbit on nights of the full moon)
+> - A half-orc woman named Gorabacha who could chew through iron chains
+> - A giant, man-eating plant that had the most remarkable singing voice
+> - A pair of conjoined goblins
+> - A small man with no legs named Filmore Stunk, who could drink whole casks of wine without getting drunk
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2oBoysBedroom)N2o. Boys’ Bedroom
+> 
+> A large, painted toy box rests between two small, cozy beds. Murals of ravens in flight are painted on the walls above the wood paneling.
+> 
+> Brom and Bray Martikova don’t spend much time in this room. The toy box contains a pile of neglected toys, many of them etched with the slogan “Is No Fun, Is No Blinsky!” The toys include the following:
+> 
+> - A miniature puppet theater with appropriately sized marionettes of a king, a queen, a prince, a princess, an executioner, a tax collector, a dunce, a vampire, and a vampire hunter
+> - A garish toy Vistani wagon hitched to a wooden horse and filled with tiny wooden Vistani figures
+> - A pair of painted wooden clown masks, one displaying a mean scowl and the other a frightened expression
+> - A wooden top painted with images of scarecrows chasing children through the forest
+> - A stuffed (real) bat on puppet strings
+> 
+> A hidden trapdoor in the 8-foot-high ceiling opens into a secret attic ([area N2q](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2qSecretAttic "area N2q")).
+> 
+> [![](https://www.dndbeyond.com/attachments/thumbnails/1/753/600/423/cos05-07.png)](https://www.dndbeyond.com/attachments/1/753/cos05-07.png)
+> 
+> The Martikov Family
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2pMasterBedroom)N2p. Master Bedroom
+> 
+> Matching end tables flank a large wood-framed bed with a red silk canopy. Across from the bed hangs a tapestry depicting a beautiful mountain valley. The other walls are dominated by a fireplace and a wardrobe.
+> 
+> Urwin and Danika retire to this room every night before heading to the attic ([area N2q](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2qSecretAttic "area N2q")) to sleep. This room is for appearances only and contains no valuables.
+> 
+> A secret door at the west end of the south wall can be pulled open to reveal the loft beyond ([area N2h](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2hRavensLoft "area N2h")).
+> 
+> A hidden trapdoor in the 8-foot-high ceiling opens into a secret attic ([area N2q](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2qSecretAttic "area N2q")).
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2qSecretAttic)N2q. Secret Attic
+> 
+> This ten-foot-wide, thirty-five-foot-long attic has a ceiling that slants down toward the west, dropping from a height of eight feet to a height of five feet. Four straw nestscover the floor, and a locked iron strongbox sits against the north wall. A small square opening in the south wall leads outside. Two trapdoors with iron hinges are set into the floor.
+> 
+> The Martikovs sleep here at night in hybrid form. The opening in the south wall is just big enough for a raven or other Tiny creature to pass through. The wereravens can use this opening as an escape route.
+> 
+> The strongbox is described in “Treasure” below.
+> 
+> Two trapdoors, clearly visible on the floor, can be pulled open to reveal the bedchambers ([areas N2o](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2oBoysBedroom "areas N2o") and [N2p](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2pMasterBedroom "N2p")) that lie directly beneath them.
+> 
+> _**Treasure.**_ Urwin carries the key to the locked iron strongbox. The lock can be picked with thieves’ tools and a successful DC 20 Dexterity check. The box contains a sack of 150 ep (each coin bearing the profiled visage of Strahd von Zarovich), six pieces of jewelry (worth 250 gp each), and three [potions of healing](https://www.dndbeyond.com/equipment/71-potion-of-healing).
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#FortunesofRavenloft2)Fortunes of Ravenloft
+> 
+> If your card reading reveals that a treasure is here, it is in the iron strongbox.
+> 
+
 
 If the players visit the Blue Water Inn first, they can learn from [[Non-Player Characters#Danika Dorakova|Danika]] that Rictavio recently departed the inn and that he mentioned “inspecting his wagon for some necessary repairs.” If the players ask where Rictavio has kept his wagon, Danika recalls hearing him mention keeping it in Arasek Stockyard. 
 
@@ -881,6 +2385,51 @@ If the players ask Van Richten about his arrival in Barovia or the revolt agains
 If the players demand it, Van Richten agrees to bring them to his wagon at Arasek Stockyard to see Arabelle for themselves. Proceed to [[#E8b. Following Rictavio]] below.
 ## E8b. Following Rictavio
 <span class="citation"><em>This scene takes place in Chapter 5: Area N5.</em></span>
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N5ArasekStockyard
+> 
+> 
+> This large stockyard has several locked sheds along its periphery and lies adjacent to a roomy warehouse. A wooden sign above the front gate reads “Arasek Stockyard.”
+> 
+> Parked at the south end of the stockyard is a sturdy carnival wagon, its colorful paint peeling off. Faded lettering on its sides spells out the words “Rictavio’s Carnival of Wonders.” A heavy padlock secures the back door.
+> 
+> The stockyard is a general store and a facility where storage sheds can be rented. It is owned by a middle-aged married couple, Gunther and Yelena Arasek (LG male and female [commoners](https://www.dndbeyond.com/monsters/16829-commoner)). They sell items from the [Adventuring Gear](https://www.dndbeyond.com/sources/phb/equipment#AdventuringGear "Adventuring Gear") table in the [Player’s Handbook](https://www.dndbeyond.com/sources/phb "Player’s Handbook") that have a price of 25 gp or less, but at five times the price.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#RictaviosCarnivalWagon)Rictavio’s Carnival Wagon
+> 
+> The colorful half-elf bard [Rictavio](https://www.dndbeyond.com/monsters/17371-rictavio) (see [area N2](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2BlueWaterInn "area N2") and [appendix D](https://www.dndbeyond.com/sources/cos/appendix-d-monsters-and-npcs#Rictavio "appendix D")) paid Gunther and Yelena a generous amount of gold to watch his carnival wagon, no questions asked. If the characters approach the wagon, read:
+> 
+> The wagon suddenly lurches, as though something big has thrown itself against the inside wall. You hear the cracking of wood, the scraping of metal, and the snarl of something inhuman. Upon closer inspection, you see that the sides of the wagon are spattered with dry blood. You also see an inscription on the wagon’s door frame that reads, “I bring you from Shadow into Light!”
+> 
+> Rictavio carries the key to the wagon door. The lock can be picked but is rigged with a poison needle trap (see “[Sample Traps](https://www.dndbeyond.com/sources/dmg/adventure-environments#SampleTraps "Sample Traps")” in chapter 5, “Adventure Environments,” of the [Dungeon Master’s Guide](https://www.dndbeyond.com/sources/dmg "Dungeon Master’s Guide")).
+> 
+> Inside the wagon is a [saber-toothed tiger](https://www.dndbeyond.com/monsters/17002-saber-toothed-tiger) with 84 hit points. It is clad in specially fitted half plate (AC 17) and has been trained to hunt Strahd's Vistani servants.
+> 
+> The wagon also contains the torn-up remains of a doll. A character who makes a successful DC 10 Intelligence ([Investigation](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)) check discovers that the doll was once a colorfully dressed Vistani effigy. Stitched into its tattered pants is a slogan: “Is No Fun, Is No Blinsky!”
+> 
+> Rictavio isn’t ready to unleash the tiger on the Vistani just yet. He feeds it by dropping wolf steaks down a 1-foot-square hatch in the wagon’s roof. A character who climbs atop the wagon can spot the hatch without needing to make an ability check.
+> 
+> If the tiger is released, it begins stalking through the streets until its keen sense of smell locates either Rictavio ([area N2](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2BlueWaterInn "area N2")) or Piccolo ([area N7](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N7BlinskyToys "area N7")). The tiger doesn’t attack anyone who isn’t a Vistana except in self-defense. It attacks Vistani on sight. Rictavio can make the tiger break off its attack and lure it back into the wagon.
+> 
+> [![](https://www.dndbeyond.com/attachments/thumbnails/1/758/850/501/cos05-12.png)](https://www.dndbeyond.com/attachments/1/758/cos05-12.png)
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#Treasure)Treasure
+> 
+> The front seat of the wagon conceals a secret compartment that requires a successful DC 15 Wisdom ([Perception](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)) check to find and open. The compartment holds several items:
+> 
+> - An unlocked wooden coffer containing 50 ep bearing Strahd’s profile and six gemstones (worth 100 gp each)
+> - A small prayer book (worth 50 gp) with a green leather cover and indecipherable notes in the margins
+> - A [healer’s kit](https://www.dndbeyond.com/equipment/49-healers-kit)
+> - Three wooden [holy symbols](https://www.dndbeyond.com/equipment/213-holy-symbol) inlaid with silver and in the shape of a sunburst (worth 50 gp each)
+> - A silvered [shortsword](https://www.dndbeyond.com/equipment/30-shortsword)
+> - A [hand crossbow](https://www.dndbeyond.com/equipment/1-crossbow-hand) inlaid with mother-of-pearl (worth 250 gp)
+> - A bundle of twenty silvered [crossbow bolts](https://www.dndbeyond.com/equipment/3-crossbow-bolts)
+> - A worn leather case with gold buckles (worth 100 gp) containing three sharpened [wooden stakes](https://www.dndbeyond.com/equipment/206-stake-wooden), a sack of garlic, a jar of salt, a box of holy wafers, six [vials of holy water](https://www.dndbeyond.com/equipment/50-holy-water-flask), a polished steel mirror, and a bone scroll tube with a silver stopper and chain (worth 25 gp). The tube contains a [spell scroll of protection from fiends](https://www.dndbeyond.com/magic-items/5398-scroll-of-protection) and a [spell scroll of protection from undead](https://www.dndbeyond.com/magic-items/5398-scroll-of-protection).
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#FortunesofRavenloft5)Fortunes of Ravenloft
+> 
+> If your card reading reveals that a treasure is here, it is hidden with the other items under the front seat of the wagon, in a lead-lined box.
+> 
+
 
 If the players follow [[Non-Player Characters#Disguised (as Rictavio)|Rictavio]] to Arasek Stockyard instead of waiting for him at the Blue Water Inn, they can find him kneeling by the wagon, where he appears to be adjusting the spokes of the wagon’s rear left wooden wheel. A player with a passive Wisdom (Perception) score of 16 or higher notices that Rictavio is repeatedly adjusting and re-adjusting the same spoke, and that Rictavio’s lips are moving, as if he is speaking with someone. If the players watch him, he continues his task for a full five minutes—far longer than such a task should ordinarily take—before standing and moving to depart.
 

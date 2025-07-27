@@ -21,8 +21,8 @@ logger = logging.getLogger(__name__)
 
 def parse_arguments():
     parser = argparse.ArgumentParser(description="Patch Reloaded .md file with canon excerpts")
-    parser.add_argument('-i', '--input', type=Path, required=True, help='Path to the input .md file')
-    parser.add_argument('-o', '--output', type=Path, help='Path to save the output file (default: stdout)')
+    # parser.add_argument('-i', '--input', type=Path, required=True, help='Path to the input .md file')
+    # parser.add_argument('-o', '--output', type=Path, help='Path to save the output file (default: stdout)')
     parser.add_argument(
         '-l', '--log-level',
         type=str,
@@ -56,12 +56,25 @@ def build_canon_index(canon_dirs):
                         link, current_subtitle = match.groups()
                     else:
                         link = None
-                    index.setdefault(current_title, {})
+                    
                     check_keys = [current_subtitle,
+                                  current_subtitle.split('.')[0],
                                   "Area " + current_subtitle,
                                   "Area " + current_subtitle.split('.')[0]]
-                    for key in check_keys:
-                        index[current_title][key] = { "link": link, "body": body }
+                    
+                    if ":" in current_title:
+                        titles = current_title.split(":") + [current_title]
+                    else:
+                        titles = [current_title]
+                    titles = [title.strip() for title in titles if title.strip()]
+
+                    for title in titles:
+                        for key in check_keys:
+                            index.setdefault(title, {})
+                            index[title][key] = { "link": link, "body": body }
+                            logger.info(f'Added to index: {title} -> {key}')
+                    
+
     return index
 
 def find_closest_match(target: str, candidates: list[str], cutoff: float = 0.6) -> str | None:
@@ -96,20 +109,28 @@ def patch_sentence(sent: str, index) -> str:
             chapter, scene = m.group(1).split(split_by, 1)
             chapter = chapter.strip()
             scene = scene.strip()
-            logger.info(f'Looking up citation for Chapter: {chapter}, Scene: {scene}')
+            if "," in scene or "and" in scene or "&" in scene:
+                scenes = [s.strip() for s in re.split(r',| and |&', scene)]
+            else:
+                scenes = [scene]
+            scenes = [s.replace("Areas", "Area") for s in scenes if s]
+            logger.info(f'Looking up citation for Chapter: {chapter}, Scene(s): {scene} -> {scenes}')
             candidate_chapter = find_closest_match(chapter, index.keys())
             if candidate_chapter:
                 logger.info(f'Found closest match for chapter: {candidate_chapter}')
-                candidate_scene = find_closest_match(scene, index[candidate_chapter].keys())
-                if candidate_scene:
-                    logger.info(f'Found closest match for scene: {candidate_scene}')
-                    excerpt = index[candidate_chapter][candidate_scene]
-                    sent += "\n"
-                    sent += f'>[!source]+ {excerpt["link"]}\n'
-                    for line in excerpt["body"].splitlines():
-                        sent += f'> {line}\n'
-                else:
-                    logger.warning(f'No matching scene found for {scene} in chapter {candidate_chapter}')
+                for scene_to_check in scenes:
+                    candidate_scene = find_closest_match(scene_to_check, index[candidate_chapter].keys())
+                    if candidate_scene:
+                        logger.info(f'Found closest match for scene: {scene_to_check} -> {candidate_scene}')
+                        excerpt = index[candidate_chapter][candidate_scene]
+                        sent += "\n"
+                        sent += f'>[!source]+ {excerpt["link"]}\n'
+                        for line in excerpt["body"].splitlines():
+                            sent += f'> {line}\n'
+                    else:
+                        logger.warning(f'No matching scene found for {scene_to_check} in chapter {candidate_chapter}')
+            else:
+                logger.warning(f'No matching chapter found for {chapter}')
 
     return sent
 

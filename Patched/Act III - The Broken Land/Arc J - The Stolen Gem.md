@@ -372,6 +372,16 @@ If the players are still willing to enter the winery to defeat the druids within
 Davian also informs the players of the existence of an emergency cache that he kept in the winery, but wasn’t able to retrieve before the druids drove them out. The cache, which is hidden in the barrel nearest the northwest corner in a storage room on the main floor of the winery, contains healing supplies and other items that the players might find useful. (Davian doesn’t remember exactly what he left in the cache, but invites the players to keep its full contents for themselves—assuming, of course, that the druids haven’t found and raided it already.)
 ### Brown Mold
 <span class="citation"><em>This scene takes place in Chapter 12, Area W15.</em></span>
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/the-wizard-of-wines#W15BrownMold
+> 
+> 
+> If the characters open the secret door, read:
+> 
+> It takes some effort to push open the secret door, and you are greeted by a blast of cold air. A dark tunnel stretches for fifteen feet, ending at an archway beyond which lies a shallow cave.
+> 
+> Characters who have a light source can see brown mold covering the walls, floor, and ceiling around the archway and the cave beyond. Growing throughout this area, keeping the wine cellar cool, are ten patches of brown mold (see “[Dungeon Hazards](https://www.dndbeyond.com/sources/dmg/adventure-environments#DungeonHazards "Dungeon Hazards")” in chapter 5, “Adventure Environments,” of the [Dungeon Master’s Guide](https://www.dndbeyond.com/sources/dmg "Dungeon Master’s Guide")). The characters are safe from the mold as long as they keep their distance.
+> 
+
 Once the players are ready to go, Muriel approaches them and wishes them luck. (She won’t be accompanying them into the winery, having decided to remain in the cavern to protect the Martikovs should any trouble arise.)
 
 As the players pass through the tunnel, read:
@@ -400,6 +410,26 @@ A successful DC 15 Intelligence (Nature) check identifies the teeth as belonging
 The tooth dissipates into frigid mist if either of these properties are used.
 ## J3b. Into the Winery
 <span class="citation"><em>This scene takes place in Chapter 12, Area W14.</em></span>
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/the-wizard-of-wines#W14WineCellar
+> 
+> 
+> In the winery’s heyday, the wine cellar was packed with barrels awaiting shipment, but those days are long gone.
+> 
+> Wooden pillars and beams support the ten-foot-high ceiling of this ice-cold cellar, which is split in two by a five-foot-thick brick wall. A thin mist covers the floor. Each half of the cellar features an eight-foot tall wooden partition that doubles as a wine rack. The western rack stands empty, but the eastern one is half filled with wine bottles.
+> 
+> Unless they have been drawn outside, five [needle blights](https://www.dndbeyond.com/monsters/17215-needle-blight) and one [druid](https://www.dndbeyond.com/monsters/16848-druid) (NE male human) lurk in the eastern portion of the cellar. If they are here when the characters enter that part of the cellar, read:
+> 
+> Something moves behind the eastern wine rack. Through the holes, you glimpse a half dozen humanoid figures, one with a full rack of antlers. You hear a gravelly voice mutter the words of a spell.
+> 
+> On his first turn, from behind the wine rack, the druid casts a [thunderwave](https://www.dndbeyond.com/spells/2278-thunderwave) spell, which shatters 1d20 + 10 of the wine bottles as it resounds throughout the cellar. The druid then orders the needle blights to attack.
+> 
+> The cellar gets markedly colder the closer one gets to the north wall. Against that wall in the eastern portion of the cellar rest three frosty barrels containing Purple Grapemash No. 3, a fact that is emblazoned on each barrel’s side. A single bottle of Purple Grapemash No. 3 lies on the flagstone floor in the western half of the cellar.
+> 
+> The wine rack in the eastern half of the cellar holds forty bottles, the labels of which show that the wine is the winery’s Red Dragon Crush.
+> 
+> A secret door between the two halves of the wine cellar can be pushed open to reveal a freezing cold passageway (area W15).
+> 
+
 
 The wine cellar is largely as described in <span class="citation">W14. Wine Cellar (p. 178)</span>. However, modify the descriptive text to read as follows:
 
@@ -514,6 +544,32 @@ As the players climb the spiral staircase or back staircase toward the first flo
 
 ### Fermentation Vats
 <span class="citation"><em>This scene takes place in Chapter 12, Area W9.</em></span>
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/the-wizard-of-wines#W9FermentationVats
+> 
+> 
+> The rich smell of fermenting wine fills this large, two-story chamber, which is dominated by four enormous wooden casks, each one eight feet wide and twelve feet tall. A wooden staircase in the center of the room climbs to a ten-foot-high wooden balcony that clings to the south wall, which has four windows set into it at balcony level. Stacked against the wall underneath the balcony are old, empty barrels with “The Wizard of Wines” burned into their sides. The balcony climbs another five feet as it continues along the west and east walls, ending at doors leading to the winery’s upper level. Underneath these side balconies are several doors, some of which hang open. Beneath the sloping roof stretch thick rafters, upon which scores of ravens have quietly gathered. They watch you with great interest.
+> 
+> Four [swarms of ravens](https://www.dndbeyond.com/monsters/17033-swarm-of-ravens) perch on the rafters but don’t attack the characters under any circumstances.
+> 
+> Unless they have been drawn outside, twenty-four [twig blights](https://www.dndbeyond.com/monsters/17095-twig-blight) and one [druid](https://www.dndbeyond.com/monsters/16848-druid) (NE female human) are also present. If they are here, read:
+> 
+> The balcony creaks, drawing your eye to a wild-looking figure hunched over the westernmost cask, pouring a flask of thick syrup into it. She wears a gown made of animal skins and a headdress with goat horns, and her hair is long and unkempt. Suddenly, you see something skittering across the floor. It looks like a tiny creature made of twigs. It moves from its hiding place under the stairs and disappears behind the easternmost cask.
+> 
+> The four containers are fermentation vats, where grape juice is mixed with other ingredients and turned into wine. The easternmost cask has split in the back, creating a 6-inch-wide, 6-foot-high opening through which the twig blights can pass. All twenty-four twig blights are hidden in the cask, ready to emerge and attack when commanded to do so. While inside the cask, they have total cover against attacks that originate outside the cask.
+> 
+> [![](https://www.dndbeyond.com/attachments/thumbnails/1/796/300/426/cos12-03.png)](https://www.dndbeyond.com/attachments/1/796/cos12-03.png)
+> 
+> Twig Blight
+> 
+> The druid is poisoning the fermentation vats. The three westernmost vats contain poisoned wine, enough to fill a total of twenty barrels. Drinking the poisoned wine has the same effect as drinking a [potion of poison](https://www.dndbeyond.com/magic-items/4712-potion-of-poison). Pouring antitoxin into a vat neutralizes the poison, but it also spoils the taste of the wine. Casting a [purify food and drink](https://www.dndbeyond.com/spells/2223-purify-food-and-drink) spell on a vat neutralizes the poison without spoiling the wine.
+> 
+> In addition to her animal skin gown and horned headdress, the druid wears necklaces of human teeth. If the characters attack the druid, she calls forth her twig blights. When that happens, the swarms of ravens descend from the rafters and begin attacking the blights. Each swarm tears apart one twig blight on each of its turns.
+> 
+> The sliding wooden doors along the north wall (leading to [area W5](https://www.dndbeyond.com/sources/dnd/cos/the-wizard-of-wines#W5Veranda "area W5")) are chained shut from the inside. The key to the padlock can be found in the office ([area W20](https://www.dndbeyond.com/sources/dnd/cos/the-wizard-of-wines#W20PrintingPress "area W20")).
+> 
+> The single door leading to area W5 is barred shut from the inside, as is the single door leading to [area W2](https://www.dndbeyond.com/sources/dnd/cos/the-wizard-of-wines#W2LoadingDock "area W2").
+> 
+
 
 The scream originates from the large room containing the winery’s fermentation vats, which is largely as described in <span class="citation">W9. Fermentation Vats (p. 176)</span>. However, remove the final two sentences of the room’s description. If the players have entered the room from <span class="citation">W10. Glassblower's Workshop (p. 177)</span> or have entered the chamber fully, also read the following text:
 
@@ -748,6 +804,16 @@ If the players free the ravens from their cages, they join the party as a **swar
 The first floor of the winery is largely as in <span class="citation">W2. Loading Dock (p. 176)</span>, <span class="citation">W3. Barrel Maker’s Workshop (p. 176)</span>, <span class="citation">W4. Barrel Storage (p. 176)</span>, <span class="citation">W5. Veranda (p. 176)</span>, and <span class="citation">W8. Storage (p. 176)</span>. The two Martikovs' two draft horses have been entrapped in <span class="citation">W1. Stables (p. 176)</span> by thick rows of poison razorvine (see above) that cover the doors.
 ### Loading Dock
 <span class="citation"><em>This scene takes place in Chapter 12, Area W2.</em></span>
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/the-wizard-of-wines#W2LoadingDock
+> 
+> 
+> Parked in the loading dock is a wagon with three barrels set in braces on the bed. A raised wooden walkway runs along the west, south, and east walls. Through a hole in the ceiling you see the wooden arm of a loading crane with ropes and hooks dangling from it.
+> 
+> Wine barrels in the cellar ([area W14](https://www.dndbeyond.com/sources/dnd/cos/the-wizard-of-wines#W14WineCellar "area W14")) are rolled up a ramp ([area W12](https://www.dndbeyond.com/sources/dnd/cos/the-wizard-of-wines#W12Ramp "area W12")) to the crane on the upper floor ([area W16](https://www.dndbeyond.com/sources/dnd/cos/the-wizard-of-wines#W16LoadingWinch "area W16")), then lowered into the wagon from above. Empty barrels are rolled off the back of the wagon and stored in [area W9](https://www.dndbeyond.com/sources/dnd/cos/the-wizard-of-wines#W9FermentationVats "area W9"). The three barrels on the wagon hold Purple Grapemash No. 3.
+> 
+> The south door has been forced open and hangs ajar. It can’t be closed properly until repaired, though it can be barricaded.
+> 
+
 
 Revise the description of this area to read as follows:
 
@@ -772,6 +838,14 @@ The three barrels, which stand in the northeast, southeast, and northwest corner
 When a creature other than a blight, a **druid naturalist**, or a **druid assailant** moves within 5 feet of a tangle or starts its turn there, the razorvine lashes out like a whip toward it. That creature must succeed on a DC 10 Dexterity saving throw or take 5 (1d10) slashing damage from the razorvine’s bladelike thorns. On a failure, that creature is also grappled (escape DC 10) and must succeed on a DC 10 Constitution saving throw or be poisoned until the start of its next turn.
 ### Barrel Storage
 <span class="citation"><em>This scene takes place in Chapter 12, Area W4.</em></span>
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/the-wizard-of-wines#W4BarrelStorage
+> 
+> 
+> Rows of new barrels fill this room. A narrow stone staircase spirals upward in the southwest corner.
+> 
+> The room contains thirteen empty barrels.
+> 
+
 
 The barrel in the northwest corner is visibly older than the others, with darker wood, a rusted metal band, and cracks and chips across its surface. It contains three *potions of greater healing*, a packet of *dust of disappearance*, and a pouch containing 75 gp.
 ## J3e. The Second Floor
@@ -782,6 +856,24 @@ However, the door leading from the balcony of <span class="citation">W9. Ferment
 When the players first reach the second floor, they can hear the sound of clattering objects originating from <span class="citation">W20. Printing Press (p. 179)</span>.
 ### Printing Press
 <span class="citation"><em>This scene takes place in Chapter 12, Area W20.</em></span>
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/the-wizard-of-wines#W20PrintingPress
+> 
+> 
+> The door to this room hangs open.
+> 
+> In this chamber are a desk, a chair, a tall wooden cabinet, and a strange contraption that takes up most of the northern end of the room.
+> 
+> Two [vine blights](https://www.dndbeyond.com/monsters/17216-vine-blight) and one [druid](https://www.dndbeyond.com/monsters/16848-druid) (NE female human) are in the room unless they have been drawn elsewhere, If they are here, read:
+> 
+> Three creatures are here. One appears human but is so caked with dirt and mud that it’s hard to know for sure. Her hair is full of twigs, and her face is hidden behind a veil of moss. She is rooting through the contents of the cabinet and haphazardly tossing them onto the floor. Behind her stand two creatures made entirely of dead vines.
+> 
+> The druid and the vine blights fight to the death.
+> 
+> Inside the cabinet is a key hanging on a loop of twine. The key unlocks the padlock on the sliding doors between the veranda ([area W5](https://www.dndbeyond.com/sources/dnd/cos/the-wizard-of-wines#W5Veranda "area W5")) and the fermentation vats ([area W9](https://www.dndbeyond.com/sources/dnd/cos/the-wizard-of-wines#W9FermentationVats "area W9")).
+> 
+> The contraption standing near the north wall is a printing press, which Davian Martikov uses to make wine bottle labels. The ink is made from wine and stored in bottles in the cabinet, along with pieces of parchment and jars of glue.
+> 
+
 
 The room containing the Martikovs’ printing press is largely as described in <span class="citation">W20. Printing Press (p. 179)</span>. However, the druid is a **druid assailant**, and is accompanied by three **vine blights** rather than two. The druid and blights attack the players on sight.
 
@@ -793,6 +885,20 @@ The room containing the Martikovs’ printing press is largely as described in <
 > * ***Six Players.*** Increase the number of vine blights to four.
 ### Loading Winch
 <span class="citation"><em>This scene takes place in Chapter 12, Area W16.</em></span>
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/the-wizard-of-wines#W16LoadingWinch
+> 
+> 
+> This room has a wooden floor with a ten-foot-square hole cut into the middle of it. Looming over the hole is a wooden winch. Perched atop it is a man with wild hair, rotted teeth, and skin painted red with blood. He waves a gnarled staff made from a black branch and babbles at you.
+> 
+> The man is a [druid](https://www.dndbeyond.com/monsters/16848-druid) (NE male human) who fights only if cornered. Otherwise, he tries to flee by dropping onto the wagon in the loading dock ([area W2](https://www.dndbeyond.com/sources/dnd/cos/the-wizard-of-wines#W2LoadingDock "area W2")). He then looks for a place in the winery to hide. A character who understands Druidic can translate the his words: “Nature bows to my every whim, for I have the vampire’s staff!”
+> 
+> A secret door in the north corner of the west wall can be pulled open to reveal a bedroom (area W17).
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-wizard-of-wines#Treasure)Treasure
+> 
+> The druid wields a [Gulthias staff](https://www.dndbeyond.com/magic-items/5528-gulthias-staff) (see [appendix C](https://www.dndbeyond.com/sources/cos/appendix-c-treasures#GulthiasStaff "appendix C")), which can be used to destroy the blights in the winery.
+> 
+
 
 This area is largely as described in <span class="citation">W16. Loading Winch (p. 178)</span>. However, revise the descriptive text to read as follows:
 

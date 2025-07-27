@@ -242,6 +242,24 @@ Once the drawbridge has descended, the carriage resumes its passage toward the c
 The players have arrived at Castle Ravenloft.
 ## O4a. The Courtyard
 <span class="citation"><em>This scene takes place in Chapter 4, Area K1.</em></span>
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K1FrontCourtyard
+> 
+> 
+> As the characters enter the castle, the weather worsens. Dismal rain starts to fall, becoming a torrent within the hour. Lightning routinely lights the sky, followed by peals of thunder that make the castle shudder.
+> 
+> Thick, cold fog swirls in this courtyard. Sporadic flashes of lightning lance the weeping clouds overhead as thunder shakes the ground. Through the drizzle, you see torch flames fluttering on each side of the keep’s open main doors. Warm light spills out of the entrance, flooding the courtyard. High above the entrance is a round window with shards of broken glass lodged in its iron frame.
+> 
+> The walls that enclose the courtyard are 90 feet high. The dark towers of the castle rise even higher. Doors in the gate towers on each side of the tunnel entrance are shut against the rain, and a howling wind rushes through the courtyard.
+> 
+> The open main doors to the keep lead to [area K7](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K7Entry "area K7"). The large, shattered window overlooking the main entrance is 50 feet above the courtyard and leads to [area K25](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K25AudienceHall "area K25"). No light can be seen through the great window.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#GateTowers)Gate Towers
+> 
+> Each outer gate tower has an ironbound door with a built-in lock.
+> 
+> Characters who enter a gate tower find themselves on a flagstone floor with a hollow tower stretching high above them. The mechanisms for raising and lowering the drawbridge and portcullis fill both gate towers. The latch mechanism in each tower is magically activated by a word that only Strahd knows. It can also be activated with a successful casting of [dispel magic](https://www.dndbeyond.com/spells/2072-dispel-magic) (DC 14). Neither the drawbridge nor the portcullis will move until both latches are activated.
+> 
+
 
 This area is largely as described in <span class="citation">K1. Front Courtyard (p. 52)</span>. However, as the players exit the carriage, revise this area’s description as follows:
 
@@ -311,6 +329,28 @@ As the players enter the keep, the castle drawbridge rises once more. Read:
 
 ## O4b. The Foyer
 <span class="citation"><em>This scene takes place in Chapter 4, Area K7.</em></span>
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K7Entry
+> 
+> 
+> Read the following text if the characters approach from the courtyard ([area K1](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K1FrontCourtyard "area K1")):
+> 
+> The ornate outer doors of the castle hang open, flanked by fluttering torches in iron sconces. Twenty feet inside the castle is a second set of doors.
+> 
+> If one or more characters approach from [area K1](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K1FrontCourtyard "area K1") and come within 10 feet of the double doors, read:
+> 
+> The doors in front of you suddenly swing open, revealing a grand hall filled with the sound of organ music.
+> 
+> If the characters approach from area K8 and have not yet visited this area, read:
+> 
+> A set of double doors to the west appears to be, or to lead to, an exit from the castle.
+> 
+> If the characters enter from either direction, read:
+> 
+> Overhead, in the vaulted entry foyer, four statues of dragons glare down, their eyes flickering in the torchlight.
+> 
+> If anyone except Strahd enters this area through the doors that adjoin area K8, the dragons come alive, drop to the floor hissing and spitting, and attack. The dragons don’t attack characters who enter this area from [area K1](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K1FrontCourtyard "area K1"), heading east. The dragons are four [red dragon wyrmlings](https://www.dndbeyond.com/monsters/16993-red-dragon-wyrmling), and they have instructions to allow guests to enter the castle, but not to leave it. If intruders vacate this area, the dragons fly up to their perches and revert to stone. In their stone forms, they are impervious to weapon damage. The dragons never leave the room.
+> 
+
 
 The castle foyer is largely as described in <span class="citation">K7. Entry (p. 54)</span>. However, decrease the number of **dragon wyrmling** statues to two. (The other two are harmless statuary.) The dragon statues do not attack the players for as long as the players are here by invitation.
 
@@ -382,6 +422,24 @@ If Ireena is with the party, Sasha briefly startles upon glimpsing her—almost 
 > Though she isn’t sure whether she believes it herself, Sasha knows that Strahd believes Ireena is Tatyana reincarnated—a fact he used to idly mock her shortly after her emergence from her tomb. Though she is powerless to disobey Strahd’s will, Sasha—shocked by Ireena’s resemblance to Tatyana—prays that Ireena might avoid her counterpart’s fate, and that her soul might one day find freedom from Strahd’s dark clutches.
 ## O4c. The Great Entry
 <span class="citation"><em>This scene takes place in Chapter 4, Area K8.</em></span>
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K8GreatEntry
+> 
+> 
+> Cobwebs stretch between the columns that support the vaulted ceiling of a great, dusty hall dimly lit by sputtering torches in iron sconces. The torches cast odd shadows across the faces of eight stone gargoyles squatting motionlessly on the rim of the domed ceiling. Cracked and faded ceiling frescoes are covered by decay. Double doors of bronze stand closed to the east. To the north, a wide staircase climbs into darkness. A lit hallway to the south contains another set of bronze doors, through which you hear sad and majestic organ tones.
+> 
+> The southern hallway is described in [area K9](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K9GuestsHall "area K9"). The wide staircase leads up to [area K19](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K19GrandLanding "area K19").
+> 
+> If the characters are here by invitation, add the following:
+> 
+> An elf with brown skin and long black hair descends the wide staircase, quiet as a cat. He wears a gray cloak over black studded leather armor and has a polished scimitar hanging from his belt. “My master is expecting you,” he says.
+> 
+> The elf is [Rahadin](https://www.dndbeyond.com/monsters/17370-rahadin), the castle chamberlain (see [appendix D](https://www.dndbeyond.com/sources/cos/appendix-d-monsters-and-npcs#Rahadin "appendix D")). He fights only if attacked. Otherwise, he leads the characters to the dining hall ([area K10](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K10DiningHall "area K10")), points them inside, pulls the doors shut behind them, and withdraws to [area K72](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K72ChamberlainsOffice "area K72") by way of the South Tower Stair ([area K21](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K21SouthTowerStair "area K21")).
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K8Development)Development
+> 
+> After all the characters leave this room, the eight [gargoyles](https://www.dndbeyond.com/monsters/16868-gargoyle) attack any character who dares to return. The gargoyles also swoop down to fight if they are attacked. When the gargoyles attack, the turbulence in the air from their wings extinguishes the feeble torches in the sconces, plunging the hall into darkness unless the characters have light sources.
+> 
+
 
 This area is largely as described in <span class="citation">K8. Great Entry (p. 55)</span>. However, decrease the number of **gargoyles** to four. The gargoyles don’t attack so long as the players are here by invitation.
 
@@ -500,6 +558,128 @@ While Sasha is gone, Strahd continues to engage the players in smalltalk, posing
 > * ***The Abbot.*** “An odd creature, quite taken with his own whims and fancies. While I find his obsessive faith offputting, one must bear a certain respect for the sheer depth of his dedication."
 ### Sasha Alone
 <span class="citation"><em>This scene takes place in Chapter 4, Areas K8, K9, K21, K61, K62, and K63.</em></span>
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K8GreatEntry
+> 
+> 
+> Cobwebs stretch between the columns that support the vaulted ceiling of a great, dusty hall dimly lit by sputtering torches in iron sconces. The torches cast odd shadows across the faces of eight stone gargoyles squatting motionlessly on the rim of the domed ceiling. Cracked and faded ceiling frescoes are covered by decay. Double doors of bronze stand closed to the east. To the north, a wide staircase climbs into darkness. A lit hallway to the south contains another set of bronze doors, through which you hear sad and majestic organ tones.
+> 
+> The southern hallway is described in [area K9](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K9GuestsHall "area K9"). The wide staircase leads up to [area K19](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K19GrandLanding "area K19").
+> 
+> If the characters are here by invitation, add the following:
+> 
+> An elf with brown skin and long black hair descends the wide staircase, quiet as a cat. He wears a gray cloak over black studded leather armor and has a polished scimitar hanging from his belt. “My master is expecting you,” he says.
+> 
+> The elf is [Rahadin](https://www.dndbeyond.com/monsters/17370-rahadin), the castle chamberlain (see [appendix D](https://www.dndbeyond.com/sources/cos/appendix-d-monsters-and-npcs#Rahadin "appendix D")). He fights only if attacked. Otherwise, he leads the characters to the dining hall ([area K10](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K10DiningHall "area K10")), points them inside, pulls the doors shut behind them, and withdraws to [area K72](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K72ChamberlainsOffice "area K72") by way of the South Tower Stair ([area K21](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K21SouthTowerStair "area K21")).
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K8Development)Development
+> 
+> After all the characters leave this room, the eight [gargoyles](https://www.dndbeyond.com/monsters/16868-gargoyle) attack any character who dares to return. The gargoyles also swoop down to fight if they are attacked. When the gargoyles attack, the turbulence in the air from their wings extinguishes the feeble torches in the sconces, plunging the hall into darkness unless the characters have light sources.
+> 
+
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K9GuestsHall
+> 
+> 
+> Torchlight flutters against the walls of this vaulted hall. To the east, an arched hallway stretches for twenty feet, ending at a spiral staircase that goes up and down. Next to the hallway, a suit of armor, oiled and glistening, stands at attention in a shallow alcove. To the west, large double doors hang slightly open, and a steady bright light escapes through the opening. Swells of organ music come from behind the doors, spilling their melody of power and defeat into the hall.
+> 
+> The suit of armor standing in the alcove is merely a normal suit of plate armor that is well cared for.
+> 
+> The staircase leads down to [area K61](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K61ElevatorTrap "area K61") and up to [area K30](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K30KingsAccountant "area K30"). The double doors provide access to [area K10](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K10DiningHall "area K10").
+> 
+
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K21SouthTowerStair
+> 
+> 
+> Fluttering torches in iron sconces illuminate this spiral staircase. A chill wind rushes down the circling stairway, seeming to kill the very heat of the torches.
+> 
+> These stairs start at [area K73](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K73DungeonHall "area K73") and go up through [areas K61](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K61ElevatorTrap "areas K61"), [K9](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K9GuestsHall "K9"), [K30](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K30KingsAccountant "K30"), and [K35](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K35GuardianVermin "K35") before ending at [area K47](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K47PortraitofStrahd "area K47").
+> 
+
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K61ElevatorTrap
+> 
+> 
+> See [area K31](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K31Trapworks "area K31") and the accompanying Elevator Trap diagram before running this encounter.
+> 
+> This dusty, ten-foot-wide, thirty-foot-long corridor has a flat ceiling ten feet overhead. To the south, a web-filled stairway spirals down into darkness. The north end of the hall ends at a wooden door.
+> 
+> [![](https://www.dndbeyond.com/attachments/thumbnails/2/681/380/1045/012.jpg)](https://www.dndbeyond.com/attachments/2/681/012.jpg)
+> 
+> Map: Elevator Trap [View Player Version](https://www.dndbeyond.com/attachments/2/769/cos401.jpg)
+> 
+> This hallway contains an elevator trap, triggered when at least 400 pounds of pressure is applied to the 10-foot-square section of floor in the center of the hall (marked T on the map), or when the lever in [area K31](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K31Trapworks "area K31") is raised. A party of adventurers moving in close formation down the hall is certainly heavy enough to trigger the trap.
+> 
+> A character who searches for traps while crossing the hall and succeeds on a DC 15 Wisdom ([Perception](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)) check detects seams in the floor, walls, and ceiling that suggest that the middle section isn’t attached to the rest of the hall. A character who makes a successful DC 15 Intelligence ([Investigation](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)) check discerns that the trap can’t be disarmed from this location.
+> 
+> The middle 10-foot section of the hall is a cleverly hidden elevator compartment, open to the north and south so that it appears to be part of the passageway. When the trap is sprung, two steel portcullises drop from the ceiling at lightning speed to seal off the compartment, trapping within those creatures that triggered the trap. An instant later, the closed-off elevator is propelled up the western half of a 20-foot-wide, 170-foot-tall shaft ([area K31a](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K31aElevatorShaft "area K31a")) to the sounds of turning gears and rattling chains. Magic sleep gas fills the compartment as it rises, and a creature trapped inside must succeed on a DC 15 Constitution saving throw or fall [unconscious](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#UnconsciousCondition) as though affected by a [sleep](https://www.dndbeyond.com/spells/2254-sleep) spell.
+> 
+> At the same time the elevator rises, a 10-foot cube of granite suspended from heavy chains descends in the eastern half of the shaft, acting as a counterweight. The massive block lands gently at the bottom of the shaft, filling the previously open 10-foot-by-10-foot space adjacent to where the elevator stood. The block weighs thousands of tons and pulverizes anything in the space where it comes to rest.
+> 
+> Once the elevator starts rising, its portcullises are locked in place and can’t be lifted. The walls of the shaft are nearly flush with the elevator compartment; only a few inches of space exist between the portcullises and the shaft walls.
+> 
+> All creatures trapped inside the elevator (including [unconscious](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#UnconsciousCondition) ones) must roll initiative. The compartment takes 1 round to reach the top of the shaft, stopping just beneath [area K47](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K47PortraitofStrahd "area K47"). Each creature inside has one turn to act before the compartment comes to a dead stop. Their initiative rolls determine the order in which the occupants act. Conscious party members can take whatever actions they like. They might search for a way out, wake sleeping party members, cast spells, or take other actions. [Unconscious](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#UnconsciousCondition) ones can do nothing.
+> 
+> A character who uses an action to search the ceiling of the elevator finds a secret trapdoor with a successful DC 10 Wisdom ([Perception](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)) check. The trapdoor opens downward.
+> 
+> Any creature on top of the elevator when it reaches the top of the shaft must make a successful DC 15 Dexterity saving throw to avoid being crushed against the ceiling of the shaft. The character takes 44 (8d10) bludgeoning damage on a failed save, or half as much damage on a successful one. When the elevator comes to a stop, its portcullises retract.
+> 
+> The elevator remains at the top of the shaft until the lever in [area K31](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K31Trapworks "area K31") is moved to the “down” position. When that happens, the trap resets in 1 round: the portcullises come down, and the elevator compartment descends to its place in the hallway at the bottom of the shaft as the stone block rises to the top of the shaft. When the elevator reaches the bottom, its portcullises rise again.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K61Development)Development
+> 
+> The sound of the elevator moving can be heard throughout the castle. Characters who are trapped or asleep in the elevator compartment are easy prey for Strahd, who can reach them by way of the trapdoor in [area K47](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K47PortraitofStrahd "area K47").
+> 
+
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K62ServantsHall
+> 
+> 
+> This hall stands in deadly silence. Heavy beams support a sagging, ten-foot-high ceiling. Fog clings to the floor, obscuring everything that lies less than three feet above it. A giant shadow lurches across the ceiling as a dark figure shuffles purposefully down the corridor toward you.
+> 
+> The figure approaching is Cyrus Belview, a [mongrelfolk](https://www.dndbeyond.com/monsters/17367-mongrelfolk) (see [appendix D](https://www.dndbeyond.com/sources/cos/appendix-d-monsters-and-npcs#Mongrelfolk "appendix D")) and Strahd’s faithful servant. He stands 4 feet, 9 inches tall but appears shorter because of his hunched posture. He has the Keen Hearing and Smell feature. The left side his face is covered with lizard scales, and he has the ears of a panther. His left foot looks like a duck’s webbed foot, and his arms have patches of black dog fur.
+> 
+> The light in the hall comes from a lantern on the floor behind Cyrus. If the characters have their own light sources, Cyrus sees them, but he will not attack first. He wears a loop of twine around his neck, hanging from which is an iron key and a decorative wooden pendant fitted with a varnished human eyeball. The key unlocks the iron chest in [area K60](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K60NorthTowerPeak "area K60"). The wooden pendant is a _hag eye_ given to Cyrus by the [night hag](https://www.dndbeyond.com/monsters/16965-night-hag) Morgantha (see [chapter 6](https://www.dndbeyond.com/sources/cos/old-bonegrinder "chapter 6")), so that she could spy on Strahd. Cyrus doesn’t know that the necklace is magical. See the “[Hag Covens](https://www.dndbeyond.com/sources/mm/monsters-h#HagCovens "Hag Covens")” sidebar in the hags entry in the [Monster Manual](https://www.dndbeyond.com/sources/mm "Monster Manual") for information about the _hag eye_.
+> 
+> [![](https://www.dndbeyond.com/attachments/thumbnails/1/741/400/512/cos04-16.png)](https://www.dndbeyond.com/attachments/1/741/cos04-16.png)
+> 
+> Cyrus Belview
+> 
+> Poor old Cyrus is obviously crazy. He has served the master for uncounted years and is devoted to him. Cyrus tries to get the characters to retire to their “room in the tower” ([area K49](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K49Lounge "area K49")). If the characters aren’t sure what room he is talking about, he offers to lead them there.
+> 
+> If the characters follow Cyrus, he tells them to stay close to him as he leads them through the south door to [area K61](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K61ElevatorTrap "area K61") and deliberately sets off the elevator trap there. Cyrus tries his best not to succumb to the sleeping gas as the elevator compartment climbs the shaft ([area K31](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K31Trapworks "area K31")), and he has advantage on the saving throw. Assuming he’s still conscious when the elevator compartment reaches the top of the shaft, Cyrus opens the trapdoor to [area K47](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K47PortraitofStrahd "area K47") and either leads the characters to [area K49](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K49Lounge "area K49") or, if they’re [unconscious](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#UnconsciousCondition), drags them there. After assuring characters who are conscious that “the master will be along shortly,” Cyrus then makes his way back downstairs to the kitchen ([area K65](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K65Kitchen "area K65")).
+> 
+> If the characters don’t go to their room, Cyrus shakes his head and returns to the work of preparing his dinner in [area K65](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K65Kitchen "area K65"). If the characters take his key, he screams, “The master will not be pleased!” and begins to moan and slap his head, obviously upset. A successful DC 10 Charisma ([Intimidation](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)) check is enough to make him divulge the key’s purpose, the location of the iron chest, and the chest’s contents.
+> 
+> When he isn’t being threatened, Cyrus giggles to himself from time to time for no clear reason. He also likes to tell poor jokes at the most inopportune moments.
+> 
+> Stairs at the east end of the north wall lead up to [area K23](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K23ServantsEntrance "area K23").
+> 
+> Along the east wall is a rusted but sturdy iron portcullis that bars the way to [area K63](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K63WineCellar "area K63"). (If the characters peer through the portcullis, read the boxed text for [area K63](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K63WineCellar "area K63").) The portcullis bars are 1 inch thick and spaced 4 inches apart. The portcullis can be lifted with a successful DC 20 Strength check.
+> 
+> The double doors at the west end of the hall are made of heavy planks banded with steel. They open into [area K67](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K67HallofBones "area K67").
+> 
+
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K63WineCellar
+> 
+> 
+> Arched frames of stone form a low, wet ceiling over this wine cellar. Great casks line the walls, their bands rusting and their contents long since spilled onto the floor. A few hungry rats make their home here, but upon your sudden arrival, they retreat to the shadows.
+> 
+> The rats are harmless. Cyrus Belview (see [area K62](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K62ServantsHall "area K62")) treats them like pets.
+> 
+> Characters who search the room find a crack at the southern end of the west wall. The crack is half an inch wide, 5 inches tall, and 12 inches deep; it leads to [area K18](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K18HighTowerStaircase "area K18").
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#WineCasks)Wine Casks
+> 
+> Each of the twelve large casks here rests on its side in a heavy wooden brace. Three casks stand against the north wall, six against the east wall, and three against the south wall. Decorative lettering is burned into the top of each cask, showing the winery name—the Wizard of Wines—and the name of the wine in the cask.
+> 
+> _**Northern Casks.**_ All three of these casks are rotted and empty. The wine’s name is Champagne du le Stomp.
+> 
+> _**Eastern Casks.**_ Five of these casks are rotted and empty. The wine name burned on each is Red Dragon Crush. Lining the interior of the sixth one is a patch of yellow mold (see “[Dungeon Hazards](https://www.dndbeyond.com/sources/dmg/adventure-environments#DungeonHazards "Dungeon Hazards")” in chapter 5, “Adventure Environments,” of the [Dungeon Master’s Guide](https://www.dndbeyond.com/sources/dmg "Dungeon Master’s Guide")). A character who inspects the cask closely and succeeds on a DC 13 Wisdom ([Perception](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)) check sees yellow mold in the cracks between the planks of the cask. If this cask is smashed open, the yellow mold releases a cloud of spores.
+> 
+> _**Southern Casks.**_ Two of these casks are rotted and empty. The wine name burned on each is Purple Grapemash No. 3. The middle one is home to a purplish [black pudding](https://www.dndbeyond.com/monsters/16808-black-pudding) that bursts forth if the cask is broken open.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K63FortunesofRavenloft)Fortunes of Ravenloft
+> 
+> If your card reading reveals that a treasure is here, it is inside one of the empty casks along the north wall, hidden there by Cyrus Belview.
+> 
+
 
 If joined, Sasha remains silent as she descends the staircase, passes through <span class="citation">K61. Elevator Trap (p. 74)</span>, and enters <span class="citation">K62. Servants' Hall (p. 76)</span>. (The elevator trap is currently deactivated and doesn’t trigger when Sasha walks through it.) If any player attempts to speak to her, Sasha merely holds up a finger and shakes her head before glancing at the floor overhead, a grim frown upon her face.
 
@@ -575,6 +755,26 @@ As smalltalk concludes in the <span class="citation">K8. Great Entry (p. 55)</sp
 The brides and Escher then turn to depart via <span class="citation">K21. South Tower Stair (p. 59)</span>.
 ## O5a. Into the Dining Hall
 <span class="citation"><em>This scene takes place in Chapter 4, Area K10.</em></span>
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K10DiningHall
+> 
+> 
+> The first time the characters enter this room, read:
+> 
+> Three enormous crystal chandeliers brilliantly illuminate this magnificent chamber. Pillars of stone stand against dull white marble walls, supporting the ceiling. In the center of the room, a long, heavy table is covered with a fine white satin cloth. The table is laden with many delectable foods: roasted beast basted in a savory sauce, roots and herbs of every taste, and sweet fruits and vegetables. Places are set for each of you with fine, delicate china and silver. At each place is a crystal goblet filled with an amber liquid with a delicate, tantalizing fragrance.
+> 
+> At the center of the far west wall, between floor-to-ceiling mirrors, stands a massive organ. Its pipes blare out a thunderous melody that speaks in its tone of greatness and despair. Seated at the organ, facing away from you, a single caped figure pounds the keys in raptured ecstasy. The figure suddenly stops, and as a deep silence falls over the dining hall, it slowly turns toward you.
+> 
+> The figure is an illusion of Strahd. It welcomes the characters and invites them to dine. The illusion acts like Strahd and plays the part of the gracious host, speaking kindly and telling the characters that they’re free to explore the castle. “Strahd” might talk about his family or shed light on the castle’s history, but the illusion provides no useful information about the castle’s inhabitants, treasures, or dangers other than to say that the castle doesn’t receive many guests. The illusory vampire converses with the characters for no more than 3 rounds, never moving from the organ bench. When the time is up, or if the illusion is attacked, it simply disappears with a mocking laugh.
+> 
+> The moment the figure disappears, a fierce, bone-chilling wind rises up and roars through the hall, putting out all open flames. The characters hear the screech of ancient hinges and the solid thud of many heavy doors slamming shut, one after another, into the distance. They also hear the portcullis clang shut and the tired groan of the aged drawbridge pulling up. Finally, unless the doors to this room are being held open, they slam shut (but do not lock). If the characters open the doors, they see that all the torches in areas K7, K8, and K9 have gone out.
+> 
+> The organ appears locked in place and immovable, but a character who makes a successful DC 20 Wisdom ([Perception](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)) check notices scratch marks on the floor that suggest that the organ can be slid outward. A character who tries pushing various keys and pedals discovers that one of the pedals, when depressed, causes the organ to slide outward about 2 feet, allowing access to a secret door in the back wall that swings open into area K11. Because this secret door is hidden behind the organ, it can’t be found and opened until the organ is moved out of the way.
+> 
+> The food on the table is tasty, the wine delicious.
+> 
+> [![](https://www.dndbeyond.com/attachments/thumbnails/1/729/850/630/cos04-04.png)](https://www.dndbeyond.com/attachments/1/729/cos04-04.png)
+> 
+
 
 The dining hall is largely as described in <span class="citation">K10. Dining Hall (p. 56)</span>. However, remove the last three sentences of this area’s description referring to the figure seated at the organ. In addition, move the first sentence of the second paragraph, referring to the floor-to-ceiling mirrors and the organ, immediately after the first sentence of the first paragraph.
 
@@ -639,12 +839,102 @@ After exiting the dining hall, Strahd leads the party on the following route:
 Before departing the Great Entry, Strahd encourages one or more of the players to take a torch from a sconce in the Guests’ Hall to light their way. “My eyes are well-adjusted to the shadows that lurk in these halls," he says wryly, “but a mobile source of light might be kinder to your own senses."
 ## O6a. Hall of Faith
 <span class="citation"><em>This scene takes place in Chapter 4, Area K14.</em></span>
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K14HallofFaith
+> 
+> 
+> This grand hall is choked with dust and stretches into darkness ahead. Webs hang from the arched ceiling like drapes, and life-sized statues of knights line the hallway on both sides, their eyes seeming to watch you.
+> 
+> The statues are harmless. Their moving eyes are a simple optical illusion.
+> 
+> Double doors stand at both ends of the hall. Above the doors leading to [area K15](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K15Chapel "area K15") hangs a symbol of beaten bronze that looks like a rising or setting sun.
+> 
+
 
 This area is as described in <span class="citation">K14. Hall of Faith (p. 57)</span>.
 
 As he guides the players through this area, Strahd shares that the castle was built over four centuries prior upon the ruins of a much older fortress, which lay atop the Pillarstone of Ravenloft. “I put out the call for mages, architects, and engineers from every corner of my conquests," he says fondly, “and from every corner, they came."
 ## O6b. Chapel
 <span class="citation"><em>This scene takes place in Chapter 4, Areas K15, K16, K17, K18, K19, and K28.</em></span>
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K15Chapel
+> 
+> 
+> Dim, colored light filters through tall, broken, and boarded-up windows of stained glass, illuminating the ancient chapel of Ravenloft. A few bats flutter about near the top of the ninety-foot-high domed ceiling. A balcony runs the length of the west wall, fifty feet above the floor. In the center of the balcony, two dark shapes are slumped in tall chairs.
+> 
+> Benches coated with centuries of dust lie about the floor in jumbled disarray. Beyond this debris, lit by a piercing shaft of light, an altar stands upon a stone platform. The sides of the altar are carved with bas-reliefs of angelic figures entwined with grape vines. The light from above falls directly on a silver statuette. A cloaked figure is draped over the altar, and a black mace lies on the floor near its feet.
+> 
+> The figure slumped on the altar is all that remains of Gustav Herrenghast, a lawful evil human cleric who tried to obtain the [Icon of Ravenloft](https://www.dndbeyond.com/magic-items/5530-icon-of-ravenloft) and did not survive the attempt. See “Treasure” below for more information on the icon and Gustav’s possessions.
+> 
+> A sculpted stone railing cordons off the upstairs balcony, which is described in [area K28](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K28KingsBalcony "area K28").
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K15Treasure)Treasure
+> 
+> The statuette on the altar is an artifact called the [Icon of Ravenloft](https://www.dndbeyond.com/magic-items/5530-icon-of-ravenloft) (see [appendix C](https://www.dndbeyond.com/sources/cos/appendix-c-treasures#IconofRavenloft "appendix C")). Any evil creature that touches the statuette must make a DC 17 Constitution saving throw, taking 88 (16d10) radiant damage on a failed save, or half as much damage on a successful one. The statuette is safe for all creatures to handle once it is no longer in contact with the altar.
+> 
+> Gustav’s corpse wears a handsome, fur-lined black cloak embroidered with golden thread (worth 250 gp) and a suit of [chain mail](https://www.dndbeyond.com/equipment/16-chain-mail), both nonmagical. Gustav’s black mace is a [mace of terror](https://www.dndbeyond.com/magic-items/4672-mace-of-terror).
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#FortunesofRavenloft2)Fortunes of Ravenloft
+> 
+> If your card reading reveals that a treasure is here, it lies on the floor behind the altar.
+> 
+> If your card reading indicates an encounter with [Strahd](https://www.dndbeyond.com/monsters/17374-strahd-von-zarovich) in this area, he is among the bats fluttering below the ceiling or he is standing at one end of the chapel—a dark shape in the vast hall.
+> 
+
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K16NorthChapelAccess
+> 
+> 
+> This arched room connects a vast chamber to the east and a staircase that rises to the west. Alcoves in the north and south walls hold eight-foot-tall sculptures of helmed knights with muscular builds. Black shadows fall across their faces.
+> 
+> The statues are harmless. The vast chamber to the east is the chapel ([area K15](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K15Chapel "area K15")). The staircase to the west is described in [area K29](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K29CreakyLanding "area K29").
+> 
+
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K17SouthChapelAccess
+> 
+> 
+> This arched room connects a vast chamber to the east and the landing of a staircase to the west. To the left of the landing, the stairs curl down into darkness. To the right, the stairs climb into thick drapes of cobwebs. Alcoves in the north and south walls hold eight-foot-tall sculptures of helmed knights with bright blades. Black shadows obscure their faces.
+> 
+> The statues are harmless. The vast chamber to the east is the chapel ([area K15](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K15Chapel "area K15")). The staircase to the west is described in area K18.
+> 
+
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K18HighTowerStaircase
+> 
+> 
+> The large flagstones of this spiraling staircase lead up and down around a twenty-foot-wide stone core. Cobwebs fill the staircase, making it difficult to see even the ceiling. Heavy beams sag overhead from centuries of supporting weight.
+> 
+> The staircase starts at [area K84](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K84Catacombs "area K84") and spirals upward around a central shaft ([area K18a](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K18aHighTowerShaft "area K18a")), climbing 300 feet to the top of the high tower ([area K59](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K59HighTowerPeak "area K59")).
+> 
+> A recently constructed masonry wall blocks the staircase 10 feet below the landing west of area K17. A chink in this wall allows gas (or a vampire in gaseous form) to pass from one side of the wall to the other. A character who inspects the wall closely can spot the chink with a successful DC 10 Wisdom ([Perception](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)) check. The wall is too sturdy for characters to knock down, but they can create a hole wide enough to crawl through in 1 hour, or reduce the entire wall to a pile of masonry bricks and rubble in 2 hours.
+> 
+> Thirty feet below the masonry wall and 50 feet above the foot of the steps, a small crack has formed in the outer wall of the stairwell. The crack is 1/2 inch wide, 5 inches tall, and 12 inches deep; it leads to the castle’s wine cellar ([area K63](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K63WineCellar "area K63")). Characters can notice the crack automatically as they climb or descend the stairs. Widening the crack enough to squeeze through the wall requires major excavation and would take several days.
+> 
+> The shaft that these stairs wrap around ([area K18a](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K18aHighTowerShaft "area K18a")) runs vertically from [area K59](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K59HighTowerPeak "area K59") to [area K84](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K84Catacombs "area K84") without any holes or obstructions. The inner wall of the stairwell, between the staircase and the shaft, is solid.
+> 
+
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K19GrandLanding
+> 
+> 
+> Massive stairs rise to a landing twenty feet wide by forty feet long. Stone arches support a ceiling covered with frescoes twenty feet overhead. The frescoes depict armored knights on horseback, their finer features faded beyond recognition.
+> 
+> Dust floats in the air here. At each end of the south wall, a staircase rises into darkness. Between the staircases are twin alcoves, each one containing a standing suit of armor covered with dark stains. Each suit of armor clutches a mace, the “business end” of which is shaped like a dragon’s head. Words engraved on the arches above the suits of armor have been scratched out.
+> 
+> Both staircases on the south wall climb to [area K25](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K25AudienceHall "area K25"). The massive stairs lead down to [area K8](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K8GreatEntry "area K8"). Anyone who crosses in front of the alcoves along the south wall activates the suits of armor.
+> 
+> Both suits of armor are mechanical traps, each one activated by a pressure plate hidden in the floor in front of its alcove. A character who searches for traps in one of these locations notices both pressure plates with a successful DC 15 Wisdom ([Perception](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)) check.
+> 
+> When 40 or more pounds of weight are placed on a pressure plate, the suit of armor nearest to that plate springs forward, flailing its arms and wielding its mace. Any creature standing on a pressure plate when its trap triggers must succeed on a DC 14 Dexterity saving throw or take 7 (2d6) bludgeoning damage from the flailing armor. After leaping out and attacking, the armor retracts. The pressure plate resets after 1 minute, after which its armor trap can be triggered again.
+> 
+> The suits of armor act much like metal puppets—a little joke intended to spook visitors more than damage them. A pressure plate can be disabled by a character who uses thieves’ tools and makes a successful DC 15 Dexterity check. A trap can also be disabled by destroying its suit of armor, which has AC 18, 5 hit points, and immunity to psychic and poison damage.
+> 
+
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K28KingsBalcony
+> 
+> 
+> A sculpted stone railing encloses this long balcony, which overlooks Ravenloft’s chapel. Two ornate thrones stand side by side in the center of the balcony, covered with dust and strung with cobwebs. The thrones face away from the double doors that give access to the balcony.
+> 
+> Two [Strahd zombies](https://www.dndbeyond.com/monsters/17375-strahd-zombie) (see [appendix D](https://www.dndbeyond.com/sources/cos/appendix-d-monsters-and-npcs#StrahdZombie "appendix D")) are slouched on the thrones. They remain motionless until one of them is disturbed or another creature comes within a zombie’s reach, whereupon they attack.
+> 
+> The balcony is 50 feet above the floor of the chapel ([area K15](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K15Chapel "area K15")). A staircase north of the double doors leads down to [area K29](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K29CreakyLanding "area K29").
+> 
+
 
 This area is largely as described in <span class="citation">K15. Chapel (p. 57)</span>, <span class="citation">K16. North Chapel Access (p. 58)</span>, <span class="citation">K17. South Chapel Access (p. 58)</span>, <span class="citation">K18. High Tower Staircase (p. 58)</span>, <span class="citation">K29. Creaky Landing (p. 62)</span>, and <span class="citation">K28. King’s Balcony (p. 62)</span>. 
 
@@ -657,6 +947,32 @@ Strahd is clearly amused by any players who declare faith in a deity or religion
 When the topic has been exhausted, Strahd guides the players through  <span class="citation">K16. North Chapel Access (p. 58)</span>, up the stairs past <span class="citation">K29. Creaky Landing (p. 62)</span>, and past <span class="citation">K28. King’s Balcony (p. 62)</span> into <span class="citation">K27. King’s Hall (p. 61)</span>.
 ## O6c. King’s Hall
 <span class="citation"><em>This scene takes place in Chapter 4, Area K27.</em></span>
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K27KingsHall
+> 
+> 
+> This twenty-foot-high hall has a dark, vaulted ceiling draped with cobwebs. A low moan seems to travel the length of the corridor as it rises and falls, intoning sadness and despair.
+> 
+> The moaning is only the wind.
+> 
+> Characters who examine the ceiling can, with a successful DC 20 Wisdom ([Perception](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)) check, spot pulleys and a rope that run the full length of the corridor along the ceiling, well hidden by the cobwebs. These items are explained in “Flight of the Vampire” below.
+> 
+> Halfway down the hall on the south side is a narrow secret door that can be pulled open to reveal [area K31](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K31Trapworks "area K31").
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#FlightoftheVampire)Flight of the Vampire
+> 
+> Hidden in a compartment above the western set of double doors is a dressed wooden mannequin that looks exactly like Strahd. It wears a black cloak, its fangs are bared, and its arms and clawed fingers are outstretched in a threatening manner. The mannequin is attached to a rope that runs through pulleys fastened along the length of the hallway ceiling.
+> 
+> When one or more characters reach the midpoint of the hall from either direction, read:
+> 
+> You hear a scraping sound of stone against stone, followed by the squeaking of a bat. In the direction of the noise, you see the fanged visage, outstretched claws, and flapping black cape of a vampire bearing down on you from above! A deep, throaty chuckle fills the hall.
+> 
+> The scraping noise is the sound of the hidden compartment opening, and the squeaking is the sound of the pulleys supporting the weight of the mannequin as it glides through the air. The chuckling is a harmless magical effect similar to that created by a [prestidigitation](https://www.dndbeyond.com/spells/2213-prestidigitation) cantrip.
+> 
+> Have the players roll initiative, and run this as a combat encounter with the “vampire” acting on initiative count 5. On its turn, the mannequin flies over the characters, 10 feet above the floor, and doesn’t stop until it reaches the east end of the hall. On its next turn, it reverses direction and flies back to its compartment. The trap resets after 1 minute.
+> 
+> A character who attacks the mannequin from the floor needs a range of at least 10 feet. The mannequin has AC 15 and 10 hit points, and it is immune to poison and psychic damage. If the mannequin is reduced to 0 hit points while in the air, it falls to the floor.
+> 
+
 
 This area is largely as described in <span class="citation">K27. King’s Hall (p. 61)</span>. However, this room now contains the tapestry described in <span class="citation">K83a. Spiral Stair Landing (p. 85)</span>, which is located midway along the corridor's south wall, covering the secret door that leads to <span class="citation">K31. Trapworks (p. 63)</span>. Add the description of that tapestry to the end of this area’s description.
 
@@ -669,6 +985,24 @@ Strahd can share that the tapestry depicts his father, King Barov, leading his f
 When the topic has been exhausted, Strahd guides the players through <span class="citation">K26. Guards' Post (p. 61)</span> into <span class="citation">K25. Audience Hall (p. 61)</span>.
 ## O6d. Audience Hall
 <span class="citation"><em>This scene takes place in Chapter 4, Area K25.</em></span>
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K25AudienceHall
+> 
+> 
+> Dim light from the courtyard falls into this great hall through the broken glass and iron latticework of a large window in the west wall. This immense room is a place of chilly, brooding darkness. Empty iron sconces dot the walls. Hundreds of dust-laden cobwebs drape the hall, hiding the ceiling from view. Directly across from the window stand a set of double doors in the east wall. Farther south, a single door also leads from the east wall. Staircases at both ends of the north wall lead down.
+> 
+> At the far southern end of the hall, a large wooden throne stands atop a marble dais. The high-backed throne faces south, away from most of the room.
+> 
+> A secret door in the south wall leads to [area K13](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K13TurretPostAccessHall "area K13"). It is hidden by dust and cobwebs, and requires a successful DC 16 Wisdom ([Perception](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)) check to find.
+> 
+> Both staircases in the north wall lead down to [area K19](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K19GrandLanding "area K19"). The eastern double doors can be pulled open to reveal area K26 beyond. The single door in the east wall opens into [area K30](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K30KingsAccountant "area K30").
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K30FortunesofRavenloft)Fortunes of Ravenloft
+> 
+> If your card reading reveals that a treasure is here, it lies on the marble dais, just behind the throne.
+> 
+> If your card reading indicates an encounter with [Strahd](https://www.dndbeyond.com/monsters/17374-strahd-von-zarovich) in this area, he is sitting on the wooden throne.
+> 
+
 
 This area is largely as described in <span class="citation">K25. Audience Hall (p. 61)</span>. However, revise the first sentence of this area’s description as follows:
 
@@ -687,6 +1021,16 @@ If any player asks why the throne is turned away from the rest of the room, Stra
 A player following Sasha’s instructions can open the secret door behind the pipe organ described in <span class="citation">K10. Dining Hall (p. 56)</span> by pressing the sixth pedal from the left on the organ. 
 ### South Archers' Post
 <span class="citation"><em>This scene takes place in Chapter 4, Area K11.</em></span>
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K11SouthArchersPost
+> 
+> 
+> The castle courtyard is visible through arrow slits in the north and west walls. Leaning against the walls are mirrors of various sizes, some as tall as a human and others small enough to fit in a backpack.
+> 
+> Each arrow slit is 2½ feet tall and 4 inches wide. The framed mirrors (seventeen in all) used to hang on various walls of the castle. Strahd had them taken down and stored here.
+> 
+> A secret door in the east wall can be pulled open to reveal the back of the pipe organ in [area K10](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K10DiningHall "area K10"). Characters can’t pass through the secret door while the organ is blocking it, and the organ can’t be moved from this side.
+> 
+
 
 This area is as described in <span class="citation">K11. South Archers' Post (p. 57)</span>. If Sasha instructed a player to meet her here, she begins clinging to the ceiling immediately above the entryway. As the player enters, she descends from the shadows behind them and whispers fiercely, “Were you followed?", revealing herself only if provided sufficient assurances.
 
@@ -892,6 +1236,46 @@ If Escher is the players' guide, he is curt and visibly slouching as he shows th
 # O7. The Guest Suite
 ## O7a. Settling In
 <span class="citation"><em>This scene takes place in Chapter 4, Areas K47 and K49.</em></span>
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K47PortraitofStrahd
+> 
+> 
+> You come to a dark landing ten feet wide and twenty feet long. A cold draft of wind rushes down the spiral staircase at the north end of the east wall and whistles mournfully through the room before streaming down the stairs to the south.
+> 
+> An ornate, square rug covers the floor to the south. Set into the west wall is an ironbound wooden door with a wooden trapdoor set into the floor in front of it. Hanging on the north wall above the trapdoor is a framed portrait of a handsome, well-dressed man with a serene yet penetrating gaze.
+> 
+> [![](https://www.dndbeyond.com/attachments/thumbnails/1/736/350/477/cos04-11.png)](https://www.dndbeyond.com/attachments/1/736/cos04-11.png)
+> 
+> The ornate rug is actually a [rug of smothering](https://www.dndbeyond.com/monsters/17000-rug-of-smothering). It attacks creatures, other than undead, that move across it or anyone who tries to move it or otherwise disturb it. Underneath the rug is a bare stone floor.
+> 
+> The wooden, square trapdoor is 4 feet on a side and as thick as the floor, with recessed iron hinges and an iron ring built into the side opposite the hinges. Pulling up on the ring opens the door. Below the trapdoor, characters see one of two things: either a 170-foot-deep shaft ([area K31a](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K31aElevatorShaft "area K31a")) or, if the elevator trap has been activated (see [area K61](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K61ElevatorTrap "area K61")), a stone elevator compartment with a secret hatch in its top.
+> 
+> The portrait on the wall depicts Strahd von Zarovich before he became a vampire. Even in life, he was pale. The eyes of the portrait seem to watch and follow the characters as they explore the area. The picture frame is bolted to the wall and can’t be removed without destroying it.
+> 
+> If the characters attack the rug or the picture, or if they attempt to remove either item, the [guardian portrait](https://www.dndbeyond.com/monsters/17359-guardian-portrait) (see [appendix D](https://www.dndbeyond.com/sources/cos/appendix-d-monsters-and-npcs "appendix D")) attacks.
+> 
+
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K49Lounge
+> 
+> 
+> As thunder shakes the tower, heavy beams groan under the weight of the ceiling. Three ornate lanterns hang by chains from these beams, each casting a dim glow. The curved west wall is fitted with three windows of leaded glass in steel latticework. A bookcase sits on the east wall between two doors. Plush, overstuffed chairs and couches are placed about the room. The fabric has faded with age, and the patterns it depicts are nearly gone. Lounging on one couch is a handsome young man whose attire, while elegant, is worn and faded.
+> 
+> The youthful man on the couch is Escher, a dashing [vampire spawn](https://www.dndbeyond.com/monsters/17044-vampire-spawn) to whom Strahd has shown favor in the past. Escher is feeling somewhat neglected of late and has retreated here until Strahd’s mood improves. If attacked, he hurls himself out the window and lands like a cat on the roof of the keep ([area K53](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K53Rooftop "area K53")). He leads pursuers right to Strahd, wherever the lord of the castle happens to be (and regardless of whether the characters are ready to face Strahd).
+> 
+> [![](https://www.dndbeyond.com/attachments/thumbnails/1/745/420/459/cos04-20.png)](https://www.dndbeyond.com/attachments/1/745/cos04-20.png)
+> 
+> Escher and the Three Brides
+> 
+> In conversation, Escher displays wit with a hint of melancholy. Beneath his arch mood is a dread that Strahd is growing bored of him and will lock him in the catacombs ([area K84](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K84Catacombs "area K84")) with Strahd’s other castoff consorts.
+> 
+> The leaded windows are fitted with iron hinges and can be opened. They can be locked from the inside, though they are currently unlocked. The leaded glass doesn’t allow for much of a view. If a character opens a window and leaves it open, there’s a 50 percent chance that a [vampire spawn](https://www.dndbeyond.com/monsters/17044-vampire-spawn) crawling around the outside wall of the tower notices the open window and investigates.
+> 
+> The books in the bookcase have no value and aren’t much help to the characters. Some of the titles found on the bookshelf include _Embalming: The Lost Art_, _Life Among the Undead: Learning to Cope_, _Castle Building 101_, and _Goats of the Balinok Mountains_.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K49Treasure)Treasure
+> 
+> On the third finger of his left hand, Escher wears a platinum ring engraved with tiny roses and thorns (worth 150 gp). Around his neck, he wears a gold and ruby pendant (worth 750 gp).
+> 
+
 
 The landing at the top of <span class="citation">K21. South Tower Stair (p. 59)</span> is largely as described in <span class="citation">K47. Portrait of Strahd (p. 68)</span>. However, neither the **rug of smothering** nor **guardian portrait** attacks the players for the duration of their stay at Ravenloft.
 ### Escher's Jealousy
@@ -947,6 +1331,46 @@ Before departing, Rahadin also produces a key from his pocket, which he uses to 
 > Unless a wandering player has made special effort to conceal their tracks, Rahadin swiftly tracks them down, locating them the first time (1) the player is reduced to 15 hit points or fewer in a combat encounter or (2) the player re-enters <span class="citation">K21. South Tower Stair (p. 59)</span> after exiting it.
 ## O7b. Settling Down
 <span class="citation"><em>This scene takes place in Chapter 4, Areas K49, K50, and K51.</em></span>
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K49Lounge
+> 
+> 
+> As thunder shakes the tower, heavy beams groan under the weight of the ceiling. Three ornate lanterns hang by chains from these beams, each casting a dim glow. The curved west wall is fitted with three windows of leaded glass in steel latticework. A bookcase sits on the east wall between two doors. Plush, overstuffed chairs and couches are placed about the room. The fabric has faded with age, and the patterns it depicts are nearly gone. Lounging on one couch is a handsome young man whose attire, while elegant, is worn and faded.
+> 
+> The youthful man on the couch is Escher, a dashing [vampire spawn](https://www.dndbeyond.com/monsters/17044-vampire-spawn) to whom Strahd has shown favor in the past. Escher is feeling somewhat neglected of late and has retreated here until Strahd’s mood improves. If attacked, he hurls himself out the window and lands like a cat on the roof of the keep ([area K53](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K53Rooftop "area K53")). He leads pursuers right to Strahd, wherever the lord of the castle happens to be (and regardless of whether the characters are ready to face Strahd).
+> 
+> [![](https://www.dndbeyond.com/attachments/thumbnails/1/745/420/459/cos04-20.png)](https://www.dndbeyond.com/attachments/1/745/cos04-20.png)
+> 
+> Escher and the Three Brides
+> 
+> In conversation, Escher displays wit with a hint of melancholy. Beneath his arch mood is a dread that Strahd is growing bored of him and will lock him in the catacombs ([area K84](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K84Catacombs "area K84")) with Strahd’s other castoff consorts.
+> 
+> The leaded windows are fitted with iron hinges and can be opened. They can be locked from the inside, though they are currently unlocked. The leaded glass doesn’t allow for much of a view. If a character opens a window and leaves it open, there’s a 50 percent chance that a [vampire spawn](https://www.dndbeyond.com/monsters/17044-vampire-spawn) crawling around the outside wall of the tower notices the open window and investigates.
+> 
+> The books in the bookcase have no value and aren’t much help to the characters. Some of the titles found on the bookshelf include _Embalming: The Lost Art_, _Life Among the Undead: Learning to Cope_, _Castle Building 101_, and _Goats of the Balinok Mountains_.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K49Treasure)Treasure
+> 
+> On the third finger of his left hand, Escher wears a platinum ring engraved with tiny roses and thorns (worth 150 gp). Around his neck, he wears a gold and ruby pendant (worth 750 gp).
+> 
+
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K50GuestRoom
+> 
+> 
+> A large bed sits in the center of this room, its four corner posts supporting a black canopy trimmed with gold tassels. Several comfortable divans are placed about the room. There is a banded door in the west wall and a smaller unbanded door in the east wall.
+> 
+> There is no danger in this area during the day. But if the characters try to take a short rest here during the night, the rest is interrupted by the arrival of 1d4 [Barovian witches](https://www.dndbeyond.com/monsters/17362-barovian-witch) from [area K56](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K56Cauldron "area K56"). They try to subdue the party with [sleep](https://www.dndbeyond.com/spells/2254-sleep) spells. A witch retreats to [area K56](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K56Cauldron "area K56") if wounded.
+> 
+
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K51Closet
+> 
+> 
+> This small, wood-paneled room reeks of mildew and has a ten-foot-high ceiling. Iron hooks line the walls, and a dusty black cloak hangs from one hook in the center of the south wall.
+> 
+> The cloak is ordinary. The witches in [area K56](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K56Cauldron "area K56") placed it here to help them remember which hook opens the secret trapdoor in the ceiling.
+> 
+> The trapdoor can be found after a search of the room and a successful DC 13 Wisdom ([Perception](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)) check. Locating the trapdoor doesn’t enable someone to discover its opening mechanism. The door has a hidden lock and can be opened by pulling down on the hook from which the black cloak hangs. Once it has been found, the trapdoor can be opened by pulling on the hook, or it can be unlocked by someone using thieves’ tools, a [knock](https://www.dndbeyond.com/spells/2162-knock) spell, or similar magic. It swings down when unlocked.
+> 
+
 
 The guest suite is largely as described in <span class="citation">K49. Lounge (p. 70)</span>, <span class="citation">K50. Guest Room (p. 70)</span>, and <span class="citation">K51. Closet (p. 70)</span>. However:
 
@@ -973,6 +1397,46 @@ Varushka's Nightmare exists across five near-identical copies of the Ravenloft g
 > Upon entering the Nightmare, the players retain their current hit points, spell slots, and equipment from the physical world. However, any hit points, hit dice, spell slots, consumable magic items, or magical item charges they spend within the Nightmare aren't spent in the physical world, and are returned when the players awaken.
 ## O8a. The First Level
 <span class="citation"><em>This scene takes place in Chapter 4, Areas K49, K50, and K51.</em></span>
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K49Lounge
+> 
+> 
+> As thunder shakes the tower, heavy beams groan under the weight of the ceiling. Three ornate lanterns hang by chains from these beams, each casting a dim glow. The curved west wall is fitted with three windows of leaded glass in steel latticework. A bookcase sits on the east wall between two doors. Plush, overstuffed chairs and couches are placed about the room. The fabric has faded with age, and the patterns it depicts are nearly gone. Lounging on one couch is a handsome young man whose attire, while elegant, is worn and faded.
+> 
+> The youthful man on the couch is Escher, a dashing [vampire spawn](https://www.dndbeyond.com/monsters/17044-vampire-spawn) to whom Strahd has shown favor in the past. Escher is feeling somewhat neglected of late and has retreated here until Strahd’s mood improves. If attacked, he hurls himself out the window and lands like a cat on the roof of the keep ([area K53](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K53Rooftop "area K53")). He leads pursuers right to Strahd, wherever the lord of the castle happens to be (and regardless of whether the characters are ready to face Strahd).
+> 
+> [![](https://www.dndbeyond.com/attachments/thumbnails/1/745/420/459/cos04-20.png)](https://www.dndbeyond.com/attachments/1/745/cos04-20.png)
+> 
+> Escher and the Three Brides
+> 
+> In conversation, Escher displays wit with a hint of melancholy. Beneath his arch mood is a dread that Strahd is growing bored of him and will lock him in the catacombs ([area K84](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K84Catacombs "area K84")) with Strahd’s other castoff consorts.
+> 
+> The leaded windows are fitted with iron hinges and can be opened. They can be locked from the inside, though they are currently unlocked. The leaded glass doesn’t allow for much of a view. If a character opens a window and leaves it open, there’s a 50 percent chance that a [vampire spawn](https://www.dndbeyond.com/monsters/17044-vampire-spawn) crawling around the outside wall of the tower notices the open window and investigates.
+> 
+> The books in the bookcase have no value and aren’t much help to the characters. Some of the titles found on the bookshelf include _Embalming: The Lost Art_, _Life Among the Undead: Learning to Cope_, _Castle Building 101_, and _Goats of the Balinok Mountains_.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K49Treasure)Treasure
+> 
+> On the third finger of his left hand, Escher wears a platinum ring engraved with tiny roses and thorns (worth 150 gp). Around his neck, he wears a gold and ruby pendant (worth 750 gp).
+> 
+
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K50GuestRoom
+> 
+> 
+> A large bed sits in the center of this room, its four corner posts supporting a black canopy trimmed with gold tassels. Several comfortable divans are placed about the room. There is a banded door in the west wall and a smaller unbanded door in the east wall.
+> 
+> There is no danger in this area during the day. But if the characters try to take a short rest here during the night, the rest is interrupted by the arrival of 1d4 [Barovian witches](https://www.dndbeyond.com/monsters/17362-barovian-witch) from [area K56](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K56Cauldron "area K56"). They try to subdue the party with [sleep](https://www.dndbeyond.com/spells/2254-sleep) spells. A witch retreats to [area K56](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K56Cauldron "area K56") if wounded.
+> 
+
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K51Closet
+> 
+> 
+> This small, wood-paneled room reeks of mildew and has a ten-foot-high ceiling. Iron hooks line the walls, and a dusty black cloak hangs from one hook in the center of the south wall.
+> 
+> The cloak is ordinary. The witches in [area K56](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K56Cauldron "area K56") placed it here to help them remember which hook opens the secret trapdoor in the ceiling.
+> 
+> The trapdoor can be found after a search of the room and a successful DC 13 Wisdom ([Perception](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)) check. Locating the trapdoor doesn’t enable someone to discover its opening mechanism. The door has a hidden lock and can be opened by pulling down on the hook from which the black cloak hangs. Once it has been found, the trapdoor can be opened by pulling on the hook, or it can be unlocked by someone using thieves’ tools, a [knock](https://www.dndbeyond.com/spells/2162-knock) spell, or similar magic. It swings down when unlocked.
+> 
+
 
 This area is largely as described in <span class="citation">K49. Lounge (p. 70)</span>, <span class="citation">K50. Guest Room (p. 70)</span>, and <span class="citation">K51. Closet (p. 70)</span>.
 
@@ -1023,6 +1487,46 @@ If a player investigates the door in the lounge that exits into <span class="cit
 > Players are able to descend to previous levels if they choose to do so, until they find the ornate golden key in [[#O8f. The Bloody Keep]]. Once they do, any attempts to descend to a previous level will return them to [[#O8a. The First Level]].
 ## O8b. The Second Level
 <span class="citation"><em>This scene takes place in Chapter 4, Areas K49, K50, and K51.</em></span>
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K49Lounge
+> 
+> 
+> As thunder shakes the tower, heavy beams groan under the weight of the ceiling. Three ornate lanterns hang by chains from these beams, each casting a dim glow. The curved west wall is fitted with three windows of leaded glass in steel latticework. A bookcase sits on the east wall between two doors. Plush, overstuffed chairs and couches are placed about the room. The fabric has faded with age, and the patterns it depicts are nearly gone. Lounging on one couch is a handsome young man whose attire, while elegant, is worn and faded.
+> 
+> The youthful man on the couch is Escher, a dashing [vampire spawn](https://www.dndbeyond.com/monsters/17044-vampire-spawn) to whom Strahd has shown favor in the past. Escher is feeling somewhat neglected of late and has retreated here until Strahd’s mood improves. If attacked, he hurls himself out the window and lands like a cat on the roof of the keep ([area K53](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K53Rooftop "area K53")). He leads pursuers right to Strahd, wherever the lord of the castle happens to be (and regardless of whether the characters are ready to face Strahd).
+> 
+> [![](https://www.dndbeyond.com/attachments/thumbnails/1/745/420/459/cos04-20.png)](https://www.dndbeyond.com/attachments/1/745/cos04-20.png)
+> 
+> Escher and the Three Brides
+> 
+> In conversation, Escher displays wit with a hint of melancholy. Beneath his arch mood is a dread that Strahd is growing bored of him and will lock him in the catacombs ([area K84](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K84Catacombs "area K84")) with Strahd’s other castoff consorts.
+> 
+> The leaded windows are fitted with iron hinges and can be opened. They can be locked from the inside, though they are currently unlocked. The leaded glass doesn’t allow for much of a view. If a character opens a window and leaves it open, there’s a 50 percent chance that a [vampire spawn](https://www.dndbeyond.com/monsters/17044-vampire-spawn) crawling around the outside wall of the tower notices the open window and investigates.
+> 
+> The books in the bookcase have no value and aren’t much help to the characters. Some of the titles found on the bookshelf include _Embalming: The Lost Art_, _Life Among the Undead: Learning to Cope_, _Castle Building 101_, and _Goats of the Balinok Mountains_.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K49Treasure)Treasure
+> 
+> On the third finger of his left hand, Escher wears a platinum ring engraved with tiny roses and thorns (worth 150 gp). Around his neck, he wears a gold and ruby pendant (worth 750 gp).
+> 
+
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K50GuestRoom
+> 
+> 
+> A large bed sits in the center of this room, its four corner posts supporting a black canopy trimmed with gold tassels. Several comfortable divans are placed about the room. There is a banded door in the west wall and a smaller unbanded door in the east wall.
+> 
+> There is no danger in this area during the day. But if the characters try to take a short rest here during the night, the rest is interrupted by the arrival of 1d4 [Barovian witches](https://www.dndbeyond.com/monsters/17362-barovian-witch) from [area K56](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K56Cauldron "area K56"). They try to subdue the party with [sleep](https://www.dndbeyond.com/spells/2254-sleep) spells. A witch retreats to [area K56](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K56Cauldron "area K56") if wounded.
+> 
+
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K51Closet
+> 
+> 
+> This small, wood-paneled room reeks of mildew and has a ten-foot-high ceiling. Iron hooks line the walls, and a dusty black cloak hangs from one hook in the center of the south wall.
+> 
+> The cloak is ordinary. The witches in [area K56](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K56Cauldron "area K56") placed it here to help them remember which hook opens the secret trapdoor in the ceiling.
+> 
+> The trapdoor can be found after a search of the room and a successful DC 13 Wisdom ([Perception](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)) check. Locating the trapdoor doesn’t enable someone to discover its opening mechanism. The door has a hidden lock and can be opened by pulling down on the hook from which the black cloak hangs. Once it has been found, the trapdoor can be opened by pulling on the hook, or it can be unlocked by someone using thieves’ tools, a [knock](https://www.dndbeyond.com/spells/2162-knock) spell, or similar magic. It swings down when unlocked.
+> 
+
 
 This area is largely as described in <span class="citation">K49. Lounge (p. 70)</span>, <span class="citation">K50. Guest Room (p. 70)</span>, and <span class="citation">K51. Closet (p. 70)</span>. However, this level looks slightly less run-down and grimy than the first level. In addition, the door leading to <span class="citation">K49. Lounge (p. 70)</span> lacks the ornate gold lock from [[#O8a. The First Level]].
 
@@ -1064,6 +1568,46 @@ When the players successfully reach and open the trapdoor, Ismark bids them fare
 A player who ascends through the trapdoor emerges in <span class="citation">K47. Portrait of Strahd (p. 68)</span> in the corresponding section of [[#O8c. The Third Level]].
 ## O8c. The Third Level
 <span class="citation"><em>This scene takes place in Chapter 4, Areas K49, K50, and K51.</em></span>
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K49Lounge
+> 
+> 
+> As thunder shakes the tower, heavy beams groan under the weight of the ceiling. Three ornate lanterns hang by chains from these beams, each casting a dim glow. The curved west wall is fitted with three windows of leaded glass in steel latticework. A bookcase sits on the east wall between two doors. Plush, overstuffed chairs and couches are placed about the room. The fabric has faded with age, and the patterns it depicts are nearly gone. Lounging on one couch is a handsome young man whose attire, while elegant, is worn and faded.
+> 
+> The youthful man on the couch is Escher, a dashing [vampire spawn](https://www.dndbeyond.com/monsters/17044-vampire-spawn) to whom Strahd has shown favor in the past. Escher is feeling somewhat neglected of late and has retreated here until Strahd’s mood improves. If attacked, he hurls himself out the window and lands like a cat on the roof of the keep ([area K53](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K53Rooftop "area K53")). He leads pursuers right to Strahd, wherever the lord of the castle happens to be (and regardless of whether the characters are ready to face Strahd).
+> 
+> [![](https://www.dndbeyond.com/attachments/thumbnails/1/745/420/459/cos04-20.png)](https://www.dndbeyond.com/attachments/1/745/cos04-20.png)
+> 
+> Escher and the Three Brides
+> 
+> In conversation, Escher displays wit with a hint of melancholy. Beneath his arch mood is a dread that Strahd is growing bored of him and will lock him in the catacombs ([area K84](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K84Catacombs "area K84")) with Strahd’s other castoff consorts.
+> 
+> The leaded windows are fitted with iron hinges and can be opened. They can be locked from the inside, though they are currently unlocked. The leaded glass doesn’t allow for much of a view. If a character opens a window and leaves it open, there’s a 50 percent chance that a [vampire spawn](https://www.dndbeyond.com/monsters/17044-vampire-spawn) crawling around the outside wall of the tower notices the open window and investigates.
+> 
+> The books in the bookcase have no value and aren’t much help to the characters. Some of the titles found on the bookshelf include _Embalming: The Lost Art_, _Life Among the Undead: Learning to Cope_, _Castle Building 101_, and _Goats of the Balinok Mountains_.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K49Treasure)Treasure
+> 
+> On the third finger of his left hand, Escher wears a platinum ring engraved with tiny roses and thorns (worth 150 gp). Around his neck, he wears a gold and ruby pendant (worth 750 gp).
+> 
+
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K50GuestRoom
+> 
+> 
+> A large bed sits in the center of this room, its four corner posts supporting a black canopy trimmed with gold tassels. Several comfortable divans are placed about the room. There is a banded door in the west wall and a smaller unbanded door in the east wall.
+> 
+> There is no danger in this area during the day. But if the characters try to take a short rest here during the night, the rest is interrupted by the arrival of 1d4 [Barovian witches](https://www.dndbeyond.com/monsters/17362-barovian-witch) from [area K56](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K56Cauldron "area K56"). They try to subdue the party with [sleep](https://www.dndbeyond.com/spells/2254-sleep) spells. A witch retreats to [area K56](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K56Cauldron "area K56") if wounded.
+> 
+
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K51Closet
+> 
+> 
+> This small, wood-paneled room reeks of mildew and has a ten-foot-high ceiling. Iron hooks line the walls, and a dusty black cloak hangs from one hook in the center of the south wall.
+> 
+> The cloak is ordinary. The witches in [area K56](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K56Cauldron "area K56") placed it here to help them remember which hook opens the secret trapdoor in the ceiling.
+> 
+> The trapdoor can be found after a search of the room and a successful DC 13 Wisdom ([Perception](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)) check. Locating the trapdoor doesn’t enable someone to discover its opening mechanism. The door has a hidden lock and can be opened by pulling down on the hook from which the black cloak hangs. Once it has been found, the trapdoor can be opened by pulling on the hook, or it can be unlocked by someone using thieves’ tools, a [knock](https://www.dndbeyond.com/spells/2162-knock) spell, or similar magic. It swings down when unlocked.
+> 
+
 
 This area is largely as described in <span class="citation">K49. Lounge (p. 70)</span>, <span class="citation">K50. Guest Room (p. 70)</span>, and <span class="citation">K51. Closet (p. 70)</span>. This area looks somewhat run-down, but free of much of the grime and age that marked the lower levels. In addition, the door leading to <span class="citation">K49. Lounge (p. 70)</span> lacks the ornate gold lock from [[#O8a. The First Level]].
 
@@ -1083,6 +1627,58 @@ A player who treats Pidlwick II kindly and succeeds on a DC 12 Charisma (Persuas
 > Once Pidlwick has vanished and the sound of his own clockwork mechanism has disappeared, a player who returns to <span class="citation">K50. Guest Room (p. 70)</span> can hear that the sound of the guest room clock is tinnier and less resonant than on other levels. (This is caused by the presence of the hook, which dampens the sound of the clock's internal clockwork.) A player who then inspects the clock finds the hidden storage compartment automatically.
 ## O8d. The Fourth Level
 <span class="citation"><em>This scene takes place in Chapter 4, Areas K49, K50, K51, and K53.</em></span>
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K49Lounge
+> 
+> 
+> As thunder shakes the tower, heavy beams groan under the weight of the ceiling. Three ornate lanterns hang by chains from these beams, each casting a dim glow. The curved west wall is fitted with three windows of leaded glass in steel latticework. A bookcase sits on the east wall between two doors. Plush, overstuffed chairs and couches are placed about the room. The fabric has faded with age, and the patterns it depicts are nearly gone. Lounging on one couch is a handsome young man whose attire, while elegant, is worn and faded.
+> 
+> The youthful man on the couch is Escher, a dashing [vampire spawn](https://www.dndbeyond.com/monsters/17044-vampire-spawn) to whom Strahd has shown favor in the past. Escher is feeling somewhat neglected of late and has retreated here until Strahd’s mood improves. If attacked, he hurls himself out the window and lands like a cat on the roof of the keep ([area K53](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K53Rooftop "area K53")). He leads pursuers right to Strahd, wherever the lord of the castle happens to be (and regardless of whether the characters are ready to face Strahd).
+> 
+> [![](https://www.dndbeyond.com/attachments/thumbnails/1/745/420/459/cos04-20.png)](https://www.dndbeyond.com/attachments/1/745/cos04-20.png)
+> 
+> Escher and the Three Brides
+> 
+> In conversation, Escher displays wit with a hint of melancholy. Beneath his arch mood is a dread that Strahd is growing bored of him and will lock him in the catacombs ([area K84](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K84Catacombs "area K84")) with Strahd’s other castoff consorts.
+> 
+> The leaded windows are fitted with iron hinges and can be opened. They can be locked from the inside, though they are currently unlocked. The leaded glass doesn’t allow for much of a view. If a character opens a window and leaves it open, there’s a 50 percent chance that a [vampire spawn](https://www.dndbeyond.com/monsters/17044-vampire-spawn) crawling around the outside wall of the tower notices the open window and investigates.
+> 
+> The books in the bookcase have no value and aren’t much help to the characters. Some of the titles found on the bookshelf include _Embalming: The Lost Art_, _Life Among the Undead: Learning to Cope_, _Castle Building 101_, and _Goats of the Balinok Mountains_.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K49Treasure)Treasure
+> 
+> On the third finger of his left hand, Escher wears a platinum ring engraved with tiny roses and thorns (worth 150 gp). Around his neck, he wears a gold and ruby pendant (worth 750 gp).
+> 
+
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K50GuestRoom
+> 
+> 
+> A large bed sits in the center of this room, its four corner posts supporting a black canopy trimmed with gold tassels. Several comfortable divans are placed about the room. There is a banded door in the west wall and a smaller unbanded door in the east wall.
+> 
+> There is no danger in this area during the day. But if the characters try to take a short rest here during the night, the rest is interrupted by the arrival of 1d4 [Barovian witches](https://www.dndbeyond.com/monsters/17362-barovian-witch) from [area K56](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K56Cauldron "area K56"). They try to subdue the party with [sleep](https://www.dndbeyond.com/spells/2254-sleep) spells. A witch retreats to [area K56](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K56Cauldron "area K56") if wounded.
+> 
+
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K51Closet
+> 
+> 
+> This small, wood-paneled room reeks of mildew and has a ten-foot-high ceiling. Iron hooks line the walls, and a dusty black cloak hangs from one hook in the center of the south wall.
+> 
+> The cloak is ordinary. The witches in [area K56](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K56Cauldron "area K56") placed it here to help them remember which hook opens the secret trapdoor in the ceiling.
+> 
+> The trapdoor can be found after a search of the room and a successful DC 13 Wisdom ([Perception](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)) check. Locating the trapdoor doesn’t enable someone to discover its opening mechanism. The door has a hidden lock and can be opened by pulling down on the hook from which the black cloak hangs. Once it has been found, the trapdoor can be opened by pulling on the hook, or it can be unlocked by someone using thieves’ tools, a [knock](https://www.dndbeyond.com/spells/2162-knock) spell, or similar magic. It swings down when unlocked.
+> 
+
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K53Rooftop
+> 
+> 
+> Rain splashes against the sagging, sloping rooftop. Flashes of lightning illuminate gargoyles perched on the roof’s end peaks, their hideous stares forever fixed on the courtyard some one hundred thirty feet below.
+> 
+> If a character tries to traverse the rooftop, read:
+> 
+> Some of the ancient roof tiles slide easily underfoot, easily dropping into the fog-shrouded darkness. Each falling tile resounds with a hollow click as it hits the flagstones of the parapet or courtyard below.
+> 
+> A character must succeed on a DC 15 Dexterity ([Acrobatics](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)) check to traverse the roof. The check succeeds automatically if the character crawls. If the check fails by 5 or more, the character slides off the edge of the roof ans falls 40 feet to the castle parapet ([area K46](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K46Parapets "area K46")).
+> 
+
 
 The trapdoor leads to a copy of the guest suite largely as described in <span class="citation">K49. Lounge (p. 70)</span>, <span class="citation">K50. Guest Room (p. 70)</span>, and <span class="citation">K51. Closet (p. 70)</span>. This area looks somewhat run-down, but free of much of the grime and age that marked the upper levels. In addition, the door leading to <span class="citation">K49. Lounge (p. 70)</span> lacks the ornate gold lock from [[Arc O - Dinner with the Devil#O8a. The First Level|The First Level]].
 
@@ -1131,6 +1727,36 @@ The dragon, which acts on initiative count 0 of each round, acts as follows:
 The closet on the far side of the rooftop is a copy of the closet in <span class="citation">K51. Closet (p. 70)</span>, though without the cloak hanging from the hook. A player who ascends through the trapdoor emerges in <span class="citation">K47. Portrait of Strahd (p. 68)</span> in the corresponding section of [[#O8e. The Fifth Level]]. The dragon can't follow the players through the trapdoor.
 ## O8e. The Fifth Level
 <span class="citation"><em>This scene takes place in Chapter 4, Areas K49 and K50.</em></span>
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K49Lounge
+> 
+> 
+> As thunder shakes the tower, heavy beams groan under the weight of the ceiling. Three ornate lanterns hang by chains from these beams, each casting a dim glow. The curved west wall is fitted with three windows of leaded glass in steel latticework. A bookcase sits on the east wall between two doors. Plush, overstuffed chairs and couches are placed about the room. The fabric has faded with age, and the patterns it depicts are nearly gone. Lounging on one couch is a handsome young man whose attire, while elegant, is worn and faded.
+> 
+> The youthful man on the couch is Escher, a dashing [vampire spawn](https://www.dndbeyond.com/monsters/17044-vampire-spawn) to whom Strahd has shown favor in the past. Escher is feeling somewhat neglected of late and has retreated here until Strahd’s mood improves. If attacked, he hurls himself out the window and lands like a cat on the roof of the keep ([area K53](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K53Rooftop "area K53")). He leads pursuers right to Strahd, wherever the lord of the castle happens to be (and regardless of whether the characters are ready to face Strahd).
+> 
+> [![](https://www.dndbeyond.com/attachments/thumbnails/1/745/420/459/cos04-20.png)](https://www.dndbeyond.com/attachments/1/745/cos04-20.png)
+> 
+> Escher and the Three Brides
+> 
+> In conversation, Escher displays wit with a hint of melancholy. Beneath his arch mood is a dread that Strahd is growing bored of him and will lock him in the catacombs ([area K84](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K84Catacombs "area K84")) with Strahd’s other castoff consorts.
+> 
+> The leaded windows are fitted with iron hinges and can be opened. They can be locked from the inside, though they are currently unlocked. The leaded glass doesn’t allow for much of a view. If a character opens a window and leaves it open, there’s a 50 percent chance that a [vampire spawn](https://www.dndbeyond.com/monsters/17044-vampire-spawn) crawling around the outside wall of the tower notices the open window and investigates.
+> 
+> The books in the bookcase have no value and aren’t much help to the characters. Some of the titles found on the bookshelf include _Embalming: The Lost Art_, _Life Among the Undead: Learning to Cope_, _Castle Building 101_, and _Goats of the Balinok Mountains_.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K49Treasure)Treasure
+> 
+> On the third finger of his left hand, Escher wears a platinum ring engraved with tiny roses and thorns (worth 150 gp). Around his neck, he wears a gold and ruby pendant (worth 750 gp).
+> 
+
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K50GuestRoom
+> 
+> 
+> A large bed sits in the center of this room, its four corner posts supporting a black canopy trimmed with gold tassels. Several comfortable divans are placed about the room. There is a banded door in the west wall and a smaller unbanded door in the east wall.
+> 
+> There is no danger in this area during the day. But if the characters try to take a short rest here during the night, the rest is interrupted by the arrival of 1d4 [Barovian witches](https://www.dndbeyond.com/monsters/17362-barovian-witch) from [area K56](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K56Cauldron "area K56"). They try to subdue the party with [sleep](https://www.dndbeyond.com/spells/2254-sleep) spells. A witch retreats to [area K56](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K56Cauldron "area K56") if wounded.
+> 
+
 
 This area is largely as described in <span class="citation">K49. Lounge (p. 70)</span> and <span class="citation">K50. Guest Room (p. 70)</span>. However, the castle’s stone is bright, clean, and freshly carved, with its furniture pristine and newly crafted. In addition, the door leading to <span class="citation">K49. Lounge (p. 70)</span> lacks the ornate gold lock from [[#O8a. The First Level]].
 
@@ -1166,6 +1792,18 @@ The closet door doesn’t open into the guest suite closet. Instead, a player wh
 > If a player offers Varushka Katarina’s half of the two-piece necklace obtained in [[#O3b. The Rider’s Guidance]], Varushka is delighted to see it, but declines to accept it. “I think there is someone else who needs it more," she says softly, though she isn’t sure who that person might be. 
 ## O8f. The Bloody Keep
 <span class="citation"><em>This scene takes place in Chapter 4, Area K23.</em></span>
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K23ServantsEntrance
+> 
+> 
+> Dim light filters in through a dust-caked window in the east wall. A door next to the window leads to the castle’s northeast courtyard.Everything in this room is coated with dust, including a large, heavy table in the center of the floor. A thick book lies open on a desk, with an inkwell and a quill next to it. There is a broken door in the north wall, and a staircase in the south wall plunges into darkness. On each side of the staircase, a skeletal figure draped in gleaming chain mail stands sagging at attention, holding a rusty halberd.
+> 
+> The skeletons, which were assembled by Cyrus Belview (see [area K62](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K62ServantsHall "area K62")), are held together with wire frames and hung on pegs. They pose no threat.
+> 
+> The staircase descends to [area K62](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K62ServantsHall "area K62"). The east door leading to the courtyard is swollen in its frame and requires a successful DC 10 Strength check to force open. The north door is cracked and hangs loose on its hinges; beyond it lies another dust-filled chamber ([area K24](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K24ServantsQuarters "area K24")).
+> 
+> The ancient book is weathered and brittle, but the ink in the well is fresh. At the top of each page is scribed the message “Please register for your own convenience and that of your next of kin.” The book is more than half-filled with names, all of them illegible.
+> 
+
 
 A player who passes through the closet door in [[#O8e. The Fifth Level]] emerges into <span class="citation">K23. Servants’ Entrance (p. 59)</span>, as it was on the day of Strahd’s death nearly four centuries ago. Read:
 
@@ -1181,6 +1819,64 @@ The corpse is clad in a guard’s chain-mail armor. His snapped wooden spear lie
 The splintered door leads into the Servants’ Rooms (see below). The staircase descends to the Castle Cellar (see below).
 ### Servants’ Rooms
 <span class="citation"><em>This scene takes place in Chapter 4, Areas K24, K34, and K20.</em></span>
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K24ServantsQuarters
+> 
+> 
+> Broken furniture and torn cloth are strewn about this twenty-by-forty-foot room. Dim light comes from a pair of dirt-caked windows in the northeast corner. A narrow staircase with no railing ascends along the north wall.
+> 
+> The stairs lead to [area K34](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K34ServantsUpperFloor "area K34").
+> 
+
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K34ServantsUpperFloor
+> 
+> 
+> Dirt-caked windows allow little light to enter this upstairs room. Broken bed frames and torn bits of mattress litter the floors. A tall, dusty wardrobe roughly shaped like a coffin, its black doors painted with fey creatures, stands between two cracked, full-length mirrors hanging on the south wall. A staircase descends along the north wall.
+> 
+> If someone opens the wardrobe, read:
+> 
+> A plain white dress yellowed with age flies out of the wardrobe and begins to dance in the middle of the room. The dress flaps around to the music of the storm.
+> 
+> If anyone touches the dancing dress, it collapses in a lifeless heap on the floor. Otherwise, it dances forever. Hanging in the wardrobe are a few rotted servant’s uniforms, none of which are animate or valuable.
+> 
+> Set into the south wall, behind the hanging mirror west of the wardrobe, is a secret door. It can be pulled open to reveal a closet choked with dust and cobwebs and that contains a wooden ladder that leads up 20 feet to another secret door in the tower stairway ([area K20](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K20HeartofSorrow "area K20")).
+> 
+> The staircase leads down to [area K24](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K24ServantsQuarters "area K24").
+> 
+
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K20HeartofSorrow
+> 
+> 
+> A mosaic floor adds a touch of color to the otherwise dark, cold, empty tower that rises above you. A spiral staircase rises slowly into darkness, hugging the outer wall. In the center of the room, another set of stairs leads down.
+> 
+> The staircase in the center of the floor ([area K20a](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K20aTowerHallStair "area K20a")) leads down to [area K71](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K71KingsmenQuarters "area K71").
+> 
+> The spiral staircase has no railing and connects the main floor of the castle with each level above it. First, the staircase climbs 50 feet to a landing (shown on [map 4](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#Map4CourtoftheCount "map 4")), from which an open archway leads to [area K13](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K13TurretPostAccessHall "area K13"). East of that opening is a secret door that conceals a ladder leading down to [area K34](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K34ServantsUpperFloor "area K34").
+> 
+> The stairs ascend another 40 feet to another landing (shown on [map 5](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#Map5RoomsofWeeping "map 5")), with archways that lead to [areas K45](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K45HallofHeroes "areas K45") and [K46](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K46Parapets "K46"), and then climb another 100 feet to a landing beneath the tower’s heart (shown on [map 8](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#Maps710SpiresandTowerofRavenloft "map 8")). The staircase wraps around the heart, ending at the top of the tower ([area K60](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K60NorthTowerPeak "area K60")).
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#TheHeart)The Heart
+> 
+> The tower, including the spiral staircase, is alive. When the characters set foot on the staircase for the first time, read:
+> 
+> As you step onto the spiral staircase, a reddish light flares high overhead, then settles into a dull, pulsing red glow. You now see the full immensity of this tower. The spiral staircase circles up the tower’s full height. The tower, sixty feet wide at its base, becomes narrower as it climbs. At the pinnacle of the hollow tower, a large crystal heart pulsates with red light. Above the heart, the stairs continue upward.
+> 
+> [![](https://www.dndbeyond.com/attachments/thumbnails/1/730/400/531/cos04-05.jpg)](https://www.dndbeyond.com/attachments/1/730/cos04-05.jpg)
+> 
+> Have the characters and the Heart of Sorrow roll initiative. If the characters leave the tower and later return, they can reroll initiative, but the heart’s initiative count doesn’t change.
+> 
+> The awakened tower shakes and pitches on the Heart of Sorrow’s initiative count. Any creature on the stairs or hanging on a tower wall at the start of the heart’s turn must succeed on a DC 10 Dexterity saving throw or fall to the base of the tower. Characters who are crawling on the staircase or who lie [prone](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#ProneCondition) on the stairs succeed automatically.
+> 
+> The Heart of Sorrow is a 10-foot-diameter red crystal heart that floats near the top of the tower. Characters standing on the nearby stairs can make melee attacks against the heart, provided their weapons have a reach of at least 10 feet. The glass heart has AC 15 and 50 hit points. If the heart is reduced to 0 hit points, it shatters, and its crystal shards transform into blood, which rains down on the tower interior and staircase. The destruction of the Heart of Sorrow causes the tower to stop shuddering, and the interior of the tower becomes dark. Destroying the heart earns the characters 1,500 XP.
+> 
+> Strahd and the Heart of Sorrow are connected, such that any damage Strahd takes is transferred to the heart. If the heart absorbs damage that drops it to 0 hit points, it is destroyed, and Strahd takes any leftover damage. The Heart of Sorrow regains all its hit points at dawn if it has at least 1 hit point remaining.
+> 
+> The Heart of Sorrow is held aloft by the will of Strahd. Casting [dispel magic](https://www.dndbeyond.com/spells/2072-dispel-magic) on it has no effect.
+> 
+> _**Animated Halberds.**_ Mounted on the walls along the section of staircase nearest the heart are ten [animated halberds](https://www.dndbeyond.com/monsters/299572-animated-halberd); use the stat block for the [flying sword](https://www.dndbeyond.com/monsters/16865-flying-sword) in the [Monster Manual](https://www.dndbeyond.com/sources/mm "Monster Manual"), but increase each halberd’s damage to 1d10 + 1 and reduce its AC to 15. The halberds attack any creature that threatens the Heart of Sorrow.
+> 
+> _**Vampire Spawn.**_ Strahd senses if any damage is done to the Heart of Sorrow and sends four [vampire spawn](https://www.dndbeyond.com/monsters/17044-vampire-spawn) to destroy those responsible. These vampire spawn are former adventurers whom Strahd defeated long ago. They use their Spider Climb feature to scuttle along the tower walls and arrive in 3 rounds.
+> 
+
 
 This area includes <span class="citation">K24. Servants’ Quarters (p. 61)</span>, <span class="citation">K34. Servants’ Upper Floor (p. 64)</span>, and <span class="citation">K20. Heart of Sorrow (p. 59)</span>, but as they were on the day of Strahd’s death.
 #### Servants’ Quarters

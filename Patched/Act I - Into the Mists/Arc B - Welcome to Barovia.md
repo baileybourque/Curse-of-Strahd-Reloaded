@@ -12,18 +12,78 @@ The following morning, Ismark asks the players to help bring their father’s re
 > The players’ arrival in the village of Barovia has been substantially reworked to create a strong inciting incident for the campaign, ensuring they have an immediate and concrete reason to seek out Madam Eva’s Tarokka reading, an opportunity to form relationships with the villagers of Barovia, and personalized stakes in seeing Strahd defeated.
 # B1. Old Svalich Road
 <span class="citation"><em>This scene takes place in Chapter 2: Area A.</em></span>
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/the-lands-of-barovia#AOldSvalichRoad
+> 
+> 
+> Black pools of water stand like dark mirrors in and around the muddy roadway. Giant trees loom on both sides of the road, their branches clawing at the mist.
+> 
+> If the characters are walking along the road, they arrive at [area B](https://www.dndbeyond.com/sources/dnd/cos/the-lands-of-barovia#BGatesofBarovia "area B") after 5 hours. If the characters are traveling in Vistani wagons, the travel time is halved.
+> 
+
 
 The journey from [[Arc A - Escape From Death House#A3. Outside Death House|the tower]] to [[#B2. Gates of Barovia]] is two miles long and takes forty minutes.
 
 This scene unfolds as described in <span class="citation">Old Svalich Road (p. 33)</span>.
 # B2. Gates of Barovia
 <span class="citation"><em>This scene takes place in Chapter 2: Area B.</em></span>
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/the-lands-of-barovia#BGatesofBarovia
+> 
+> 
+> Two sets of these gates exist: one west of the village of Barovia and one east of the village.
+> 
+> The fog spills out of the forest to swallow up the road behind you. Ahead, jutting from the impenetrable woods on both sides of the road, are high stone buttresses looming gray in the fog. Huge iron gates hang on the stonework. Dew clings with cold tenacity to the rusted bars. Two headless statues of armed guardians flank the gate, their heads now lying among the weeds at their feet. They greet you only with silence.
+> 
+> [![](https://www.dndbeyond.com/attachments/thumbnails/1/714/850/504/cos02-04.png)](https://www.dndbeyond.com/attachments/1/714/cos02-04.png)
+> 
+> If the characters are traveling on foot, the gates swing open as they approach, screeching as the hinges move. The gates close behind the characters after they pass through. If the characters are riding in Vistani wagons, the gates open in front of the lead wagon and close when the rear one has entered.
+> 
+> The eastern gates don’t open for people trying to leave Strahd’s domain unless they are accompanied by Vistani. The fog chokes any non-Vistani that passes through the gates or skirts around them when they are closed (see “[Mists of Ravenloft](https://www.dndbeyond.com/sources/dnd/cos/the-lands-of-barovia#MistsofRavenloft "Mists of Ravenloft")” earlier in this chapter).
+> 
+> If Strahd is defeated, the gates of Barovia swing open, and the road east becomes clear of fog.
+> 
+> **THE LANDS OF BAROVIA: COMMON FEATURES**
+> 
+> Unless the text says otherwise, the following rules apply to doors, secret doors, locks, and webs in these lands.
+> 
+> _**Doors.**_ A wooden door can be forced open with a successful DC 10 Strength check, or DC 15 if the door is barred or reinforced in some other manner. Increase the DC by 5 if the door is made of stone, or by 10 if it is made of iron. Decrease the DC by 5 if the door is made of glass or amber, or if the door is weakened in some manner (such as by rot or corrosion).
+> 
+> _**Secret Doors.**_ If there are obvious clues to a secret door’s presence, such as scratch marks on a nearby wall or footprints leading to it, a character with a passive Wisdom ([Perception](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)) score of 15 or higher notices the secret door. Otherwise, finding a secret door requires a search of the area and a successful DC 15 Wisdom ([Perception](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)) check.
+> 
+> _**Locks.**_ A creature proficient with thieves’ tools can use them to pick a typical lock with a successful DC 15 Dexterity check. A typical padlock can be broken by smashing it with a bludgeoning or slashing weapon and succeeding on a DC 20 Strength check.
+> 
+> _**Webs.**_ Characters can pass through ordinary webs, including thick cobwebs, without fear of being [restrained](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#RestrainedCondition) or slowed down. A character can clear away the cobwebs from a 10-foot square as an action. Webs woven by giant spiders are a different matter; see “[Dungeon Hazards](https://www.dndbeyond.com/sources/dmg/adventure-environments#DungeonHazards "Dungeon Hazards")” in chapter 5 in the [Dungeon Master’s Guide](https://www.dndbeyond.com/sources/dmg "Dungeon Master’s Guide") for rules on giant spider webs.
+> 
+
 
 This scene unfolds as described in <span class="citation">Gates of Barovia (p. 34)</span>.
 
 The journey from the Gates of Barovia to [[#B3. Svalich Woods]] is one-quarter mile long and takes five minutes.
 # B3. Svalich Woods
 <span class="citation"><em>This scene takes place in Chapter 2: Area C.</em></span>
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/the-lands-of-barovia#CSvalichWoods
+> 
+> 
+> Towering trees, whose tops are lost in heavy gray mist, block out all but a death-gray light. The tree trunks are unnaturally close to one another, and the woods have the silence of a forgotten grave, yet exude the feeling of an unvoiced scream.
+> 
+> If the characters are traveling in Vistani wagons, they can continue on to the village of Barovia ([area E](https://www.dndbeyond.com/sources/dnd/cos/the-lands-of-barovia#EVillageofBarovia "area E")) without incident.
+> 
+> If the characters are following the road on foot, the party member who has the highest passive Wisdom ([Perception](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)) score notices something:
+> 
+> You catch the scent of death on the air.
+> 
+> The character can follow the stench to its source:
+> 
+> The foul scent leads you to a human corpse half-buried in the underbrush about fifteen feet from the road. The young man appears to be a commoner. His muddy clothes are torn and raked with claw marks. Crows have been at the body, which is surrounded by the paw prints. The man has obviously been dead for several days. He holds a crumpled envelope in one hand.
+> 
+> The dead man, Dalvan Olensky, was trying to escape from Barovia with a letter from his master when he was killed on the road by Strahd’s dire wolves. Wanting to return at once to Strahd, the wolves left the body in the woods but have not yet returned to feast.
+> 
+> The letter in Dalvan’s hand has a large “B” set into its wax seal. The parchment is worn and flimsy. If the characters open and read the letter, show the players “[Kolyan Indirovich’s Letter (Version 2)](https://www.dndbeyond.com/sources/cos/appendix-f-handouts#KolyanIndirovichsLetterversion2 "Kolyan Indirovich’s Letter (Version 2)")” in [appendix F](https://www.dndbeyond.com/sources/cos/appendix-f-handouts "appendix F"). The letter is dated one week ago.
+> 
+> Dalvan was instructed to place the letter at the gates, in the hope that visitors would find it and turn back.
+> 
+> If the characters linger in the woods, they hear a lone wolf howl far off in the forest. Each round, one more wolf adds its voice to the howling, with the sound getting progressively closer to the party. If the characters are still in the woods after 5 rounds of howling, five [dire wolves](https://www.dndbeyond.com/monsters/16841-dire-wolf) arrive and attack. If the characters are trying to leave Barovia, these dire wolves are joined by a pack of twenty [wolves](https://www.dndbeyond.com/monsters/17062-wolf). The wolves and the dire wolves stop their attack if the characters return to the road and head toward the village of Barovia ([area E](https://www.dndbeyond.com/sources/dnd/cos/the-lands-of-barovia#EVillageofBarovia "area E")).
+> 
+
 
 This scene begins as described in <span class="citation">Svalich Woods (p. 34)</span>. However, when the players find the corpse of Dalvan Olensky, he is not holding a crumpled envelope, and his clothes appear to have been torn by brambles and thorns, rather than claw marks. He doesn't appear to have any visible wounds, but a successful DC 10 Wisdom (Medicine) check reveals that he died of exhaustion.
 
@@ -72,6 +132,16 @@ If the players then leave Dalvan's corpse and return, they find that both his an
 > Dalvan and his horse will later reappear as the skeletal rider described in <span class="citation">Skeletal Rider (p. 31)</span> in [[Act I - Into the Mists/Arc C - Into the Valley#C5. The Skeletal Rider|Arc C - Into the Valley]]. The rider will again appear in [[Arc O - Dinner with the Devil#O3b. The Rider’s Guidance|Arc O - Dinner with the Devil]], guiding the players at Madam Eva’s direction to Katarina’s tree and long-lost locket, which the players can use to let Varushka’s spirit find peace in [[Arc O - Dinner with the Devil#Varushka’s Grief|Arc O - Dinner with the Devil]].
 # B4. Barovian Overlook
 <span class="citation"><em>This scene takes place in Chapter 2: Area D.</em></span>
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/the-lands-of-barovia#DRiverIvlis
+> 
+> 
+> When the characters come within sight of this river for the first time, read:
+> 
+> This river flows as clear as a blue winter sky through the valley.
+> 
+> The river is roughly 50 feet wide, with a depth ranging from 5 to 10 feet. Arching stone bridges span the river at two points, one near the village of Barovia (area E) and the other near Tser Falls ([area H](https://www.dndbeyond.com/sources/dnd/cos/the-lands-of-barovia#HTserFalls "area H")).
+> 
+
 
 The players emerge from the Svalich Woods one mile and twenty minutes after departing Dalvan's corpse. When they do, read:
 
@@ -401,6 +471,18 @@ When the players are ready to depart, Ireena retrieves a wooden crate containing
 > Players who insist upon visiting <span class="citation">E5. Church (p. 45)</span> find it largely as described in [[#B5i. The Barovian Church]] below. However, Parriwimple is not at the church at this time, and Father Donavich does not mention Doru's fate without Ireena or Ismark present.
 ## B5e. Bildrath’s Mercantile
 <span class="citation"><em>This scene takes place in Chapter 3: Area E1.</em></span>
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/the-village-of-barovia#E1BildrathsMercantile
+> 
+> 
+> The sparse light from this building spills out from behind drawn heavy curtains. A sign over the door, creaking on its hinges, reads “Bildrath’s Mercantile.”
+> 
+> The establishment is 70 feet long by 40 feet wide. The owner, Bildrath Cantemir (LN male human [commoner](https://www.dndbeyond.com/monsters/16829-commoner)), sells items from the [Adventuring Gear](https://www.dndbeyond.com/sources/phb/equipment#AdventuringGear "Adventuring Gear") table in the [Player’s Handbook](https://www.dndbeyond.com/sources/phb "Player’s Handbook"), but only items with a price lower than 25 gp in the table, and he sells them for ten times the price.
+> 
+> Bildrath trades with the Vistani when they pass through. He is also happy to make a profit from any strangers unlucky enough to find themselves here. He serves his own interests and offers no sanctuary. He never bargains since, as he says, “If you want it badly enough, you’ll pay for it.” He has no competition in the village.
+> 
+> If the characters give Bildrath a hard time, he calls Parriwimple (LG male human), his nephew and stock-boy, to help him out. Parriwimple has the statistics of a [gladiator](https://www.dndbeyond.com/monsters/16903-gladiator), except that he has an Intelligence of 6 and doesn’t carry a shield (AC 14). Parriwimple’s real name is Parpol Cantemir, but no one in the village calls him that. His muscles rippling beneath his leather tunic should give ample notice of his strength. At the same time, Parriwimple is simple-minded. He is devoted to his uncle and will not follow the characters as long as Bildrath has something to say about it.
+> 
+
 
 Should the players choose to visit it before proceeding to [[#B5f. The Eastern Barricade]], this  area is largely as described in <span class="citation">Bildrath’s Mercantile (p. 43)</span>. However, instead of selling items for ten times the price listed in the _Player’s Handbook_, Bildrath sells them for only twice the price, citing the recent economic upheaval. 
 
@@ -786,6 +868,99 @@ The players have one round to kill the rat as it scurries toward a large hole in
 ***Delivering the Coffin.*** After asking his first two favors, Ismark asks the players to assist him and Ireena in carrying Kolyan's coffin to the church. If they do, the two siblings accompany the players to the church.
 ## B5i. The Barovian Church
 <span class="citation"><em>This scene takes place in Chapter 3: Area E5.</em></span>
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/the-village-of-barovia#E5Church
+> 
+> 
+> Atop a slight rise, against the roots of the pillar stone that supports Castle Ravenloft, stands a gray, sagging edifice of stone and wood. This church has obviously weathered the assaults of evil for centuries on end and is worn and weary. A bell tower rises toward the back, and flickering light shines through holes in the shingled roof. The rafters strain feebly against their load.
+> 
+> If the characters approach the church doors, add:
+> 
+> The heavy wooden doors of the church are covered with claw marks and scarred by fire.
+> 
+> The village priest, Donavich, lives here. Other Barov­ians shun the church for reasons that will quickly become obvious.
+> 
+> The following areas correspond to labels on the map of the church below.
+> 
+> [![](https://www.dndbeyond.com/attachments/thumbnails/2/673/850/584/004.jpg)](https://www.dndbeyond.com/attachments/2/673/004.jpg)
+> 
+> Map 3.2: Church[View Player Version](https://www.dndbeyond.com/attachments/2/768/cos302.jpg)
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-village-of-barovia#E5aHall)E5a. Hall
+> 
+> The doors open to reveal a ten-foot-wide, twenty-foot-long hall leading to a brightly lit chapel. The hall is unlit and reeks of mildew. Four doors, two on each side of the hall, lead to adjacent chambers.
+> 
+> You can see that the chapel is strewn with debris, and you hear a soft voice from within reciting a prayer. Suddenly, the prayer is blotted out by an inhuman scream that rises up from beneath the wooden floor.
+> 
+> The scream comes from the church’s undercroft ([area E5g](https://www.dndbeyond.com/sources/dnd/cos/the-village-of-barovia#E5gUndercroft "area E5g")). The soft voice uttering the prayer belongs to Donavich, the priest (see [area E5f](https://www.dndbeyond.com/sources/dnd/cos/the-village-of-barovia#E5fChapel "area E5f")).
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-village-of-barovia#E5bDorusBedroom)E5b. Doru’s Bedroom
+> 
+> This dirty, lightless room contains a wooden bed with a straw-filled mattress. Mounted above the bed’s headboard is a wooden holy symbol.
+> 
+> This room once belonged to Doru, Donavich’s son, who is trapped in the undercroft ([area E5g](https://www.dndbeyond.com/sources/dnd/cos/the-village-of-barovia#E5gUndercroft "area E5g")). It hasn’t been used in more than a year and contains nothing of value.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-village-of-barovia#E5cDonavichsBedroom)E5c. Donavich’s Bedroom
+> 
+> This dirty room contains a wooden bed with a straw-filled mattress, next to which rests a small table with an oil lamp burning brightly on it. Mounted above the bed’s headboard is a wooden sun-shaped holy symbol.
+> 
+> This is Donavich’s room and contains nothing of value.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-village-of-barovia#E5dTrapdoor)E5d. Trapdoor
+> 
+> Time and neglect have punched holes in the ceiling of this moldy room, which contains a few broken roof shingles amid puddles of water. In one corner, set into the floor, is a heavy wooden trapdoor held shut with a chain and a padlock. A young man’s screams of anguish can be heard through the door.
+> 
+> Donavich lost the key to the iron padlock. If the chain is removed and the trapdoor is opened, the screaming in the undercroft stops. The trapdoor is swollen and stuck in its frame, so that a successful DC 12 Strength check is required to pull it open. Below it is a wooden staircase that descends 15 feet into the undercroft ([area E5g](https://www.dndbeyond.com/sources/dnd/cos/the-village-of-barovia#E5gUndercroft "area E5g")).
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-village-of-barovia#E5eOffice)E5e. Office
+> 
+> An old desk and chair stand against the south wall, a wooden holy symbol mounted above them—a sunburst. A ten-foot-long iron rod attached to the north wall stands bare, suggesting a tapestry once hung there. Against the far wall stands a wooden cabinet with four tall doors.
+> 
+> An empty wooden poor box rests on the seat of the chair. The desk drawers contain a few sheets of blank parchment, along with a couple of quill pens and dried-up jars of ink.
+> 
+> For its size, the wooden cabinet contains very little. Inside are a tinderbox, a few wooden boxes full of candles, and two well-used books: _Hymns to the Dawn_, a volume of chants to the Morninglord, and _The Blade of Truth: The Uses of Logic in the War Against Diabolist Heresies, as Fought by the Ulmist Inquisition_, a strange book that mixes logic exercises with lurid descriptions of fiend-worshiping cults.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-village-of-barovia#E5fChapel)E5f. Chapel
+> 
+> The chapel is a shambles, with overturned and broken pews littering the dusty floor. Dozens of candles mounted in candlesticks and candelabras light every dusty corner in a fervent attempt to rid the chapel of shadows. At the far end of the church sits a claw-scarred altar, behind which kneels a priest in soiled vestments. Next to him hangs a long, thick rope that stretches up into the bell tower.
+> 
+> If the characters have not already entered the undercroft, add:
+> 
+> From beneath the chapel floor, you hear a young man’s voice cry out, “Father! I’m starving!”
+> 
+> [![](https://www.dndbeyond.com/attachments/thumbnails/1/723/300/351/cos03-07.png)](https://www.dndbeyond.com/attachments/1/723/cos03-07.png)
+> 
+> Donavich
+> 
+> Donavich (LG male human [acolyte](https://www.dndbeyond.com/monsters/16763-acolyte)) has been praying throughout the night. His voice is hoarse and weak. He is, in a word, insane. A little more than a year ago, his twenty-year-old son Doru and several other villagers stormed Castle Ravenloft in revolt, having been lured there by a wizard in black robes who came to Barovia from a faraway land (see [chapter 2](https://www.dndbeyond.com/sources/cos/the-lands-of-barovia "chapter 2"), [area M](https://www.dndbeyond.com/sources/cos/the-lands-of-barovia#MMadMageofMountBaratok "area M"), for more information on the wizard). By all accounts, the wizard died by Strahd’s hand, and so too did Doru, who returned to his father as a vampire spawn. Donavich was able to trap his son in the church’s undercroft, where he remains to this day.
+> 
+> Doru hasn’t fed since he was imprisoned, and he cries out to his father at all hours. Meanwhile, Donavich prays day and night, hoping that the gods will tell him how to save Doru without destroying him. If the characters seem intent on slaying Doru, Donavich does his best to stop them. If Doru dies, Donavich falls to the floor and weeps inconsolably, overcome with despair.
+> 
+> In addition to the lore known to all Barovians (see “[Barovian Lore](https://www.dndbeyond.com/sources/cos/the-lands-of-barovia#BarovianLore "Barovian Lore")” in chapter 2), Donavich knows the following useful information:
+> 
+> - Ireena Kolyana isn’t the natural daughter of Kolyan Indirovich. Although Ireena never knew, Kolyan found her at the edge of the Svalich Woods near the Pillarstone of Ravenloft. She was but a girl then and seemed to have no memory of her past. Kolyan adopted her and loved her dearly.
+> - Every night at midnight, the spirits of dead adventurers rise up out of the church graveyard, forming a silent procession as they walk the road toward Castle Ravenloft. (See “[March of the Dead](https://www.dndbeyond.com/sources/dnd/cos/the-village-of-barovia#MarchoftheDead "March of the Dead")” in the “Special Events” section at the chapter’s end.)
+> 
+> _**Funeral for the Burgomaster.**_ If the characters bring Kolyan Indirovich’s body to the church, Donavich presses the characters into helping him bury the burgomaster in the cemetery ([area E6](https://www.dndbeyond.com/sources/dnd/cos/the-village-of-barovia#E6Cemetery "area E6")) at dawn. During the burial, Donavich offers prayers to the Morning­lord in exchange for Kolyan Indirovich’s deliverance from Barovia.
+> 
+> Once Kolyan is put in the ground, Donavich suggests that Ireena be taken as far from Castle Ravenloft as possible. He proposes that the characters take her to the Abbey of Saint Markovia in Krezk ([chapter 8](https://www.dndbeyond.com/sources/cos/the-village-of-krezk "chapter 8")) or, failing that, the fortified town of Vallaki ([chapter 5](https://www.dndbeyond.com/sources/cos/the-town-of-vallaki "chapter 5")). Donavich is unaware that the abbey, once a bastion of good, has become a den of evil.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-village-of-barovia#E5gUndercroft)E5g. Undercroft
+> 
+> The church’s undercroft has rough-hewn walls and a floor made of damp clay and earth. Rotting wooden pillars strain under the weight of the wooden ceiling. Candlelight from the chapel above slips though the cracks, allowing you to glimpse a gaunt shape in the far corner.
+> 
+> [![](https://www.dndbeyond.com/attachments/thumbnails/1/724/320/385/cos03-08.png)](https://www.dndbeyond.com/attachments/1/724/cos03-08.png)
+> 
+> Doru
+> 
+> The shape is Doru, a [vampire spawn](https://www.dndbeyond.com/monsters/17044-vampire-spawn) sent by Strahd to torment Donavich and cast down the church. Doru is starved for blood and brave enough to attack a lone character. If the characters approach as a group, he does his best to avoid them while hissing, “I can smell your blood!” If they cut off his escape, he lunges forth and attacks.
+> 
+> If the characters restrain Doru and either promise him blood or threaten to destroy him, or if they kill him and then raise him from the dead, he recounts the events that led to his downfall (see [area E5f](https://www.dndbeyond.com/sources/dnd/cos/the-village-of-barovia#E5fChapel "area E5f")).
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-village-of-barovia#FortunesofRavenloft)Fortunes of Ravenloft
+> 
+> If your card reading reveals that a treasure is in the undercroft, it’s contained in a moldy, old chest in the southwest corner of the room. The chest is unlocked and not trapped.
+> 
+
 
 When the players arrive at the church with the burgomaster’s body, [[Non-Player Characters#Ismark Kolyanovich|Ismark]] is disturbed by the damage wrought to its walls and roof. As he knocks on the front door and calls for Father Donavich, if Parriwimple is still alive, read the following:
 
@@ -1095,6 +1270,22 @@ When the players are ready to leave, Ireena bids Ismark a heartfelt farewell and
 > None of Strahd's servants or monsters—regardless of their intelligence, and least of all Strahd himself—ever attack Ireena.
 ## B5k. Mad Mary’s Townhouse
 <span class="citation"><em>This scene takes place in Chapter 3: Area E3.</em></span>
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/the-village-of-barovia#E3MadMarysTownhouse
+> 
+> 
+> A moaning sob floats through the still, gray streets, coloring your thoughts with sadness. The sounds flow from a dark, two-story townhouse.
+> 
+> [![](https://www.dndbeyond.com/attachments/thumbnails/1/720/300/364/cos03-04.png)](https://www.dndbeyond.com/attachments/1/720/cos03-04.png)
+> 
+> Mad Mary
+> 
+> The house, which is about 40 feet square, is boarded up and barricaded from the inside. Mad Mary (CN female human [commoner](https://www.dndbeyond.com/monsters/16829-commoner)) sits in the center of the floor in an upstairs bedroom, clutching a malformed doll. She is lost in her sorrow and despondency. She barely recognizes the presence of anyone in the room. She says nothing in the presence of anger, but she will talk, albeit haltingly, to someone who talks with her gently.
+> 
+> Mary hid her beloved daughter, Gertruda, in this house for the girl’s entire life. Gertruda, now a teenager, broke out of the house a week ago and has not been seen since. Her mother fears the worst—and is justified in doing so. See [area K42](https://www.dndbeyond.com/sources/cos/castle-ravenloft#K42KingsBedchamber "area K42") in chapter 4 for more information on Gertruda’s fate.
+> 
+> The malformed doll has a strange leer and wears a sackcloth dress. It belonged to Mary in her youth and was passed down to Gertruda. Gadof Blinsky, the toymaker of Vallaki (see [chapter 5](https://www.dndbeyond.com/sources/cos/the-town-of-vallaki "chapter 5"), [area N7](https://www.dndbeyond.com/sources/cos/the-town-of-vallaki#N7BlinskyToys "area N7")), made the doll. Stitched into the hem of its dress is a frayed tag bearing the words “Is No Fun, Is No Blinsky!”
+> 
+
 
 There should be no reason for the players to visit <span class="citation">Mad Mary’s Townhouse (p. 44)</span> in this revision. However, if they do, the following changes have been made:
 

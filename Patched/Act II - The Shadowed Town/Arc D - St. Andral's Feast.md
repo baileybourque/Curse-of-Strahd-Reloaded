@@ -17,6 +17,41 @@ Can the players defeat Volenta's plan and restore the church's protection? Or wi
 > The following morning, after St. Andral's bones are stolen as described below, Ireena visits the players at the Blue Water Inn before their conversation with Urwin Martikov described in [[Act I - Into the Mists/Arc C - Into the Valley#Urwin's Advice|Arc C - Into the Valley]] and asks them to visit the church to speak with Father Lucian about an "incident." (Father Lucian has asked her not to speak of the incident outside of the church, for fear of raising a panic.) The remainder of this arc then proceeds normally.
 # D1. St. Andral's Church
 <span class="citation"><em>This scene takes place in Chapter 5: Area N1.</em></span>
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N1StAndralsChurch
+> 
+> 
+> No map of the church is provided. If one becomes necessary, assume that this church has the same configuration as the one in the village of Barovia ([chapter 3](https://www.dndbeyond.com/sources/cos/the-village-of-barovia "chapter 3"), [area E5](https://www.dndbeyond.com/sources/cos/the-village-of-barovia#E5Church "area E")), but without the undercroft.
+> 
+> This slouching, centuries-old stone church has a bulging steeple in the back and walls lined with cracked, stained glass windows depicting pious saints. A fence of wrought iron encloses a garden of gravestones next to the church. A thin mist creeps among the graves.
+> 
+> This church is dedicated to the Morninglord and named after St. Andral, whose bones once rested under the altar (see the “Bones of St. Andral” section).
+> 
+> Father Lucian Petrovich (LG male human [priest](https://www.dndbeyond.com/monsters/16985-priest)) oversees the church and does his best to raise spirits. Assisting him is an orphan and altar boy named Yeska (LG male human noncombatant). A brawny lad with a perpetually furrowed brow named Milivoj (see below) tends the grounds and digs graves.
+> 
+> At night, the church is packed with 2d6 + 6 [frightened](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#FrightenedCondition) Vallakian adults (male and female human [commoners](https://www.dndbeyond.com/monsters/16829-commoner)) and 2d6 equally terrified Vallakian children (male and female human noncombatants). Father Lucian offers his nightly congregation his prayers and the promise of St. Andral’s protection. Among Father Lucian’s nightly flock is a sad old woman named Willemina Rikalova. Her son, the shoemaker Udo Lukovich, has been imprisoned for speaking out against the burgomaster (see [area N3m](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N3mLockedCloset "area N3m")). She prays that her son will be set free.
+> 
+> [![](https://www.dndbeyond.com/attachments/thumbnails/1/749/300/402/cos05-03.png)](https://www.dndbeyond.com/attachments/1/749/cos05-03.png)
+> 
+> Milivoj
+> 
+> [Milivoj](https://www.dndbeyond.com/monsters/296528-milivoj) (N male human [commoner](https://www.dndbeyond.com/monsters/16829-commoner)) is rarely seen without a shovel, which he wields like a club. Modify his statistics as follows:
+> 
+> - His Strength is 15 (+2).
+> - His melee weapon attack bonus is +4, and he deals 4 (1d4 + 2) bludgeoning damage when he hits with the blunt head of his shovel.
+> 
+> Milivoj rejects the burgomaster’s proclamation that “All will be well!” and is frustrated that he can’t protect his younger siblings. He wants to be free of Barovia’s curse but sees no hope of escape.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#BonesofStAndral)Bones of St. Andral
+> 
+> Until recently, the church was protected from Strahd’s depredations by the bones of St. Andral, which were sealed in a crypt beneath the church’s main altar. But now the church is at risk because someone broke into the crypt a few nights ago and stole the bones. Until recently, Father Lucian was the only person in Vallaki who knew about the bones, but he recalls mentioning them to Yeska over a month ago to put the fearful boy at ease. After the bones were stolen, Father Lucian asked Yeska if he told anyone else about the bones. The boy nodded but wouldn’t divulge a name.
+> 
+> The culprit is Milivoj, whom Father Lucian correctly suspects. But the priest has been reluctant to confront Milivoj because the lad is so temperamental. Father Lucian has not reported the theft for fear of the distress that the news might cause, and he doesn’t want to ruin the burgomaster’s festival. If the party includes a good-aligned cleric or paladin, Father Lucian mentions the theft in the hope that the characters can provide assistance.
+> 
+> St. Andral’s crypt is a 10-foot-square, 5-foot high chamber beneath the chapel. To reach the crypt, Milivoj used his shovel to pry up the chapel floorboards. (The boards have since been replaced.) If one of the characters confronts Milivoj and succeeds on a DC 10 Charisma ([Intimidation](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)) check, he admits that Yeska told him about the bones. He also admits to passing along the information to Henrik van der Voort, the local coffin maker ([area N6](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N6CoffinMakersShop "area N6")), and to stealing the bones for Henrik in return for money to help feed his younger sisters and brothers.
+> 
+> The theft of the bones has left the church vulnerable to attack by Strahd’s minions (see “[St. Andral’s Feast](https://www.dndbeyond.com/sources/cos/the-town-of-vallaki#StAndralsFeast "St. Andral’s Feast")” in the “[Special Events](https://www.dndbeyond.com/sources/cos/the-town-of-vallaki#SpecialEvents "Special Events")” section at the end of this chapter). If the bones are returned to their resting place, St. Andral’s church once again becomes hallowed ground, as though the building was protected by a [hallow](https://www.dndbeyond.com/spells/2135-hallow) spell.
+> 
+
 
 The church is largely as described in <span class="citation">N1. St. Andral's Church (p. 97)</span>.
 
@@ -246,6 +281,51 @@ If the players suggest reporting the theft of the bones to the burgomaster, Fath
 
 # D3. Arasek Stockyard
 <span class="citation"><em>This scene takes place in Chapter 5: Area N5.</em></span>
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N5ArasekStockyard
+> 
+> 
+> This large stockyard has several locked sheds along its periphery and lies adjacent to a roomy warehouse. A wooden sign above the front gate reads “Arasek Stockyard.”
+> 
+> Parked at the south end of the stockyard is a sturdy carnival wagon, its colorful paint peeling off. Faded lettering on its sides spells out the words “Rictavio’s Carnival of Wonders.” A heavy padlock secures the back door.
+> 
+> The stockyard is a general store and a facility where storage sheds can be rented. It is owned by a middle-aged married couple, Gunther and Yelena Arasek (LG male and female [commoners](https://www.dndbeyond.com/monsters/16829-commoner)). They sell items from the [Adventuring Gear](https://www.dndbeyond.com/sources/phb/equipment#AdventuringGear "Adventuring Gear") table in the [Player’s Handbook](https://www.dndbeyond.com/sources/phb "Player’s Handbook") that have a price of 25 gp or less, but at five times the price.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#RictaviosCarnivalWagon)Rictavio’s Carnival Wagon
+> 
+> The colorful half-elf bard [Rictavio](https://www.dndbeyond.com/monsters/17371-rictavio) (see [area N2](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2BlueWaterInn "area N2") and [appendix D](https://www.dndbeyond.com/sources/cos/appendix-d-monsters-and-npcs#Rictavio "appendix D")) paid Gunther and Yelena a generous amount of gold to watch his carnival wagon, no questions asked. If the characters approach the wagon, read:
+> 
+> The wagon suddenly lurches, as though something big has thrown itself against the inside wall. You hear the cracking of wood, the scraping of metal, and the snarl of something inhuman. Upon closer inspection, you see that the sides of the wagon are spattered with dry blood. You also see an inscription on the wagon’s door frame that reads, “I bring you from Shadow into Light!”
+> 
+> Rictavio carries the key to the wagon door. The lock can be picked but is rigged with a poison needle trap (see “[Sample Traps](https://www.dndbeyond.com/sources/dmg/adventure-environments#SampleTraps "Sample Traps")” in chapter 5, “Adventure Environments,” of the [Dungeon Master’s Guide](https://www.dndbeyond.com/sources/dmg "Dungeon Master’s Guide")).
+> 
+> Inside the wagon is a [saber-toothed tiger](https://www.dndbeyond.com/monsters/17002-saber-toothed-tiger) with 84 hit points. It is clad in specially fitted half plate (AC 17) and has been trained to hunt Strahd's Vistani servants.
+> 
+> The wagon also contains the torn-up remains of a doll. A character who makes a successful DC 10 Intelligence ([Investigation](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)) check discovers that the doll was once a colorfully dressed Vistani effigy. Stitched into its tattered pants is a slogan: “Is No Fun, Is No Blinsky!”
+> 
+> Rictavio isn’t ready to unleash the tiger on the Vistani just yet. He feeds it by dropping wolf steaks down a 1-foot-square hatch in the wagon’s roof. A character who climbs atop the wagon can spot the hatch without needing to make an ability check.
+> 
+> If the tiger is released, it begins stalking through the streets until its keen sense of smell locates either Rictavio ([area N2](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2BlueWaterInn "area N2")) or Piccolo ([area N7](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N7BlinskyToys "area N7")). The tiger doesn’t attack anyone who isn’t a Vistana except in self-defense. It attacks Vistani on sight. Rictavio can make the tiger break off its attack and lure it back into the wagon.
+> 
+> [![](https://www.dndbeyond.com/attachments/thumbnails/1/758/850/501/cos05-12.png)](https://www.dndbeyond.com/attachments/1/758/cos05-12.png)
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#Treasure)Treasure
+> 
+> The front seat of the wagon conceals a secret compartment that requires a successful DC 15 Wisdom ([Perception](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)) check to find and open. The compartment holds several items:
+> 
+> - An unlocked wooden coffer containing 50 ep bearing Strahd’s profile and six gemstones (worth 100 gp each)
+> - A small prayer book (worth 50 gp) with a green leather cover and indecipherable notes in the margins
+> - A [healer’s kit](https://www.dndbeyond.com/equipment/49-healers-kit)
+> - Three wooden [holy symbols](https://www.dndbeyond.com/equipment/213-holy-symbol) inlaid with silver and in the shape of a sunburst (worth 50 gp each)
+> - A silvered [shortsword](https://www.dndbeyond.com/equipment/30-shortsword)
+> - A [hand crossbow](https://www.dndbeyond.com/equipment/1-crossbow-hand) inlaid with mother-of-pearl (worth 250 gp)
+> - A bundle of twenty silvered [crossbow bolts](https://www.dndbeyond.com/equipment/3-crossbow-bolts)
+> - A worn leather case with gold buckles (worth 100 gp) containing three sharpened [wooden stakes](https://www.dndbeyond.com/equipment/206-stake-wooden), a sack of garlic, a jar of salt, a box of holy wafers, six [vials of holy water](https://www.dndbeyond.com/equipment/50-holy-water-flask), a polished steel mirror, and a bone scroll tube with a silver stopper and chain (worth 25 gp). The tube contains a [spell scroll of protection from fiends](https://www.dndbeyond.com/magic-items/5398-scroll-of-protection) and a [spell scroll of protection from undead](https://www.dndbeyond.com/magic-items/5398-scroll-of-protection).
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#FortunesofRavenloft5)Fortunes of Ravenloft
+> 
+> If your card reading reveals that a treasure is here, it is hidden with the other items under the front seat of the wagon, in a lead-lined box.
+> 
+
 
 Arasek Stockyard is largely as described in <span class="citation">N5. Arasek Stockyard (p. 115)</span>. However, while Rictavio's wagon is mostly covered by old and faded paint, the Carnival of Wonders sign on its side is brand new and fresh-painted.
 
@@ -256,6 +336,70 @@ If a player nonetheless attempts to unlock or force open the door to the wagon, 
 If the players successfully break the door to the wagon or pick its padlock, they find that the wagon’s interior contains a soft bed of straw, a comfortable woolen blanket, a few books, and a young Vistana girl—Arabelle—who is clutching a plush saber-toothed tiger to her chest and wearing a beaded necklace with a carved copper amulet. (For more information about Arabelle, see [[Arc E - The Missing Vistana]].)
 # D4. Coffin Maker's Shop
 <span class="citation"><em>This scene takes place in Chapter 5: Area N6.</em></span>
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N6CoffinMakersShop
+> 
+> 
+> This uninviting shop is two stories tall and has a sign shaped like a coffin above the front door. All of the window shutters are closed up tight, and a deathly silence surrounds the establishment.
+> 
+> Henrik van der Voort (LE male human [commoner](https://www.dndbeyond.com/monsters/16829-commoner)) is a mediocre carpenter and a troubled, lonely man. He profits from the deaths of others, and no one desires his company, because of the ghastly nature of his handiwork. One night several months ago, Strahd visited Henrik in the guise of an imposing, well-dressed nobleman named Vasili von Holtz and promised the coffin maker “good business” in exchange for his help. Since then, Henrik’s workshop has become the lair of a pack of vampire spawn—former adventurers who were turned by Strahd. These vampires are lying low for the time being.
+> 
+> [![](https://www.dndbeyond.com/attachments/thumbnails/1/760/300/374/cos05-14.png)](https://www.dndbeyond.com/attachments/1/760/cos05-14.png)
+> 
+> Henrik Van Der Voort
+> 
+> The vampires plan to attack St. Andral’s church (see “[St. Andral’s Feast](https://www.dndbeyond.com/sources/cos/the-town-of-vallaki#StAndralsFeast "St. Andral’s Feast")” in the “[Special Events](https://www.dndbeyond.com/sources/cos/the-town-of-vallaki#SpecialEvents "Special Events")” section at the end of this chapter). When Henrik learned about the sacred bones buried under the church, the vampire spawn ordered him to steal the bones, which Henrik paid Milivoj the gravedigger (see [area N1](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N1StAndralsChurch "area N1")) to do.
+> 
+> Every window of Henrik’s shop is a latticework of iron fitted with squares of frosted glass and locked from the inside. The outside doors of the shop are barred shut from within. If the characters knock on one of them, Henrik shouts, “We’re closed! Go away!” without opening the door. If the characters accuse Henrik of stealing the bones of St. Andral, he shouts again, “Go away! Leave me alone!”
+> 
+> If the characters break into the store, Henrik offers no resistance. He tells them where to find the bones (in the upstairs bedroom wardrobe, [area N6e](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N6eHenriksBedroom "area N6e")) and the vampire nest (in the upstairs wood storage room, [area N6f](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N6fVampireNest "area N6f")).
+> 
+> If the characters report the theft of the bones to the burgomaster, Baron Vallakovich dispatches four [guards](https://www.dndbeyond.com/monsters/16915-guard) to arrest Henrik and retrieve the bones. If the guards show up during daylight hours, Henrik surrenders himself and the bones without a fight, claiming that vampires forced him to steal the bones. If the guards come at night, Henrik surrenders himself and tells the guards where the bones are hidden, but he won’t retrieve the bones himself for fear of being killed by the vampires.
+> 
+> [![](https://www.dndbeyond.com/attachments/thumbnails/1/759/850/584/cos05-13.png)](https://www.dndbeyond.com/attachments/1/759/cos05-13.png)
+> 
+> Map 5.5: Coffin Maker’s Shop (Area N6)[View Player Version](https://www.dndbeyond.com/attachments/2/773/cos504.jpg)
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N6aCoffinStorage)N6a. Coffin Storage
+> 
+> Arranged haphazardly about the floor of this musty, L-shaped room are thirteen wooden coffins.
+> 
+> Henrik stores and displays the coffins he has made in this room. All of them are empty.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N6bJunkRoom)N6b. Junk Room
+> 
+> A table with four chairs is in one corner of this room, with a lantern hanging from a chain directly above. Two well-made cabinets stand against the east wall.
+> 
+> The cabinets are packed with worthless items that Henrik has collected over the years.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N6cWorkshop)N6c. Workshop
+> 
+> This workshop contains everything a carpenter needs to make coffins and furniture. Three sturdy worktables stretch the length of the west wall.
+> 
+> Henrik builds coffins and keeps his carpenter’s tools in this room.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N6dKitchen)N6d. Kitchen
+> 
+> This kitchen contains a square table surrounded by chairs and shelves of provisions.
+> 
+> Henrik prepares his meals here.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N6eHenriksBedroom)N6e. Henrik’s Bedroom
+> 
+> This modest bedchamber holds a cot and several well-made pieces of furniture, including a table, a padded chair, a bookshelf, and a wardrobe.
+> 
+> Henrik sleeps here, at night and well into the morning. The bookshelf contains a handful of storybooks and carpenters’ manuals that have been handed down from previous generations.
+> 
+> _**Treasure.**_ The wardrobe in the southeast corner has a secret compartment in its base, requiring a successful DC 15 Wisdom ([Perception](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)) check to find. Inside the compartment are two sacks—a large one containing the bones of St. Andral and a small one containing 30 sp and 12 ep. All of the coins bear the profiled visage of Strahd von Zarovich.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N6fVampireNest)N6f. Vampire Nest
+> 
+> This large, drafty room is strung with cobwebs and takes up most of the upper floor. Stacks of wooden planks lie amid several crates marked “JUNK.”
+> 
+> The two southernmost crates contain old junk that Henrik has accumulated over the years. The six crates in the northern part of the room are packed with earth and serve as resting places for the six [vampire spawn](https://www.dndbeyond.com/monsters/17044-vampire-spawn) that lair here. If the characters open one of the occupied crates, all of the vampire spawn burst forth and attack.
+> 
+> _**Teleport Destination.**_ Characters who teleport to this location from [area K78](https://www.dndbeyond.com/sources/cos/castle-ravenloft#K78BrazierRoom "area K78") in Castle Ravenloft arrive at the point marked T on the map.
+> 
+
 
 The coffin maker's shop is largely as described in <span class="citation">N6. Coffin Maker's Shop (p. 116)</span>. However, the crates in <span class="citation">N6f. Vampire Nest (p. 118)</span> have been replaced by three coffins packed with grave dirt from Castle Ravenloft, which contain two **vampire spawn** and **Volenta Popofsky**, one of Strahd's vampiric brides. In addition, players who explore <span class="citation">N6f. Vampire Nest (p. 118)</span> find a faded green-tinged pentagram 5 feet in diameter burned onto the floor at the edge of the room, just beyond the vampires' coffins.
 

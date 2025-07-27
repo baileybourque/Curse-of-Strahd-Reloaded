@@ -53,6 +53,34 @@ As the players depart, the revenant warns them that the werewolf pack of Mount B
 The road to Krezk is as described in <span class="citation">S1. Road Junction (p. 143)</span>.
 # I2. The Gates of Krezk
 <span class="citation"><em>This scene takes place in Chapter 8: Area S2.</em></span>
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/the-village-of-krezk#S2Gatehouse
+> 
+> 
+> The map of Krezk includes a diagram of the gatehouse.
+> 
+> The air grows colder as you approach the walled settlement. Two square towers with peaked roofs flank a stone archway into which is set a pair of twelve-foot-tall, ironbound wooden doors. Carved into the arch above the doors is a name: Krezk.
+> 
+> The walls that extend from the gatehouse are twenty feet high. Atop the parapet you see four figures wearing fur hats and clutching spears. They watch you nervously.
+> 
+> Cut into the upper floor of each tower is an arrow slit 6 inches wide, 4 feet tall, and 1 foot deep. An open doorway leads from the archer’s post in each tower to the adjacent parapet. Behind the walls, wooden ladders lead from the parapets to the ground 20 feet below.
+> 
+> Two archers (male and female human [scouts](https://www.dndbeyond.com/monsters/17007-scout)) are stationed inside the gatehouse, one in each tower. Four [guards](https://www.dndbeyond.com/monsters/16915-guard) (male and female humans) man the adjacent walls. If the characters are seen flying or climbing over the walls, the guards assume that the village is under attack and cry out in alarm. Five rounds after the alarm sounds, every able-bodied adult in the village arrives at the gatehouse, ready for battle. Krezk’s militia consists of four more guards plus forty [commoners](https://www.dndbeyond.com/monsters/16829-commoner) (male and female humans) armed with handaxes.
+> 
+> The double doors are made of thick wood planks bound with iron bands and sealed shut with a heavy wooden bar held in iron brackets. The bar can be lifted with a successful DC 15 Strength check. The doors require a siege engine to break them open.
+> 
+> There aren’t enough people in Krezk to adequately defend its outer wall. Every 300-foot stretch of wall is watched over by a lone [guard](https://www.dndbeyond.com/monsters/16915-guard) (male or female human). The guards are trained to crouch behind the wall and sound the alarm at any sign of danger.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-village-of-krezk#BurgomasterDmitriKrezkov)Burgomaster Dmitri Krezkov
+> 
+> If the characters ask to be let inside or otherwise draw the attention of the guards on the wall, one of the guards fetches the burgomaster, Dmitri Krezkov (LG male human [noble](https://www.dndbeyond.com/monsters/16966-noble)). His ancestors built Krezk at the foot of the abbey after Strahd’s armies conquered the valley.
+> 
+> Dmitri is a lord and expects to be treated like one. He places the safety of his village above the welfare of strangers. He has seen adventurers before and assumes that the characters are Strahd’s allies or enemies; either way, their presence spells trouble for Krezk. Dmitri isn’t prepared to shelter Strahd’s enemies any more than he is willing to humor Strahd’s allies. The only way the characters can earn his favor is to help Krezk in some way, whereupon Dmitri is required by his oath of office and his honor as a Barovian noble to show them hospitality. If the characters ask what they can do, Dmitri asks them to secure a wagonload of wine from the Wizard of Wines winery to the south. His people have been without wine for days, and the next delivery is long overdue.
+> 
+> If the characters force their way into town using magic or strength of arms, Dmitri tells his guards to stand down, hoping to avoid bloodshed, and does everything he can to expedite the characters’ departure.
+> 
+> A character who succeeds on a DC 12 Wisdom ([Insight](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)) check can discern that Dmitri is trying to hide the fact that he is distraught. He is grieving over the natural death of his youngest son, Ilya—the last of his children (see [area S3](https://www.dndbeyond.com/sources/dnd/cos/the-village-of-krezk#S3VillageofKrezk "area S3")).
+> 
+
 
 The gates of Krezk are largely as described in <span class="citation">S2. Gatehouse (p. 145)</span>. If the players have already defeated the druids occupying the Wizard of Wines in [[Arc J - The Stolen Gem]], Baron Krezkov recognizes them from the descriptions shared by Adrian and Elvir Martikov and welcomes them gladly into Krezk. Proceed to [[#I6. The Village of Krezk]] below.
 
@@ -157,6 +185,52 @@ Wensencia curtly informs the players that “Mother Lysaga” has summoned them 
 > Should the players attempt to explore the other structures within Berez, those ruins are largely as described in <span class="citation">U1. Abandoned Cottages (p. 162)</span>, <span class="citation">U2. Ulrich Mansion (p. 162)</span>, <span class="citation">U4. Churchyard (p. 164)</span>, and <span class="citation">U5. Marina's Monument (p. 164)</span>. However, Lazlo Ulrich's ghost does not appear in the Ulrich mansion, and Baba Lysaga's goat pen is as described in [[#I4c. The Scrying Spell]] below.
 ## I4b. Baba Lysaga’s Hut
 <span class="citation"><em>This scene takes place in Chapter 10: Area U3.</em></span>
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/the-ruins-of-berez#U3BabaLysagasHut
+> 
+> 
+> Someone has built a ramshackle wooden hut on the stump of what was once an enormous tree. The rotting roots of the stump thrust up from the mire like the legs of a gigantic spider.
+> 
+> An open doorway is visible on one side of the hut, beneath which floats the upside-down, hollowed-out skull of a giant. Flanking the hut’s doorway are two iron cages that dangle like hideous ornaments from the eaves. Scores of ravens are trapped in each one. They squawk and flutter their wings excitedly as you approach.
+> 
+> [![](https://www.dndbeyond.com/attachments/thumbnails/1/786/450/450/cos10-02.jpg)](https://www.dndbeyond.com/attachments/1/786/cos10-02.jpg)
+> 
+> Map 10.2: Baba Lysaga’s Creeping Hut[View Player Version](https://www.dndbeyond.com/attachments/2/782/cos1001.jpg)
+> 
+> [Baba Lysaga](https://www.dndbeyond.com/monsters/17361-baba-lysaga) (see [appendix D](https://www.dndbeyond.com/sources/cos/appendix-d-monsters-and-npcs#BabaLysaga "appendix D")) is inside her hut unless she has been drawn forth by activity elsewhere. The squawks of the birds are music to her ears, but the noise makes it impossible for her to hear anyone approaching. Only the howling of the skulls in [area U2](https://www.dndbeyond.com/sources/dnd/cos/the-ruins-of-berez#U2UlrichMansion "area U2") or sounds of combat nearby are loud enough to be heard over the squawking.
+> 
+> Inside each cage is a [swarm of ravens](https://www.dndbeyond.com/monsters/17033-swarm-of-ravens) that fiercely attacks Baba Lysaga and her [scarecrows](https://www.dndbeyond.com/monsters/17200-scarecrow) if released. Each cage is held shut by one of Baba Lysaga’s [arcane lock](https://www.dndbeyond.com/spells/2003-arcane-lock) spells, and opening it requires a [knock](https://www.dndbeyond.com/spells/2162-knock) spell or a successful DC 20 Strength check. A character can also pick the lock with thieves’ tools and a successful DC 20 Dexterity check.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-ruins-of-berez#GiantSkull)Giant Skull
+> 
+> The upside-down skull that floats next to the hut is a hill giant’s skull that Baba Lysaga has hollowed out and transformed into a vehicle. It hovers in place until Baba Lysaga commands it to fly, which she can do only while inside it. It has a flying speed of 40 feet. No one else can control the skull. A creature inside the skull has three-quarters cover against attacks made from outside the skull. The skull is big enough to hold one Medium creature. It has AC 15, 50 hit points, and immunity to poison and psychic damage.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-ruins-of-berez#HutInterior)Hut Interior
+> 
+> The hut is fifteen feet on a side and packed with old furniture, including a wooden cot, a wicker cabinet, a slender wardrobe, a wooden table, a stool, a barrel-topped wooden chest reinforced with brass bands, and an iron tub stained with blood. In the middle of the room is a ghastly wooden crib with a small, angelic child sitting in it. All the furnishings except for the crib are bolted to the floor. Beneath the crib, green light seeps up through cracks between the rotting floorboards.
+> 
+> The child and the crib are illusions created by Baba Lysaga using a [programmed illusion](https://www.dndbeyond.com/spells/2218-programmed-illusion) spell. Baba Lysaga refers to the child as “Strahd” and created the illusion out of madness, because she considers herself a protective mother.
+> 
+> Beneath the hut’s rotting floorboards is a 3-foot-deep cavity containing the magic, green-glowing gem that Baba Lysaga took from the Wizard of the Wines winery. This gem animates the hut (see “[The Creeping Hut](https://www.dndbeyond.com/sources/dnd/cos/the-ruins-of-berez#CreepingHut "The Creeping Hut")” in the “Special Events” section below). The floorboards can be ripped up or smashed with a successful DC 14 Strength check. Characters can also break through the floor by dealing 10 damage to it. The hut doesn’t give up the gemstone easily, however (see “[Baba Lysaga’s Creeping Hut](https://www.dndbeyond.com/sources/cos/appendix-d-monsters-and-npcs#BabaLysagasCreepingHut "Baba Lysaga’s Creeping Hut")” in appendix D). If the gem is destroyed or removed from the cavity, the hut becomes [incapacitated](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#IncapacitatedCondition).
+> 
+> Baba Lysaga keeps soiled robes in the wardrobe and assorted spell components in the wicker cabinet. The tub is where she ritually bathes in blood to prevent aging (see “[Gifts of Mother Night](https://www.dndbeyond.com/sources/cos/appendices#BabaLysaga "Gifts of Mother Night")” in the “Baba Lysaga” section in [appendix D](https://www.dndbeyond.com/sources/cos/appendix-d-monsters-and-npcs#BabaLysaga "appendix D")). If the characters approach the hut at an appropriate time without being noticed, they can see Baba Lysaga bathing.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-ruins-of-berez#Treasure)Treasure
+> 
+> The wooden chest in the hut is protected by a [glyph of warding](https://www.dndbeyond.com/spells/2125-glyph-of-warding) that requires a successful DC 17 Intelligence ([Investigation](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)) check to find. The glyph deals 5d8 thunder damage when triggered. Opening the lid releases four [crawling claws](https://www.dndbeyond.com/monsters/17139-crawling-claw) that fight until destroyed. Also contained in the chest are various items that Baba Lysaga has taken from dead adventurers over the years:
+> 
+> - 1,300 gp
+> - Five 500 gp gemstones
+> - A vial containing [oil of sharpness](https://www.dndbeyond.com/magic-items/4688-oil-of-sharpness)
+> - Two [spell scrolls](https://www.dndbeyond.com/magic-items/5418-spell-scroll) ([mass cure wounds](https://www.dndbeyond.com/spells/2181-mass-cure-wounds) and [revivify](https://www.dndbeyond.com/spells/2234-revivify))
+> - A pouch containing ten [+1 sling bullets](https://www.dndbeyond.com/magic-items/4846-sling-bullets-1)
+> - A set of [pipes of haunting](https://www.dndbeyond.com/magic-items/4696-pipes-of-haunting)
+> - A [stone of good luck (luckstone)](https://www.dndbeyond.com/magic-items/4773-stone-of-good-luck-luckstone)
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-ruins-of-berez#FortunesofRavenloft2)Fortunes of Ravenloft
+> 
+> If your card reading reveals that a treasure is here, it’s in the chest with the other items.
+> 
+
 
 Baba Lysaga’s Hut is as described in <span class="citation">U3. Baba Lysaga’s Hut (p. 163)</span>. However, the sound of a soft lullaby can be heard emanating from the hut’s open doorframe, muffled by the sound of the ravens’ squawks. Additionally, if the **greater strix** warned Baba Lysaga of the players’ arrival, it is perched atop the hut, silently watching the players as they approach.
 

@@ -45,10 +45,30 @@ If the players ask the revenant to escort them to the mansion, it declines, noti
 This scene is as described in <span class="citation">Approaching the Mansion (p. 130).</span>
 ## M2a. Dragon Statue
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q1.</em></span>
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#Q1DragonStatue
+> 
+> 
+> Perched atop a ten-foot-wide, ten-foot-high cube of granite is a moss-covered statue of a dragon, its wings tucked close to its body. The statue looks east, toward the mansion.
+> 
+> The fog makes it hard to see the dragon’s features from a distance, but close inspection reveals that it’s a silver dragon of noble bearing, its spiny frill cracked and broken in many places. The statue is 10 feet tall but looks much more imposing perched on the granite block.
+> 
+> If scrutinized with a [detect magic](https://www.dndbeyond.com/spells/2065-detect-magic) spell, the statue radiates an aura of evocation magic. The dragon statue used to breathe a cone of cold as part of a magic trap, but the trap no longer works (see area Q2).
+> 
+
 
 This area is largely as described in <span class="citation">Q1. Dragon Statue (p. 130).</span>  However, the statue faces west, away from the mansion, and does not radiate any magical aura.
 ## M2b. Main Entrance
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q2.</em></span>
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#Q2MainEntrance
+> 
+> 
+> Flagstone steps flanked by stone railings climb to a landing in front of a pair of tall, wooden doors with rusted iron bands and knockers shaped like small dragons. Carved into the lintel above the entrance is the word Argynvostholt.
+> 
+> If a creature climbs the steps or sets foot on the landing, the dragon statue (area Q1) opens its mouth and exhales a 60-foot cone of harmless cold air, then closes its mouth and doesn’t activate again until the next dawn. At one time, the statue would breathe a cone of ice and hail, but its magic has deteriorated over the years.
+> 
+> The doors are unlocked and can be pushed open to reveal a dark foyer (area Q3).
+> 
+
 
 This area is largely as described in <span class="citation">Q2. Main Entrance (p. 130).</span> However, no trap activates as the players climb the stairs or set foot on the landing.
 
@@ -57,14 +77,66 @@ This area is largely as described in <span class="citation">Q2. Main Entrance (p
 # M3. Entering the Mansion
 ## M3a. Foyer
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q3.</em></span>
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#Q3DragonsFoyer
+> 
+> 
+> This room feels like a king’s tomb. A grand staircase leads up to stone balconies held aloft by stone pillars and arches. A tall, faded tapestry depicting a nobleman in silver armor hangs from an iron rod above the staircase landing.
+> 
+> Six sets of double doors lead from this foyer. Along the walls, displayed on marble pedestals, are three alabaster busts of handsome men. A fourth bust and its pedestal have been knocked over, and their shattered remains lie strewn across the mosaic floor. Two chandeliers of wrought iron hang from the ceiling like monstrous black spiders.
+> 
+> The tapestry is torn in places and worthless. It is a portrait of Lord Argynvost. The alabaster busts depict several of the dragon’s other human guises. The stairs lead up to the second-floor balconies ([area Q18](https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#Q18Balconies "area Q18")).
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#ShadowofArgynvost)Shadow of Argynvost
+> 
+> The first time the characters pass through this foyer, read:
+> 
+> A great shadow with wings moves across the walls and disappears. You hear the soft bestial hiss in the darkness.
+> 
+> The draconic shadow is ominous yet harmless.
+> 
+
 
 This area is largely as described in <span class="citation">Q3. Dragon’s Foyer (p. 132).</span> However, the draconic shadow passes into <span class="citation">Q12. Dining Hall (p. 132)</span> before disappearing.
 ## M3b. Dining Hall
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q12.</em></span>
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#Q12DiningHall
+> 
+> 
+> A twenty-foot-long table with sculpted dragons for legs stands in the center of this hall. The chairs that surround the table have backs carved to resemble folded dragon wings, and several of the chairs have been overturned or smashed to pieces. Suspended above the table is a crystal chandelier that glows with a soft white light. Standing in windowed alcoves are two life-sized statues depicting knights with dragon-winged helms and shields.
+> 
+> Rainwater trickles through cracks in the ceiling, flowing down the west wall and adding to a large puddle on the floor.
+> 
+> Five sets of wooden doors lead to this hall. The doors in the northeast corner hang open. A pair of leaded glass doors, their panes cracked and broken, stand open between panels of stained glass set into the east wall. These panels depict silver dragons in flight. Beyond the glass doors lies a dark, misty room that appears to be a chapel.
+> 
+> A [continual flame](https://www.dndbeyond.com/spells/2048-continual-flame) spell was cast on the crystal chandelier long ago and has never been dispelled. The knight statues are lifelike but inanimate.
+> 
+
 
 This area is as described in <span class="citation">Q12. Dining Hall (p. 132).</span>
 ## M3c. Chapel of Morning
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q13.</em></span>
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#Q13ChapelofMorning
+> 
+> 
+> Cracked wooden pillars support a wooden, U-shaped balcony that overhangs this stone-walled chapel. Narrow archways lead to spiral staircases that curl up to the balcony, and a door set into the north wall has a wooden beam barring it. At the east end of the chapel rests a stone altar flanked by iron candelabras. The altar is carved with a rising sun bas-relief. Tall, arching windows set with panels of stained glass decorate the walls behind the altar. One of the windows has been shattered, covering the chapel floor with shards of colored glass and allowing thick fog to enter and fill the room.
+> 
+> If the beacon has not been lit (see [areas Q16](https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#Q16DragonsMausoleum "areas Q16") and [Q53](https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#Q53BeaconofArgynvostholt "Q53")), add:
+> 
+> Through the fog, you see three armored figures kneeling before the altar.
+> 
+> The figures are three [revenants](https://www.dndbeyond.com/monsters/17196-revenant) clad in tattered chain mail that affords the same protection as leather armor. Each revenant wields a longsword. If the beacon is lit, the revenants are cleansed of their hatred and laid to rest, and the characters find three armored corpses with longswords lying on the floor in front of the altar.
+> 
+> The revenants, if still active, are blinded by their hate and attack the characters on sight, seeking to drive them out of Argynvostholt. As an action, a revenant attacks twice with its longsword, wielding the weapon with both hands and dealing 15 (2d10 + 4) slashing damage on a hit.
+> 
+> Characters who study the room’s iconography and orientation (the fact that it draws light from the east) can determine, with a successful DC 10 Intelligence ([Religion](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)) check, that the chapel is dedicated to a god of the dawn. Anyone familiar with Barovian religion can conclude that the god in question is the Morninglord.
+> 
+> The balcony ([area Q24](https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#Q24ChapelBalcony "area Q24")) is 20 feet high and can be reached by climbing either spiral staircase (area Q14).
+> 
+> Characters who stand near the altar and look up can see the hollow interior of the beacon tower. The tower’s lower landing ([area Q50](https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#Q50BeaconLowerLanding "area Q50")) is 60 feet above the chapel floor, and the upper landing ([area Q51](https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#Q51BeaconUpperLanding "area Q51")) is another 20 feet above that.
+> 
+> The bar across the north door is easily lifted from this side. Once the bar is removed, the door can be pulled open to reveal a stone staircase leading down to a cemetery (area Q15).
+> 
+
 
 This area is largely as described in <span class="citation">Q13. Chapel of Morning (p. 134).</span> However, the pillars are made of stone, rather than wood, and the three kneeling revenants are not present. Instead, add the following text to the end of this area’s description:
 
@@ -338,6 +410,46 @@ If allowed to depart, Nim hisses gleefully and scampers off on all fours, vanish
 # M4. The First Floor
 ## M4a. Cemetery
 <span class="citation"><em>This scene takes place in Chapter 7, Areas Q15 and Q16.</em></span>
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#Q15Cemetery
+> 
+> 
+> Tucked behind the mansion is a fog-shrouded cemetery enclosed by a seven-foot-tall fence of wrought iron. In the northeast corner stands a mausoleum.
+> 
+> If the beacon has not been lit (see areas Q16 and [Q53](https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#Q53BeaconofArgynvostholt "Q53")), read the following text when the characters cross the cemetery for the first time:
+> 
+> You suddenly feel like someone or something is watching you. Looking up, you spot a well-dressed man with a thick mane of thistledown hair observing you from a high tower window. He draws the curtain and disappears from view.
+> 
+> The strange man watches the characters through the southeast window of [area Q42](https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#Q42ArgynvostsBedroom "area Q42"). He is merely an apparition intended to lure the characters to that room.
+> 
+> The mausoleum is described in area Q16.
+> 
+> The thick fog obscures the fact that five of the graves have been dug up. Closer inspection and a successful DC 10 Wisdom ([Perception](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)) check reveals that the corpses buried there crawled out of the earth. Of the missing corpses there is no sign, but the surrounding fence is intact, which suggests that no one got into the cemetery from outside. (These corpses were animated by the spirits of revenants and clawed their way out.)
+> 
+> A stone staircase curls up the outside of a turret to a flagstone landing in front of a sturdy wooden door. The door is barred from the inside and opens into the chapel ([area Q13](https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#Q13ChapelofMorning "area Q13")).
+> 
+
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#Q16DragonsMausoleum
+> 
+> 
+> Tarnished, silver-plated gargoyles shaped like dragon wyrmlings cling to the stone-tiled roof of this mausoleum. An eight-foot-tall, four-foot-wide white marble door set into the southwest wall is engraved with a name: Argynvost.
+> 
+> The dragon-shaped gargoyles are harmless statuary. The stone door can be pulled open with a successful DC 15 Strength check.
+> 
+> The interior of the mausoleum is dark and dusty. You see four empty alcoves with raised floors. Etched into the far wall is a verse written in Draconic.
+> 
+> Characters who can read the Draconic script can decipher the writing on the wall:
+> 
+> _Here lie the bones and treasures of_
+> 
+> _Argynvost, lord of Argynvostholt and_
+> 
+> _founder of the Order of the Silver Dragon._
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#Development)Development
+> 
+> If the skull of Argynvost is brought from Castle Ravenloft (see [chapter 4](https://www.dndbeyond.com/sources/cos/castle-ravenloft "chapter 4"), [area K67](https://www.dndbeyond.com/sources/cos/castle-ravenloft#K67HallofBones "area K67")) and sealed inside the mausoleum, the dragon’s spirit transforms into a brilliant light at the top of the tower (see [area Q53](https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#Q53BeaconofArgynvostholt "area Q53")).
+> 
+
 
 The cemetery and mausoleum are largely as described in <span class="citation">Q15. Cemetery (p. 134)</span> and <span class="citation">Q16. Dragon’s Mausoleum (p. 134)</span>. However, add the following text to the end of the description of the interior of the mausoleum:
 
@@ -348,6 +460,14 @@ The cemetery and mausoleum are largely as described in <span class="citation">Q1
 ## M4b. Steward’s Wing
 ### Kitchen
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q10.</em></span>
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#Q10Kitchen
+> 
+> 
+> This kitchen has been plundered, its tables overturned. The floor is littered with rusted utensils and smashed crockery. Narrow windows flanking a hearth look out over a cemetery. An open iron pot hangs from a hook inside the blackened fireplace. It rattles on its hook and bobs up and down, as though something is inside it.
+> 
+> The iron pot contains an ordinary [bat](https://www.dndbeyond.com/monsters/16802-bat). When the characters get close, it flies out and flaps about the room.
+> 
+
 
 This area is largely as described in <span class="citation">Q10. Kitchen (p. 133).</span> However, the iron pot has a lid and isn’t rattling when the players first enter the room. Instead, the room is noticeably colder than the surrounding rooms, though not quite freezing.
 
@@ -379,6 +499,14 @@ If a player moves within reach of the iron pot, read:
 If a player removes the pot’s lid, Zorya—in the form of a wisp of silvery mist—bursts forth from the pot’s interior with a sound like chiming crystal and flees into [[#Servants’ Quarters]]. When she does, the players feel a muted sense of hopeful longing in addition to any other emotions.
 ### Servants’ Quarters
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q9.</em></span>
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#Q9ServantsQuarters
+> 
+> 
+> Tattered brown drapes cover the windows of this circular room, and a heavy curtain hangs across an archway to the south. Strewn about the floor is the wreckage of half a dozen beds and other pieces of furniture.
+> 
+> Lord Argynvost’s household staff once slept here. The room contains nothing of value. Beyond the curtain lies the kitchen (area Q10).
+> 
+
 
 This area is as described in <span class="citation">Q9. Servants’ Quarters (p. 133).</span> 
 
@@ -389,6 +517,14 @@ If a player moves within reach of Zorya’s bed, a player with a passive Wisdom 
 If a player moves the bed skirts to reveal Zorya’s hiding place, Zorya—in the form of a cloud of silvery mist with noticeably reptilian features—bursts forth with a sound like chiming crystal and flees into [[#Parlor]]. When she does, the players feel a diminished sense of longing and a small sense of satisfaction in addition to any other emotions.
 ### Parlor
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q7.</em></span>
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#Q7Parlor
+> 
+> 
+> Tattered velvet drapes cover the tall, slender windows that encircle this parlor. The furnishings are covered with dust and cobwebs, and lie in disarray. A damaged brass chandelier hangs from the ceiling, which is covered with a faded mural that depicts metallic dragons and colorful birds flying beneath white clouds.
+> 
+> Time and neglect have damaged the furnishings, leaving nothing of value.
+> 
+
 
 This area is as described in <span class="citation">Q7. Parlor (p. 133).</span>
 
@@ -399,6 +535,30 @@ If a player moves within reach of Zorya’s window, a player with a passive Wisd
 If a player moves the drapes to reveal Zorya’s hiding place, Zorya—again in the form of a cloud of silvery mist with noticeably reptilian features—bursts forth with a sound like chiming crystal and flees into [[#Dragon’s Den]]. When she does, the players feel a swelling sense of satisfaction in addition to any other emotions.
 ### Dragon’s Den
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q6.</em></span>
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#Q6DragonsDen
+> 
+> 
+> This wood-paneled den has been ransacked, its furnishings tossed about. A cold, dark hearth dominates the west wall between two narrow windows. Standing upright against the north wall is a sarcophagus made of black wood with a queen’s effigy carved into its lid.
+> 
+> Argynvost had the empty sarcophagus converted into a wine cabinet. Now, only shattered wineglasses and decanters are to be found on the shelves. The den’s other furnishings include rotted divans, broken chairs, overturned ottomans, and smashed oil lamps.
+> 
+> A secret door at the north end of the east wall can be pushed open to reveal a storage room ([area Q11](https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#Q11WineStorage "area Q11")).
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#LivingFire)Living Fire
+> 
+> If the beacon of Argynvostholt ([area Q53](https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#Q53BeaconofArgynvostholt "area Q53")) has not been lit, read the following text when the characters approach the fireplace for the first time:
+> 
+> A fire erupts in the dead hearth and assumes a draconic form. It hisses, crackles, and unfurls its smoky wings.
+> 
+> Have the player characters roll initiative. The fire acts on initiative count 10 and has AC 15, 1 hit point, and immunity to fire, poison, and psychic damage. If it is reduced to 0 hit points, it explodes and fills the room with fire, setting fire to the dry furnishings. Each creature in the room must make a DC 12 Dexterity saving throw, taking 22 (4d10) fire damage on a failed save, or half as much damage on a successful one.
+> 
+> The fire doesn’t attack. On its first turn, if it has not been reduced to 0 hit points, it speaks:
+> 
+> The fiery dragon hisses as it addresses you. “My knights have fallen into darkness. Save them if you can. Show them the light they have lost!” With that, the fire burns out.
+> 
+> The dragon refers to the Order of the Silver Dragon and the beacon ([area Q53](https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#Q53BeaconofArgynvostholt "area Q53")).
+> 
+
 
 This area is largely as described in <span class="citation">Q6. Dragon’s Den (p. 132).</span> However, the living fire doesn't appear as they approach the fireplace.
 
@@ -478,6 +638,26 @@ Once befriended in this way, Zorya remains with the players while they remain wi
 
 ### Wine Storage
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q11.</em></span>
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#Q11WineStorage
+> 
+> 
+> Five barrels lie in wooden braces along the walls of this dark, moldy storage room.
+> 
+> Hiding behind the barrels is a wounded elf named Savid (N male dusk elf [scout](https://www.dndbeyond.com/monsters/17007-scout)). He has 4 hit points remaining and is grateful for any healing the characters can provide.
+> 
+> Savid lives with the other dusk elves of Barovia in the Vistani camp outside Vallaki ([chapter 5](https://www.dndbeyond.com/sources/cos/the-town-of-vallaki "chapter 5"), [area N9](https://www.dndbeyond.com/sources/cos/the-town-of-vallaki#N9VistaniCamp "area N9")). He was searching the woods for a missing Vistani girl named Arabelle when a wandering mob of needle blights accosted him. He was forced to take refuge in the mansion.
+> 
+> Savid, who is more than four hundred years old, volunteers the following useful information:
+> 
+> - Argynvost was a silver dragon that liked to assume human forms. Argynvostholt was the dragon’s home.
+> - In human guise, the noble dragon led a group of knights called the Order of the Silver Dragon. They gave shelter to refugees who had come to the valley to escape Strahd’s army. Strahd’s soldiers slew the dragon, destroyed the order, and sacked the mansion.
+> - Vistani and dusk elves avoid the mansion, believing that the dragon’s ghost haunts it.
+> 
+> The wine in the barrels turned to vinegar and evaporated long ago. Emblazoned on the barrels’ sides are the name of the winery, the Wizard of Wines, and the name of the wine, Champagne du le Stomp.
+> 
+> A secret door at the north end of the west wall can be pulled open to reveal a den ([area Q6](https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#Q6DragonsDen "area Q6")).
+> 
+
 
 This area is largely as described in <span class="citation">Q11. Wine Storage (p. 133).</span> However, the dusk elf Savid is not present. Instead, add the following text to the end of this area’s description:
 
@@ -495,6 +675,14 @@ The northeastern barrel appears to be empty. However, a player who uses the crow
 > If shown the rings, Godfrey notes only, with mild interest, that the rings' engraving appears to be excerpted from the oath of the Order of the Silver Dragon, which is described further in [[#Knights of the Order]].
 ## M4c. Spiders’ Ballroom
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q4.</em></span>
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#Q4SpidersBallroom
+> 
+> 
+> Rubble is strewn throughout much of this vast chamber, caused by the partial collapse of the rooms above it. On the pink marble floor, fallen chandeliers lie amid broken chairs and other furnishings. Thick webs stretch from wall to wall, and moving among them are too many giant spiders to count!
+> 
+> Nine [giant spiders](https://www.dndbeyond.com/monsters/16895-giant-spider) nest here. They attack anyone who gets too close.
+> 
+
 
 This area is largely as described in <span class="citation">Q4. Spider's Ballroom (p. 132).</span> However, replace two of the **giant spiders** with a pair of **phase spiders** lurking in the Ethereal Plane, which emerge into the Material Plane and attack when all **giant spiders** have been defeated.
 
@@ -529,11 +717,79 @@ The satchel, which appears to have had its leather strap forcibly torn off, cont
 
 ## M4d. Exterior
 <span class="citation"><em>This scene takes place in Chapter 7, Areas Q5 and Q8.</em></span>
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#Q5RuinedStable
+> 
+> 
+> Here lie the blackened beams of a wooden stable, burned to its stone foundation. Looming above the wreckage is the partially collapsed south end of the mansion, all three of its floors exposed to the elements.
+> 
+> There is nothing of value in the stable.
+> 
+
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#Q8IronGate
+> 
+> 
+> An iron gate, chained shut, closes off a 10-foot-tall archway on the north wall of the mansion. The key to the chain’s padlock was lost long ago, but the lock can be picked by someone who uses thieves’ tools and makes a successful DC 20 Dexterity check. The old lock can be smashed by a character who uses a bludgeoning or slashing weapon on it and makes a successful DC 15 Strength check.
+> 
+> Ten-foot-high flights of stone steps to the west and east of the archway lead up to landings and doors that provide access to areas Q7 and Q9.
+> 
+
 
 These areas are as described in <span class="citation">Q5. Ruined Stable (p. 132)</span> and <span class="citation">Q8. Iron Gate (p. 133).</span>
 # M5. Second Floor
 ## M5a. Central Hall
 <span class="citation"><em>This scene takes place in Chapter 7, Areas Q17, Q18, Q20, Q21, Q22, and Q23.</em></span>
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#Q17WestStaircases
+> 
+> 
+> Narrow windows illuminate this dusty, five-foot-wide spiral staircase.
+> 
+> These staircases connect the second-floor balconies (area Q18) to [areas Q30](https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#Q30CurtainedStaircase "areas Q30") and [Q36](https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#Q36DragonsAudienceHall "Q36") on the third floor.
+> 
+
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#Q18Balconies
+> 
+> 
+> Two stone balconies flank the main foyer. Balusters carved to resemble knights in shining armor support their elegantly carved stone railings. Weapons and shields festoon the walls along each of these walkways, while alabaster busts of handsome men flank hallways that lead north and south away from the foyer. At the west end of each balcony is an archway that leads to a spiral staircase going up.
+> 
+> The balcony is 20 feet above the floor of the foyer ([area Q3](https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#Q3DragonsFoyer "area Q3")). The weapons and shields hanging on the walls are nonmagical. The busts, displayed atop wooden pedestals, depict various human guises of the dragon Argynvost. Their eyes seem to watch the characters as they walk by, but the effect is an optical illusion.
+> 
+
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#Q20SouthAlcove
+> 
+> 
+> A red velvet curtain hangs in front of an alcove in the southeast corner of this hall. It ripples ever so slightly.
+> 
+> One of the narrow windows in the back of the alcove has a broken glass pane through which a slight breeze passes, causing the curtain to move. When the characters look behind the curtain, read:
+> 
+> A black cloth covers something atop a white marble pedestal.
+> 
+> Beneath the black cloth is the severed head of a randomly determined character — an illusion created by Strahd’s consciousness. In actuality, it’s an exquisite alabaster bust of a handsome, middle-aged human with a neatly trimmed mustache and beard (Lord Argynvost). The illusion is too strong to be disbelieved, but it can be dispelled if the bust is broken or covered up again.
+> 
+
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#Q21NorthAlcove
+> 
+> 
+> A red velvet curtain hangs in front of an alcove in the northeast corner of this hall.
+> 
+> The alcove is empty except for the narrow windows in the back walls. Whenever the characters part the curtain and leave, the curtain is closed when they return. Only by removing the curtain from its rod can they prevent the curtain from closing on its own.
+> 
+
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#Q22Bathroom
+> 
+> 
+> The room contains an iron tub and has wood paneling on the walls that rises to a height of three feet. Above the paneling, the walls are painted with a continuous, faded mural of a mountainscape.
+> 
+> The mural accurately depicts the Balinok Mountains.
+> 
+
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#Q23StorageRoom
+> 
+> 
+> Rainwater seeps through cracks in the ceiling and flows into a pool on the sagging wooden floor. The pool fills about half the room. Bare stone shelves line the walls.
+> 
+> This room has been thoroughly looted. The wooden floor is soft and spongy, and it can’t support more than 100 pounds of weight. If more weight is applied, the floor collapses, and any creature in the room falls 20 feet, taking damage as normal and landing in [area Q12](https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#Q12DiningHall "area Q12").
+> 
+
 
 The west staircases, balconies, south alcove, north alcove, bathroom, and storage room are largely as described in <span class="citation">Q17. West Staircases (p. 135)</span>, <span class="citation">Q18. Balconies (p. 135)</span>, <span class="citation">Q20. South Alcove (p. 135)</span>, <span class="citation">Q21. North Alcove (p. 135)</span>, <span class="citation">Q22. Bathroom (p. 135)</span>, and <span class="citation">Q23. Storage Room (p. 135)</span>.
 
@@ -541,10 +797,46 @@ However, no illusion appears in <span class="citation">Q20. South Alcove (p. 135
 ## M5b. Northern Chambers
 ### Guest Rooms
 <span class="citation"><em>This scene takes place in Chapter 7, Areas Q26 and Q29.</em></span>
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#Q26NortheastGuestRoom
+> 
+> 
+> The door to this room hangs open.
+> 
+> Two beds with torn canopies stand against opposite walls with a tattered rug lying on the floor between them. Set into the far wall is a fireplace black with soot. A soft hiss issues from the hearth.
+> 
+> When one or more characters approach within 10 feet of the fireplace, add:
+> 
+> A small, hissing dragon made of ash and smoke erupts from the fireplace, filling the room with soot as it beats its wings.
+> 
+> The smoky dragonet has the statistics of a [smoke mephit](https://www.dndbeyond.com/monsters/17174-smoke-mephit) but fights only in self-defense. If left alone, it flies out of the room at a speed of 30 feet, up the spiral staircase ([area Q17](https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#Q17WestStaircases "area Q17")), through the curtain at [area Q30](https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#Q30CurtainedStaircase "area Q30"), over the rubble in [area Q33](https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#Q33CollapsedCeiling "area Q33"), and into [area Q36](https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#Q36DragonsAudienceHall "area Q36"). Once there, it lands on the back of Vladimir’s throne and disappears.
+> 
+> [![](https://www.dndbeyond.com/attachments/thumbnails/2/690/600/825/021.jpg)](https://www.dndbeyond.com/attachments/2/690/021.jpg)
+> 
+> Map 7.2: Argynvostholt (Area Q)[View Player Version](https://www.dndbeyond.com/attachments/2/777/cos702.jpg)
+> 
+
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#Q29NorthwestGuestRoom
+> 
+> 
+> The contents of this room are draped in cobwebs. Between curtained windows stands a black marble hearth with a sculpted mantelpiece, above which hangs a framed portrait of a handsome, well-dressed man with a wry smile and a thick mane of thistledown hair. Opposite the fireplace is a large bed with a rotting mattress and wooden posts carved to resemble dragons. Across from the double doors stands a tall wardrobe, its doors hanging open, revealing a dark and empty cavity. The only other piece of furniture is an overstuffed leather chair that faces the hearth.
+> 
+> The portrait depicts the silver dragon Argynvost in its guise as the human noble Lord Argynvost.
+> 
+
 
 These areas are largely as described in <span class="citation">Q26. Northeast Guest Room (p. 136)</span> and <span class="citation">Q29. Northwest Guest Room (p. 136)</span>. However, no dragon appears in the fireplace when the players approach.
 ### Trapped Hallway
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q25.</em></span>
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#Q25TrappedHallway
+> 
+> 
+> This T-shaped hallway has branches to the west, east, and south. Three arched windows in the north wall look out over the foggy grounds.
+> 
+> The ceiling in the hall is 20 feet high. The wooden doors to [areas Q27](https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#Q27KnightsQuarters "areas Q27") and [Q28](https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#Q28KnightsQuarters "Q28") are locked, requiring a successful DC 20 Strength check to break down. The 10-foot squares in front of the doors (marked T on the [map](https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#AreasofArgynvostholt "map")) are trapped. When a character enters one of these squares, a floor-to-ceiling [wall of stone](https://www.dndbeyond.com/spells/2294-wall-of-stone) (created by the spell of the same name) magically appears across the opening on the south wall. At the same time, the [phantom warriors](https://www.dndbeyond.com/monsters/17368-phantom-warrior) in areas Q27 and Q28 rush through the doors (which can be freely opened from their side) and attack.
+> 
+> The wall of stone vanishes after 10 minutes, at which time the trap resets. Characters who cast a [detect magic](https://www.dndbeyond.com/spells/2065-detect-magic) spell in the hall can perceive hazy auras of evocation magic in front of the doors.
+> 
+
 
 This area is largely as described in <span class="citation">Q25. Trapped Hallway (p. 136)</span>. However, the hallway is noticeably colder than the surrounding areas.  In addition, no **phantom warriors** reside within <span class="citation">Q27. Knights’ Quarters (p. 136)</span> and <span class="citation">Q28. Knights’ Quarters (p. 136)</span>, whose doors remain locked. Finally, there is no *wall of stone* trap.
 
@@ -580,6 +872,26 @@ In battle, the **phantom warriors** shout “Death to the invaders!", “For Arg
 When the **phantom warriors** are defeated, any surviving **specters** warmly nod to the players, then vanish. The temperature in the corridor then returns to normal.
 ### Knights’ Quarters
 <span class="citation"><em>This scene takes place in Chapter 7, Areas Q27 and Q28.</em></span>
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#Q27KnightsQuarters
+> 
+> 
+> This room is littered with the wreckage of ancient bunk beds. Five dirt-caked windows allow precious little light to enter, and between them are four empty armor stands. Empty torch sconces line the walls.
+> 
+> Four [phantom warriors](https://www.dndbeyond.com/monsters/17368-phantom-warrior) (see [appendix D](https://www.dndbeyond.com/sources/cos/appendix-d-monsters-and-npcs#PhantomWarrior "appendix D")) haunt this room. They manifest only when the characters enter the room or trigger the magic trap in [area Q25](https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#Q25TrappedHallway "area Q25"). They fight until destroyed.
+> 
+
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#Q28KnightsQuarters
+> 
+> 
+> Tattered and faded drapes cover the windows of this circular room, and empty torch sconces line the walls. Broken bunk beds and armor stands are strewn on the floor.
+> 
+> Three [phantom warriors](https://www.dndbeyond.com/monsters/17368-phantom-warrior) (see [appendix D](https://www.dndbeyond.com/sources/cos/appendix-d-monsters-and-npcs#PhantomWarrior "appendix D")) haunt this room. They manifest only when the characters enter the room or trigger the magic trap in area Q25. They fight until destroyed.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#Treasure)Treasure
+> 
+> Buried under the wreckage is a small wooden coffer containing four [potions of invulnerability](https://www.dndbeyond.com/magic-items/5358-potion-of-invulnerability). A search of the room yields this lost cache.
+> 
+
 
 These areas are largely as described in <span class="citation">Q27. Knights’ Quarters (p. 136)</span> and <span class="citation">Q28. Knights’ Quarters (p. 136)</span>. However, the four *potions of invulnerability* in <span class="citation">Q28. Knights’ Quarters (p. 136)</span> are instead *potions of greater healing* (<span class="citation">Dungeon Master’s Guide, p. 187</span>).
 
@@ -624,6 +936,16 @@ Minodora is a solemn, if black-humored spirit. If befriended by the players, she
 Minodora is glad to provide the players with directions to Brother Marek’s preferred haunting place, <span class="citation">Q35. Upstairs Gallery (p. 138)</span>. She warns them, however, that Brother Marek prefers to remain within the Ethereal Plane wherever possible. To draw his attention, she advises, the players might wish to retrieve his holy book—which he kept in a leather satchel in his bedroom in the western chamber of <span class="citation">Q19. Ruined Bedchambers (p. 135)</span>—and read aloud one of the prayers contained therein.
 ## M5c. Southern Chambers
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q19.</em></span>
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#Q19RuinedBedchambers
+> 
+> 
+> There are two of these rooms.
+> 
+> The south end of this room has collapsed, exposing the chamber to the elements. A few furnishings lie broken under fallen debris from the level above.
+> 
+> The wooden floor creaks underfoot. Although it is safe to walk on, doing so attracts the [giant spiders](https://www.dndbeyond.com/monsters/16895-giant-spider) from [area Q4](https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#Q4SpidersBallroom "area Q4"). The spiders crawl up into the room and attack. The floor here is 20 feet above the floor of the ballroom.
+> 
+
 
 This area is largely as described in <span class="citation">Q19. Ruined Bedchambers (p. 135)</span>. However, add the following text to the end of the western room’s description:
 
@@ -642,12 +964,78 @@ The object protruding from the wall in the western room is a rusted iron hook be
 A creature must succeed on a DC 11 Dexterity (Stealth) check, made with disadvantage due to the creaking floor, to walk across the floor without alerting the spiders below. A creature that fails this check, or which cuts, damages, or otherwise disturbs the webbing attracts a single **giant spider** from [[#M4c. Spiders’ Ballroom]], which crawls up into the room and attacks. (The other six **giant spiders** remain in the ballroom below.)
 ## M5d. Upper Chapel
 <span class="citation"><em>This scene takes place in Chapter 7, Areas Q14 and Q24.</em></span>
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#Q14ChapelStaircases
+> 
+> 
+> Narrow windows allow dim light to enter this five-foot-wide spiral staircase.
+> 
+> The staircase leads from the chapel (area Q13) to the chapel’s balcony ([area Q24](https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#Q24ChapelBalcony "area Q24")) and climbs another 20 feet to a small, empty room with a window that looks down on the chapel.
+> 
+
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#Q24ChapelBalcony
+> 
+> 
+> This wooden balcony overhangs the mansion’s chapel. An exquisitely carved wooden throne rests at the west end between two doors, and narrow archways lead to spiral staircases going up and down. Hanging from the high ceiling is an iron chandelier with candle holders shaped like tiny silver dragons.
+> 
+> The doors behind the throne lead to [areas Q20](https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#Q20SouthAlcove "areas Q20") and [Q21](https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#Q21NorthAlcove "Q21"). A wooden railing surrounds the balcony, which is 20 feet above the floor of the chapel ([area Q13](https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#Q13ChapelofMorning "area Q13")).
+> 
+
 
 These areas are as described in <span class="citation">Q14. Chapel Staircases (p. 134)</span> and <span class="citation">Q24. Chapel Balcony (p. 136)</span>. However, the chapel below is as described in [[#M3c. Chapel of Morning]].
 # M6. Third Floor
 ## M6a. Halls of the Order
 #### Knights of the Order
 <span class="citation"><em>This scene takes place in Chapter 7, Areas Q37 and Q38 (p. 139).</em></span>
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#Q37KnightsoftheOrder
+> 
+> 
+> The leaders of the Order of the Silver Dragon used to convene here.
+> 
+> Through the dust and cobwebs, you see faded war banners adorning the walls of a spacious chamber, in the center of which stands a heavy wooden table. An iron chandelier hangs above the table, which is surrounded by six high-backed chairs with wood-carved dragons perched atop them. Slumped in five of the chairs are skeletal humans in tattered chainmail.
+> 
+> If the beacon in area Q53 has been lit, the spirits of these revenants are laid to rest, leaving behind their inanimate corpses. If the beacon has not been lit, add the following:
+> 
+> The corpses tilt their heads in your direction. One of them growls, “Why do you the living disturb the dead?”
+> 
+> The skeletal figures are five [revenants](https://www.dndbeyond.com/monsters/17196-revenant). All five are lawful evil. They are awaiting orders from Vladimir ([area Q36](https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#Q36DragonsAudienceHall "area Q36")) and fight only in self-defense. The revenants wear broken chainmail that affords as much protection as leather armor, and they wield longswords. As an action, a revenant attacks twice with its longsword, wielding the weapon with both hands and dealing 15 (2d10 + 4) slashing damage on a hit.
+> 
+> One of the revenants, [Sir Godfrey Gwilym](https://www.dndbeyond.com/monsters/297564-sir-godfrey-gwilym), is a spellcaster with a challenge rating of 6 (2,300 XP) and the following additional feature:
+> 
+> _**Spellcasting.**_ Sir Godfrey is a 16th-level spellcaster. His spellcasting ability is Wisdom (spell save DC 14). Sir Godfrey has the following paladin spells prepared:
+> 
+> 1st level (4 slots): [command](https://www.dndbeyond.com/spells/2032-command), [divine favor](https://www.dndbeyond.com/spells/2074-divine-favor), [thunderous smite](https://www.dndbeyond.com/spells/2322-thunderous-smite)
+> 
+> 2nd level (3 slots): [branding smite](https://www.dndbeyond.com/spells/2326-branding-smite), [magic weapon](https://www.dndbeyond.com/spells/2178-magic-weapon)
+> 
+> 3rd level (3 slots): [blinding smite](https://www.dndbeyond.com/spells/2334-blinding-smite), [dispel magic](https://www.dndbeyond.com/spells/2072-dispel-magic)
+> 
+> 4th level (2 slots): [staggering smite](https://www.dndbeyond.com/spells/2350-staggering-smite)
+> 
+> Characters who inspect the fireplace notice a shield-shaped patch on the wall above the mantelpiece. A magic shield once hung above the fireplace, but it was taken when Strahd’s soldiers plundered the mansion. It now rests in Castle Ravenloft’s treasury ([chapter 4](https://www.dndbeyond.com/sources/cos/castle-ravenloft "chapter 4"), [area K41](https://www.dndbeyond.com/sources/cos/castle-ravenloft#K41Treasury "area K41")).
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#Development2)Development
+> 
+> [![](https://www.dndbeyond.com/attachments/thumbnails/1/773/300/396/cos07-05.png)](https://www.dndbeyond.com/attachments/1/773/cos07-05.png)
+> 
+> Sir Godfrey Gwilym
+> 
+> Sir Godfrey can sense that the spirit of Argynvost isn’t at rest and isn’t happy that the order has been reduced to such a state. If the characters petition the revenants for aid, Sir Godfrey (speaking in a scratchy voice) relates all the information presented at the start of the chapter concerning Argynvost and the rise and fall of the Order of the Silver Dragon. Neither he nor the other revenants can help the characters in any meaningful way, however, because of the oaths they have sworn to Vladimir Horngaard.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#FortunesofRavenloft2)Fortunes of Ravenloft
+> 
+> If your card reading reveals that Sir Godfrey is Strahd’s enemy and the characters persuasively ask him for help, he offers to join the fight against the vampire. Fate has unlocked his memory of the love that he and Vladimir once shared, and the power of that memory drives Godfrey to help fight Strahd and restore the order’s honor.
+> 
+> If the beacon in [area Q53](https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#Q53BeaconofArgynvostholt "area Q53") has not been lit, Godfrey’s decision incurs the wrath of the other revenants, triggering an armed conflict.
+> 
+> If the beacon in area Q53 has been lit, Sir Godfrey remains a revenant even after all the other revenants (including Vladimir) are laid to rest, except that his alignment changes to lawful good. Although Sir Godfrey is unaware of the tarokka card reading, he somehow senses that he must perform one final task before his spirit can rest with Vladimir’s, and thus he agrees to help the characters face Strahd in Castle Ravenloft.
+> 
+
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#Q38Closet
+> 
+> 
+> This dusty closet has a slender window set into the north wall. The room is otherwise empty.
+> 
+
 
 These areas are largely as described in <span class="citation">Q37 Knights of the Order (p. 139)</span> and <span class="citation">Q38. Closet (p. 139)</span>. However, remove the final sentence of the area’s description. (No **revenants** sit in the chairs around the table.) Instead, add the following to the end of this area’s description:
 
@@ -665,6 +1053,14 @@ The inscription is written in elegant calligraphy and interwoven with aged, intr
 
 #### Vladimir’s Bedroom
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q39.</em></span>
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#Q39VladimirsBedroom
+> 
+> 
+> Light enters this circular room through five cracked windows. The light falls on a large, dust-covered bed in the center of the room, its posts topped with wood-carved dragons. Two large animals flank the double doors. One is a brown bear standing on its hind legs, its claws outstretched. The other is a dire wolf, its face frozen in an evil snarl. Near the wolf lies an empty wooden chest.
+> 
+> This room once served as a bedchamber for Sir Vladimir Horngaard and Sir Godfrey Gwilym. The bear and the dire wolf are stuffed and harmless. Looters ransacked the chest long ago, leaving nothing of value.
+> 
+
 
 This area is largely as described in <span class="citation">Q39. Vladimir’s Bedroom (p. 140)</span>. However, remove the four sentences describing the bear, the dire wolf, and the empty chest. Instead, add the following text to the end of the area’s description:
 
@@ -684,6 +1080,46 @@ A player who studies the portrait and succeeds on a DC 15 Wisdom (Perception) ch
 > The portrait once depicted Commander Vladimir Horngaard and his husband, Sir Godfrey Gwilym. However, their faces vanished from the portrait after the Order’s resurrection, Vladimir’s blinding hatred for Strahd causing both knights to forget the love they shared in life.
 #### Argynvost’s Study
 <span class="citation"><em>This scene takes place in Chapter 7, Areas Q40 and Q41.</em></span>
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#Q40ArgynvostsStudy
+> 
+> 
+> This room is a haven for dust and cobwebs. Three narrow windows allow slivers of light to illuminate bare oak shelves along the walls and a torn, padded chair lying on its side near a cavernous hearth. A picture above the mantel has been slashed, its lower half hanging down below the frame like a torn piece of flesh. An iron door set in the south corner of the west wall hangs open on one hinge.
+> 
+> Strahd’s soldiers forced open the iron door that once sealed Argynvost’s vault ([area Q41](https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#Q41DragonsVault "area Q41")). They also took every book in this study but one. (Many of the books taken from here can be found in Strahd’s study in Castle Ravenloft.)
+> 
+> The sole remaining volume lies on the floor behind the overturned chair. Titled _The Oath Celestial_, the book has been partially burned, and its cover was slashed by a sword. Leafing through the crumbling book reveals that it is a devotional text for knights from a place called the Holy Empire of Valentia. Most of the knights who joined Argynvost against Strahd came from that empire — now lost beyond the mists.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#JournalPage)Journal Page
+> 
+> As the characters cross the room, read:
+> 
+> You hear the soft flapping sound of wings, but can’t discern its origin. A single piece of parchment blows off the top of a bookshelf, spirals lazily in the air, and lands gently at your feet.
+> 
+> The sheet of parchment is the last page of Argynvost’s journal, the rest of which was destroyed. If the characters look at the torn page, show the players the “[Journal of Argynvost](https://www.dndbeyond.com/sources/cos/appendix-f-handouts#JournalofArgynvost "Journal of Argynvost")” in [appendix F](https://www.dndbeyond.com/sources/cos/appendix-f-handouts "appendix F").
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#SlashedPicture)Slashed Picture
+> 
+> If the characters study the whole picture above the mantelpiece, read:
+> 
+> The picture shows the mansion in better days, under clear winter skies with snow-capped mountains in the background. The top of the chapel tower glows like a silver beacon.
+> 
+> The picture radiates an aura of transmutation magic under the scrutiny of a [detect magic](https://www.dndbeyond.com/spells/2065-detect-magic) spell, but the aura is weak. If the characters repair the picture using a [mending](https://www.dndbeyond.com/spells/2187-mending) cantrip, read:
+> 
+> The beacon in the picture flashes with a brilliant silver light, and the spectral form of a huge silver dragon fills the room. “My skull lies in the fortress of my enemy,” it says, “displayed in a place of ill omen. Return my skull to its rightful crypt, and my spirit will shine here forever, bringing hope to this dark land.” With that, the dragon’s apparition fades away.
+> 
+> The spectral dragon isn’t the spirit of Argynvost, but a spell-like effect. Once the dragon has spoken, the picture no longer glows and becomes nonmagical.
+> 
+
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#Q41DragonsVault
+> 
+> 
+> The iron door leading to this room hangs open on a single rusty hinge. It has obviously been forced open and no longer closes properly.
+> 
+> The walls of this room are lined with lead. Emptied chests and shattered vases lie strewn upon the floor, their contents plundered.
+> 
+> This vault once held a dragon’s trove but was stripped of all valuables long ago.
+> 
+
 
 These areas are largely as described in <span class="citation">Q40. Argynvost’s Study (p. 140)</span> and <span class="citation">Q41. Dragon’s Vault (p. 140)</span>. However, the copy of *The Oath Celestial* is no longer present. In addition, the slashed picture is nonmagical, and repairing it has no additional effect.
 
@@ -757,6 +1193,14 @@ The scroll is a letter and reads as follows:
 <span class="credit">"Saint Andral's Letter" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 #### Argynvost’s Bedroom
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q42.</em></span>
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#Q42ArgynvostsBedroom
+> 
+> 
+> Rich drapes, faded by time and neglect, hide the windows of this otherwise empty room.
+> 
+> Argynvost preferred to sleep in his dragon form. Thus, there is no furniture here.
+> 
+
 
 This area is largely as described in <span class="citation">Q42. Argynvost’s Bedroom (p. 140)</span>. However, add the following text to the end of this area’s description:
 
@@ -768,15 +1212,65 @@ This area is largely as described in <span class="citation">Q42. Argynvost’s B
 > These empty shelves once held a few dozen trinkets, oddities, and valuables that Argynvost found particularly interesting or endearing. All were looted long ago.
 ## M6b. Collapsed Ceiling & Audience Hall
 <span class="citation"><em>This scene takes place in Chapter 7, Areas Q33 and Q36.</em></span>
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#Q33CollapsedCeiling
+> 
+> 
+> The roof over this part of the mansion has collapsed, creating a twenty-foot-diameter gaping hole with broken rafters bisecting it. Dark storm clouds roll across the sky overhead. The floor is piled with rocks, broken tiles, shattered beams, and other debris. Beneath the rubble lie a sagging floor and puddles of rainwater.
+> 
+> The ceiling here is 20 feet high, and the rubble is difficult terrain.
+> 
+> Vladimir Horngaard (see [area Q36](https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#Q36DragonsAudienceHall "area Q36")) can hear visitors climbing over the rubble and can’t be surprised by them.
+> 
+
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#Q36DragonsAudienceHall
+> 
+> 
+> The west wall of this fifty-foot-long, thirty-foot-wide audience hall has crumbled, leaving a gaping hole and a pile of rubble. Weapons and shields that once hung from the walls have fallen to the floor and succumbed to rust. A large, wooden throne carved to resemble a dragon with unfolding wings faces three tall windows to the west. Slumped in the throne is a gaunt, armored figure with one gauntlet wrapped around the hilt of a greatsword.
+> 
+> [Vladimir Horngaard](https://www.dndbeyond.com/monsters/17376-vladimir-horngaard) (see [appendix D](https://www.dndbeyond.com/sources/cos/appendix-d-monsters-and-npcs#VladimirHorngaard "appendix D")), commander of the fallen Order of the Silver Dragon, is slumped in the throne. If the beacon of Argynvostholt (see [area Q53](https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#Q53BeaconofArgynvostholt "area Q53")) has been lit, the corpse is lifeless, and characters can plunder it freely (see “[Treasure](https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#Treasure2 "Treasure")” below).
+> 
+> If the beacon has not been lit, the body is serving as a host for the revenant. If the characters approach it, it says, “Go away.” If they don’t leave immediately, read:
+> 
+> The creature’s grip on the greatsword tightens. “If you have come to destroy me, know this: I perished defending this land from evil over four centuries ago, and because of my failure, I am forever doomed. If you destroy this body, my spirit will find a new corpse to inhabit, and I will hunt you down. You cannot free me from my damnation, nor would I wish it."
+> 
+> “If you have come to free this land from the creature that feasts on the blood of the innocent, know this: There is no monster I hate more than Strahd von Zarovich. He slew Argynvost, broke the life of the knight I loved, and destroyed the valiant order to which I devoted my life, but Strahd has already died once. He can’t be allowed to die again. Instead, he must suffer eternally in a hell of his own creation, from which he can never escape. Whatever can be done to bring him misery and unrest, I will do, but I will destroy anyone who tries to end his torment.”
+> 
+> Vladimir fights in self-defense. He also rises from his throne and attacks if the characters fail to heed his warning and press him for help destroying Strahd. The first time Vladimir takes damage, six [phantom warriors](https://www.dndbeyond.com/monsters/17368-phantom-warrior) (see [appendix D](https://www.dndbeyond.com/sources/cos/appendix-d-monsters-and-npcs#PhantomWarrior "appendix D")) materialize and join the fray, coming to his defense.
+> 
+> Hatred so clouds Vladimir’s mind that he can’t remember that Sir Godfrey ([area Q37](https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#Q37KnightsoftheOrder "area Q37")) was his beloved in life. If Sir Godfrey helps the characters and faces Vladimir, anguished recognition shines in Vladimir’s eyes, yet only lighting the beacon can free him.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#Treasure2)Treasure
+> 
+> Vladimir Horngaard wields a [+2 greatsword](https://www.dndbeyond.com/magic-items/5275-greatsword-2).
+> 
+> Vladimir wears a platinum holy symbol of the Morninglord (worth 250 gp) around his neck, underneath his half plate armor.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#FortunesofRavenloft)Fortunes of Ravenloft
+> 
+> If your card reading reveals that a treasure is here, it’s in Vladimir’s possession, and he doesn’t part with it willingly unless the beacon of Argynvostholt has been lit (see [area Q53](https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#Q53BeaconofArgynvostholt "area Q53")).
+> 
+
 
 These areas are largely as described in <span class="citation">Q33. Collapsed Ceiling (p. 138)</span> and <span class="citation">Q36. Dragon’s Audience Hall (p. 138)</span>. However, Vladimir Horngaard is not in the throne in <span class="citation">Q36. Dragon’s Audience Hall</span>, and no **phantom warriors** linger there.
 ## M6c. Upstairs Gallery
 ### East Staircases
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q31.</em></span>
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#Q31EastStaircases
+> 
+> 
+> A round-topped wooden door opens to reveal a spiral staircase with narrow windows set into its walls. The stair connects the third floor and the mansion’s roof.
+> 
+
 
 This area is as described in <span class="citation">Q31. East Staircases.</span>
 ### Ruined Antechamber
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q34 (p. 138).</em></span>
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#Q34RuinedBathroom
+> 
+> 
+> This room has a tiled floor and an iron bathtub filled with debris from the collapsed roof. A torn curtain hangs in an open doorway in the center of the east wall.
+> 
+
 
 This area replaces <span class="citation">Q34. Ruined Bathroom (p. 138)</span>. When the players enter this room, read:
 
@@ -786,6 +1280,14 @@ This area replaces <span class="citation">Q34. Ruined Bathroom (p. 138)</span>. 
 
 ### Upstairs Gallery
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q35.</em></span>
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#Q35UpstairsGallery
+> 
+> 
+> This room has dark wood paneling on the walls that rises to a height of three feet. Above the paneling, the walls are painted with murals of religious figures performing holy rites. In the center of the west wall is a tattered curtain hanging in an open doorway. Three tall, slender stained-glass windows set into the opposite wall depict figures in white robes with orange sunrises behind their heads.
+> 
+> From north to south, the three stained-glass windows portray Saint Andral, the Morninglord, and Saint Markovia.
+> 
+
 
 This area is largely as described in <span class="citation">Q35. Upstairs Gallery (p. 138)</span>. However, add the following text to the end of this area’s description:
 
@@ -852,11 +1354,83 @@ If the players subsequently descend to <span class="citation">Q16. Dragon’s Ma
 Each torch can be easily removed from its mount. If the players return to the [[#Upstairs Gallery]] and show an ignited torch to Brother Marek, he emerges once more from his stained-glass window to provide them with the guidance in [[#Marek is Convinced]] above before disappearing.
 ## M6d. Southern Chambers
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q32.</em></span>
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#Q32RuinedBedchambers
+> 
+> 
+> These two rooms stand across from each other, separated by a ruined corridor that abruptly ends to the south of their doors.
+> 
+> Most of this chamber has collapsed. The wooden floor is strewn with rubble and falls away into a foggy abyss to the south. The roof overhead is jagged and broken.
+> 
+> The floor here is 40 feet above of the floor of the ballroom ([area Q4](https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#Q4SpidersBallroom "area Q4")). The roof is 20 feet overhead.
+> 
+
 
 These areas are as described in <span class="citation">Q32. Ruined Bedchambers (p. 138)</span>.
 # M7. Fourth Floor
 ## M7a. Rooftop
 <span class="citation"><em>This scene takes place in Chapter 7, Areas Q43, Q44, Q45, Q46, Q47, Q48, and Q49.</em></span>
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#Q43HoleinRoof
+> 
+> 
+> This 20-foot-diameter hole in the mansion’s roof is directly above [area Q33](https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#Q33CollapsedCeiling "area Q33"), the floor of which is 20 feet below. The rubble on the roof surrounding the hole is difficult terrain. The roof is sloped and covered with cracked stone tiles. Climbing the tiled roof requires a successful DC 10 Strength ([Athletics](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)) check. A failure by 5 or more causes the climber to slide down to the parapet, landing [prone](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#ProneCondition) but taking no damage.
+> 
+
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#Q44DragonGargoyle
+> 
+> 
+> Perched on the rooftop overlooking the parapet is a silver-plated gargoyle shaped like a dragon wyrmling.
+> 
+> The silver dragon wyrmling statue is 10 feet above the parapet and has a [magic mouth](https://www.dndbeyond.com/spells/2177-magic-mouth) spell cast on it. When a character passes in front of it, the spell is activated, and the wyrmling whispers the following short verse in the Common tongue:
+> 
+> _When the dragon dreams its dream_
+> 
+> _Within its rightful tomb,_
+> 
+> _The light of Argynvost will beam_
+> 
+> _And rid this land of gloom._
+> 
+
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#Q45AncientBallista
+> 
+> 
+> An ancient ballista, rotted by time and weather, stands behind the battlements on this tower rooftop.
+> 
+> The ballista falls apart if disturbed.
+> 
+
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#Q46DestroyedBallista
+> 
+> 
+> Strewn atop the roof toward the front of the mansion is the wreckage of a ballista. Flanking the wreckage are two stone turrets with conical rooftops and narrow doors.
+> 
+> The turrets are described in area Q47.
+> 
+
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#Q47RoofTurrets
+> 
+> 
+> Cobwebs hang from the rafters of this turret, which is empty except for a wooden bench and an iron stove. Arrow slits look down upon the foggy grounds in front of the mansion.
+> 
+> The knights who once guarded the rooftop used these turrets for warmth and shelter on rainy days and cold nights.
+> 
+
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#Q48RoofsEdge
+> 
+> 
+> Beyond a ragged edge of stone is a sixty-foot plunge to the rubble-strewn ground below. A few rafters stick out from beneath the stone.
+> 
+> The edge of the roof is sturdy enough to walk on, and not in danger of further collapse. It’s 20 feet down to [area Q32](https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#Q32RuinedBedchambers "area Q32"), 40 feet down to [area Q19](https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#Q19RuinedBedchambers "area Q19"), and 60 feet down to [area Q4](https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#Q4SpidersBallroom "area Q4").
+> 
+
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#Q49BeaconTowerDoor
+> 
+> 
+> The parapet narrows to a width of ten feet, ending before a sturdy wooden door set into the wall of the eastern tower.
+> 
+> This door is barred from the inside. The phantom warriors in the tower’s turrets ([area Q52](https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#Q52BeaconTurrets "area Q52")) make ranged attacks against characters who try to force their way into the tower. These spectral defenders have three-quarters cover behind the arrow slits.
+> 
+
 
 When the players first exit the <span class="citation">Q31. East Staircases (p. 138)</span> to emerge on the roof, read:
 
@@ -883,6 +1457,34 @@ In addition, if any characters successfully enter the tower, the **phantom warri
 As they fight in melee, the phantom warriors shout: “Begone, soldiers of the Devil!", “We will die proudly," and “Argynvostholt will never be yours."
 ## M7b. Beacon
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q53.</em></span>
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#Q53BeaconofArgynvostholt
+> 
+> 
+> Wooden stairs climb to the tower’s peak, which has a stone floor and a thirty-foot-high pitched roof. Ravens roost on crisscrossing rafters, coming and going through small holes in the roof. Ten-foot-high, five-foot-wide arched windows are evenly spaced around the walls. Each window consists of a lead latticework fitted with small panes of transparent glass.
+> 
+> The [ravens](https://www.dndbeyond.com/monsters/16992-raven) that roost here are harmless, but they watch the characters with great interest. If the characters look out the windows, you can use the following text to describe what they see in the distance.
+> 
+> To the north and east lies a mist-shrouded valley with dark woods, a small town, and a lonely windmill on a precipice. To the south, a river flows through a foggy marsh. To the west, between rocky hills, you glimpse an abbey perched on a snowy mountainside beyond a long stretch of fog-smothered pines.
+> 
+> The small town is Vallaki ([chapter 5](https://www.dndbeyond.com/sources/cos/the-town-of-vallaki "chapter 5")). The windmill is Old Bonegrinder ([chapter 6](https://www.dndbeyond.com/sources/cos/old-bonegrinder "chapter 6")). The abbey is the Abbey of Saint Markovia in Krezk ([chapter 8](https://www.dndbeyond.com/sources/cos/the-village-of-krezk "chapter 8")).
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#LightingtheBeacon)Lighting the Beacon
+> 
+> When the skull of Argynvost is placed in the dragon’s mausoleum ([area Q16](https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#Q16DragonsMausoleum "area Q16")), the dragon’s spirit transforms into a brilliant light that fills this room and flashes across the valley like the beacon of a lighthouse. Even if the tower is cast down, the light of Argynvost remains where it is, flashing in the sky. Although the mountains prevent the beacon’s light from reaching Castle Ravenloft directly, Strahd can see the light’s glow in the sky to the west.
+> 
+> The beacon can be seen in Vallaki ([chapter 5](https://www.dndbeyond.com/sources/cos/the-town-of-vallaki "chapter 5")), Krezk ([chapter 8](https://www.dndbeyond.com/sources/cos/the-village-of-krezk "chapter 8")), and Berez ([chapter 10](https://www.dndbeyond.com/sources/cos/the-ruins-of-berez "chapter 10")), as well as from Old Bonegrinder ([chapter 6](https://www.dndbeyond.com/sources/cos/old-bonegrinder "chapter 6")), Van Richten’s Tower ([chapter 11](https://www.dndbeyond.com/sources/cos/van-richtens-tower "chapter 11")), and the werewolf den ([chapter 15](https://www.dndbeyond.com/sources/cos/werewolf-den "chapter 15")).
+> 
+> The beacon’s light can be “felt” even by creatures that are blind. The light allows good-aligned creatures to experience glimmers of hope and joy, while evil creatures find the light disconcerting.
+> 
+> _**Beacon of Protection.**_ While the beacon shines, characters and other creatures that oppose Strahd gain a +1 bonus to AC and saving throws for as long as they remain in Barovia.
+> 
+> _**Revenants at Rest.**_ Vladimir Horngaard and the other revenants that haunt Barovia see the light as a reminder of all that was once good and noble about the knightly order to which they once belonged. They let go of their hatred and their corporeal bodies, leaving corpses behind as their spirits find rest at long last. Henceforth, any random encounter with a revenant should be treated as no encounter.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/argynvostholt#FortunesofRavenloft3)Fortunes of Ravenloft
+> 
+> If your card reading reveals that a treasure is here, it’s resting on the west windowsill.
+> 
+
 
 This area is largely as described in <span class="citation">Q53. Beacon of Argynvostholt (p. 142)</span>. However, remove the sentence describing the ravens from the area’s description. (No ravens roost here.) Instead, add the following text to the end of the area’s description:
 

@@ -15,6 +15,228 @@ If the players deliver Izek’s severed head to Lady Wachter, she visits Baron V
 
 # F1. The Blue Water Inn
 <span class="citation"><em>This scene takes place in Chapter 5: Area N2.</em></span>
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2BlueWaterInn
+> 
+> 
+> Gray smoke issues from the chimney of this large, two-story wooden building with a stone foundation and sagging tile roof, upon which several ravens have perched. A painted wooden sign hanging above the main entrance depicts a blue waterfall.
+> 
+> The Blue Water Inn is Vallaki’s main gathering place for locals, especially at night. The innkeeper, Urwin Martikov, considers the inn a sanctuary from the evils of this land. In the event of trouble, the windows and doors can all be barred shut from within.
+> 
+> A bed for the night costs 1 ep. Characters looking for something to eat are fed hot beet soup and fresh bread at no additional charge. A cooked wolf steak costs 1 ep.
+> 
+> The inn offers a pint of Purple Grapemash No. 3 wine for 3 cp, or a pint of the superior Red Dragon Crush wine for 1 sp. Urwin is hurt if the characters complain about the wines, for his family makes them.
+> 
+> The inn’s wine supply is almost depleted, and the latest delivery from the Wizard of Wines winery is overdue. If the characters claim to be adventurers, Urwin asks them if they would be so kind as to find out what’s holding up the latest shipment, promising them free room and board if they return with the wine.
+> 
+> [![](https://www.dndbeyond.com/attachments/thumbnails/2/683/600/825/014.jpg)](https://www.dndbeyond.com/attachments/2/683/014.jpg)
+> 
+> Map 5.2: Blue Water Inn (Area N2)[View Player Version](https://www.dndbeyond.com/attachments/2/770/cos501.jpg)
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#KeepersoftheFeather)Keepers of the Feather
+> 
+> Urwin Martikov (LG male human) is a [wereraven](https://www.dndbeyond.com/monsters/17377-wereraven) (see [appendix D](https://www.dndbeyond.com/sources/cos/appendix-d-monsters-and-npcs#Wereraven "appendix D")) and a high-ranking member of the Keepers of the Feather, a secret society of wereravens that opposes Strahd. Urwin’s wife and business partner, Danika Dorakova (LG female human), is also a [wereraven](https://www.dndbeyond.com/monsters/17377-wereraven), as are their two sons, Brom and Bray. The boys have only 7 hit points each and, at ages eleven and nine, are too young to be effective combatants.
+> 
+> At any given time, another 1d4 [wereravens](https://www.dndbeyond.com/monsters/17377-wereraven) (members of the Keepers of the Feather) are present at the inn, either perched on the rooftop in raven form or huddled inside in human form. These wereravens are loyal friends of the Martikovs and help protect the inn.
+> 
+> If the characters earn the trust of the wereravens in Vallaki, the Keepers of the Feather will watch their backs. The next time the characters get themselves in serious trouble, you can have a group of 1d4 [wereravens](https://www.dndbeyond.com/monsters/17377-wereraven) show up to rescue or otherwise help them.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#FortunesofRavenloft)Fortunes of Ravenloft
+> 
+> If your card reading reveals that a treasure is hidden at the inn, the Keepers of the Feather don’t reveal where the treasure is until they know the characters are capable of protecting it. As a way of testing their abilities, Urwin gives the characters the following quest:
+> 
+> Urwin takes you aside and keeps his voice low. “My supply of wine is nearly gone, and the next shipment is overdue. I’ll give you what you seek if you bring me my wine. The vineyard and winery is a few miles west of here. Just follow the Old Svalich Road and the signs.”
+> 
+> Urwin fails to mention that his cantankerous father, Davian Martikov, owns the local winery and vineyard, the Wizard of Wines ([chapter 12](https://www.dndbeyond.com/sources/cos/the-wizard-of-wines "chapter 12")). There’s bad blood between Urwin and his father (whom Urwin and Danika refer to as “the old crow”). Although Urwin could easily visit the winery himself, he considers dealing with his father to be a worthy test of the characters’ competence, and he makes good on his promise if they complete the quest and return with his wine shipment.
+> 
+> Urwin sends a [wereraven](https://www.dndbeyond.com/monsters/17377-wereraven) in raven form to observe the party’s progress from a distance. If the characters get in trouble, the wereraven reports to Urwin at once.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2aWell)N2a. Well
+> 
+> A 3-foot-high stone rim surrounds the mouth of this 40-foot-deep, moss-lined well. The inn draws fresh water from this well.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2bOutsideStaircase)N2b. Outside Staircase
+> 
+> A wooden staircase hugs the outer wall of the inn and leads up to guest quarters on the upper floor ([areas N2l](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2lGuestRooms "areas N2l") and [N2m](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2mGuestRoom "N2m")). The sturdy wooden door at the top of the stairs can be barred from the inside.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2cTaproom)N2c. Taproom
+> 
+> Damp cloaks hang from pegs in the entrance portico. The tavern is packed with tables and chairs, with narrow paths meandering between them. A bar stretches along one wall, under a balcony that can be reached by a wooden staircase that hugs the north wall. Another balcony overhangs an entrance to the east. All the windows are fitted with thick shutters and crossbars. Lanterns hanging above the bar and resting on the tables bathe the room in dull orange light and cast shadows upon the walls, most of which are adorned with wolf heads mounted on wooden plaques.
+> 
+> The double doors leading into the taproom can be barred shut from within.
+> 
+> Mounted on braces and tucked into alcoves behind the bar are three wine barrels, each one three-quarters empty. Two of the barrels contain Purple Grapemash No. 3 (a cheap wine), and the third contains Red Dragon Crush (a fine wine). A brass spigot is hammered into each barrel.
+> 
+> Danika Martikov usually tends bar while her husband busies himself in the kitchen ([area N2e](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2eKitchen "area N2e")). Their boys, Brom and Bray, scamper about and easily get underfoot.
+> 
+> Between dawn and noon, there are no patrons here, and the Martikovs are upstairs in their bedrooms ([areas N2o](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2oBoysBedroom "areas N2o") and [N2p](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2pMasterBedroom "N2p")) or in the attic ([area N2q](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2qSecretAttic "area N2q")).
+> 
+> From noon to dusk, the taproom holds 2d4 local patrons (male and female [commoners](https://www.dndbeyond.com/monsters/16829-commoner)). Between dusk and midnight, 2d8 Vallakians are here. In addition, one or more of the following people might be present during this time.
+> 
+> _**Wolf Hunters.**_ Szoldar Szoldarovich and Yevgeni Krushkin (N male human [scouts](https://www.dndbeyond.com/monsters/17007-scout)) are local hunters who frequent the Blue Water Inn. They kill wolves and sell the meat for a living, and their work is dangerous and bloody. Both men are grim and have haunted looks in their eyes.
+> 
+> These two are dour fellows, but they seldom pass up an opportunity to earn coin. If the characters are looking for guides or information about the land of Barovia, Szoldar and Yevgeni can be of service. They aren’t afraid to venture beyond Vallaki’s walls during the day, and they know the woods and valley well. They’re willing to serve as guides for 5 gp per day, or to provide directions to important landmarks in exchange for free drinks. They think it’s foolish to travel “this cursed realm” at night and won’t do so unless their payment is exorbitant (100 gp or more).
+> 
+> On rare occasions when he has something to say, Szoldar speaks brusquely, while Yevgeni usually parrots his friend in not so many words. Szoldar has a notch in his bow for every wolf he’s killed, while Yevgeni adds a new swatch to his wolfskin cloak every time he makes a kill. Both men have families but spend most of their time together, either drowning their sorrows or hunting in the woods. Most of the wolf heads that adorn the tavern walls are the result of their handiwork.
+> 
+> [![](https://www.dndbeyond.com/attachments/thumbnails/1/751/280/401/cos05-05.png)](https://www.dndbeyond.com/attachments/1/751/cos05-05.png)
+> 
+> Szoldar Szoldarovich
+> 
+> [![](https://www.dndbeyond.com/attachments/thumbnails/1/752/310/400/cos05-06.png)](https://www.dndbeyond.com/attachments/1/752/cos05-06.png)
+> 
+> Yevgeni Krushkin
+> 
+> _**Wachter Brothers.**_ Nikolai and Karl Wachter (N male human [nobles](https://www.dndbeyond.com/monsters/16966-noble)) are brothers of noble birth. They are brash drunkards always looking for trouble, though they are smart enough not to pick fights with well-armed strangers. Their mother, Fiona Wachter (see [area N4](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N4Wachterhaus "area N4")), is an influential figure in town, but her sons never talk about her. They’d rather listen to tales of the characters’ harrowing adventures or hear about how the characters plan to free Vallaki from the burgomaster’s madness.
+> 
+> _**Rictavio.**_ The lone guest of the Blue Water Inn at present is a colorfully dressed half-elf bard who goes by the name [Rictavio](https://www.dndbeyond.com/monsters/17371-rictavio)—a false identity adopted by the legendary vampire hunter Rudolph van Richten (see [appendix D](https://www.dndbeyond.com/sources/cos/appendix-d-monsters-and-npcs#RudolphvanRichten "appendix D")). He regales tavern patrons with stories so outrageous as to be hardly believable, yet he asserts they are true indeed. Rictavio claims to be a carnival ringmaster from a distant land. He’s been staying at the inn for almost a month, taking advantage of Urwin Martikov’s generosity and good nature. When he arrived, he was accompanied by a monkey named Piccolo. The monkey wasn’t welcome at the inn, so Rictavio gave it to the local toymaker (see [area N7](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N7BlinskyToys "area N7")).
+> 
+> Rictavio admits to having no musical talent but manages to entertain locals nonetheless with his stories of faraway places. Twice each day, at dawn and again at dusk, he leaves the inn with a couple of apples and a cooked wolf steak wrapped in a handkerchief. He claims the food is for his portly friend, “the destitute toymaker” ([area N7](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N7BlinskyToys "area N7")) and his pet monkey. In fact, the apples are for his horse Drusilla ([area N2f](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2fStable "area N2f")), and the steak is for his captured saber-toothed tiger ([area N5](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N5ArasekStockyard "area N5")).
+> 
+> During his stay at the inn, Rictavio is quietly gathering information on the Keepers of the Feather, trying to figure out the identities of all the wereravens in town. He’s also trying to learn as much as he can about the Vistani, particularly the ones living in the camp just outside town ([area N9](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N9VistaniCamp "area N9")). Once he concludes that they are in league with Strahd, Rictavio plans to unleash his trained saber-toothed tiger upon them, with or without the support of the wereravens.
+> 
+> Rictavio wears a [hat of disguise](https://www.dndbeyond.com/magic-items/4651-hat-of-disguise) and a [ring of mind shielding](https://www.dndbeyond.com/magic-items/4725-ring-of-mind-shielding) to conceal his identity. He carries an iron key that unlocks the door to his carnival wagon ([area N5](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N5ArasekStockyard "area N5")).
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2dWineStorage)N2d. Wine Storage
+> 
+> This hallway contains three curtained alcoves as well as a larger area stuffed with wine barrels.
+> 
+> The Martikovs store their wine here. Tucked behind red curtains are three alcoves, each one containing a half-emptied wine barrel lying on its side in a wooden brace. Twelve empty wine barrels are piled two high near the door to the kitchen ([area N2e](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2eKitchen "area N2e")). All the barrels have the Wizard of Wines name burned into them.
+> 
+> Nine of the fifteen barrels, including two of the barrels in the curtained alcoves, have the following label burned into their sides, under the winery’s name: Purple Grapemash No. 3. Six of the fifteen barrels, including one of the barrels in the curtained alcoves, have a different label: Red Dragon Crush.
+> 
+> The double doors that lead outside can be barred shut from within.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2eKitchen)N2e. Kitchen
+> 
+> This room looks like the kitchen of someone who loves to cook. It has piles of pots, walls lined with utensils and shelves of ingredients, and all manner of pleasant odors. Two lanterns hang above a sturdy pine worktable in the middle of the clutter. A pot of soup bubbles on the hearth.
+> 
+> Urwin Martikov, who prepares most of the meals, is found here throughout the day. He occasionally receives help from his two boys, but they are easily distracted. A cupboard against the east wall holds most of the inn’s supply of cutlery and dishware, none of it valuable. A door in the west wall leads outside and is usually barred from the inside.
+> 
+> A secret door at the west end of the south wall can be pushed open to reveal a wooden staircase that leads up to [area N2i](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2iSecretStairsandHall "area N2i").
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2fStable)N2f. Stable
+> 
+> The sliding wooden doors on the west wall of this room are held shut by an iron lock and chain. Urwin carries the key to the lock. The doors to the north and south can be barred shut from the inside but are usually unlocked.
+> 
+> You hear the squawking of birds and the plaintive whinny of a horse as you peer inside this stable. The stalls are clean and well maintained. One of them contains a gray mare. A small door is set into the east wall, and a wooden ladder gives access to a loft overhead. Perched on the wooden railing that encloses the loft are dozens of ravens.
+> 
+> Any character who has a horse can keep it here for 1 sp per night. The gray mare is a [draft horse](https://www.dndbeyond.com/monsters/16844-draft-horse) named Drusilla, and she likes apples. The horse belongs to Rictavio (see [area N2c](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2cTaproom "area N2c")).
+> 
+> The small door in the east wall can be pulled open to reveal [area N2g](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2gStorage "area N2g"). The loft is described in [area N2h](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2hRavensLoft "area N2h").
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2gStorage)N2g. Storage
+> 
+> This small room lies under a wooden staircase ([area N2i](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2iSecretStairsandHall "area N2i")). Hanging from wooden pegs are saddles and barding to equip two horses. In an unlocked wooden chest are a dozen horseshoes, a wooden mallet, and a mound of horseshoe nails.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2hRavensLoft)N2h. Ravens’ Loft
+> 
+> Dim light spilling in through a pair of dirt-encrusted windows reveals piles of hay with pitchforks sticking out of them. Ravens rule this roost—you can see hundreds of them.
+> 
+> Characters who search the loft thoroughly find three pitchforks and a locked wooden chest buried under a pile of hay (see “Treasure” below), next to a secret door. If the characters tamper with the chest, the ravens gather into four [swarms of ravens](https://www.dndbeyond.com/monsters/17033-swarm-of-ravens) and attack. If two swarms are killed, the others flee. Otherwise, they cease their attacks if the characters leave the chest alone. If the fighting continues for more than 3 rounds, Urwin Martikov and two other wereravens hear the ruckus and investigate (in human form).
+> 
+> A secret door in the back of the loft can be pushed open to reveal a bedchamber ([area N2p](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2pMasterBedroom "area N2p")) beyond. No ability check is required to spot the secret door, because light in the room beyond slips through the door’s cracks.
+> 
+> _**Treasure.**_ Inside the locked chest are 140 ep, 70 pp, two [elixirs of health](https://www.dndbeyond.com/magic-items/5351-elixir-of-health), three [potions of healing](https://www.dndbeyond.com/equipment/71-potion-of-healing), and a [gray bag of tricks](https://www.dndbeyond.com/magic-items/2965260-gray-bag-of-tricks). The coins are embossed with the profiled likeness of Strahd von Zarovich.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2iSecretStairsandHall)N2i. Secret Stairs and Hall
+> 
+> A wooden staircase to the north descends fifteen feet to a landing. A window dimly illuminates a short, wood-paneled hallway that runs west to east.
+> 
+> Guests aren’t told about the inn’s secret hallway. Rictavio knows of its existence because he has heard the Martikov boys opening and closing the secret door closest to his room ([area N2n](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2nPrivateGuestRoom "area N2n")).
+> 
+> At each end of this area is a secret door, each of which is easy to spot from inside the hallway (no ability check required). The northern secret door, at the bottom of the staircase, can be pulled open to reveal the kitchen ([area N2e](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2eKitchen "area N2e")) beyond. The eastern secret door can be pulled open to reveal a balcony ([area N2j](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2jGreatBalcony "area N2j")) that overlooks the taproom.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2jGreatBalcony)N2j. Great Balcony
+> 
+> A wooden balcony stretches the full length of the taproom, enclosed by a wooden railing carved with raven motifs. The taproom’s many lanterns illuminate the rafters and cast ominous shadows on the peaked ceiling.
+> 
+> The balcony floor is 15 feet above the taproom floor.
+> 
+> A secret door at the south end of the western wall can be pushed open to reveal a wood-paneled hallway ([area N2i](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2iSecretStairsandHall "area N2i")) beyond.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2kGuestBalcony)N2k. Guest Balcony
+> 
+> This twenty-foot-long balcony provides a clear view of the bar and has a wooden railing carved with raven motifs. The taproom’s many lanterns illuminate the rafters and cast ominous shadows on the peaked ceiling.
+> 
+> The balcony floor is 15 feet above the taproom floor.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2lGuestRooms)N2l. Guest Rooms
+> 
+> These two rooms have identical furnishings.
+> 
+> Two cozy beds with matching footlockers rest in the far corners of this fifteen-foot-square room. Wolf furs are heaped atop each bed. Between the beds, a lamp sits on a table under a shuttered window. Two tall black wardrobes stand against the wall by the door.
+> 
+> The door to this room can be locked from the inside, and each guest gets a key. Urwin and Danika carry spare keys. The footlockers and wardrobes are empty and are for the use of guests.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2mGuestRoom)N2m. Guest Room
+> 
+> Four plain beds with straw mattresses line the north wall of this well-lit room. Each bed comes with a matching footlocker to store clothing and other belongings. A table and four chairs occupy the corner across from the door. An oil lamp resting on the table casts a bright yellow flame.
+> 
+> The door to this room can be locked from the inside, and each guest receives a key. Urwin and Danika carry spare keys. The footlockers are empty and are for the use of guests.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2nPrivateGuestRoom)N2n. Private Guest Room
+> 
+> Rictavio has a key to this room, which is locked at all times. Urwin and Danika carry spare keys. The door’s lock can be picked, but discretion is called for because the door is in plain view of the taproom below.
+> 
+> This small guest room contains a bed heaped with wolf furs, a footlocker, a tall wardrobe, and a writing desk with matching chair. An oil lamp rests atop the desk near a journal bound in a red leather jacket.
+> 
+> Rictavio sleeps here between midnight and dawn. At dawn, he leaves to check on his horse ([area N2f](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2fStable "area N2f")) and his wagon ([area N5](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N5ArasekStockyard "area N5")), returning to the inn around noon. Between noon and dusk, there’s a 40 percent chance he is here; otherwise, he’s in the taproom ([area N2c](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2cTaproom "area N2c")). At dusk, he leaves the inn to tend to his horse and his wagon again, then returns to his room to retire for the night.
+> 
+> Rictavio is too clever to leave anything valuable or incriminating in his room. The footlocker and the wardrobe contain nothing but common clothes and travel wear.
+> 
+> _**Rictavio’s Journal.**_ The journal on the desk is a bit of artifice that Rictavio created to perpetuate the illusion that he is an entertainer in search of new acts for his traveling carnival. His writing makes frequent mention of conversations with Drusilla (which the journal fails to mention is the name of Rictavio’s horse) and recounts many long and tedious journeys by wagon. Rictavio has also written about various “oddities” he has seen in his travels, including the following:
+> 
+> - A “werehare” child (a boy who transforms into a rabbit on nights of the full moon)
+> - A half-orc woman named Gorabacha who could chew through iron chains
+> - A giant, man-eating plant that had the most remarkable singing voice
+> - A pair of conjoined goblins
+> - A small man with no legs named Filmore Stunk, who could drink whole casks of wine without getting drunk
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2oBoysBedroom)N2o. Boys’ Bedroom
+> 
+> A large, painted toy box rests between two small, cozy beds. Murals of ravens in flight are painted on the walls above the wood paneling.
+> 
+> Brom and Bray Martikova don’t spend much time in this room. The toy box contains a pile of neglected toys, many of them etched with the slogan “Is No Fun, Is No Blinsky!” The toys include the following:
+> 
+> - A miniature puppet theater with appropriately sized marionettes of a king, a queen, a prince, a princess, an executioner, a tax collector, a dunce, a vampire, and a vampire hunter
+> - A garish toy Vistani wagon hitched to a wooden horse and filled with tiny wooden Vistani figures
+> - A pair of painted wooden clown masks, one displaying a mean scowl and the other a frightened expression
+> - A wooden top painted with images of scarecrows chasing children through the forest
+> - A stuffed (real) bat on puppet strings
+> 
+> A hidden trapdoor in the 8-foot-high ceiling opens into a secret attic ([area N2q](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2qSecretAttic "area N2q")).
+> 
+> [![](https://www.dndbeyond.com/attachments/thumbnails/1/753/600/423/cos05-07.png)](https://www.dndbeyond.com/attachments/1/753/cos05-07.png)
+> 
+> The Martikov Family
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2pMasterBedroom)N2p. Master Bedroom
+> 
+> Matching end tables flank a large wood-framed bed with a red silk canopy. Across from the bed hangs a tapestry depicting a beautiful mountain valley. The other walls are dominated by a fireplace and a wardrobe.
+> 
+> Urwin and Danika retire to this room every night before heading to the attic ([area N2q](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2qSecretAttic "area N2q")) to sleep. This room is for appearances only and contains no valuables.
+> 
+> A secret door at the west end of the south wall can be pulled open to reveal the loft beyond ([area N2h](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2hRavensLoft "area N2h")).
+> 
+> A hidden trapdoor in the 8-foot-high ceiling opens into a secret attic ([area N2q](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2qSecretAttic "area N2q")).
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2qSecretAttic)N2q. Secret Attic
+> 
+> This ten-foot-wide, thirty-five-foot-long attic has a ceiling that slants down toward the west, dropping from a height of eight feet to a height of five feet. Four straw nestscover the floor, and a locked iron strongbox sits against the north wall. A small square opening in the south wall leads outside. Two trapdoors with iron hinges are set into the floor.
+> 
+> The Martikovs sleep here at night in hybrid form. The opening in the south wall is just big enough for a raven or other Tiny creature to pass through. The wereravens can use this opening as an escape route.
+> 
+> The strongbox is described in “Treasure” below.
+> 
+> Two trapdoors, clearly visible on the floor, can be pulled open to reveal the bedchambers ([areas N2o](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2oBoysBedroom "areas N2o") and [N2p](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2pMasterBedroom "N2p")) that lie directly beneath them.
+> 
+> _**Treasure.**_ Urwin carries the key to the locked iron strongbox. The lock can be picked with thieves’ tools and a successful DC 20 Dexterity check. The box contains a sack of 150 ep (each coin bearing the profiled visage of Strahd von Zarovich), six pieces of jewelry (worth 250 gp each), and three [potions of healing](https://www.dndbeyond.com/equipment/71-potion-of-healing).
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#FortunesofRavenloft2)Fortunes of Ravenloft
+> 
+> If your card reading reveals that a treasure is here, it is in the iron strongbox.
+> 
+
 
 If the players defied Baron Vallakovich or otherwise intervened in Willemina’s favor on their first morning in Vallaki, if they or Ireena visited the camp of the Barovian refugees at any point while in Vallaki, or if the players shared their dislike of Baron Vallakovich with Nikolai or Karl Wachter at the Blue Water Inn, [[Non-Player Characters#Urwin Martikov|Urwin Martikov]] delivers them an envelope upon their return to the Blue Water Inn that same night.
 
@@ -37,6 +259,226 @@ The envelope contains the following letter, with the blank filled with the name 
 If the players ask Urwin about Lady Wachter, he can share all of the information about her described in <span class="citation">Vallaki Lore (p. 96)</span>. He can also share that, according to town legend, Lady Wachter’s parents and elder brother were killed in a mysterious accident when she was a teenager. (Urwin, who only relocated to Vallaki ten years ago, can’t confirm or deny the story.)
 # F2. Wachterhaus
 <span class="citation"><em>This scene takes place in Chapter 5: Area N4.</em></span>
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N4Wachterhaus
+> 
+> 
+> This house seems disgusted with itself. A slouching roof hangs heavy over furrowed gables, and moss-covered walls sag and bulge under the weight of the vegetation. As you study the house’s sullen countenance, you hear the edifice actually groan. Only then do you realize the extent to which the house hates what it has become.
+> 
+> The Wachter family, once an influential noble line in Barovia, owns and occupies a mansion in Vallaki. The house’s reigning governess, Fiona Wachter, is a loyal servant of Strahd. She seeks to supplant Baron Vallakovich as the town burgomaster.
+> 
+> [![](https://www.dndbeyond.com/attachments/thumbnails/2/685/600/825/016.jpg)](https://www.dndbeyond.com/attachments/2/685/016.jpg)
+> 
+> Map 5.4: Wachterhaus (Area N4)[View Player Version](https://www.dndbeyond.com/attachments/2/772/cos503.jpg)
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#Roleplaying)Roleplaying
+> 
+> Use the following information to roleplay Lady Wachter, her family, and her associates.
+> 
+> _**Lady of the House.**_ Lady Fiona Wachter (LE female human [priest](https://www.dndbeyond.com/monsters/16985-priest) with AC 10 and no armor) makes no secret of her family’s long-standing loyalty to the von Zarovich line. She believes that Strahd von Zarovich is no tyrant but, at worst, a negligent landlord. She would happily serve Strahd as burgomaster of Vallaki, but she knows that Baron Vargas Vallakovich won’t give up his birthright without a fight.
+> 
+> Fiona conspired to wed her young daughter, Stella, to the baron’s son, Victor, as part of a plot to gain a foothold in the baron’s mansion, but Stella found Victor to be demented, and he showed no interest in Stella whatsoever. In fact, he spoke such unkind words to Stella that she went mad, and Fiona had to lock her daughter away (see [area N4n](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N4nStellasRoom "area N4n")).
+> 
+> Lady Wachter’s latest scheme to gain control of Vallaki is far more diabolical. She has started a cult based on devil worship and has written a manifesto that she reads to her “book club,” which is made up of the most fanatical group members. Inspired by her words, these zealots have created smaller cults of their own. Once her cult has enough members, Fiona plans to take the town by force. To reward her most loyal followers, she has her pet imp stand invisibly in the center of a pentagram, then performs a false ritual that calls upon “princes of darkness” to lavish their appreciation upon the cultists. The imp then sprinkles onto the floor a few electrum coins, which Lady Wachter allows the cultists to keep.
+> 
+> [![](https://www.dndbeyond.com/attachments/thumbnails/1/757/400/327/cos05-11.png)](https://www.dndbeyond.com/attachments/1/757/cos05-11.png)
+> 
+> Fiona Wachter and Majesto
+> 
+> Another secret of Fiona’s is that she sleeps with the corpse of her dead husband, Nikolai, who died of sickness nearly three years ago and whom Fiona cherished. Lady Wachter casts [gentle repose](https://www.dndbeyond.com/spells/2121-gentle-repose) spells on the corpse to keep it from deteriorating.
+> 
+> If the characters come to Wachterhaus looking for help to overthrow the burgomaster, Lady Wachter is all ears and suggests they start by killing the baron’s evil henchman, Izek Strazni. She’s happy to take care of the rest. If they come looking for a way to defeat Strahd, Lady Wachter turns them away, stating in no uncertain terms that she is not, nor ever will be, Strahd’s enemy.
+> 
+> Lady Wachter has a different list of prepared spells from that of the [priest](https://www.dndbeyond.com/monsters/16985-priest) in the [Monster Manual](https://www.dndbeyond.com/sources/mm "Monster Manual"):
+> 
+> Cantrips (at will): [light](https://www.dndbeyond.com/spells/2166-light), [mending](https://www.dndbeyond.com/spells/2187-mending), [thaumaturgy](https://www.dndbeyond.com/spells/2277-thaumaturgy)
+> 
+> 1st level (4 slots): [command](https://www.dndbeyond.com/spells/2032-command), [purify food and drink](https://www.dndbeyond.com/spells/2223-purify-food-and-drink), [sanctuary](https://www.dndbeyond.com/spells/2237-sanctuary)
+> 
+> 2nd level (3 slots): [augury](https://www.dndbeyond.com/spells/2007-augury), [gentle repose](https://www.dndbeyond.com/spells/2121-gentle-repose), [hold person](https://www.dndbeyond.com/spells/2147-hold-person)
+> 
+> 3rd level (2 slots): [animate dead](https://www.dndbeyond.com/spells/1996-animate-dead), [create food and water](https://www.dndbeyond.com/spells/2052-create-food-and-water)
+> 
+> _**Fiona’s Sons.**_ Fiona sees a lot of her husband in her sons, Nikolai and Karl (N male human [nobles](https://www.dndbeyond.com/monsters/16966-noble)), who have grown into young men with a fondness for wine and trouble. They aren’t home during the day, because they don’t like attending to their mother or listening to her tiresome prattle. The characters might encounter them at the Blue Water Inn ([area N2](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2BlueWaterInn "area N2")) or wandering about town. The brothers are home most nights, passed out in their beds after hours of heavy drinking.
+> 
+> Nikolai and Karl have none of their mother’s ambition or mean temper. They are aware of her cult, but they don’t know that she sleeps with their dead father. This would be unwelcome news and probably turn them against their mother. They want only to spend their mother’s money and make the most of their miserable situation, trapped as they are within the walls of Vallaki under the control of Strahd and his puppet, the baron.
+> 
+> _**Fiona’s Spy.**_ Fiona employs a money-grubbing [spy](https://www.dndbeyond.com/monsters/17021-spy) named Ernst Larnak (LE male human) to keep her informed about everything that happens in town. Ernst knows Lady Wachter’s secrets, and he would blackmail her in a heartbeat if their relationship went sour.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N4aFrontDoorandVestibule)N4a. Front Door and Vestibule
+> 
+> The front door is locked and reinforced with bronze bands. All of the servants carry a key, as do Lady Wachter and Ernst Larnak. The door can be forced open with a successful DC 20 Strength check.
+> 
+> If the characters knock on the front door, a servant opens a small window cut into the door at eye height and asks their business. Suspicious-looking strangers aren’t invited inside, in case they’re vampires.
+> 
+> The front door opens into a narrow vestibule. Three stained-glass doors in wooden frames lead from it.
+> 
+> Two closets flank the front door. The western closet contains Lady Wachter’s outdoor clothes; the eastern one contains coats and boots that belong to her children.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N4bStaircase)N4b. Staircase
+> 
+> A wooden staircase leads up to a balcony. At the foot of the stairs is a landing with three stained-glass doors in wooden frames.
+> 
+> The staircase climbs 15 feet to the upstairs hall ([area N2l](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2lGuestRooms "area N2l")).
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N4cKitchen)N4c. Kitchen
+> 
+> The house cook (see [area N4h](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N4hServantsQuarters "area N4h")) rushes about this spotless kitchen most of the day, preparing meals or cleaning up after himself. A washbasin stands in the northeast corner. A slender door in the west wall leads to a small pantry.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N4dStorageRoom)N4d. Storage Room
+> 
+> This room holds crates of old clothing, as well as three barrels of drinking water, two empty wine barrels, and one full wine barrel. The wine barrels are emblazoned with the winery name, the Wizard of Wines, and the wine’s name, Red Dragon Crush.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N4eBackVestibule)N4e. Back Vestibule
+> 
+> The back door is locked and similar to the front door ([area N4a](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N4aFrontDoorandVestibule "area N4a")) in every respect. The vestibule has plain wooden doors leading to [areas N4d](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N4dStorageRoom "areas N4d"), [N4f](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N4fServantsCloset "N4f"), and [N4h](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N4hServantsQuarters "N4h").
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N4fServantsCloset)N4f. Servants’ Closet
+> 
+> Servants’ coats and aprons hang from hooks in this room, and boots are neatly lined up against the wall.
+> 
+> Anyone who searches the closet and makes a successful DC 10 Wisdom ([Perception](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)) check finds a secret door in the south wall. The door can be pulled open to reveal a stone staircase ([area N4g](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N4gSecretStaircase "area N4g")) that leads to the cellar.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N4gSecretStaircase)N4g. Secret Staircase
+> 
+> Iron torch sconces cling to the wall of a stone staircase that cuts its way through the heart of the old house.
+> 
+> The stairs connect the servants’ closet ([area N4f](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N4fServantsCloset "area N4f")) with the cellar ([area N4s](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N4sCellar "area N4s")). Lady Wachter uses this staircase to reach her secret cult lair ([area N4t](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N4tCultHeadquarters "area N4t")).
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N4hServantsQuarters)N4h. Servants’ Quarters
+> 
+> The furnishing in this room are bereft of imagination: four simple beds with equally austere wooden chests.
+> 
+> Lady Wachter’s four servants (N male and female [commoners](https://www.dndbeyond.com/monsters/16829-commoner)) sleep here at night. They include a cook named Dhavit, two maids named Madalena and Amalthia, and a valet named Haliq. The servants know Lady Wachter’s secrets, but they would sooner die than betray her.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N4iParlor)N4i. Parlor
+> 
+> Lady Wachter greets her guests here, under the watchful eyes of her dead husband.
+> 
+> Here three elegant couches surround an oval table made of black glass. All are set in front of a blazing hearth, above which hangs the portrait of a smirking nobleman sporting a broken nose and a tangle of hair graying at the temples. Several smaller portraits hang on the north wall.
+> 
+> The portrait above the mantel depicts Lord Nikolai Wachter, Fiona’s late husband (of whom his sons are the spitting image). The other portraits depict Lady Wachter, her sons, her daughter, and various deceased family members.
+> 
+> The parlor shares the fireplace with the den ([area N4k](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N4kDen "area N4k")). Ernst Larnak lurks in the den and eavesdrops on any conversation that Lady Wachter has with the characters, so that he can advise her after they depart.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N4jDiningRoom)N4j. Dining Room
+> 
+> An ornate dining table stretches the length of this room, a crystal chandelier hanging above it imperiously. The silverware is tarnished, the dishes chipped, yet all are still quite elegant. Eight chairs, their backs adorned with sculpted elk horns, surround the table. Arched windows made of a latticework of iron and glass look out onto the small, fog-swept estate.
+> 
+> If the characters aim to oppose the burgomaster, Lady Wachter offers them a warm meal in the dining room as a token of her support and allegiance.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N4kDen)N4k. Den
+> 
+> Wood paneling, embroidered rugs, colorful furnishings, and a blazing fire make this chamber stifling. Mounted above the mantel is an elk’s head. Across from the hearth, tall, slender windows look out over dead gardens.
+> 
+> Ernst Larnak, Lady Wachter’s spy, lounges here when he’s not out spying on her behalf.
+> 
+> _**Treasure.**_ The room contains several items of value, including a golden goblet (worth 250 gp) from which Ernst drinks wine, a crystal wine decanter (worth 250 gp), four electrum candelabras (worth 25 gp each), and a bronze urn with frolicking children painted on its sides (worth 100 gp).
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N4lUpstairsHall)N4l. Upstairs Hall
+> 
+> A hallway with a window at each end wraps around the staircase railing. Framed portraits and mirrors festoon the walls, surrounding you with judging looks and dark reflections. You hear something scratching at one of the many doors.
+> 
+> The scratching noise comes from the door to [area N4n](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N4nStellasRoom "area N4n"), which is locked. If the characters call out, a plaintive female voice meows like a cat and says, “Can little kitty come out to play? Little kitty is sad and lonely and promises to be good this time, really she does.” A closet at the south end of the hallway holds blankets and linens.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N4mBrothersRooms)N4m. Brothers’ Rooms
+> 
+> This bedroom contains nothing out of the ordinary: a neatly made bed, a table with an oil lamp on it, a handsome wooden chest, a slender wardrobe, and a window box with drapes.
+> 
+> These two rooms belong to Lady Wachter’s sons, Nikolai and Karl. There’s a 25 percent chance that one of the maids (see [area N4h](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N4hServantsQuarters "area N4h")) is here, tidying up.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N4nStellasRoom)N4n. Stella’s Room
+> 
+> The door to this room is locked from both sides, and only Lady Wachter has a key.
+> 
+> This room is musty and dark. An iron-framed bed fitted with leather straps stands near a wall. The place has no other furnishings.
+> 
+> Scurrying away from you on all fours is a young woman in a soiled nightgown. She leaps onto the bed and hisses like a cat. “Little kitty doesn’t know you!” she shouts. “Little kitty doesn’t like the smell of you!”
+> 
+> The young woman is Stella Wachter (CG female human [commoner](https://www.dndbeyond.com/monsters/16829-commoner)), Lady Wachter’s insane daughter. A [greater restoration](https://www.dndbeyond.com/spells/2129-greater-restoration) spell rids her of the madness that makes her think she’s a cat. If she is cured of her madness, she blames her mother for treating her horribly and using her as a pawn to seize control of the town. Stella knows none of her mother’s secrets, apart from her mother’s desire to overthrow the burgomaster. Stella has nothing kind to say about the burgomaster or his son, Victor, whose very name makes her cringe. With her wits restored, Stella feels she has no one in Vallaki she can count on. She latches onto any character who is kind to her. If the party takes her to St. Andral’s church ([area N1](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N1StAndralsChurch "area N1")), Father Lucian offers to look after her, and she agrees to stay with him.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N4oMasterBedroom)N4o. Master Bedroom
+> 
+> The door to this room is locked. Lady Wachter and her servants carry keys. A ghastly sight awaits those who peer into the room:
+> 
+> Across from the door, a fire sputters and struggles for life in the hearth, above which hangs a framed family portrait: a noble father and mother, their two young sons, and a baby daughter in the father’s arms. The sons are smiling in a way that suggests mischief. The parents look like uncrowned royalty.
+> 
+> Wood paneling covers the walls of the room. A closet and a framed mirror flank a curtained window to the south. To the north, a wide, canopied bed lies pinned between matching end tables with oil lamps. Stretched out on one side of the bed is a man dressed in black, his eyes each covered with a copper piece. He bears a striking resemblance to the father in the painting.
+> 
+> Lady Wachter’s husband, Nikolai, lies in his bed, impeccably dressed, quite deceased, and under the effect of the [gentle repose](https://www.dndbeyond.com/spells/2121-gentle-repose) spell. Nothing of value is on him.
+> 
+> The closet contains shelves of fancy footwear and many fine garments, including a black ceremonial robe with a hood (similar to the ones worn by the cult fanatics in [area N4t](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N4tCultHeadquarters "area N4t")). On a high shelf rests a locked iron chest. Lady Wachter hides the key to the chest on a tiny hook in the fireplace, under the mantel. A character who takes a minute to search the fireplace finds the key with a successful DC 10 Wisdom ([Perception](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)) check. Use of the key disables a poison needle trap hidden in the lock (see “[Sample Traps](https://www.dndbeyond.com/sources/dmg/adventure-environments#SampleTraps "Sample Traps")” in chapter 5, “Adventure Environments,” of the [Dungeon Master’s Guide](https://www.dndbeyond.com/sources/dmg "Dungeon Master’s Guide")). A creature that triggers the trap and fails the saving throw against the needle’s poison falls [unconscious](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#UnconsciousCondition) for 1 hour instead of being [poisoned](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#PoisonedCondition) for 1 hour.
+> 
+> The iron chest is lined with thin sheets of lead and contains the bones of Leo Dilisnya, an enemy of the Wachter family. Leo was one of the soldiers who betrayed and murdered Strahd on the day of Sergei and Tatyana’s wedding. He escaped from Castle Ravenloft, only to be hunted down and killed by the vampire Strahd. The Wachters keep his bones under lock and key so that Leo can’t be raised from the dead.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#FortunesofRavenloft4)Fortunes of Ravenloft
+> 
+> If your card reading reveals that a treasure is here, it is in the iron chest that contains Leo Dilisnya’s bones.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N4pLibrary)N4p. Library
+> 
+> The double doors to this room are locked. Lady Wachter and her servants carry keys.
+> 
+> This room is crawling with cats. Bookshelves hug the walls, but most of the shelves are bare. Other furnishings include a desk, a chair, a table, and a wine cabinet. The room has an irregular shape, and none of its angles seem quite right, as though the shifting of the house has set the whole place on edge.
+> 
+> Eight [cats](https://www.dndbeyond.com/monsters/16820-cat) have the run of the library. These family pets have vicious dispositions, attacking anyone who tries to pick them up. Characters who have a passive Wisdom ([Perception](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)) score of 10 or higher notice that one cat has a small key hanging from its collar. The key opens the locked chest in [area N4q](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N4qStorageRoom "area N4q").
+> 
+> There is a 25 percent chance that one of the maids is here, dusting the bookshelves.
+> 
+> The cabinet holds a fine collection of wineglasses. The desk contains blank pieces of parchment, quill pens, jars of ink, wax candles, and a wax seal.
+> 
+> Most of the Wachter family’s book collection was sold off years ago to cover debts, and the books that remain aren’t particularly valuable. Use the Random Books table (see [chapter 4](https://www.dndbeyond.com/sources/cos/castle-ravenloft "chapter 4"), [area K37](https://www.dndbeyond.com/sources/cos/castle-ravenloft#K37Study "area K37")) to determine the subject matter of a particular book.
+> 
+> A section of the bookshelf that stretches along the southernmost wall is actually a secret door on hidden hinges. The bookshelf can be pulled outward, revealing an open doorway that leads to area N4q.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N4qStorageRoom)N4q. Storage Room
+> 
+> Behind the hinged panel in the bookcase lies a dusty, ten-foot-square room with a curtained window and shelves lining three walls. On the bottom shelf rests an iron chest. The other shelves are bare.
+> 
+> The key to the chest can be found in the library ([area N4p](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N4pLibrary "area N4p")). Use of the key disables a poison needle trap hidden in the lock (see “[Sample Traps](https://www.dndbeyond.com/sources/dmg/adventure-environments#SampleTraps "Sample Traps")” in chapter 5, “Adventure Environments,” of the [Dungeon Master’s Guide](https://www.dndbeyond.com/sources/dmg "Dungeon Master’s Guide")).
+> 
+> _**Treasure.**_ The iron chest contains several items:
+> 
+> - A silk bag containing 180 ep, each coin bearing Strahd’s stern visage in profile
+> - A leather bag containing 110 gp
+> - A wooden pipe that has been passed down through many generations of Wachter patriarchs
+> - Five scrolls—notarized deeds for parcels of land given to the Wachter family by Count Strahd von Zarovich nearly four centuries ago
+> - A supple leather case containing an unbound manuscript titled _The Devil We Know_—a poetic manifesto written by Lady Fiona Wachter attesting that the worship of devils can bring happiness, success, freedom, wealth, and longevity
+> - A blasphemous treatise bound in black leather titled _The Grimoire of the Four Quarters_, written by the infamous diabolist Devostas, who was drawn and quartered for his fell practices yet did not die (this is a forgery; the actual grimoire would drive a reader mad)
+> - A very old letter to Lady Lovina Wachter (an ancestor) from one Lord Vasili von Holtz, thanking Lovina for her hospitality, loyalty, and friendship over the years
+> 
+> Characters who have the _Tome of Strahd_ (see [appendix C](https://www.dndbeyond.com/sources/cos/appendix-c-treasures#TomeofStrahd "appendix C")) realize that the handwriting in Lady Lovina’s letter is identical to Strahd’s handwriting, suggesting that Strahd and Lord Vasili are one and the same.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N4rCellarEntrance)N4r. Cellar Entrance
+> 
+> If the characters approach the cellar door from the outside, read:
+> 
+> A slanted, wooden cellar door with an iron pull ring and iron hinges stands against the foundation of the house.
+> 
+> The door is unlocked. On the other side of the door are stone steps leading to a stone landing with a wooden railing. A longer staircase extends south from the landing, leading down to the cellar.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N4sCellar)N4s. Cellar
+> 
+> This large root cellar has a dirt floor. Two ascending flights of stone steps enclosed by wooden railings stand across from one another. Tracks in the earth lead from one staircase to the other, and other trails go from both staircases to the center of the bare west wall. Four neatly made cots are set in a row against the south wall.
+> 
+> Buried under the earthen floor are eight human [skeletons](https://www.dndbeyond.com/monsters/17015-skeleton)—the animated remains of dead Vallakians that were stolen from the church cemetery ([area N1](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N1StAndralsChurch "area N1")) and animated by Lady Wachter. They rise up and attack intruders who cross the floor. The skeletons don’t attack anyone who utters the phrase “Let the dead remain at rest” before setting foot on the floor. Only Lady Wachter, her sons, her servants, and her loyal cult fanatics know the pass phrase.
+> 
+> The cots are here for cultists to spend the night.
+> 
+> The footprints in the dirt give away the location of a secret door in the center of the western wall. Consequently, no ability check is required to locate it. The door is soundproof and pivots open on a central axis.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N4tCultHeadquarters)N4t. Cult Headquarters
+> 
+> Flickering candles in iron holders fill this room with light and shadows. This room has a ten-foot-high ceiling and a large black pentagram inscribed on the stone floor. At each point of the pentagram rests a wooden chair. Seated in four of the five chairs are men and women in black robes with hoods: a young man who has the face of an angel; a balding hulk of a man; a squat, middle-aged woman; and a taller, younger woman with an unsettling glare. They rise to confront you.
+> 
+> The four people are town residents (LE male and female human [cult fanatics](https://www.dndbeyond.com/monsters/16836-cult-fanatic)) whom Lady Wachter has seduced with promises of power, wealth, and long life. They are members of her “book club,” eagerly waiting for Lady Wachter to join them, read passages from her manifesto (see [area N4q](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N4qStorageRoom "area N4q")), and maybe conjure up a few coins. Resting on the fifth chair, quietly eavesdropping on the cultists, is the lady’s [invisible](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#InvisibleCondition) [imp](https://www.dndbeyond.com/monsters/16933-imp), Majesto.
+> 
+> The cultists are gathered here in secret and attack the characters to protect their identities. They are evil Vallakians of no great importance who are tired of living in fear and poverty. Use the “[Barovian Names](https://www.dndbeyond.com/sources/cos/the-lands-of-barovia#sidebarBarovianNames "Barovian Names")” sidebar in chapter 2 to generate names for them, if needed.
+> 
+> The imp doesn’t get involved in the fighting unless Lady Wachter is drawn into the conflict, in which case it fights to protect its mistress.
+> 
+> The pentagram is a nonmagical decoration, though Lady Wachter would have her cultists believe otherwise.
+> 
+
 
 Wachterhaus is largely as described in <span class="citation">N4. Wachterhaus (p. 110)</span>, but with the following changes:
 
@@ -304,6 +746,58 @@ As the players trail [[Non-Player Characters#Izek Strazni|Izek]], any or all of 
 > If the players are detected but successfully deceive Izek as to their intentions, if Izek previously saw the players in Ireena Kolyana's company, he immediately demands to know her location. The players can deceive Izek with another successful DC 9 Charisma (Deception) check, made with disadvantage if the players deny any association with Ireena. If he catches the players in a lie, Izek coldly vows to "beat the truth out of them" and attacks.
 ### 1. The Town Square
 <span class="citation"><em>This scene takes place in Chapter 5: Area N8.</em></span>
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N8TownSquare
+> 
+> 
+> The shops and homes that enclose the town square are decorated with limp, tattered garlands and painted wooden boxes filled with tiny, dead flowers. At the north end of the square stands a row of stocks, locked in which are several men, women, and children wearing crude, plaster donkey heads.
+> 
+> In the center of the square, peasants in patchwork clothes eye you suspiciously as they use cups and vases to draw water from a crumbling stone fountain. Standing tall at the center of the fountain is a gray statue of an impressive man facing west. All around the square are posted proclamations:
+> 
+> Come one, come all,
+> 
+> to the greatest celebration of the year:
+> 
+> THE WOLF’S HEAD JAMBOREE!
+> 
+> Attendance and children required.
+> 
+> Pikes will be provided.
+> 
+> ALL WILL BE WELL!
+> 
+> —The Baron—
+> 
+> The Wolf’s Head Jamboree has already occurred, making the square’s proclamations out of date. If the characters linger, they see the burgomaster’s henchman, [Izek Strazni](https://www.dndbeyond.com/monsters/17365-izek-strazni) (see [appendix D](https://www.dndbeyond.com/sources/cos/appendix-d-monsters-and-npcs#IzekStrazni "appendix D")), arrive with two town [guards](https://www.dndbeyond.com/monsters/16915-guard). Izek orders one guard to tear down all of the old proclamations while the other posts the following new one:
+> 
+> COME ONE, COME ALL,
+> 
+> to the greatest celebration of the year:
+> 
+> THE FESTIVAL OF THE BLAZING SUN!
+> 
+> Attendance and children required.
+> 
+> Rain or shine.
+> 
+> ALL WILL BE WELL!
+> 
+> —The Baron—
+> 
+> Most Vallakians have no idea whom the statue in the square represents. The burgomaster claims it is Boris Vallakovich, his ancestor and the town’s founder, but there’s no noticeable family resemblance.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#DonkeyHeadedCriminals)Donkey-Headed Criminals
+> 
+> The townsfolk in the stocks were arrested for “malicious unhappiness” (spreading negative opinions about the upcoming festival). An iron padlock secures each set of stocks, and Izek Strazni carries the keys on an iron ring.
+> 
+> Three men, two women, and two boys are trapped in the stocks—all of them tired, wet, and famished. The five adults have the statistics of human [commoners](https://www.dndbeyond.com/monsters/16829-commoner), and the children are noncombatants. The plaster donkey heads they wear are meant to encourage ridicule.
+> 
+> Freeing one or more prisoners without the baron’s consent is a crime. If the characters are witnessed doing so, Izek rallies the town [guards](https://www.dndbeyond.com/monsters/16915-guard) (twenty-four in all) and orders the characters to leave town at once or suffer the consequences. If the characters stand their ground, Izek orders the guards to beat them into submission, seize their weapons, and cast them out of Vallaki to be “food for the wolves.”
+> 
+> If the characters are exiled from Vallaki without their weapons, the Keepers of the Feather (see [area N2](https://www.dndbeyond.com/sources/dnd/cos/the-town-of-vallaki#N2BlueWaterInn "area N2")) snatch the party’s belongings from under Izek’s nose and see them safely returned to the characters.
+> 
+> If the guards fall to waylay the characters, Izek (if he’s still around) flees to the burgomaster’s mansion, giving the characters the run of the town. The townsfolk lock themselves in their homes, fearful that the characters aim to murder them.
+> 
+
 
 As the players watch [[Non-Player Characters#Izek Strazni|Izek]] eating his lunch in the town square, Bluto, the town fisherman, drunkenly approaches them carrying a large, shallow wicker basket lined with river reeds and filled with stinking fish. (“Fresh-caught from Lake Zarovich!”) 
 
@@ -332,6 +826,34 @@ When [[Non-Player Characters#Izek Strazni|Izek]] has finished the evening inspec
 > In his fury, Izek forgets the case containing the poisoned wine on Blinsky’s counter. The players can persuade Blinsky to help them poison Izek when he returns by showing Blinsky kindness and treating his wounds or with a successful DC 15 Charisma (Persuasion) check.
 ## F4c. Ambushing Izek
 <span class="citation"><em>This scene takes place in Chapter 2: Area L.</em></span>
+>[!source]+ https://www.dndbeyond.com/sources/dnd/cos/the-lands-of-barovia#LLakeZarovich
+> 
+> 
+> At the foot of a mountain, nestled in the misty forest, is a large lake. The water is perfectly still and dark, reflecting the black clouds overhead like a monstrous mirror.
+> 
+> If the characters arrive along the shore north of Vallaki in the daytime, add:
+> 
+> Pulled up along the south shore are three small rowboats. A fourth boat can be seen in the middle of the lake, with a lone figure sitting in it, fishing pole in hand.
+> 
+> Each rowboat can safely hold five people. The person fishing on the lake is Bluto Krogarov (NE male human [commoner](https://www.dndbeyond.com/monsters/16829-commoner)), a resident of Vallaki. He is in a trance and doesn’t respond to anything or anyone unless attacked. His boat is 400 feet from the nearest shore. Tied up in the boat is a seven-year-old Vistana named Arabelle (LN female human [commoner](https://www.dndbeyond.com/monsters/16829-commoner) with 2 hit points and no effective attacks). She is bound with hempen rope, wrapped in a burlap sack, and lying [prone](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#ProneCondition) so that she can’t be seen or heard from the shore.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-lands-of-barovia#RoleplayingBluto)Roleplaying Bluto
+> 
+> Bluto Krogarov is a destitute drunkard. He’s desperate to catch some fish and trade them for wine at the Blue Water Inn. After he was unable to catch a single fish for a week, he kidnapped Arabelle, believing that Vistani are lucky. He intends to sacrifice her to the lake, hoping it will give up some of its fish in return.
+> 
+> If the characters watch Bluto from the shore for several minutes, or if they row out into the lake to greet him, he tosses the burlap sack into the water, watches it sink, and waits with fishing pole in hand for his reward.
+> 
+> Bluto is a hollow shell of a man, barely able to understand his own actions. He is unarmed and does nothing to aid or thwart the characters.
+> 
+> #### [](https://www.dndbeyond.com/sources/dnd/cos/the-lands-of-barovia#RoleplayingArabelle)Roleplaying Arabelle
+> 
+> Characters who act quickly can save Arabelle before she drowns. A character on the shore must succeed on a DC 15 Strength ([Athletics](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)) check to reach her in time. The DC is 10 for characters who took a rowboat out onto the lake.
+> 
+> Arabelle has alabaster-white skin and raven-black hair. If rescued, she demands to be returned to her family’s camp outside Vallaki ([chapter 5](https://www.dndbeyond.com/sources/cos/the-town-of-vallaki "chapter 5"), [area N9](https://www.dndbeyond.com/sources/cos/the-town-of-vallaki#N9VistaniCamp "area N9")). She is certain that her father, Luvash, will give the characters a reward for doing so.
+> 
+> A descendant of Madam Eva with the blood of Barovian royalty in her veins, Arabelle is unaware of her connection to Strahd. She acts more like an adult than a child. Despite her recent misadventure, she believes that a great destiny awaits her.
+> 
+
 
 Upon retrieving the doll, [[Non-Player Characters#Izek Strazni|Izek]] proceeds north through the Zarovich Gate until arriving at Lake Zarovich. As he sits upon the shore, he drains the second bottle of wine in his case—gaining the **poisoned** condition for the duration of the following hour—and regards the doll with obsessive fixation.
 
